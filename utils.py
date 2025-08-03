@@ -69,7 +69,7 @@ def compute_logit_lens_across_layers(
     model,
     tokenizer,
     prompt: str,
-    subject_token_position: int,
+    subject_token: str,
     object_token_str: str,
     device: torch.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 ) -> List[float]:
@@ -80,6 +80,8 @@ def compute_logit_lens_across_layers(
     # Tokenize giriş
     inputs = tokenizer(prompt, return_tensors="pt").to(device)
     input_ids = inputs["input_ids"]
+    # Konu tokeninin pozisyonunu bul
+    subject_token_position=torch.where(input_ids==tokenizer.encode(subject_token)[-1])[-1].item()
 
     # Unembedding (lm_head weight) üzerinden object vektörü
     object_token_id = tokenizer.convert_tokens_to_ids(tokenizer.tokenize(object_token_str)[0])
