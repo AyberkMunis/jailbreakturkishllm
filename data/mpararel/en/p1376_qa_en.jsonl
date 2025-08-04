@@ -1,0 +1,1172 @@
+[
+  {
+    "query": "What is the capital of Alberta?",
+    "answer": " Edmonton",
+    "sub": "Alberta"
+  },
+  {
+    "query": "What is the capital of Turkey?",
+    "answer": " Ankara",
+    "sub": "Turkey"
+  },
+  {
+    "query": "What is the capital of Netherlands?",
+    "answer": " Amsterdam",
+    "sub": "Netherlands"
+  },
+  {
+    "query": "What is the capital of Azerbaijan?",
+    "answer": " Baku",
+    "sub": "Azerbaijan"
+  },
+  {
+    "query": "What is the capital of Egypt?",
+    "answer": " Cairo",
+    "sub": "Egypt"
+  },
+  {
+    "query": "What is the capital of Denmark?",
+    "answer": " Copenhagen",
+    "sub": "Denmark"
+  },
+  {
+    "query": "What is the capital of Catalonia?",
+    "answer": " Barcelona",
+    "sub": "Catalonia"
+  },
+  {
+    "query": "What is the capital of Argentina?",
+    "answer": " Buenos Aires",
+    "sub": "Argentina"
+  },
+  {
+    "query": "What is the capital of Bavaria?",
+    "answer": " Munich",
+    "sub": "Bavaria"
+  },
+  {
+    "query": "What is the capital of Tuscany?",
+    "answer": " Florence",
+    "sub": "Tuscany"
+  },
+  {
+    "query": "What is the capital of Italy?",
+    "answer": " Rome",
+    "sub": "Italy"
+  },
+  {
+    "query": "What is the capital of Algeria?",
+    "answer": " Algiers",
+    "sub": "Algeria"
+  },
+  {
+    "query": "What is the capital of Libya?",
+    "answer": " Tripoli",
+    "sub": "Libya"
+  },
+  {
+    "query": "What is the capital of Province of Antwerp?",
+    "answer": " Antwerp",
+    "sub": "Province of Antwerp"
+  },
+  {
+    "query": "What is the capital of Australia?",
+    "answer": " Canberra",
+    "sub": "Australia"
+  },
+  {
+    "query": "What is the capital of Namibia?",
+    "answer": " Windhoek",
+    "sub": "Namibia"
+  },
+  {
+    "query": "What is the capital of Crete?",
+    "answer": " Heraklion",
+    "sub": "Crete"
+  },
+  {
+    "query": "What is the capital of Iraq?",
+    "answer": " Baghdad",
+    "sub": "Iraq"
+  },
+  {
+    "query": "What is the capital of Scotland?",
+    "answer": " Edinburgh",
+    "sub": "Scotland"
+  },
+  {
+    "query": "What is the capital of Afghanistan?",
+    "answer": " Kabul",
+    "sub": "Afghanistan"
+  },
+  {
+    "query": "What is the capital of Germany?",
+    "answer": " Bonn",
+    "sub": "Germany"
+  },
+  {
+    "query": "What is the capital of Germany?",
+    "answer": " Berlin",
+    "sub": "Germany"
+  },
+  {
+    "query": "What is the capital of Benin?",
+    "answer": " Porto-Novo",
+    "sub": "Benin"
+  },
+  {
+    "query": "What is the capital of Botswana?",
+    "answer": " Gaborone",
+    "sub": "Botswana"
+  },
+  {
+    "query": "What is the capital of France?",
+    "answer": " Paris",
+    "sub": "France"
+  },
+  {
+    "query": "What is the capital of Maharashtra?",
+    "answer": " Mumbai",
+    "sub": "Maharashtra"
+  },
+  {
+    "query": "What is the capital of Norway?",
+    "answer": " Oslo",
+    "sub": "Norway"
+  },
+  {
+    "query": "What is the capital of Judah?",
+    "answer": " Jerusalem",
+    "sub": "Judah"
+  },
+  {
+    "query": "What is the capital of Kyrgyzstan?",
+    "answer": " Bishkek",
+    "sub": "Kyrgyzstan"
+  },
+  {
+    "query": "What is the capital of Romania?",
+    "answer": " Bucharest",
+    "sub": "Romania"
+  },
+  {
+    "query": "What is the capital of Victoria?",
+    "answer": " Melbourne",
+    "sub": "Victoria"
+  },
+  {
+    "query": "What is the capital of Taiwan?",
+    "answer": " Beijing",
+    "sub": "Taiwan"
+  },
+  {
+    "query": "What is the capital of Taiwan?",
+    "answer": " Chongqing",
+    "sub": "Taiwan"
+  },
+  {
+    "query": "What is the capital of Cuba?",
+    "answer": " Havana",
+    "sub": "Cuba"
+  },
+  {
+    "query": "What is the capital of Colorado?",
+    "answer": " Denver",
+    "sub": "Colorado"
+  },
+  {
+    "query": "What is the capital of Somalia?",
+    "answer": " Mogadishu",
+    "sub": "Somalia"
+  },
+  {
+    "query": "What is the capital of Wales?",
+    "answer": " Cardiff",
+    "sub": "Wales"
+  },
+  {
+    "query": "What is the capital of Ireland?",
+    "answer": " Dublin",
+    "sub": "Ireland"
+  },
+  {
+    "query": "What is the capital of Tunisia?",
+    "answer": " Tunis",
+    "sub": "Tunisia"
+  },
+  {
+    "query": "What is the capital of Brazil?",
+    "answer": " Rio de Janeiro",
+    "sub": "Brazil"
+  },
+  {
+    "query": "What is the capital of Malta?",
+    "answer": " Valletta",
+    "sub": "Malta"
+  },
+  {
+    "query": "What is the capital of England?",
+    "answer": " London",
+    "sub": "England"
+  },
+  {
+    "query": "What is the capital of Morocco?",
+    "answer": " Rabat",
+    "sub": "Morocco"
+  },
+  {
+    "query": "What is the capital of Latvia?",
+    "answer": " Riga",
+    "sub": "Latvia"
+  },
+  {
+    "query": "What is the capital of Syria?",
+    "answer": " Damascus",
+    "sub": "Syria"
+  },
+  {
+    "query": "What is the capital of Tanzania?",
+    "answer": " Dar es Salaam",
+    "sub": "Tanzania"
+  },
+  {
+    "query": "What is the capital of Kingdom of England?",
+    "answer": " London",
+    "sub": "Kingdom of England"
+  },
+  {
+    "query": "What is the capital of Sweden?",
+    "answer": " Stockholm",
+    "sub": "Sweden"
+  },
+  {
+    "query": "What is the capital of Finland?",
+    "answer": " Helsinki",
+    "sub": "Finland"
+  },
+  {
+    "query": "What is the capital of Bohemia?",
+    "answer": " Prague",
+    "sub": "Bohemia"
+  },
+  {
+    "query": "What is the capital of Indiana?",
+    "answer": " Indianapolis",
+    "sub": "Indiana"
+  },
+  {
+    "query": "What is the capital of Spain?",
+    "answer": " Madrid",
+    "sub": "Spain"
+  },
+  {
+    "query": "What is the capital of Guatemala?",
+    "answer": " Guatemala City",
+    "sub": "Guatemala"
+  },
+  {
+    "query": "What is the capital of Poland?",
+    "answer": " Warsaw",
+    "sub": "Poland"
+  },
+  {
+    "query": "What is the capital of Guangdong?",
+    "answer": " Guangzhou",
+    "sub": "Guangdong"
+  },
+  {
+    "query": "What is the capital of Saxony?",
+    "answer": " Dresden",
+    "sub": "Saxony"
+  },
+  {
+    "query": "What is the capital of Haiti?",
+    "answer": " Port-au-Prince",
+    "sub": "Haiti"
+  },
+  {
+    "query": "What is the capital of Greece?",
+    "answer": " Athens",
+    "sub": "Greece"
+  },
+  {
+    "query": "What is the capital of Tasmania?",
+    "answer": " Hobart",
+    "sub": "Tasmania"
+  },
+  {
+    "query": "What is the capital of Estonia?",
+    "answer": " Tallinn",
+    "sub": "Estonia"
+  },
+  {
+    "query": "What is the capital of Japan?",
+    "answer": " Tokyo",
+    "sub": "Japan"
+  },
+  {
+    "query": "What is the capital of Austria?",
+    "answer": " Vienna",
+    "sub": "Austria"
+  },
+  {
+    "query": "What is the capital of Slovenia?",
+    "answer": " Ljubljana",
+    "sub": "Slovenia"
+  },
+  {
+    "query": "What is the capital of Israel?",
+    "answer": " Jerusalem",
+    "sub": "Israel"
+  },
+  {
+    "query": "What is the capital of Indonesia?",
+    "answer": " Jakarta",
+    "sub": "Indonesia"
+  },
+  {
+    "query": "What is the capital of Piedmont?",
+    "answer": " Turin",
+    "sub": "Piedmont"
+  },
+  {
+    "query": "What is the capital of Kenya?",
+    "answer": " Nairobi",
+    "sub": "Kenya"
+  },
+  {
+    "query": "What is the capital of Malaysia?",
+    "answer": " Kuala Lumpur",
+    "sub": "Malaysia"
+  },
+  {
+    "query": "What is the capital of Pakistan?",
+    "answer": " Islamabad",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "What is the capital of Nepal?",
+    "answer": " Kathmandu",
+    "sub": "Nepal"
+  },
+  {
+    "query": "What is the capital of Sudan?",
+    "answer": " Khartoum",
+    "sub": "Sudan"
+  },
+  {
+    "query": "What is the capital of Lithuania?",
+    "answer": " Vilnius",
+    "sub": "Lithuania"
+  },
+  {
+    "query": "What is the capital of Lebanon?",
+    "answer": " Beirut",
+    "sub": "Lebanon"
+  },
+  {
+    "query": "What is the capital of Portugal?",
+    "answer": " Lisbon",
+    "sub": "Portugal"
+  },
+  {
+    "query": "What is the capital of Angola?",
+    "answer": " Luanda",
+    "sub": "Angola"
+  },
+  {
+    "query": "What is the capital of Russia?",
+    "answer": " Moscow",
+    "sub": "Russia"
+  },
+  {
+    "query": "What is the capital of Manitoba?",
+    "answer": " Winnipeg",
+    "sub": "Manitoba"
+  },
+  {
+    "query": "What is the capital of Malawi?",
+    "answer": " Lilongwe",
+    "sub": "Malawi"
+  },
+  {
+    "query": "What is the capital of Mexico?",
+    "answer": " Mexico City",
+    "sub": "Mexico"
+  },
+  {
+    "query": "What is the capital of Mozambique?",
+    "answer": " Maputo",
+    "sub": "Mozambique"
+  },
+  {
+    "query": "What is the capital of Massachusetts?",
+    "answer": " Boston",
+    "sub": "Massachusetts"
+  },
+  {
+    "query": "What is the capital of Canada?",
+    "answer": " Ottawa",
+    "sub": "Canada"
+  },
+  {
+    "query": "What is the capital of Uruguay?",
+    "answer": " Montevideo",
+    "sub": "Uruguay"
+  },
+  {
+    "query": "What is the capital of Bahrain?",
+    "answer": " Manama",
+    "sub": "Bahrain"
+  },
+  {
+    "query": "What is the capital of Karnataka?",
+    "answer": " Bengaluru",
+    "sub": "Karnataka"
+  },
+  {
+    "query": "What is the capital of Hungary?",
+    "answer": " Budapest",
+    "sub": "Hungary"
+  },
+  {
+    "query": "What is the capital of Honduras?",
+    "answer": " Tegucigalpa",
+    "sub": "Honduras"
+  },
+  {
+    "query": "What is the capital of Gujarat?",
+    "answer": " Gandhinagar",
+    "sub": "Gujarat"
+  },
+  {
+    "query": "What is the capital of Montenegro?",
+    "answer": " Podgorica",
+    "sub": "Montenegro"
+  },
+  {
+    "query": "What is the capital of Ontario?",
+    "answer": " Toronto",
+    "sub": "Ontario"
+  },
+  {
+    "query": "What is the capital of Panama?",
+    "answer": " Panama City",
+    "sub": "Panama"
+  },
+  {
+    "query": "What is the capital of Senegal?",
+    "answer": " Dakar",
+    "sub": "Senegal"
+  },
+  {
+    "query": "What is the capital of Nigeria?",
+    "answer": " Lagos",
+    "sub": "Nigeria"
+  },
+  {
+    "query": "What is the capital of Thailand?",
+    "answer": " Bangkok",
+    "sub": "Thailand"
+  },
+  {
+    "query": "What is the capital of Chile?",
+    "answer": " Santiago",
+    "sub": "Chile"
+  },
+  {
+    "query": "What is the capital of India?",
+    "answer": " New Delhi",
+    "sub": "India"
+  },
+  {
+    "query": "What is the capital of Serbia?",
+    "answer": " Belgrade",
+    "sub": "Serbia"
+  },
+  {
+    "query": "What is the capital of Sardinia?",
+    "answer": " Cagliari",
+    "sub": "Sardinia"
+  },
+  {
+    "query": "What is the capital of Venezuela?",
+    "answer": " Caracas",
+    "sub": "Venezuela"
+  },
+  {
+    "query": "What is the capital of Cyprus?",
+    "answer": " Nicosia",
+    "sub": "Cyprus"
+  },
+  {
+    "query": "What is the capital of Ukraine?",
+    "answer": " Kyiv",
+    "sub": "Ukraine"
+  },
+  {
+    "query": "What is the capital of Taiwan?",
+    "answer": " Taipei",
+    "sub": "Taiwan"
+  },
+  {
+    "query": "What is the capital of Nigeria?",
+    "answer": " Abuja",
+    "sub": "Nigeria"
+  },
+  {
+    "query": "What is the capital of Bulgaria?",
+    "answer": " Sofia",
+    "sub": "Bulgaria"
+  },
+  {
+    "query": "What is the capital of Utah?",
+    "answer": " Salt Lake City",
+    "sub": "Utah"
+  },
+  {
+    "query": "What is the capital of Sicily?",
+    "answer": " Palermo",
+    "sub": "Sicily"
+  },
+  {
+    "query": "What is the capital of Iran?",
+    "answer": " Tehran",
+    "sub": "Iran"
+  },
+  {
+    "query": "What is the capital of Quebec?",
+    "answer": " Quebec City",
+    "sub": "Quebec"
+  },
+  {
+    "query": "What is the capital of Czechoslovakia?",
+    "answer": " Prague",
+    "sub": "Czechoslovakia"
+  },
+  {
+    "query": "What is the capital of Bangladesh?",
+    "answer": " Dhaka",
+    "sub": "Bangladesh"
+  },
+  {
+    "query": "What is the capital of Queensland?",
+    "answer": " Brisbane",
+    "sub": "Queensland"
+  },
+  {
+    "query": "What is the capital of Zimbabwe?",
+    "answer": " Harare",
+    "sub": "Zimbabwe"
+  },
+  {
+    "query": "What is the capital of Provence?",
+    "answer": " Aix-en-Provence",
+    "sub": "Provence"
+  },
+  {
+    "query": "What is the capital of Liberia?",
+    "answer": " Monrovia",
+    "sub": "Liberia"
+  },
+  {
+    "query": "What is the capital of Switzerland?",
+    "answer": " Bern",
+    "sub": "Switzerland"
+  },
+  {
+    "query": "What is the capital of Ethiopia?",
+    "answer": " Addis Ababa",
+    "sub": "Ethiopia"
+  },
+  {
+    "query": "What is the capital of Croatia?",
+    "answer": " Zagreb",
+    "sub": "Croatia"
+  },
+  {
+    "query": "What is the capital of Cambodia?",
+    "answer": " Phnom Penh",
+    "sub": "Cambodia"
+  },
+  {
+    "query": "What is the capital of Tajikistan?",
+    "answer": " Dushanbe",
+    "sub": "Tajikistan"
+  },
+  {
+    "query": "What is the capital of Michigan?",
+    "answer": " Lansing",
+    "sub": "Michigan"
+  },
+  {
+    "query": "What is the capital of Sarawak?",
+    "answer": " Kuching",
+    "sub": "Sarawak"
+  },
+  {
+    "query": "What is the capital of Philippines?",
+    "answer": " Manila",
+    "sub": "Philippines"
+  },
+  {
+    "query": "What is the capital of Kingdom of England?",
+    "answer": " Westminster",
+    "sub": "Kingdom of England"
+  },
+  {
+    "query": "What is the capital of Ecuador?",
+    "answer": " Quito",
+    "sub": "Ecuador"
+  },
+  {
+    "query": "What is the capital of Leicestershire?",
+    "answer": " Leicester",
+    "sub": "Leicestershire"
+  },
+  {
+    "query": "What is the capital of Yunnan?",
+    "answer": " Kunming",
+    "sub": "Yunnan"
+  },
+  {
+    "query": "What is the capital of Nicaragua?",
+    "answer": " Managua",
+    "sub": "Nicaragua"
+  },
+  {
+    "query": "What is the capital of Warwickshire?",
+    "answer": " Warwick",
+    "sub": "Warwickshire"
+  },
+  {
+    "query": "What is the capital of Bolivia?",
+    "answer": " Sucre",
+    "sub": "Bolivia"
+  },
+  {
+    "query": "What is the capital of Hawaii?",
+    "answer": " Honolulu",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "What is the capital of Laos?",
+    "answer": " Vientiane",
+    "sub": "Laos"
+  },
+  {
+    "query": "What is the capital of Sichuan?",
+    "answer": " Chengdu",
+    "sub": "Sichuan"
+  },
+  {
+    "query": "What is the capital of Aragon?",
+    "answer": " Zaragoza",
+    "sub": "Aragon"
+  },
+  {
+    "query": "What is the capital of Buckinghamshire?",
+    "answer": " Aylesbury",
+    "sub": "Buckinghamshire"
+  },
+  {
+    "query": "What is the capital of Oxfordshire?",
+    "answer": " Oxford",
+    "sub": "Oxfordshire"
+  },
+  {
+    "query": "What is the capital of Haryana?",
+    "answer": " Chandigarh",
+    "sub": "Haryana"
+  },
+  {
+    "query": "What is the capital of Niger?",
+    "answer": " Niamey",
+    "sub": "Niger"
+  },
+  {
+    "query": "What is the capital of Taiwan?",
+    "answer": " Nanjing",
+    "sub": "Taiwan"
+  },
+  {
+    "query": "What is the capital of Qatar?",
+    "answer": " Doha",
+    "sub": "Qatar"
+  },
+  {
+    "query": "What is the capital of Rhodesia?",
+    "answer": " Harare",
+    "sub": "Rhodesia"
+  },
+  {
+    "query": "What is the capital of Samoa?",
+    "answer": " Apia",
+    "sub": "Samoa"
+  },
+  {
+    "query": "What is the capital of Slovakia?",
+    "answer": " Bratislava",
+    "sub": "Slovakia"
+  },
+  {
+    "query": "What is the capital of Sabah?",
+    "answer": " Kota Kinabalu",
+    "sub": "Sabah"
+  },
+  {
+    "query": "What is the capital of Uzbekistan?",
+    "answer": " Tashkent",
+    "sub": "Uzbekistan"
+  },
+  {
+    "query": "What is the capital of Tanzania?",
+    "answer": " Dodoma",
+    "sub": "Tanzania"
+  },
+  {
+    "query": "What is the capital of Albania?",
+    "answer": " Tirana",
+    "sub": "Albania"
+  },
+  {
+    "query": "What is the capital of Uganda?",
+    "answer": " Kampala",
+    "sub": "Uganda"
+  },
+  {
+    "query": "What is the capital of Vietnam?",
+    "answer": " Hanoi",
+    "sub": "Vietnam"
+  },
+  {
+    "query": "What is the capital of Yemen?",
+    "answer": " Aden",
+    "sub": "Yemen"
+  },
+  {
+    "query": "What is the capital of Zambia?",
+    "answer": " Lusaka",
+    "sub": "Zambia"
+  },
+  {
+    "query": "What is the capital of Armenia?",
+    "answer": " Yerevan",
+    "sub": "Armenia"
+  },
+  {
+    "query": "What is the capital of Kuwait?",
+    "answer": " Kuwait City",
+    "sub": "Kuwait"
+  },
+  {
+    "query": "What is the capital of Mauritius?",
+    "answer": " Port Louis",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "What is the capital of Ghana?",
+    "answer": " Accra",
+    "sub": "Ghana"
+  },
+  {
+    "query": "What is the capital of Rajasthan?",
+    "answer": " Jaipur",
+    "sub": "Rajasthan"
+  },
+  {
+    "query": "What is the capital of Belarus?",
+    "answer": " Minsk",
+    "sub": "Belarus"
+  },
+  {
+    "query": "What is the capital of Iowa?",
+    "answer": " Des Moines",
+    "sub": "Iowa"
+  },
+  {
+    "query": "What is the capital of Bihar?",
+    "answer": " Patna",
+    "sub": "Bihar"
+  },
+  {
+    "query": "What is the capital of Louisiana?",
+    "answer": " Baton Rouge",
+    "sub": "Louisiana"
+  },
+  {
+    "query": "What is the capital of Indonesia?",
+    "answer": " Yogyakarta City",
+    "sub": "Indonesia"
+  },
+  {
+    "query": "What is the capital of Kazakhstan?",
+    "answer": " Nur-Sultan",
+    "sub": "Kazakhstan"
+  },
+  {
+    "query": "What is the capital of Hesse?",
+    "answer": " Wiesbaden",
+    "sub": "Hesse"
+  },
+  {
+    "query": "What is the capital of Burgundy?",
+    "answer": " Dijon",
+    "sub": "Burgundy"
+  },
+  {
+    "query": "What is the capital of Normandy?",
+    "answer": " Rouen",
+    "sub": "Normandy"
+  },
+  {
+    "query": "What is the capital of Oklahoma?",
+    "answer": " Oklahoma City",
+    "sub": "Oklahoma"
+  },
+  {
+    "query": "What is the capital of Lagos?",
+    "answer": " Ikeja",
+    "sub": "Lagos"
+  },
+  {
+    "query": "What is the capital of Arkansas?",
+    "answer": " Little Rock",
+    "sub": "Arkansas"
+  },
+  {
+    "query": "What is the capital of Chad?",
+    "answer": " N'Djamena",
+    "sub": "Chad"
+  },
+  {
+    "query": "What is the capital of Jordan?",
+    "answer": " Amman",
+    "sub": "Jordan"
+  },
+  {
+    "query": "What is the capital of Kerala?",
+    "answer": " Thiruvananthapuram",
+    "sub": "Kerala"
+  },
+  {
+    "query": "What is the capital of Barbados?",
+    "answer": " Bridgetown",
+    "sub": "Barbados"
+  },
+  {
+    "query": "What is the capital of Emirate of Dubai?",
+    "answer": " Dubai",
+    "sub": "Emirate of Dubai"
+  },
+  {
+    "query": "What is the capital of Brandenburg?",
+    "answer": " Potsdam",
+    "sub": "Brandenburg"
+  },
+  {
+    "query": "What is the capital of Madagascar?",
+    "answer": " Antananarivo",
+    "sub": "Madagascar"
+  },
+  {
+    "query": "What is the capital of Mali?",
+    "answer": " Bamako",
+    "sub": "Mali"
+  },
+  {
+    "query": "What is the capital of Maryland?",
+    "answer": " Annapolis",
+    "sub": "Maryland"
+  },
+  {
+    "query": "What is the capital of Telangana?",
+    "answer": " Hyderabad",
+    "sub": "Telangana"
+  },
+  {
+    "query": "What is the capital of Punjab?",
+    "answer": " Chandigarh",
+    "sub": "Punjab"
+  },
+  {
+    "query": "What is the capital of Ain?",
+    "answer": " Bourg-en-Bresse",
+    "sub": "Ain"
+  },
+  {
+    "query": "What is the capital of Fiji?",
+    "answer": " Suva",
+    "sub": "Fiji"
+  },
+  {
+    "query": "What is the capital of Pennsylvania?",
+    "answer": " Harrisburg",
+    "sub": "Pennsylvania"
+  },
+  {
+    "query": "What is the capital of Yemen?",
+    "answer": " Sanaa",
+    "sub": "Yemen"
+  },
+  {
+    "query": "What is the capital of Goa?",
+    "answer": " Panaji",
+    "sub": "Goa"
+  },
+  {
+    "query": "What is the capital of Brunei?",
+    "answer": " Bandar Seri Begawan",
+    "sub": "Brunei"
+  },
+  {
+    "query": "What is the capital of Wyoming?",
+    "answer": " Cheyenne",
+    "sub": "Wyoming"
+  },
+  {
+    "query": "What is the capital of Navarre?",
+    "answer": " Pamplona",
+    "sub": "Navarre"
+  },
+  {
+    "query": "What is the capital of Gabon?",
+    "answer": " Libreville",
+    "sub": "Gabon"
+  },
+  {
+    "query": "What is the capital of Kosovo?",
+    "answer": " Pristina",
+    "sub": "Kosovo"
+  },
+  {
+    "query": "What is the capital of Greenland?",
+    "answer": " Nuuk",
+    "sub": "Greenland"
+  },
+  {
+    "query": "What is the capital of Cebu?",
+    "answer": " Cebu City",
+    "sub": "Cebu"
+  },
+  {
+    "query": "What is the capital of Kingdom of England?",
+    "answer": " Winchester",
+    "sub": "Kingdom of England"
+  },
+  {
+    "query": "What is the capital of Yugoslavia?",
+    "answer": " Belgrade",
+    "sub": "Yugoslavia"
+  },
+  {
+    "query": "What is the capital of Connecticut?",
+    "answer": " Hartford",
+    "sub": "Connecticut"
+  },
+  {
+    "query": "What is the capital of Peru?",
+    "answer": " Lima",
+    "sub": "Peru"
+  },
+  {
+    "query": "What is the capital of Guinea?",
+    "answer": " Conakry",
+    "sub": "Guinea"
+  },
+  {
+    "query": "What is the capital of Miranda?",
+    "answer": " Los Teques",
+    "sub": "Miranda"
+  },
+  {
+    "query": "What is the capital of Alaska?",
+    "answer": " Juneau",
+    "sub": "Alaska"
+  },
+  {
+    "query": "What is the capital of Belize?",
+    "answer": " Belmopan",
+    "sub": "Belize"
+  },
+  {
+    "query": "What is the capital of Karachi?",
+    "answer": " Gulshan Town",
+    "sub": "Karachi"
+  },
+  {
+    "query": "What is the capital of Lima region?",
+    "answer": " Huacho",
+    "sub": "Lima region"
+  },
+  {
+    "query": "What is the capital of California?",
+    "answer": " Sacramento",
+    "sub": "California"
+  },
+  {
+    "query": "What is the capital of Kingdom of England?",
+    "answer": " City of London",
+    "sub": "Kingdom of England"
+  },
+  {
+    "query": "What is the capital of Rwanda?",
+    "answer": " Kigali",
+    "sub": "Rwanda"
+  },
+  {
+    "query": "What is the capital of Belgium?",
+    "answer": " City of Brussels",
+    "sub": "Belgium"
+  },
+  {
+    "query": "What is the capital of Bhutan?",
+    "answer": " Thimphu",
+    "sub": "Bhutan"
+  },
+  {
+    "query": "What is the capital of Munich?",
+    "answer": " Munich",
+    "sub": "Munich"
+  },
+  {
+    "query": "What is the capital of Indonesia?",
+    "answer": " Bukittinggi",
+    "sub": "Indonesia"
+  },
+  {
+    "query": "What is the capital of Kabul?",
+    "answer": " Kabul",
+    "sub": "Kabul"
+  },
+  {
+    "query": "What is the capital of Greece?",
+    "answer": " Nauplion",
+    "sub": "Greece"
+  },
+  {
+    "query": "What is the capital of Centre?",
+    "answer": " Hinche",
+    "sub": "Centre"
+  },
+  {
+    "query": "What is the capital of Alba County?",
+    "answer": " Alba Iulia",
+    "sub": "Alba County"
+  },
+  {
+    "query": "What is the capital of Idaho?",
+    "answer": " Boise",
+    "sub": "Idaho"
+  },
+  {
+    "query": "What is the capital of Southwest?",
+    "answer": " Buea",
+    "sub": "Southwest"
+  },
+  {
+    "query": "What is the capital of Tennessee?",
+    "answer": " Nashville",
+    "sub": "Tennessee"
+  },
+  {
+    "query": "What is the capital of Luxembourg?",
+    "answer": " Arlon",
+    "sub": "Luxembourg"
+  },
+  {
+    "query": "What is the capital of Salzburg?",
+    "answer": " Salzburg",
+    "sub": "Salzburg"
+  },
+  {
+    "query": "What is the capital of Papua?",
+    "answer": " Jayapura",
+    "sub": "Papua"
+  },
+  {
+    "query": "What is the capital of Texas?",
+    "answer": " Austin",
+    "sub": "Texas"
+  },
+  {
+    "query": "What is the capital of Minnesota?",
+    "answer": " Saint Paul",
+    "sub": "Minnesota"
+  },
+  {
+    "query": "What is the capital of Oman?",
+    "answer": " Muscat",
+    "sub": "Oman"
+  },
+  {
+    "query": "What is the capital of East Region?",
+    "answer": " Bertoua",
+    "sub": "East Region"
+  },
+  {
+    "query": "What is the capital of West Region?",
+    "answer": " Bafoussam",
+    "sub": "West Region"
+  },
+  {
+    "query": "What is the capital of Florida?",
+    "answer": " Tallahassee",
+    "sub": "Florida"
+  },
+  {
+    "query": "What is the capital of Georgia?",
+    "answer": " Tbilisi",
+    "sub": "Georgia"
+  },
+  {
+    "query": "What is the capital of Macedonia?",
+    "answer": " Vergina",
+    "sub": "Macedonia"
+  },
+  {
+    "query": "What is the capital of Flanders?",
+    "answer": " City of Brussels",
+    "sub": "Flanders"
+  },
+  {
+    "query": "What is the capital of Malawi?",
+    "answer": " Zomba",
+    "sub": "Malawi"
+  },
+  {
+    "query": "What is the capital of Unity?",
+    "answer": " Bentiu",
+    "sub": "Unity"
+  },
+  {
+    "query": "What is the capital of Judah?",
+    "answer": " Hebron",
+    "sub": "Judah"
+  },
+  {
+    "query": "What is the capital of Nord?",
+    "answer": " Lille",
+    "sub": "Nord"
+  },
+  {
+    "query": "What is the capital of Kansas?",
+    "answer": " Topeka",
+    "sub": "Kansas"
+  },
+  {
+    "query": "What is the capital of Lakes?",
+    "answer": " Rumbek",
+    "sub": "Lakes"
+  },
+  {
+    "query": "What is the capital of Bari?",
+    "answer": " Bosaso",
+    "sub": "Bari"
+  },
+  {
+    "query": "What is the capital of Galicia?",
+    "answer": " Santiago de Compostela",
+    "sub": "Galicia"
+  }
+]

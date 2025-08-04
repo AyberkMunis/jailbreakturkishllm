@@ -1,0 +1,787 @@
+[
+  {
+    "query": "The Tonight Show with Conan O'Brien in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "The Tonight Show with Conan O'Brien"
+  },
+  {
+    "query": "Drake & Josh in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Drake & Josh"
+  },
+  {
+    "query": "FNMTV in prömiyeri nerede yapılmıştır?",
+    "answer": " MTV",
+    "sub": "FNMTV"
+  },
+  {
+    "query": "Kara Şimşek in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Kara Şimşek"
+  },
+  {
+    "query": "Wonder Pets! in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Wonder Pets!"
+  },
+  {
+    "query": "Hey Arnold! in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Hey Arnold!"
+  },
+  {
+    "query": "Cesur ve Güzel in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Cesur ve Güzel"
+  },
+  {
+    "query": "Will & Grace in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Will & Grace"
+  },
+  {
+    "query": "The Morey Amsterdam Show in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Morey Amsterdam Show"
+  },
+  {
+    "query": "Bonanza in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Bonanza"
+  },
+  {
+    "query": "Bob Usta in prömiyeri nerede yapılmıştır?",
+    "answer": " BBC",
+    "sub": "Bob Usta"
+  },
+  {
+    "query": "The Lucy Show in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Lucy Show"
+  },
+  {
+    "query": "True Blood in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "True Blood"
+  },
+  {
+    "query": "Daddio in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Daddio"
+  },
+  {
+    "query": "Atom Karınca (çizgi film) in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Atom Karınca (çizgi film)"
+  },
+  {
+    "query": "The Black Donnellys in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "The Black Donnellys"
+  },
+  {
+    "query": "CBS Evening News with Norah O’Donnell in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "CBS Evening News with Norah O’Donnell"
+  },
+  {
+    "query": "Breaking Bad in prömiyeri nerede yapılmıştır?",
+    "answer": " AMC (TV kanalı)",
+    "sub": "Breaking Bad"
+  },
+  {
+    "query": "The Comeback (dizi) in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "The Comeback (dizi)"
+  },
+  {
+    "query": "The Sopranos in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "The Sopranos"
+  },
+  {
+    "query": "The Kwicky Koala Show in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Kwicky Koala Show"
+  },
+  {
+    "query": "Cinayet Dosyası in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Cinayet Dosyası"
+  },
+  {
+    "query": "Boardwalk Empire in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "Boardwalk Empire"
+  },
+  {
+    "query": "Kate & Allie in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Kate & Allie"
+  },
+  {
+    "query": "60 Minutes in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "60 Minutes"
+  },
+  {
+    "query": "Saturday Night Live in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Saturday Night Live"
+  },
+  {
+    "query": "Ballers in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "Ballers"
+  },
+  {
+    "query": "Curb Your Enthusiasm in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "Curb Your Enthusiasm"
+  },
+  {
+    "query": "Riziko! in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Riziko!"
+  },
+  {
+    "query": "Magnum in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Magnum"
+  },
+  {
+    "query": "The Jeffersons in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Jeffersons"
+  },
+  {
+    "query": "The Cosby Show in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "The Cosby Show"
+  },
+  {
+    "query": "Criminal Minds in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Criminal Minds"
+  },
+  {
+    "query": "2 Broke Girls in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "2 Broke Girls"
+  },
+  {
+    "query": "Cheers in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Cheers"
+  },
+  {
+    "query": "Lilyhammer in prömiyeri nerede yapılmıştır?",
+    "answer": " Netflix",
+    "sub": "Lilyhammer"
+  },
+  {
+    "query": "Kaşif Dora in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Kaşif Dora"
+  },
+  {
+    "query": "Pembe Panter Show in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Pembe Panter Show"
+  },
+  {
+    "query": "Zoey 101 in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Zoey 101"
+  },
+  {
+    "query": "True Detective in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "True Detective"
+  },
+  {
+    "query": "The Nanny in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Nanny"
+  },
+  {
+    "query": "Sam & Cat in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Sam & Cat"
+  },
+  {
+    "query": "The Andy Griffith Show in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Andy Griffith Show"
+  },
+  {
+    "query": "Winter Is Coming in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "Winter Is Coming"
+  },
+  {
+    "query": "Las Vegas in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Las Vegas"
+  },
+  {
+    "query": "The Beverly Hillbillies in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Beverly Hillbillies"
+  },
+  {
+    "query": "The Tonight Show Starring Jimmy Fallon in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "The Tonight Show Starring Jimmy Fallon"
+  },
+  {
+    "query": "Unfabulous in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Unfabulous"
+  },
+  {
+    "query": "Columbo in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Columbo"
+  },
+  {
+    "query": "Southern Charm in prömiyeri nerede yapılmıştır?",
+    "answer": " Bravo",
+    "sub": "Southern Charm"
+  },
+  {
+    "query": "Queer Eye for the Straight Guy in prömiyeri nerede yapılmıştır?",
+    "answer": " Bravo",
+    "sub": "Queer Eye for the Straight Guy"
+  },
+  {
+    "query": "Larry King Live in prömiyeri nerede yapılmıştır?",
+    "answer": " CNN",
+    "sub": "Larry King Live"
+  },
+  {
+    "query": "The Loretta Young Show in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "The Loretta Young Show"
+  },
+  {
+    "query": "All Grown Up! in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "All Grown Up!"
+  },
+  {
+    "query": "Snorks in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Snorks"
+  },
+  {
+    "query": "Numb3rs in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Numb3rs"
+  },
+  {
+    "query": "True Women in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "True Women"
+  },
+  {
+    "query": "Clarissa Explains It All in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Clarissa Explains It All"
+  },
+  {
+    "query": "Sahil Güvenlik in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Sahil Güvenlik"
+  },
+  {
+    "query": "Ren ve Stimpy in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Ren ve Stimpy"
+  },
+  {
+    "query": "Victorious in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Victorious"
+  },
+  {
+    "query": "Merry Madagaskar in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Merry Madagaskar"
+  },
+  {
+    "query": "The Mary Tyler Moore Show in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Mary Tyler Moore Show"
+  },
+  {
+    "query": "Law & Order in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Law & Order"
+  },
+  {
+    "query": "Danny Phantom in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Danny Phantom"
+  },
+  {
+    "query": "Ghost Whisperer in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Ghost Whisperer"
+  },
+  {
+    "query": "My Name Is Earl in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "My Name Is Earl"
+  },
+  {
+    "query": "December Bride in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "December Bride"
+  },
+  {
+    "query": "The Blacklist in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "The Blacklist"
+  },
+  {
+    "query": "1960 Eurovision Şarkı Yarışması in prömiyeri nerede yapılmıştır?",
+    "answer": " BBC",
+    "sub": "1960 Eurovision Şarkı Yarışması"
+  },
+  {
+    "query": "Picket Fences in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Picket Fences"
+  },
+  {
+    "query": "The Fairly OddParents in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "The Fairly OddParents"
+  },
+  {
+    "query": "American Dreams in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "American Dreams"
+  },
+  {
+    "query": "Revolution in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Revolution"
+  },
+  {
+    "query": "Last Week Tonight with John Oliver in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "Last Week Tonight with John Oliver"
+  },
+  {
+    "query": "Good Times in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Good Times"
+  },
+  {
+    "query": "All My Children in prömiyeri nerede yapılmıştır?",
+    "answer": " iTunes",
+    "sub": "All My Children"
+  },
+  {
+    "query": "Sense8 in prömiyeri nerede yapılmıştır?",
+    "answer": " Netflix",
+    "sub": "Sense8"
+  },
+  {
+    "query": "Michael Shayne in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Michael Shayne"
+  },
+  {
+    "query": "Navy Log in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Navy Log"
+  },
+  {
+    "query": "Late Night with David Letterman in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Late Night with David Letterman"
+  },
+  {
+    "query": "Guiding Light in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Guiding Light"
+  },
+  {
+    "query": "The Benny Hill Show in prömiyeri nerede yapılmıştır?",
+    "answer": " BBC",
+    "sub": "The Benny Hill Show"
+  },
+  {
+    "query": "The Fresh Beat Band in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "The Fresh Beat Band"
+  },
+  {
+    "query": "Rocket Power in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Rocket Power"
+  },
+  {
+    "query": "The Big Bang Theory in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Big Bang Theory"
+  },
+  {
+    "query": "WCW Monday Nitro in prömiyeri nerede yapılmıştır?",
+    "answer": " TNT",
+    "sub": "WCW Monday Nitro"
+  },
+  {
+    "query": "Diff'rent Strokes in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Diff'rent Strokes"
+  },
+  {
+    "query": "Scooby-Doo in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Scooby-Doo"
+  },
+  {
+    "query": "Arrested Development in prömiyeri nerede yapılmıştır?",
+    "answer": " Netflix",
+    "sub": "Arrested Development"
+  },
+  {
+    "query": "Seinfeld in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Seinfeld"
+  },
+  {
+    "query": "The Jack Benny Program in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Jack Benny Program"
+  },
+  {
+    "query": "NBC Mystery Movie in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "NBC Mystery Movie"
+  },
+  {
+    "query": "Newhart in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Newhart"
+  },
+  {
+    "query": "My Super Sweet 16 in prömiyeri nerede yapılmıştır?",
+    "answer": " MTV",
+    "sub": "My Super Sweet 16"
+  },
+  {
+    "query": "Alvin ve Sincaplar in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Alvin ve Sincaplar"
+  },
+  {
+    "query": "The Barbara Stanwyck Show in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "The Barbara Stanwyck Show"
+  },
+  {
+    "query": "Total Request Live in prömiyeri nerede yapılmıştır?",
+    "answer": " MTV",
+    "sub": "Total Request Live"
+  },
+  {
+    "query": "Murphy Brown in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Murphy Brown"
+  },
+  {
+    "query": "The Good Wife in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Good Wife"
+  },
+  {
+    "query": "Howdy Doody in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Howdy Doody"
+  },
+  {
+    "query": "Father Knows Best in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Father Knows Best"
+  },
+  {
+    "query": "How I Met Your Mother in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "How I Met Your Mother"
+  },
+  {
+    "query": "Hemşire Jackie in prömiyeri nerede yapılmıştır?",
+    "answer": " Showtime",
+    "sub": "Hemşire Jackie"
+  },
+  {
+    "query": "Designing Women in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Designing Women"
+  },
+  {
+    "query": "Boiling Points in prömiyeri nerede yapılmıştır?",
+    "answer": " MTV",
+    "sub": "Boiling Points"
+  },
+  {
+    "query": "Airwolf in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Airwolf"
+  },
+  {
+    "query": "Doug in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Doug"
+  },
+  {
+    "query": "The Larry Sanders Show in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "The Larry Sanders Show"
+  },
+  {
+    "query": "Making the Video in prömiyeri nerede yapılmıştır?",
+    "answer": " MTV",
+    "sub": "Making the Video"
+  },
+  {
+    "query": "Lonelygirl15 in prömiyeri nerede yapılmıştır?",
+    "answer": " YouTube",
+    "sub": "Lonelygirl15"
+  },
+  {
+    "query": "Rita Rocks in prömiyeri nerede yapılmıştır?",
+    "answer": " Lifetime Television",
+    "sub": "Rita Rocks"
+  },
+  {
+    "query": "Angry Beavers in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Angry Beavers"
+  },
+  {
+    "query": "Nova in prömiyeri nerede yapılmıştır?",
+    "answer": " PBS",
+    "sub": "Nova"
+  },
+  {
+    "query": "The New Normal in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "The New Normal"
+  },
+  {
+    "query": "Gimme a Break! in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Gimme a Break!"
+  },
+  {
+    "query": "He & She in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "He & She"
+  },
+  {
+    "query": "Third Watch in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Third Watch"
+  },
+  {
+    "query": "The Waltons in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Waltons"
+  },
+  {
+    "query": "Grace and Frankie in prömiyeri nerede yapılmıştır?",
+    "answer": " Netflix",
+    "sub": "Grace and Frankie"
+  },
+  {
+    "query": "Miami Vice in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Miami Vice"
+  },
+  {
+    "query": "Medical Investigation in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Medical Investigation"
+  },
+  {
+    "query": "PAW Patrol in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "PAW Patrol"
+  },
+  {
+    "query": "Yalan Rüzgârı in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Yalan Rüzgârı"
+  },
+  {
+    "query": "Orange Is the New Black in prömiyeri nerede yapılmıştır?",
+    "answer": " Netflix",
+    "sub": "Orange Is the New Black"
+  },
+  {
+    "query": "The Tonight Show with Jay Leno in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "The Tonight Show with Jay Leno"
+  },
+  {
+    "query": "Mike & Molly in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Mike & Molly"
+  },
+  {
+    "query": "Ray Donovan in prömiyeri nerede yapılmıştır?",
+    "answer": " Showtime",
+    "sub": "Ray Donovan"
+  },
+  {
+    "query": "Hatfields & McCoys in prömiyeri nerede yapılmıştır?",
+    "answer": " History",
+    "sub": "Hatfields & McCoys"
+  },
+  {
+    "query": "Late Night with Conan O'Brien in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Late Night with Conan O'Brien"
+  },
+  {
+    "query": "All Hail King Julien in prömiyeri nerede yapılmıştır?",
+    "answer": " Netflix",
+    "sub": "All Hail King Julien"
+  },
+  {
+    "query": "Rugrats in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Rugrats"
+  },
+  {
+    "query": "İCarly in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "İCarly"
+  },
+  {
+    "query": "A Takımı in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "A Takımı"
+  },
+  {
+    "query": "Kuzeyde Bir Yer in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Kuzeyde Bir Yer"
+  },
+  {
+    "query": "Altın Kızlar in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Altın Kızlar"
+  },
+  {
+    "query": "The Leftovers in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "The Leftovers"
+  },
+  {
+    "query": "The Wire in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "The Wire"
+  },
+  {
+    "query": "Cold Case in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "Cold Case"
+  },
+  {
+    "query": "The Young Turks in prömiyeri nerede yapılmıştır?",
+    "answer": " YouTube",
+    "sub": "The Young Turks"
+  },
+  {
+    "query": "The Dick Van Dyke Show in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Dick Van Dyke Show"
+  },
+  {
+    "query": "Life (Amerikan dizisi) in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Life (Amerikan dizisi)"
+  },
+  {
+    "query": "Şirinler in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "Şirinler"
+  },
+  {
+    "query": "30 Rock in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "30 Rock"
+  },
+  {
+    "query": "Kabarcık Çocuklar in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Kabarcık Çocuklar"
+  },
+  {
+    "query": "The Mentalist in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Mentalist"
+  },
+  {
+    "query": "Big Time Rush in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Big Time Rush"
+  },
+  {
+    "query": "Silicon Valley in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "Silicon Valley"
+  },
+  {
+    "query": "The Andy Milonakis Show in prömiyeri nerede yapılmıştır?",
+    "answer": " MTV",
+    "sub": "The Andy Milonakis Show"
+  },
+  {
+    "query": "The Bob Newhart Show in prömiyeri nerede yapılmıştır?",
+    "answer": " CBS",
+    "sub": "The Bob Newhart Show"
+  },
+  {
+    "query": "Power Rangers Samurai in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Power Rangers Samurai"
+  },
+  {
+    "query": "Headbangers Ball in prömiyeri nerede yapılmıştır?",
+    "answer": " MTV",
+    "sub": "Headbangers Ball"
+  },
+  {
+    "query": "Show Me a Hero in prömiyeri nerede yapılmıştır?",
+    "answer": " HBO",
+    "sub": "Show Me a Hero"
+  },
+  {
+    "query": "The Tonight Show Starring Johnny Carson in prömiyeri nerede yapılmıştır?",
+    "answer": " NBC",
+    "sub": "The Tonight Show Starring Johnny Carson"
+  },
+  {
+    "query": "Anubis Evi in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "Anubis Evi"
+  },
+  {
+    "query": "CatDog in prömiyeri nerede yapılmıştır?",
+    "answer": " Nickelodeon",
+    "sub": "CatDog"
+  },
+  {
+    "query": "Emret Bakanım in prömiyeri nerede yapılmıştır?",
+    "answer": " BBC",
+    "sub": "Emret Bakanım"
+  }
+]

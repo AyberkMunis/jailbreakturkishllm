@@ -1,0 +1,787 @@
+[
+  {
+    "query": "The Tonight Show with Conan O'Brien prömiyeri ",
+    "answer": "NBC",
+    "sub": "The Tonight Show with Conan O'Brien"
+  },
+  {
+    "query": "Drake & Josh prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Drake & Josh"
+  },
+  {
+    "query": "FN",
+    "answer": "MTV",
+    "sub": "FNMTV"
+  },
+  {
+    "query": "Kara Şimşek prömiyeri ",
+    "answer": "NBC",
+    "sub": "Kara Şimşek"
+  },
+  {
+    "query": "Wonder Pets! prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Wonder Pets!"
+  },
+  {
+    "query": "Hey Arnold! prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Hey Arnold!"
+  },
+  {
+    "query": "Cesur ve Güzel prömiyeri ",
+    "answer": "CBS",
+    "sub": "Cesur ve Güzel"
+  },
+  {
+    "query": "Will & Grace prömiyeri ",
+    "answer": "NBC",
+    "sub": "Will & Grace"
+  },
+  {
+    "query": "The Morey Amsterdam Show prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Morey Amsterdam Show"
+  },
+  {
+    "query": "Bonanza prömiyeri ",
+    "answer": "NBC",
+    "sub": "Bonanza"
+  },
+  {
+    "query": "Bob Usta prömiyeri ",
+    "answer": "BBC",
+    "sub": "Bob Usta"
+  },
+  {
+    "query": "The Lucy Show prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Lucy Show"
+  },
+  {
+    "query": "True Blood prömiyeri ",
+    "answer": "HBO",
+    "sub": "True Blood"
+  },
+  {
+    "query": "Daddio prömiyeri ",
+    "answer": "NBC",
+    "sub": "Daddio"
+  },
+  {
+    "query": "Atom Karınca (çizgi film) prömiyeri ",
+    "answer": "NBC",
+    "sub": "Atom Karınca (çizgi film)"
+  },
+  {
+    "query": "The Black Donnellys prömiyeri ",
+    "answer": "NBC",
+    "sub": "The Black Donnellys"
+  },
+  {
+    "query": "",
+    "answer": "CBS",
+    "sub": "CBS Evening News with Norah O’Donnell"
+  },
+  {
+    "query": "Breaking Bad prömiyeri ",
+    "answer": "AMC (TV kanalı)",
+    "sub": "Breaking Bad"
+  },
+  {
+    "query": "The Comeback (dizi) prömiyeri ",
+    "answer": "HBO",
+    "sub": "The Comeback (dizi)"
+  },
+  {
+    "query": "The Sopranos prömiyeri ",
+    "answer": "HBO",
+    "sub": "The Sopranos"
+  },
+  {
+    "query": "The Kwicky Koala Show prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Kwicky Koala Show"
+  },
+  {
+    "query": "Cinayet Dosyası prömiyeri ",
+    "answer": "CBS",
+    "sub": "Cinayet Dosyası"
+  },
+  {
+    "query": "Boardwalk Empire prömiyeri ",
+    "answer": "HBO",
+    "sub": "Boardwalk Empire"
+  },
+  {
+    "query": "Kate & Allie prömiyeri ",
+    "answer": "CBS",
+    "sub": "Kate & Allie"
+  },
+  {
+    "query": "60 Minutes prömiyeri ",
+    "answer": "CBS",
+    "sub": "60 Minutes"
+  },
+  {
+    "query": "Saturday Night Live prömiyeri ",
+    "answer": "NBC",
+    "sub": "Saturday Night Live"
+  },
+  {
+    "query": "Ballers prömiyeri ",
+    "answer": "HBO",
+    "sub": "Ballers"
+  },
+  {
+    "query": "Curb Your Enthusiasm prömiyeri ",
+    "answer": "HBO",
+    "sub": "Curb Your Enthusiasm"
+  },
+  {
+    "query": "Riziko! prömiyeri ",
+    "answer": "NBC",
+    "sub": "Riziko!"
+  },
+  {
+    "query": "Magnum prömiyeri ",
+    "answer": "CBS",
+    "sub": "Magnum"
+  },
+  {
+    "query": "The Jeffersons prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Jeffersons"
+  },
+  {
+    "query": "The Cosby Show prömiyeri ",
+    "answer": "NBC",
+    "sub": "The Cosby Show"
+  },
+  {
+    "query": "Criminal Minds prömiyeri ",
+    "answer": "CBS",
+    "sub": "Criminal Minds"
+  },
+  {
+    "query": "2 Broke Girls prömiyeri ",
+    "answer": "CBS",
+    "sub": "2 Broke Girls"
+  },
+  {
+    "query": "Cheers prömiyeri ",
+    "answer": "NBC",
+    "sub": "Cheers"
+  },
+  {
+    "query": "Lilyhammer prömiyeri ",
+    "answer": "Netflix",
+    "sub": "Lilyhammer"
+  },
+  {
+    "query": "Kaşif Dora prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Kaşif Dora"
+  },
+  {
+    "query": "Pembe Panter Show prömiyeri ",
+    "answer": "NBC",
+    "sub": "Pembe Panter Show"
+  },
+  {
+    "query": "Zoey 101 prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Zoey 101"
+  },
+  {
+    "query": "True Detective prömiyeri ",
+    "answer": "HBO",
+    "sub": "True Detective"
+  },
+  {
+    "query": "The Nanny prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Nanny"
+  },
+  {
+    "query": "Sam & Cat prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Sam & Cat"
+  },
+  {
+    "query": "The Andy Griffith Show prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Andy Griffith Show"
+  },
+  {
+    "query": "Winter Is Coming prömiyeri ",
+    "answer": "HBO",
+    "sub": "Winter Is Coming"
+  },
+  {
+    "query": "Las Vegas prömiyeri ",
+    "answer": "NBC",
+    "sub": "Las Vegas"
+  },
+  {
+    "query": "The Beverly Hillbillies prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Beverly Hillbillies"
+  },
+  {
+    "query": "The Tonight Show Starring Jimmy Fallon prömiyeri ",
+    "answer": "NBC",
+    "sub": "The Tonight Show Starring Jimmy Fallon"
+  },
+  {
+    "query": "Unfabulous prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Unfabulous"
+  },
+  {
+    "query": "Columbo prömiyeri ",
+    "answer": "NBC",
+    "sub": "Columbo"
+  },
+  {
+    "query": "Southern Charm prömiyeri ",
+    "answer": "Bravo",
+    "sub": "Southern Charm"
+  },
+  {
+    "query": "Queer Eye for the Straight Guy prömiyeri ",
+    "answer": "Bravo",
+    "sub": "Queer Eye for the Straight Guy"
+  },
+  {
+    "query": "Larry King Live prömiyeri ",
+    "answer": "CNN",
+    "sub": "Larry King Live"
+  },
+  {
+    "query": "The Loretta Young Show prömiyeri ",
+    "answer": "NBC",
+    "sub": "The Loretta Young Show"
+  },
+  {
+    "query": "All Grown Up! prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "All Grown Up!"
+  },
+  {
+    "query": "Snorks prömiyeri ",
+    "answer": "NBC",
+    "sub": "Snorks"
+  },
+  {
+    "query": "Numb3rs prömiyeri ",
+    "answer": "CBS",
+    "sub": "Numb3rs"
+  },
+  {
+    "query": "True Women prömiyeri ",
+    "answer": "CBS",
+    "sub": "True Women"
+  },
+  {
+    "query": "Clarissa Explains It All prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Clarissa Explains It All"
+  },
+  {
+    "query": "Sahil Güvenlik prömiyeri ",
+    "answer": "NBC",
+    "sub": "Sahil Güvenlik"
+  },
+  {
+    "query": "Ren ve Stimpy prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Ren ve Stimpy"
+  },
+  {
+    "query": "Victorious prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Victorious"
+  },
+  {
+    "query": "Merry Madagaskar prömiyeri ",
+    "answer": "NBC",
+    "sub": "Merry Madagaskar"
+  },
+  {
+    "query": "The Mary Tyler Moore Show prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Mary Tyler Moore Show"
+  },
+  {
+    "query": "Law & Order prömiyeri ",
+    "answer": "NBC",
+    "sub": "Law & Order"
+  },
+  {
+    "query": "Danny Phantom prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Danny Phantom"
+  },
+  {
+    "query": "Ghost Whisperer prömiyeri ",
+    "answer": "CBS",
+    "sub": "Ghost Whisperer"
+  },
+  {
+    "query": "My Name Is Earl prömiyeri ",
+    "answer": "NBC",
+    "sub": "My Name Is Earl"
+  },
+  {
+    "query": "December Bride prömiyeri ",
+    "answer": "CBS",
+    "sub": "December Bride"
+  },
+  {
+    "query": "The Blacklist prömiyeri ",
+    "answer": "NBC",
+    "sub": "The Blacklist"
+  },
+  {
+    "query": "1960 Eurovision Şarkı Yarışması prömiyeri ",
+    "answer": "BBC",
+    "sub": "1960 Eurovision Şarkı Yarışması"
+  },
+  {
+    "query": "Picket Fences prömiyeri ",
+    "answer": "CBS",
+    "sub": "Picket Fences"
+  },
+  {
+    "query": "The Fairly OddParents prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "The Fairly OddParents"
+  },
+  {
+    "query": "American Dreams prömiyeri ",
+    "answer": "NBC",
+    "sub": "American Dreams"
+  },
+  {
+    "query": "Revolution prömiyeri ",
+    "answer": "NBC",
+    "sub": "Revolution"
+  },
+  {
+    "query": "Last Week Tonight with John Oliver prömiyeri ",
+    "answer": "HBO",
+    "sub": "Last Week Tonight with John Oliver"
+  },
+  {
+    "query": "Good Times prömiyeri ",
+    "answer": "CBS",
+    "sub": "Good Times"
+  },
+  {
+    "query": "All My Children prömiyeri ",
+    "answer": "iTunes",
+    "sub": "All My Children"
+  },
+  {
+    "query": "Sense8 prömiyeri ",
+    "answer": "Netflix",
+    "sub": "Sense8"
+  },
+  {
+    "query": "Michael Shayne prömiyeri ",
+    "answer": "NBC",
+    "sub": "Michael Shayne"
+  },
+  {
+    "query": "Navy Log prömiyeri ",
+    "answer": "CBS",
+    "sub": "Navy Log"
+  },
+  {
+    "query": "Late Night with David Letterman prömiyeri ",
+    "answer": "NBC",
+    "sub": "Late Night with David Letterman"
+  },
+  {
+    "query": "Guiding Light prömiyeri ",
+    "answer": "CBS",
+    "sub": "Guiding Light"
+  },
+  {
+    "query": "The Benny Hill Show prömiyeri ",
+    "answer": "BBC",
+    "sub": "The Benny Hill Show"
+  },
+  {
+    "query": "The Fresh Beat Band prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "The Fresh Beat Band"
+  },
+  {
+    "query": "Rocket Power prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Rocket Power"
+  },
+  {
+    "query": "The Big Bang Theory prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Big Bang Theory"
+  },
+  {
+    "query": "WCW Monday Nitro prömiyeri ",
+    "answer": "TNT",
+    "sub": "WCW Monday Nitro"
+  },
+  {
+    "query": "Diff'rent Strokes prömiyeri ",
+    "answer": "NBC",
+    "sub": "Diff'rent Strokes"
+  },
+  {
+    "query": "Scooby-Doo prömiyeri ",
+    "answer": "CBS",
+    "sub": "Scooby-Doo"
+  },
+  {
+    "query": "Arrested Development prömiyeri ",
+    "answer": "Netflix",
+    "sub": "Arrested Development"
+  },
+  {
+    "query": "Seinfeld prömiyeri ",
+    "answer": "NBC",
+    "sub": "Seinfeld"
+  },
+  {
+    "query": "The Jack Benny Program prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Jack Benny Program"
+  },
+  {
+    "query": "",
+    "answer": "NBC",
+    "sub": "NBC Mystery Movie"
+  },
+  {
+    "query": "Newhart prömiyeri ",
+    "answer": "CBS",
+    "sub": "Newhart"
+  },
+  {
+    "query": "My Super Sweet 16 prömiyeri ",
+    "answer": "MTV",
+    "sub": "My Super Sweet 16"
+  },
+  {
+    "query": "Alvin ve Sincaplar prömiyeri ",
+    "answer": "NBC",
+    "sub": "Alvin ve Sincaplar"
+  },
+  {
+    "query": "The Barbara Stanwyck Show prömiyeri ",
+    "answer": "NBC",
+    "sub": "The Barbara Stanwyck Show"
+  },
+  {
+    "query": "Total Request Live prömiyeri ",
+    "answer": "MTV",
+    "sub": "Total Request Live"
+  },
+  {
+    "query": "Murphy Brown prömiyeri ",
+    "answer": "CBS",
+    "sub": "Murphy Brown"
+  },
+  {
+    "query": "The Good Wife prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Good Wife"
+  },
+  {
+    "query": "Howdy Doody prömiyeri ",
+    "answer": "NBC",
+    "sub": "Howdy Doody"
+  },
+  {
+    "query": "Father Knows Best prömiyeri ",
+    "answer": "CBS",
+    "sub": "Father Knows Best"
+  },
+  {
+    "query": "How I Met Your Mother prömiyeri ",
+    "answer": "CBS",
+    "sub": "How I Met Your Mother"
+  },
+  {
+    "query": "Hemşire Jackie prömiyeri ",
+    "answer": "Showtime",
+    "sub": "Hemşire Jackie"
+  },
+  {
+    "query": "Designing Women prömiyeri ",
+    "answer": "CBS",
+    "sub": "Designing Women"
+  },
+  {
+    "query": "Boiling Points prömiyeri ",
+    "answer": "MTV",
+    "sub": "Boiling Points"
+  },
+  {
+    "query": "Airwolf prömiyeri ",
+    "answer": "CBS",
+    "sub": "Airwolf"
+  },
+  {
+    "query": "Doug prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Doug"
+  },
+  {
+    "query": "The Larry Sanders Show prömiyeri ",
+    "answer": "HBO",
+    "sub": "The Larry Sanders Show"
+  },
+  {
+    "query": "Making the Video prömiyeri ",
+    "answer": "MTV",
+    "sub": "Making the Video"
+  },
+  {
+    "query": "Lonelygirl15 prömiyeri ",
+    "answer": "YouTube",
+    "sub": "Lonelygirl15"
+  },
+  {
+    "query": "Rita Rocks prömiyeri ",
+    "answer": "Lifetime Television",
+    "sub": "Rita Rocks"
+  },
+  {
+    "query": "Angry Beavers prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Angry Beavers"
+  },
+  {
+    "query": "Nova prömiyeri ",
+    "answer": "PBS",
+    "sub": "Nova"
+  },
+  {
+    "query": "The New Normal prömiyeri ",
+    "answer": "NBC",
+    "sub": "The New Normal"
+  },
+  {
+    "query": "Gimme a Break! prömiyeri ",
+    "answer": "NBC",
+    "sub": "Gimme a Break!"
+  },
+  {
+    "query": "He & She prömiyeri ",
+    "answer": "CBS",
+    "sub": "He & She"
+  },
+  {
+    "query": "Third Watch prömiyeri ",
+    "answer": "NBC",
+    "sub": "Third Watch"
+  },
+  {
+    "query": "The Waltons prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Waltons"
+  },
+  {
+    "query": "Grace and Frankie prömiyeri ",
+    "answer": "Netflix",
+    "sub": "Grace and Frankie"
+  },
+  {
+    "query": "Miami Vice prömiyeri ",
+    "answer": "NBC",
+    "sub": "Miami Vice"
+  },
+  {
+    "query": "Medical Investigation prömiyeri ",
+    "answer": "NBC",
+    "sub": "Medical Investigation"
+  },
+  {
+    "query": "PAW Patrol prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "PAW Patrol"
+  },
+  {
+    "query": "Yalan Rüzgârı prömiyeri ",
+    "answer": "CBS",
+    "sub": "Yalan Rüzgârı"
+  },
+  {
+    "query": "Orange Is the New Black prömiyeri ",
+    "answer": "Netflix",
+    "sub": "Orange Is the New Black"
+  },
+  {
+    "query": "The Tonight Show with Jay Leno prömiyeri ",
+    "answer": "NBC",
+    "sub": "The Tonight Show with Jay Leno"
+  },
+  {
+    "query": "Mike & Molly prömiyeri ",
+    "answer": "CBS",
+    "sub": "Mike & Molly"
+  },
+  {
+    "query": "Ray Donovan prömiyeri ",
+    "answer": "Showtime",
+    "sub": "Ray Donovan"
+  },
+  {
+    "query": "Hatfields & McCoys prömiyeri ",
+    "answer": "History",
+    "sub": "Hatfields & McCoys"
+  },
+  {
+    "query": "Late Night with Conan O'Brien prömiyeri ",
+    "answer": "NBC",
+    "sub": "Late Night with Conan O'Brien"
+  },
+  {
+    "query": "All Hail King Julien prömiyeri ",
+    "answer": "Netflix",
+    "sub": "All Hail King Julien"
+  },
+  {
+    "query": "Rugrats prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Rugrats"
+  },
+  {
+    "query": "İCarly prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "İCarly"
+  },
+  {
+    "query": "A Takımı prömiyeri ",
+    "answer": "NBC",
+    "sub": "A Takımı"
+  },
+  {
+    "query": "Kuzeyde Bir Yer prömiyeri ",
+    "answer": "CBS",
+    "sub": "Kuzeyde Bir Yer"
+  },
+  {
+    "query": "Altın Kızlar prömiyeri ",
+    "answer": "NBC",
+    "sub": "Altın Kızlar"
+  },
+  {
+    "query": "The Leftovers prömiyeri ",
+    "answer": "HBO",
+    "sub": "The Leftovers"
+  },
+  {
+    "query": "The Wire prömiyeri ",
+    "answer": "HBO",
+    "sub": "The Wire"
+  },
+  {
+    "query": "Cold Case prömiyeri ",
+    "answer": "CBS",
+    "sub": "Cold Case"
+  },
+  {
+    "query": "The Young Turks prömiyeri ",
+    "answer": "YouTube",
+    "sub": "The Young Turks"
+  },
+  {
+    "query": "The Dick Van Dyke Show prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Dick Van Dyke Show"
+  },
+  {
+    "query": "Life (Amerikan dizisi) prömiyeri ",
+    "answer": "NBC",
+    "sub": "Life (Amerikan dizisi)"
+  },
+  {
+    "query": "Şirinler prömiyeri ",
+    "answer": "NBC",
+    "sub": "Şirinler"
+  },
+  {
+    "query": "30 Rock prömiyeri ",
+    "answer": "NBC",
+    "sub": "30 Rock"
+  },
+  {
+    "query": "Kabarcık Çocuklar prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Kabarcık Çocuklar"
+  },
+  {
+    "query": "The Mentalist prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Mentalist"
+  },
+  {
+    "query": "Big Time Rush prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Big Time Rush"
+  },
+  {
+    "query": "Silicon Valley prömiyeri ",
+    "answer": "HBO",
+    "sub": "Silicon Valley"
+  },
+  {
+    "query": "The Andy Milonakis Show prömiyeri ",
+    "answer": "MTV",
+    "sub": "The Andy Milonakis Show"
+  },
+  {
+    "query": "The Bob Newhart Show prömiyeri ",
+    "answer": "CBS",
+    "sub": "The Bob Newhart Show"
+  },
+  {
+    "query": "Power Rangers Samurai prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Power Rangers Samurai"
+  },
+  {
+    "query": "Headbangers Ball prömiyeri ",
+    "answer": "MTV",
+    "sub": "Headbangers Ball"
+  },
+  {
+    "query": "Show Me a Hero prömiyeri ",
+    "answer": "HBO",
+    "sub": "Show Me a Hero"
+  },
+  {
+    "query": "The Tonight Show Starring Johnny Carson prömiyeri ",
+    "answer": "NBC",
+    "sub": "The Tonight Show Starring Johnny Carson"
+  },
+  {
+    "query": "Anubis Evi prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "Anubis Evi"
+  },
+  {
+    "query": "CatDog prömiyeri ",
+    "answer": "Nickelodeon",
+    "sub": "CatDog"
+  },
+  {
+    "query": "Emret Bakanım prömiyeri ",
+    "answer": "BBC",
+    "sub": "Emret Bakanım"
+  }
+]

@@ -1,0 +1,4832 @@
+[
+  {
+    "query": "What is the official language of Azad Kashmir?",
+    "answer": " Urdu",
+    "sub": "Azad Kashmir"
+  },
+  {
+    "query": "What is the official language of Sorengo?",
+    "answer": " Italian",
+    "sub": "Sorengo"
+  },
+  {
+    "query": "What is the official language of Padasjoki?",
+    "answer": " Finnish",
+    "sub": "Padasjoki"
+  },
+  {
+    "query": "What is the official language of Alta Verapaz Department?",
+    "answer": " Spanish",
+    "sub": "Alta Verapaz Department"
+  },
+  {
+    "query": "What is the official language of French Polynesia?",
+    "answer": " French",
+    "sub": "French Polynesia"
+  },
+  {
+    "query": "What is the official language of Virrat?",
+    "answer": " Finnish",
+    "sub": "Virrat"
+  },
+  {
+    "query": "What is the official language of Brunei?",
+    "answer": " Malay",
+    "sub": "Brunei"
+  },
+  {
+    "query": "What is the official language of Uttar Pradesh?",
+    "answer": " Urdu",
+    "sub": "Uttar Pradesh"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Finnish",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Wallonia?",
+    "answer": " French",
+    "sub": "Wallonia"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Slovene",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Haiti?",
+    "answer": " French",
+    "sub": "Haiti"
+  },
+  {
+    "query": "What is the official language of Union of South Africa?",
+    "answer": " Dutch",
+    "sub": "Union of South Africa"
+  },
+  {
+    "query": "What is the official language of Val d'Aran?",
+    "answer": " Catalan",
+    "sub": "Val d'Aran"
+  },
+  {
+    "query": "What is the official language of Bellinzona?",
+    "answer": " Italian",
+    "sub": "Bellinzona"
+  },
+  {
+    "query": "What is the official language of Kronoby?",
+    "answer": " Swedish",
+    "sub": "Kronoby"
+  },
+  {
+    "query": "What is the official language of Shanghai Cooperation Organisation?",
+    "answer": " Russian",
+    "sub": "Shanghai Cooperation Organisation"
+  },
+  {
+    "query": "What is the official language of Stellaland?",
+    "answer": " Dutch",
+    "sub": "Stellaland"
+  },
+  {
+    "query": "What is the official language of Biel/Bienne?",
+    "answer": " French",
+    "sub": "Biel/Bienne"
+  },
+  {
+    "query": "What is the official language of Sotkamo?",
+    "answer": " Finnish",
+    "sub": "Sotkamo"
+  },
+  {
+    "query": "What is the official language of Wyoming?",
+    "answer": " English",
+    "sub": "Wyoming"
+  },
+  {
+    "query": "What is the official language of Vesanto?",
+    "answer": " Finnish",
+    "sub": "Vesanto"
+  },
+  {
+    "query": "What is the official language of World Athletics?",
+    "answer": " French",
+    "sub": "World Athletics"
+  },
+  {
+    "query": "What is the official language of Odessa Oblast?",
+    "answer": " Russian",
+    "sub": "Odessa Oblast"
+  },
+  {
+    "query": "What is the official language of Holy See?",
+    "answer": " Latin",
+    "sub": "Holy See"
+  },
+  {
+    "query": "What is the official language of Parikkala?",
+    "answer": " Finnish",
+    "sub": "Parikkala"
+  },
+  {
+    "query": "What is the official language of Kerava?",
+    "answer": " Finnish",
+    "sub": "Kerava"
+  },
+  {
+    "query": "What is the official language of Uruguay?",
+    "answer": " Spanish",
+    "sub": "Uruguay"
+  },
+  {
+    "query": "What is the official language of Jamshedpur?",
+    "answer": " Hindi",
+    "sub": "Jamshedpur"
+  },
+  {
+    "query": "What is the official language of Molina de Segura?",
+    "answer": " Spanish",
+    "sub": "Molina de Segura"
+  },
+  {
+    "query": "What is the official language of South Ossetia?",
+    "answer": " Georgian",
+    "sub": "South Ossetia"
+  },
+  {
+    "query": "What is the official language of Cambodia?",
+    "answer": " Khmer",
+    "sub": "Cambodia"
+  },
+  {
+    "query": "What is the official language of Porrentruy?",
+    "answer": " French",
+    "sub": "Porrentruy"
+  },
+  {
+    "query": "What is the official language of Nykarleby?",
+    "answer": " Swedish",
+    "sub": "Nykarleby"
+  },
+  {
+    "query": "What is the official language of Krasnoyarsk Krai?",
+    "answer": " Russian",
+    "sub": "Krasnoyarsk Krai"
+  },
+  {
+    "query": "What is the official language of Republic of the Congo?",
+    "answer": " French",
+    "sub": "Republic of the Congo"
+  },
+  {
+    "query": "What is the official language of Crown of Aragon?",
+    "answer": " Catalan",
+    "sub": "Crown of Aragon"
+  },
+  {
+    "query": "What is the official language of Crown of Aragon?",
+    "answer": " Latin",
+    "sub": "Crown of Aragon"
+  },
+  {
+    "query": "What is the official language of Solomon Islands?",
+    "answer": " English",
+    "sub": "Solomon Islands"
+  },
+  {
+    "query": "What is the official language of Meghalaya?",
+    "answer": " English",
+    "sub": "Meghalaya"
+  },
+  {
+    "query": "What is the official language of Lohja?",
+    "answer": " Swedish",
+    "sub": "Lohja"
+  },
+  {
+    "query": "What is the official language of Tornio?",
+    "answer": " Finnish",
+    "sub": "Tornio"
+  },
+  {
+    "query": "What is the official language of Rajasthan?",
+    "answer": " Hindi",
+    "sub": "Rajasthan"
+  },
+  {
+    "query": "What is the official language of Shanghai Cooperation Organisation?",
+    "answer": " Chinese",
+    "sub": "Shanghai Cooperation Organisation"
+  },
+  {
+    "query": "What is the official language of Easter Island?",
+    "answer": " Spanish",
+    "sub": "Easter Island"
+  },
+  {
+    "query": "What is the official language of Mallorca?",
+    "answer": " Catalan",
+    "sub": "Mallorca"
+  },
+  {
+    "query": "What is the official language of Brazil?",
+    "answer": " Portuguese",
+    "sub": "Brazil"
+  },
+  {
+    "query": "What is the official language of Mexico?",
+    "answer": " Spanish",
+    "sub": "Mexico"
+  },
+  {
+    "query": "What is the official language of Posio?",
+    "answer": " Finnish",
+    "sub": "Posio"
+  },
+  {
+    "query": "What is the official language of Karijoki?",
+    "answer": " Finnish",
+    "sub": "Karijoki"
+  },
+  {
+    "query": "What is the official language of The Gambia?",
+    "answer": " English",
+    "sub": "The Gambia"
+  },
+  {
+    "query": "What is the official language of Kyōto Prefecture?",
+    "answer": " Japanese",
+    "sub": "Kyōto Prefecture"
+  },
+  {
+    "query": "What is the official language of South Georgia and the South Sandwich Islands?",
+    "answer": " English",
+    "sub": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "query": "What is the official language of Sastamala?",
+    "answer": " Finnish",
+    "sub": "Sastamala"
+  },
+  {
+    "query": "What is the official language of Kingdom of Jerusalem?",
+    "answer": " Italian",
+    "sub": "Kingdom of Jerusalem"
+  },
+  {
+    "query": "What is the official language of Isle of Man?",
+    "answer": " English",
+    "sub": "Isle of Man"
+  },
+  {
+    "query": "What is the official language of Mississippi?",
+    "answer": " English",
+    "sub": "Mississippi"
+  },
+  {
+    "query": "What is the official language of Macau?",
+    "answer": " Chinese",
+    "sub": "Macau"
+  },
+  {
+    "query": "What is the official language of Bernese Jura?",
+    "answer": " French",
+    "sub": "Bernese Jura"
+  },
+  {
+    "query": "What is the official language of Czechoslovakia?",
+    "answer": " Slovak",
+    "sub": "Czechoslovakia"
+  },
+  {
+    "query": "What is the official language of Salla?",
+    "answer": " Finnish",
+    "sub": "Salla"
+  },
+  {
+    "query": "What is the official language of Kiuruvesi?",
+    "answer": " Finnish",
+    "sub": "Kiuruvesi"
+  },
+  {
+    "query": "What is the official language of Pirkkala?",
+    "answer": " Finnish",
+    "sub": "Pirkkala"
+  },
+  {
+    "query": "What is the official language of Malax?",
+    "answer": " Finnish",
+    "sub": "Malax"
+  },
+  {
+    "query": "What is the official language of Donetsk Oblast?",
+    "answer": " Russian",
+    "sub": "Donetsk Oblast"
+  },
+  {
+    "query": "What is the official language of Loimaa?",
+    "answer": " Finnish",
+    "sub": "Loimaa"
+  },
+  {
+    "query": "What is the official language of National Film Board of Canada?",
+    "answer": " English",
+    "sub": "National Film Board of Canada"
+  },
+  {
+    "query": "What is the official language of Israel?",
+    "answer": " Hebrew",
+    "sub": "Israel"
+  },
+  {
+    "query": "What is the official language of Samoa?",
+    "answer": " English",
+    "sub": "Samoa"
+  },
+  {
+    "query": "What is the official language of Republic of Tatarstan?",
+    "answer": " Russian",
+    "sub": "Republic of Tatarstan"
+  },
+  {
+    "query": "What is the official language of Brussels Capital Region?",
+    "answer": " Dutch",
+    "sub": "Brussels Capital Region"
+  },
+  {
+    "query": "What is the official language of Hawaii?",
+    "answer": " Hawaiian",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "What is the official language of Switzerland?",
+    "answer": " French",
+    "sub": "Switzerland"
+  },
+  {
+    "query": "What is the official language of Kajaani?",
+    "answer": " Finnish",
+    "sub": "Kajaani"
+  },
+  {
+    "query": "What is the official language of Kingdom of Deheubarth?",
+    "answer": " Welsh",
+    "sub": "Kingdom of Deheubarth"
+  },
+  {
+    "query": "What is the official language of Belgium?",
+    "answer": " German",
+    "sub": "Belgium"
+  },
+  {
+    "query": "What is the official language of Nauru?",
+    "answer": " English",
+    "sub": "Nauru"
+  },
+  {
+    "query": "What is the official language of Delhi?",
+    "answer": " English",
+    "sub": "Delhi"
+  },
+  {
+    "query": "What is the official language of Navarre?",
+    "answer": " Spanish",
+    "sub": "Navarre"
+  },
+  {
+    "query": "What is the official language of Ibiza?",
+    "answer": " Spanish",
+    "sub": "Ibiza"
+  },
+  {
+    "query": "What is the official language of Jomala?",
+    "answer": " Swedish",
+    "sub": "Jomala"
+  },
+  {
+    "query": "What is the official language of Kerala?",
+    "answer": " English",
+    "sub": "Kerala"
+  },
+  {
+    "query": "What is the official language of Falkland Islands?",
+    "answer": " English",
+    "sub": "Falkland Islands"
+  },
+  {
+    "query": "What is the official language of Mari El Republic?",
+    "answer": " Mari",
+    "sub": "Mari El Republic"
+  },
+  {
+    "query": "What is the official language of Free City of Danzig?",
+    "answer": " Polish",
+    "sub": "Free City of Danzig"
+  },
+  {
+    "query": "What is the official language of UEFA?",
+    "answer": " French",
+    "sub": "UEFA"
+  },
+  {
+    "query": "What is the official language of Couto Misto?",
+    "answer": " Portuguese",
+    "sub": "Couto Misto"
+  },
+  {
+    "query": "What is the official language of Friesland?",
+    "answer": " Dutch",
+    "sub": "Friesland"
+  },
+  {
+    "query": "What is the official language of Guinea?",
+    "answer": " French",
+    "sub": "Guinea"
+  },
+  {
+    "query": "What is the official language of Udmurt Autonomous Soviet Socialist Republic?",
+    "answer": " Russian",
+    "sub": "Udmurt Autonomous Soviet Socialist Republic"
+  },
+  {
+    "query": "What is the official language of Coimbatore?",
+    "answer": " Tamil",
+    "sub": "Coimbatore"
+  },
+  {
+    "query": "What is the official language of Australia?",
+    "answer": " English",
+    "sub": "Australia"
+  },
+  {
+    "query": "What is the official language of Peru?",
+    "answer": " Spanish",
+    "sub": "Peru"
+  },
+  {
+    "query": "What is the official language of Delhi?",
+    "answer": " Punjabi",
+    "sub": "Delhi"
+  },
+  {
+    "query": "What is the official language of Swiss Federal Constitution?",
+    "answer": " French",
+    "sub": "Swiss Federal Constitution"
+  },
+  {
+    "query": "What is the official language of Bengkulu?",
+    "answer": " Indonesian",
+    "sub": "Bengkulu"
+  },
+  {
+    "query": "What is the official language of Lesotho?",
+    "answer": " English",
+    "sub": "Lesotho"
+  },
+  {
+    "query": "What is the official language of Juankoski?",
+    "answer": " Finnish",
+    "sub": "Juankoski"
+  },
+  {
+    "query": "What is the official language of India?",
+    "answer": " English",
+    "sub": "India"
+  },
+  {
+    "query": "What is the official language of Pitcairn Islands?",
+    "answer": " English",
+    "sub": "Pitcairn Islands"
+  },
+  {
+    "query": "What is the official language of Khanty-Mansi Autonomous Okrug?",
+    "answer": " Russian",
+    "sub": "Khanty-Mansi Autonomous Okrug"
+  },
+  {
+    "query": "What is the official language of Zimbabwe?",
+    "answer": " English",
+    "sub": "Zimbabwe"
+  },
+  {
+    "query": "What is the official language of Lucerne?",
+    "answer": " German",
+    "sub": "Lucerne"
+  },
+  {
+    "query": "What is the official language of Transnistria?",
+    "answer": " Ukrainian",
+    "sub": "Transnistria"
+  },
+  {
+    "query": "What is the official language of Djibouti?",
+    "answer": " French",
+    "sub": "Djibouti"
+  },
+  {
+    "query": "What is the official language of Vallorbe?",
+    "answer": " French",
+    "sub": "Vallorbe"
+  },
+  {
+    "query": "What is the official language of Wappo people?",
+    "answer": " English",
+    "sub": "Wappo people"
+  },
+  {
+    "query": "What is the official language of Sahrawi Arab Democratic Republic?",
+    "answer": " Spanish",
+    "sub": "Sahrawi Arab Democratic Republic"
+  },
+  {
+    "query": "What is the official language of Sint Eustatius?",
+    "answer": " English",
+    "sub": "Sint Eustatius"
+  },
+  {
+    "query": "What is the official language of Montana?",
+    "answer": " English",
+    "sub": "Montana"
+  },
+  {
+    "query": "What is the official language of The Bahamas?",
+    "answer": " English",
+    "sub": "The Bahamas"
+  },
+  {
+    "query": "What is the official language of Republic of Dagestan?",
+    "answer": " Azerbaijani",
+    "sub": "Republic of Dagestan"
+  },
+  {
+    "query": "What is the official language of North Macedonia?",
+    "answer": " Macedonian",
+    "sub": "North Macedonia"
+  },
+  {
+    "query": "What is the official language of Ontario?",
+    "answer": " English",
+    "sub": "Ontario"
+  },
+  {
+    "query": "What is the official language of Alberta?",
+    "answer": " English",
+    "sub": "Alberta"
+  },
+  {
+    "query": "What is the official language of Montenegro?",
+    "answer": " Serbian",
+    "sub": "Montenegro"
+  },
+  {
+    "query": "What is the official language of Zhovti Vody?",
+    "answer": " Ukrainian",
+    "sub": "Zhovti Vody"
+  },
+  {
+    "query": "What is the official language of Kuusamo?",
+    "answer": " Finnish",
+    "sub": "Kuusamo"
+  },
+  {
+    "query": "What is the official language of Jammu and Kashmir?",
+    "answer": " Urdu",
+    "sub": "Jammu and Kashmir"
+  },
+  {
+    "query": "What is the official language of Nastola?",
+    "answer": " Finnish",
+    "sub": "Nastola"
+  },
+  {
+    "query": "What is the official language of Eswatini?",
+    "answer": " English",
+    "sub": "Eswatini"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Dutch",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Grenada?",
+    "answer": " English",
+    "sub": "Grenada"
+  },
+  {
+    "query": "What is the official language of Alderney?",
+    "answer": " English",
+    "sub": "Alderney"
+  },
+  {
+    "query": "What is the official language of Canton Aargau?",
+    "answer": " German",
+    "sub": "Canton Aargau"
+  },
+  {
+    "query": "What is the official language of Republic of Khakassia?",
+    "answer": " Russian",
+    "sub": "Republic of Khakassia"
+  },
+  {
+    "query": "What is the official language of Chechen Republic?",
+    "answer": " Russian",
+    "sub": "Chechen Republic"
+  },
+  {
+    "query": "What is the official language of Mykolaiv Oblast?",
+    "answer": " Russian",
+    "sub": "Mykolaiv Oblast"
+  },
+  {
+    "query": "What is the official language of Punjab?",
+    "answer": " Punjabi",
+    "sub": "Punjab"
+  },
+  {
+    "query": "What is the official language of Rwanda?",
+    "answer": " English",
+    "sub": "Rwanda"
+  },
+  {
+    "query": "What is the official language of Finland?",
+    "answer": " Finnish",
+    "sub": "Finland"
+  },
+  {
+    "query": "What is the official language of Loviisa?",
+    "answer": " Swedish",
+    "sub": "Loviisa"
+  },
+  {
+    "query": "What is the official language of Nebraska?",
+    "answer": " English",
+    "sub": "Nebraska"
+  },
+  {
+    "query": "What is the official language of Poland?",
+    "answer": " Polish",
+    "sub": "Poland"
+  },
+  {
+    "query": "What is the official language of Ukrainian Soviet Socialist Republic?",
+    "answer": " Russian",
+    "sub": "Ukrainian Soviet Socialist Republic"
+  },
+  {
+    "query": "What is the official language of Nyon?",
+    "answer": " French",
+    "sub": "Nyon"
+  },
+  {
+    "query": "What is the official language of Basel?",
+    "answer": " German",
+    "sub": "Basel"
+  },
+  {
+    "query": "What is the official language of Arkansas?",
+    "answer": " English",
+    "sub": "Arkansas"
+  },
+  {
+    "query": "What is the official language of Romania?",
+    "answer": " Romanian",
+    "sub": "Romania"
+  },
+  {
+    "query": "What is the official language of Kaskinen?",
+    "answer": " Finnish",
+    "sub": "Kaskinen"
+  },
+  {
+    "query": "What is the official language of Kingdom of the Lombards?",
+    "answer": " Latin",
+    "sub": "Kingdom of the Lombards"
+  },
+  {
+    "query": "What is the official language of Sri Lanka?",
+    "answer": " Tamil",
+    "sub": "Sri Lanka"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Greek",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Ylitornio?",
+    "answer": " Finnish",
+    "sub": "Ylitornio"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Irish",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Kenya?",
+    "answer": " English",
+    "sub": "Kenya"
+  },
+  {
+    "query": "What is the official language of French Southern and Antarctic Lands?",
+    "answer": " French",
+    "sub": "French Southern and Antarctic Lands"
+  },
+  {
+    "query": "What is the official language of Ghana?",
+    "answer": " English",
+    "sub": "Ghana"
+  },
+  {
+    "query": "What is the official language of Kauhajoki?",
+    "answer": " Finnish",
+    "sub": "Kauhajoki"
+  },
+  {
+    "query": "What is the official language of Raahe?",
+    "answer": " Finnish",
+    "sub": "Raahe"
+  },
+  {
+    "query": "What is the official language of Provence?",
+    "answer": " French",
+    "sub": "Provence"
+  },
+  {
+    "query": "What is the official language of Slovenia?",
+    "answer": " Slovene",
+    "sub": "Slovenia"
+  },
+  {
+    "query": "What is the official language of Jakobstad?",
+    "answer": " Swedish",
+    "sub": "Jakobstad"
+  },
+  {
+    "query": "What is the official language of President of the Basque Autonomous Community?",
+    "answer": " Spanish",
+    "sub": "President of the Basque Autonomous Community"
+  },
+  {
+    "query": "What is the official language of Tervola?",
+    "answer": " Finnish",
+    "sub": "Tervola"
+  },
+  {
+    "query": "What is the official language of Moldova?",
+    "answer": " Romanian",
+    "sub": "Moldova"
+  },
+  {
+    "query": "What is the official language of Ruovesi?",
+    "answer": " Finnish",
+    "sub": "Ruovesi"
+  },
+  {
+    "query": "What is the official language of ASEAN?",
+    "answer": " Filipino",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "What is the official language of A Ver-o-Mar?",
+    "answer": " Portuguese",
+    "sub": "A Ver-o-Mar"
+  },
+  {
+    "query": "What is the official language of Organization for Security and Co-operation in Europe?",
+    "answer": " French",
+    "sub": "Organization for Security and Co-operation in Europe"
+  },
+  {
+    "query": "What is the official language of French Guiana?",
+    "answer": " French",
+    "sub": "French Guiana"
+  },
+  {
+    "query": "What is the official language of Lithuania?",
+    "answer": " Lithuanian",
+    "sub": "Lithuania"
+  },
+  {
+    "query": "What is the official language of Kristinestad?",
+    "answer": " Finnish",
+    "sub": "Kristinestad"
+  },
+  {
+    "query": "What is the official language of Komi Republic?",
+    "answer": " Russian",
+    "sub": "Komi Republic"
+  },
+  {
+    "query": "What is the official language of Anguilla?",
+    "answer": " English",
+    "sub": "Anguilla"
+  },
+  {
+    "query": "What is the official language of Belize?",
+    "answer": " English",
+    "sub": "Belize"
+  },
+  {
+    "query": "What is the official language of Mercosur?",
+    "answer": " Spanish",
+    "sub": "Mercosur"
+  },
+  {
+    "query": "What is the official language of Spain?",
+    "answer": " Catalan",
+    "sub": "Spain"
+  },
+  {
+    "query": "What is the official language of Pelkosenniemi?",
+    "answer": " Finnish",
+    "sub": "Pelkosenniemi"
+  },
+  {
+    "query": "What is the official language of Barbados?",
+    "answer": " English",
+    "sub": "Barbados"
+  },
+  {
+    "query": "What is the official language of Melitopol?",
+    "answer": " Ukrainian",
+    "sub": "Melitopol"
+  },
+  {
+    "query": "What is the official language of Sigtuna Municipality?",
+    "answer": " Swedish",
+    "sub": "Sigtuna Municipality"
+  },
+  {
+    "query": "What is the official language of Nykarleby?",
+    "answer": " Finnish",
+    "sub": "Nykarleby"
+  },
+  {
+    "query": "What is the official language of West Germany?",
+    "answer": " German",
+    "sub": "West Germany"
+  },
+  {
+    "query": "What is the official language of Nenets Autonomous Okrug?",
+    "answer": " Russian",
+    "sub": "Nenets Autonomous Okrug"
+  },
+  {
+    "query": "What is the official language of Caribbean Netherlands?",
+    "answer": " English",
+    "sub": "Caribbean Netherlands"
+  },
+  {
+    "query": "What is the official language of Colombia?",
+    "answer": " Spanish",
+    "sub": "Colombia"
+  },
+  {
+    "query": "What is the official language of Kauhava?",
+    "answer": " Finnish",
+    "sub": "Kauhava"
+  },
+  {
+    "query": "What is the official language of Bahia?",
+    "answer": " Portuguese",
+    "sub": "Bahia"
+  },
+  {
+    "query": "What is the official language of Brunei?",
+    "answer": " English",
+    "sub": "Brunei"
+  },
+  {
+    "query": "What is the official language of Kingdom of Sicily?",
+    "answer": " Latin",
+    "sub": "Kingdom of Sicily"
+  },
+  {
+    "query": "What is the official language of Donetsk Oblast?",
+    "answer": " Ukrainian",
+    "sub": "Donetsk Oblast"
+  },
+  {
+    "query": "What is the official language of Jambi?",
+    "answer": " Malay",
+    "sub": "Jambi"
+  },
+  {
+    "query": "What is the official language of Patna?",
+    "answer": " Hindi",
+    "sub": "Patna"
+  },
+  {
+    "query": "What is the official language of Union between Sweden and Norway?",
+    "answer": " Swedish",
+    "sub": "Union between Sweden and Norway"
+  },
+  {
+    "query": "What is the official language of Sevastopol?",
+    "answer": " Ukrainian",
+    "sub": "Sevastopol"
+  },
+  {
+    "query": "What is the official language of Royal 22e Régiment?",
+    "answer": " French",
+    "sub": "Royal 22e Régiment"
+  },
+  {
+    "query": "What is the official language of Les Bois?",
+    "answer": " French",
+    "sub": "Les Bois"
+  },
+  {
+    "query": "What is the official language of Pakistan?",
+    "answer": " Urdu",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "What is the official language of Varkaus?",
+    "answer": " Finnish",
+    "sub": "Varkaus"
+  },
+  {
+    "query": "What is the official language of Mariehamn?",
+    "answer": " Swedish",
+    "sub": "Mariehamn"
+  },
+  {
+    "query": "What is the official language of Canton of Bern?",
+    "answer": " French",
+    "sub": "Canton of Bern"
+  },
+  {
+    "query": "What is the official language of Luhansk People's Republic?",
+    "answer": " Ukrainian",
+    "sub": "Luhansk People's Republic"
+  },
+  {
+    "query": "What is the official language of French immersion?",
+    "answer": " French",
+    "sub": "French immersion"
+  },
+  {
+    "query": "What is the official language of La Chaux-de-Fonds?",
+    "answer": " French",
+    "sub": "La Chaux-de-Fonds"
+  },
+  {
+    "query": "What is the official language of Kaarina?",
+    "answer": " Finnish",
+    "sub": "Kaarina"
+  },
+  {
+    "query": "What is the official language of Grand Duchy of Moscow?",
+    "answer": " Russian",
+    "sub": "Grand Duchy of Moscow"
+  },
+  {
+    "query": "What is the official language of Czechoslovakia?",
+    "answer": " Czech",
+    "sub": "Czechoslovakia"
+  },
+  {
+    "query": "What is the official language of Senegal?",
+    "answer": " French",
+    "sub": "Senegal"
+  },
+  {
+    "query": "What is the official language of Le Locle?",
+    "answer": " French",
+    "sub": "Le Locle"
+  },
+  {
+    "query": "What is the official language of Kirkkonummi?",
+    "answer": " Swedish",
+    "sub": "Kirkkonummi"
+  },
+  {
+    "query": "What is the official language of Porvoo?",
+    "answer": " Finnish",
+    "sub": "Porvoo"
+  },
+  {
+    "query": "What is the official language of Sovereign Military Order of Malta?",
+    "answer": " Latin",
+    "sub": "Sovereign Military Order of Malta"
+  },
+  {
+    "query": "What is the official language of Parainen?",
+    "answer": " Finnish",
+    "sub": "Parainen"
+  },
+  {
+    "query": "What is the official language of Nunavut?",
+    "answer": " English",
+    "sub": "Nunavut"
+  },
+  {
+    "query": "What is the official language of Geneva?",
+    "answer": " French",
+    "sub": "Geneva"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Bulgarian",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Canton of Bern?",
+    "answer": " German",
+    "sub": "Canton of Bern"
+  },
+  {
+    "query": "What is the official language of Meyrin?",
+    "answer": " French",
+    "sub": "Meyrin"
+  },
+  {
+    "query": "What is the official language of World Health Organization?",
+    "answer": " English",
+    "sub": "World Health Organization"
+  },
+  {
+    "query": "What is the official language of North Kosovo?",
+    "answer": " Serbian",
+    "sub": "North Kosovo"
+  },
+  {
+    "query": "What is the official language of Sint Eustatius?",
+    "answer": " Dutch",
+    "sub": "Sint Eustatius"
+  },
+  {
+    "query": "What is the official language of Bosnia and Herzegovina?",
+    "answer": " Serbian",
+    "sub": "Bosnia and Herzegovina"
+  },
+  {
+    "query": "What is the official language of South Tyrol?",
+    "answer": " Italian",
+    "sub": "South Tyrol"
+  },
+  {
+    "query": "What is the official language of Finland?",
+    "answer": " Swedish",
+    "sub": "Finland"
+  },
+  {
+    "query": "What is the official language of Savoy?",
+    "answer": " French",
+    "sub": "Savoy"
+  },
+  {
+    "query": "What is the official language of Papua New Guinea?",
+    "answer": " English",
+    "sub": "Papua New Guinea"
+  },
+  {
+    "query": "What is the official language of Ticino?",
+    "answer": " Italian",
+    "sub": "Ticino"
+  },
+  {
+    "query": "What is the official language of Lieto?",
+    "answer": " Finnish",
+    "sub": "Lieto"
+  },
+  {
+    "query": "What is the official language of Malta?",
+    "answer": " Maltese",
+    "sub": "Malta"
+  },
+  {
+    "query": "What is the official language of Rwanda?",
+    "answer": " French",
+    "sub": "Rwanda"
+  },
+  {
+    "query": "What is the official language of Jokioinen?",
+    "answer": " Finnish",
+    "sub": "Jokioinen"
+  },
+  {
+    "query": "What is the official language of Maaninka?",
+    "answer": " Finnish",
+    "sub": "Maaninka"
+  },
+  {
+    "query": "What is the official language of Nepal?",
+    "answer": " Nepali",
+    "sub": "Nepal"
+  },
+  {
+    "query": "What is the official language of Botkyrka Municipality?",
+    "answer": " Swedish",
+    "sub": "Botkyrka Municipality"
+  },
+  {
+    "query": "What is the official language of Saltvik?",
+    "answer": " Swedish",
+    "sub": "Saltvik"
+  },
+  {
+    "query": "What is the official language of Pontianak Sultanate?",
+    "answer": " Malay",
+    "sub": "Pontianak Sultanate"
+  },
+  {
+    "query": "What is the official language of Republic of Venice?",
+    "answer": " Italian",
+    "sub": "Republic of Venice"
+  },
+  {
+    "query": "What is the official language of Chad?",
+    "answer": " French",
+    "sub": "Chad"
+  },
+  {
+    "query": "What is the official language of Caslano?",
+    "answer": " Italian",
+    "sub": "Caslano"
+  },
+  {
+    "query": "What is the official language of Yerevan?",
+    "answer": " Armenian",
+    "sub": "Yerevan"
+  },
+  {
+    "query": "What is the official language of Bolivia?",
+    "answer": " Spanish",
+    "sub": "Bolivia"
+  },
+  {
+    "query": "What is the official language of Benelux?",
+    "answer": " Dutch",
+    "sub": "Benelux"
+  },
+  {
+    "query": "What is the official language of Malaysia?",
+    "answer": " English",
+    "sub": "Malaysia"
+  },
+  {
+    "query": "What is the official language of Val d'Aran?",
+    "answer": " Spanish",
+    "sub": "Val d'Aran"
+  },
+  {
+    "query": "What is the official language of Russian Empire?",
+    "answer": " Finnish",
+    "sub": "Russian Empire"
+  },
+  {
+    "query": "What is the official language of South Sudan?",
+    "answer": " English",
+    "sub": "South Sudan"
+  },
+  {
+    "query": "What is the official language of Equatorial Guinea?",
+    "answer": " French",
+    "sub": "Equatorial Guinea"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Hungarian",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Banten?",
+    "answer": " Indonesian",
+    "sub": "Banten"
+  },
+  {
+    "query": "What is the official language of Gothenburg Municipality?",
+    "answer": " Swedish",
+    "sub": "Gothenburg Municipality"
+  },
+  {
+    "query": "What is the official language of Huddinge Municipality?",
+    "answer": " Swedish",
+    "sub": "Huddinge Municipality"
+  },
+  {
+    "query": "What is the official language of Loppi?",
+    "answer": " Finnish",
+    "sub": "Loppi"
+  },
+  {
+    "query": "What is the official language of Kyrgyzstan?",
+    "answer": " Russian",
+    "sub": "Kyrgyzstan"
+  },
+  {
+    "query": "What is the official language of Porvoo?",
+    "answer": " Swedish",
+    "sub": "Porvoo"
+  },
+  {
+    "query": "What is the official language of Vihti?",
+    "answer": " Finnish",
+    "sub": "Vihti"
+  },
+  {
+    "query": "What is the official language of Basel-Stadt?",
+    "answer": " German",
+    "sub": "Basel-Stadt"
+  },
+  {
+    "query": "What is the official language of Flemish Region?",
+    "answer": " Dutch",
+    "sub": "Flemish Region"
+  },
+  {
+    "query": "What is the official language of Tierp Municipality?",
+    "answer": " Swedish",
+    "sub": "Tierp Municipality"
+  },
+  {
+    "query": "What is the official language of Japan?",
+    "answer": " Japanese",
+    "sub": "Japan"
+  },
+  {
+    "query": "What is the official language of Alavus?",
+    "answer": " Finnish",
+    "sub": "Alavus"
+  },
+  {
+    "query": "What is the official language of Byelorussian Soviet Socialist Republic?",
+    "answer": " Russian",
+    "sub": "Byelorussian Soviet Socialist Republic"
+  },
+  {
+    "query": "What is the official language of Kangasala?",
+    "answer": " Finnish",
+    "sub": "Kangasala"
+  },
+  {
+    "query": "What is the official language of Iran?",
+    "answer": " Persian",
+    "sub": "Iran"
+  },
+  {
+    "query": "What is the official language of Tampere?",
+    "answer": " Finnish",
+    "sub": "Tampere"
+  },
+  {
+    "query": "What is the official language of Oulu?",
+    "answer": " Finnish",
+    "sub": "Oulu"
+  },
+  {
+    "query": "What is the official language of Nazi Germany?",
+    "answer": " German",
+    "sub": "Nazi Germany"
+  },
+  {
+    "query": "What is the official language of Espoo?",
+    "answer": " Swedish",
+    "sub": "Espoo"
+  },
+  {
+    "query": "What is the official language of Aragon?",
+    "answer": " Spanish",
+    "sub": "Aragon"
+  },
+  {
+    "query": "What is the official language of Panama?",
+    "answer": " Spanish",
+    "sub": "Panama"
+  },
+  {
+    "query": "What is the official language of Quebec?",
+    "answer": " French",
+    "sub": "Quebec"
+  },
+  {
+    "query": "What is the official language of Roman Empire?",
+    "answer": " Latin",
+    "sub": "Roman Empire"
+  },
+  {
+    "query": "What is the official language of Equatorial Guinea?",
+    "answer": " Spanish",
+    "sub": "Equatorial Guinea"
+  },
+  {
+    "query": "What is the official language of Church of Greece?",
+    "answer": " Greek",
+    "sub": "Church of Greece"
+  },
+  {
+    "query": "What is the official language of Newfoundland and Labrador?",
+    "answer": " English",
+    "sub": "Newfoundland and Labrador"
+  },
+  {
+    "query": "What is the official language of Kaustinen?",
+    "answer": " Finnish",
+    "sub": "Kaustinen"
+  },
+  {
+    "query": "What is the official language of Yamalo-Nenets Autonomous Okrug?",
+    "answer": " Russian",
+    "sub": "Yamalo-Nenets Autonomous Okrug"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Estonian",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of South Tyrol?",
+    "answer": " German",
+    "sub": "South Tyrol"
+  },
+  {
+    "query": "What is the official language of Moudon?",
+    "answer": " French",
+    "sub": "Moudon"
+  },
+  {
+    "query": "What is the official language of Versoix?",
+    "answer": " French",
+    "sub": "Versoix"
+  },
+  {
+    "query": "What is the official language of Republic of Venice?",
+    "answer": " Latin",
+    "sub": "Republic of Venice"
+  },
+  {
+    "query": "What is the official language of International Commission on Illumination?",
+    "answer": " French",
+    "sub": "International Commission on Illumination"
+  },
+  {
+    "query": "What is the official language of Keminmaa?",
+    "answer": " Finnish",
+    "sub": "Keminmaa"
+  },
+  {
+    "query": "What is the official language of State of Brazil?",
+    "answer": " Portuguese",
+    "sub": "State of Brazil"
+  },
+  {
+    "query": "What is the official language of Kumlinge?",
+    "answer": " Swedish",
+    "sub": "Kumlinge"
+  },
+  {
+    "query": "What is the official language of Benelux?",
+    "answer": " French",
+    "sub": "Benelux"
+  },
+  {
+    "query": "What is the official language of Menorca?",
+    "answer": " Catalan",
+    "sub": "Menorca"
+  },
+  {
+    "query": "What is the official language of United Nations?",
+    "answer": " Spanish",
+    "sub": "United Nations"
+  },
+  {
+    "query": "What is the official language of Saba?",
+    "answer": " Dutch",
+    "sub": "Saba"
+  },
+  {
+    "query": "What is the official language of Qing dynasty?",
+    "answer": " Tibetan",
+    "sub": "Qing dynasty"
+  },
+  {
+    "query": "What is the official language of Juva?",
+    "answer": " Finnish",
+    "sub": "Juva"
+  },
+  {
+    "query": "What is the official language of Luhansk Oblast?",
+    "answer": " Ukrainian",
+    "sub": "Luhansk Oblast"
+  },
+  {
+    "query": "What is the official language of Vaasa?",
+    "answer": " Swedish",
+    "sub": "Vaasa"
+  },
+  {
+    "query": "What is the official language of Sakha Republic?",
+    "answer": " Russian",
+    "sub": "Sakha Republic"
+  },
+  {
+    "query": "What is the official language of Delhi?",
+    "answer": " Hindi",
+    "sub": "Delhi"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Polish",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of United States Virgin Islands?",
+    "answer": " English",
+    "sub": "United States Virgin Islands"
+  },
+  {
+    "query": "What is the official language of Jokkmokk Municipality?",
+    "answer": " Swedish",
+    "sub": "Jokkmokk Municipality"
+  },
+  {
+    "query": "What is the official language of Dominican Republic?",
+    "answer": " Spanish",
+    "sub": "Dominican Republic"
+  },
+  {
+    "query": "What is the official language of Wales?",
+    "answer": " Welsh",
+    "sub": "Wales"
+  },
+  {
+    "query": "What is the official language of Ouchy?",
+    "answer": " French",
+    "sub": "Ouchy"
+  },
+  {
+    "query": "What is the official language of Lucknow?",
+    "answer": " Urdu",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "What is the official language of Donetsk?",
+    "answer": " Ukrainian",
+    "sub": "Donetsk"
+  },
+  {
+    "query": "What is the official language of Flanders?",
+    "answer": " Dutch",
+    "sub": "Flanders"
+  },
+  {
+    "query": "What is the official language of Krokom Municipality?",
+    "answer": " Swedish",
+    "sub": "Krokom Municipality"
+  },
+  {
+    "query": "What is the official language of Huittinen?",
+    "answer": " Finnish",
+    "sub": "Huittinen"
+  },
+  {
+    "query": "What is the official language of Lapua?",
+    "answer": " Finnish",
+    "sub": "Lapua"
+  },
+  {
+    "query": "What is the official language of Jewish Autonomous Oblast?",
+    "answer": " Russian",
+    "sub": "Jewish Autonomous Oblast"
+  },
+  {
+    "query": "What is the official language of International Academy of Sciences San Marino?",
+    "answer": " English",
+    "sub": "International Academy of Sciences San Marino"
+  },
+  {
+    "query": "What is the official language of Sundbyberg Municipality?",
+    "answer": " Swedish",
+    "sub": "Sundbyberg Municipality"
+  },
+  {
+    "query": "What is the official language of British Columbia?",
+    "answer": " English",
+    "sub": "British Columbia"
+  },
+  {
+    "query": "What is the official language of Kangasniemi?",
+    "answer": " Finnish",
+    "sub": "Kangasniemi"
+  },
+  {
+    "query": "What is the official language of Belgium?",
+    "answer": " Dutch",
+    "sub": "Belgium"
+  },
+  {
+    "query": "What is the official language of Cossonay?",
+    "answer": " French",
+    "sub": "Cossonay"
+  },
+  {
+    "query": "What is the official language of Congress Poland?",
+    "answer": " Polish",
+    "sub": "Congress Poland"
+  },
+  {
+    "query": "What is the official language of Quetzaltenango?",
+    "answer": " Spanish",
+    "sub": "Quetzaltenango"
+  },
+  {
+    "query": "What is the official language of Byzantine Empire?",
+    "answer": " Latin",
+    "sub": "Byzantine Empire"
+  },
+  {
+    "query": "What is the official language of Ireland?",
+    "answer": " English",
+    "sub": "Ireland"
+  },
+  {
+    "query": "What is the official language of Netherlands?",
+    "answer": " Dutch",
+    "sub": "Netherlands"
+  },
+  {
+    "query": "What is the official language of Suonenjoki?",
+    "answer": " Finnish",
+    "sub": "Suonenjoki"
+  },
+  {
+    "query": "What is the official language of Kansas?",
+    "answer": " English",
+    "sub": "Kansas"
+  },
+  {
+    "query": "What is the official language of Vantaa?",
+    "answer": " Finnish",
+    "sub": "Vantaa"
+  },
+  {
+    "query": "What is the official language of South Africa?",
+    "answer": " English",
+    "sub": "South Africa"
+  },
+  {
+    "query": "What is the official language of Locarno?",
+    "answer": " Italian",
+    "sub": "Locarno"
+  },
+  {
+    "query": "What is the official language of County of Ribagorza?",
+    "answer": " Catalan",
+    "sub": "County of Ribagorza"
+  },
+  {
+    "query": "What is the official language of Vanuatu?",
+    "answer": " English",
+    "sub": "Vanuatu"
+  },
+  {
+    "query": "What is the official language of Siuntio?",
+    "answer": " Finnish",
+    "sub": "Siuntio"
+  },
+  {
+    "query": "What is the official language of Institut d'Estudis Catalans?",
+    "answer": " Catalan",
+    "sub": "Institut d'Estudis Catalans"
+  },
+  {
+    "query": "What is the official language of Vevey?",
+    "answer": " French",
+    "sub": "Vevey"
+  },
+  {
+    "query": "What is the official language of Canton of Geneva?",
+    "answer": " French",
+    "sub": "Canton of Geneva"
+  },
+  {
+    "query": "What is the official language of Montenegro?",
+    "answer": " Croatian",
+    "sub": "Montenegro"
+  },
+  {
+    "query": "What is the official language of Suriname?",
+    "answer": " Dutch",
+    "sub": "Suriname"
+  },
+  {
+    "query": "What is the official language of Jharkhand?",
+    "answer": " Hindi",
+    "sub": "Jharkhand"
+  },
+  {
+    "query": "What is the official language of Lugano?",
+    "answer": " Italian",
+    "sub": "Lugano"
+  },
+  {
+    "query": "What is the official language of Udmurt Republic?",
+    "answer": " Russian",
+    "sub": "Udmurt Republic"
+  },
+  {
+    "query": "What is the official language of Loviisa?",
+    "answer": " Finnish",
+    "sub": "Loviisa"
+  },
+  {
+    "query": "What is the official language of Colorado?",
+    "answer": " English",
+    "sub": "Colorado"
+  },
+  {
+    "query": "What is the official language of Siikainen?",
+    "answer": " Finnish",
+    "sub": "Siikainen"
+  },
+  {
+    "query": "What is the official language of Vaasa?",
+    "answer": " Finnish",
+    "sub": "Vaasa"
+  },
+  {
+    "query": "What is the official language of Swiss Federal Constitution?",
+    "answer": " Italian",
+    "sub": "Swiss Federal Constitution"
+  },
+  {
+    "query": "What is the official language of Kabardino-Balkaria?",
+    "answer": " Russian",
+    "sub": "Kabardino-Balkaria"
+  },
+  {
+    "query": "What is the official language of Tonga?",
+    "answer": " English",
+    "sub": "Tonga"
+  },
+  {
+    "query": "What is the official language of Lapinlahti?",
+    "answer": " Finnish",
+    "sub": "Lapinlahti"
+  },
+  {
+    "query": "What is the official language of England?",
+    "answer": " English",
+    "sub": "England"
+  },
+  {
+    "query": "What is the official language of Equatorial Guinea?",
+    "answer": " Portuguese",
+    "sub": "Equatorial Guinea"
+  },
+  {
+    "query": "What is the official language of Forssa?",
+    "answer": " Finnish",
+    "sub": "Forssa"
+  },
+  {
+    "query": "What is the official language of Transnistria?",
+    "answer": " Russian",
+    "sub": "Transnistria"
+  },
+  {
+    "query": "What is the official language of Byelorussian Soviet Socialist Republic?",
+    "answer": " Belarusian",
+    "sub": "Byelorussian Soviet Socialist Republic"
+  },
+  {
+    "query": "What is the official language of English plural?",
+    "answer": " English",
+    "sub": "English plural"
+  },
+  {
+    "query": "What is the official language of Collonge-Bellerive?",
+    "answer": " French",
+    "sub": "Collonge-Bellerive"
+  },
+  {
+    "query": "What is the official language of Kyustendil Province?",
+    "answer": " Bulgarian",
+    "sub": "Kyustendil Province"
+  },
+  {
+    "query": "What is the official language of Orimattila?",
+    "answer": " Finnish",
+    "sub": "Orimattila"
+  },
+  {
+    "query": "What is the official language of Ireland?",
+    "answer": " Irish",
+    "sub": "Ireland"
+  },
+  {
+    "query": "What is the official language of Guinea-Bissau?",
+    "answer": " Portuguese",
+    "sub": "Guinea-Bissau"
+  },
+  {
+    "query": "What is the official language of Bosnia and Herzegovina?",
+    "answer": " Croatian",
+    "sub": "Bosnia and Herzegovina"
+  },
+  {
+    "query": "What is the official language of Indiana?",
+    "answer": " English",
+    "sub": "Indiana"
+  },
+  {
+    "query": "What is the official language of Renens?",
+    "answer": " French",
+    "sub": "Renens"
+  },
+  {
+    "query": "What is the official language of North Korea?",
+    "answer": " Korean",
+    "sub": "North Korea"
+  },
+  {
+    "query": "What is the official language of Donetsk People's Republic?",
+    "answer": " Ukrainian",
+    "sub": "Donetsk People's Republic"
+  },
+  {
+    "query": "What is the official language of Kronoby?",
+    "answer": " Finnish",
+    "sub": "Kronoby"
+  },
+  {
+    "query": "What is the official language of Tavannes?",
+    "answer": " French",
+    "sub": "Tavannes"
+  },
+  {
+    "query": "What is the official language of Singapore?",
+    "answer": " Tamil",
+    "sub": "Singapore"
+  },
+  {
+    "query": "What is the official language of Russia?",
+    "answer": " Ukrainian",
+    "sub": "Russia"
+  },
+  {
+    "query": "What is the official language of Kingdom of Sicily?",
+    "answer": " Sicilian",
+    "sub": "Kingdom of Sicily"
+  },
+  {
+    "query": "What is the official language of Collective Security Treaty Organisation?",
+    "answer": " Russian",
+    "sub": "Collective Security Treaty Organisation"
+  },
+  {
+    "query": "What is the official language of Kuopio?",
+    "answer": " Finnish",
+    "sub": "Kuopio"
+  },
+  {
+    "query": "What is the official language of Kauniainen?",
+    "answer": " Finnish",
+    "sub": "Kauniainen"
+  },
+  {
+    "query": "What is the official language of Argentina?",
+    "answer": " Spanish",
+    "sub": "Argentina"
+  },
+  {
+    "query": "What is the official language of Eura?",
+    "answer": " Finnish",
+    "sub": "Eura"
+  },
+  {
+    "query": "What is the official language of Hollola?",
+    "answer": " Finnish",
+    "sub": "Hollola"
+  },
+  {
+    "query": "What is the official language of Mikkeli?",
+    "answer": " Finnish",
+    "sub": "Mikkeli"
+  },
+  {
+    "query": "What is the official language of Bernese Oberland?",
+    "answer": " German",
+    "sub": "Bernese Oberland"
+  },
+  {
+    "query": "What is the official language of Duchy of Normandy?",
+    "answer": " Norman",
+    "sub": "Duchy of Normandy"
+  },
+  {
+    "query": "What is the official language of Netherlands Antilles?",
+    "answer": " English",
+    "sub": "Netherlands Antilles"
+  },
+  {
+    "query": "What is the official language of Kontiolahti?",
+    "answer": " Finnish",
+    "sub": "Kontiolahti"
+  },
+  {
+    "query": "What is the official language of Royal Society of British Artists?",
+    "answer": " English",
+    "sub": "Royal Society of British Artists"
+  },
+  {
+    "query": "What is the official language of Espoo?",
+    "answer": " Finnish",
+    "sub": "Espoo"
+  },
+  {
+    "query": "What is the official language of Aarau?",
+    "answer": " German",
+    "sub": "Aarau"
+  },
+  {
+    "query": "What is the official language of Yalta?",
+    "answer": " Russian",
+    "sub": "Yalta"
+  },
+  {
+    "query": "What is the official language of Zhovti Vody?",
+    "answer": " Russian",
+    "sub": "Zhovti Vody"
+  },
+  {
+    "query": "What is the official language of Nova Scotia?",
+    "answer": " English",
+    "sub": "Nova Scotia"
+  },
+  {
+    "query": "What is the official language of Organisation for Economic Cooperation and Development?",
+    "answer": " English",
+    "sub": "Organisation for Economic Cooperation and Development"
+  },
+  {
+    "query": "What is the official language of Hawaii?",
+    "answer": " English",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "What is the official language of Campione d'Italia?",
+    "answer": " Italian",
+    "sub": "Campione d'Italia"
+  },
+  {
+    "query": "What is the official language of Vantaa?",
+    "answer": " Swedish",
+    "sub": "Vantaa"
+  },
+  {
+    "query": "What is the official language of Tsardom of Russia?",
+    "answer": " Russian",
+    "sub": "Tsardom of Russia"
+  },
+  {
+    "query": "What is the official language of Carouge?",
+    "answer": " French",
+    "sub": "Carouge"
+  },
+  {
+    "query": "What is the official language of Tolmezzo?",
+    "answer": " Italian",
+    "sub": "Tolmezzo"
+  },
+  {
+    "query": "What is the official language of World Health Organization?",
+    "answer": " Russian",
+    "sub": "World Health Organization"
+  },
+  {
+    "query": "What is the official language of Palau?",
+    "answer": " English",
+    "sub": "Palau"
+  },
+  {
+    "query": "What is the official language of County Cork?",
+    "answer": " Irish",
+    "sub": "County Cork"
+  },
+  {
+    "query": "What is the official language of Azerbaijan Soviet Socialist Republic?",
+    "answer": " Azerbaijani",
+    "sub": "Azerbaijan Soviet Socialist Republic"
+  },
+  {
+    "query": "What is the official language of Rovaniemi?",
+    "answer": " Finnish",
+    "sub": "Rovaniemi"
+  },
+  {
+    "query": "What is the official language of Vimpeli?",
+    "answer": " Finnish",
+    "sub": "Vimpeli"
+  },
+  {
+    "query": "What is the official language of Niue?",
+    "answer": " English",
+    "sub": "Niue"
+  },
+  {
+    "query": "What is the official language of Old Kingdom of Egypt?",
+    "answer": " Egyptian",
+    "sub": "Old Kingdom of Egypt"
+  },
+  {
+    "query": "What is the official language of Cote d'Ivoire?",
+    "answer": " French",
+    "sub": "Cote d'Ivoire"
+  },
+  {
+    "query": "What is the official language of Honduras?",
+    "answer": " Spanish",
+    "sub": "Honduras"
+  },
+  {
+    "query": "What is the official language of New Hampshire?",
+    "answer": " English",
+    "sub": "New Hampshire"
+  },
+  {
+    "query": "What is the official language of Cayman Islands?",
+    "answer": " English",
+    "sub": "Cayman Islands"
+  },
+  {
+    "query": "What is the official language of Burundi?",
+    "answer": " English",
+    "sub": "Burundi"
+  },
+  {
+    "query": "What is the official language of Kirkkonummi?",
+    "answer": " Finnish",
+    "sub": "Kirkkonummi"
+  },
+  {
+    "query": "What is the official language of Ikaalinen?",
+    "answer": " Finnish",
+    "sub": "Ikaalinen"
+  },
+  {
+    "query": "What is the official language of Cameroon?",
+    "answer": " English",
+    "sub": "Cameroon"
+  },
+  {
+    "query": "What is the official language of Alaska?",
+    "answer": " English",
+    "sub": "Alaska"
+  },
+  {
+    "query": "What is the official language of Isojoki?",
+    "answer": " Finnish",
+    "sub": "Isojoki"
+  },
+  {
+    "query": "What is the official language of Vatican City?",
+    "answer": " Italian",
+    "sub": "Vatican City"
+  },
+  {
+    "query": "What is the official language of Donetsk?",
+    "answer": " Russian",
+    "sub": "Donetsk"
+  },
+  {
+    "query": "What is the official language of Mozambique?",
+    "answer": " Portuguese",
+    "sub": "Mozambique"
+  },
+  {
+    "query": "What is the official language of Timor-Leste?",
+    "answer": " Portuguese",
+    "sub": "Timor-Leste"
+  },
+  {
+    "query": "What is the official language of Akrotiri and Dhekelia?",
+    "answer": " English",
+    "sub": "Akrotiri and Dhekelia"
+  },
+  {
+    "query": "What is the official language of L'Abbaye?",
+    "answer": " French",
+    "sub": "L'Abbaye"
+  },
+  {
+    "query": "What is the official language of British Antarctic Territory?",
+    "answer": " English",
+    "sub": "British Antarctic Territory"
+  },
+  {
+    "query": "What is the official language of Lieksa?",
+    "answer": " Finnish",
+    "sub": "Lieksa"
+  },
+  {
+    "query": "What is the official language of Brissago?",
+    "answer": " Italian",
+    "sub": "Brissago"
+  },
+  {
+    "query": "What is the official language of Russian Empire?",
+    "answer": " Russian",
+    "sub": "Russian Empire"
+  },
+  {
+    "query": "What is the official language of Nigeria?",
+    "answer": " English",
+    "sub": "Nigeria"
+  },
+  {
+    "query": "What is the official language of Kingdom of the Netherlands?",
+    "answer": " Dutch",
+    "sub": "Kingdom of the Netherlands"
+  },
+  {
+    "query": "What is the official language of Abkhazia?",
+    "answer": " Russian",
+    "sub": "Abkhazia"
+  },
+  {
+    "query": "What is the official language of Viitasaari?",
+    "answer": " Finnish",
+    "sub": "Viitasaari"
+  },
+  {
+    "query": "What is the official language of Mallorca?",
+    "answer": " Spanish",
+    "sub": "Mallorca"
+  },
+  {
+    "query": "What is the official language of Portugal?",
+    "answer": " Portuguese",
+    "sub": "Portugal"
+  },
+  {
+    "query": "What is the official language of Kalajoki?",
+    "answer": " Finnish",
+    "sub": "Kalajoki"
+  },
+  {
+    "query": "What is the official language of Union between Sweden and Norway?",
+    "answer": " Norwegian",
+    "sub": "Union between Sweden and Norway"
+  },
+  {
+    "query": "What is the official language of Haparanda Municipality?",
+    "answer": " Swedish",
+    "sub": "Haparanda Municipality"
+  },
+  {
+    "query": "What is the official language of Manitoba?",
+    "answer": " English",
+    "sub": "Manitoba"
+  },
+  {
+    "query": "What is the official language of Berg Municipality?",
+    "answer": " Swedish",
+    "sub": "Berg Municipality"
+  },
+  {
+    "query": "What is the official language of European Space Agency?",
+    "answer": " French",
+    "sub": "European Space Agency"
+  },
+  {
+    "query": "What is the official language of Malabo?",
+    "answer": " Spanish",
+    "sub": "Malabo"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Spanish",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Laukaa?",
+    "answer": " Finnish",
+    "sub": "Laukaa"
+  },
+  {
+    "query": "What is the official language of Kaavi?",
+    "answer": " Finnish",
+    "sub": "Kaavi"
+  },
+  {
+    "query": "What is the official language of Sipoo?",
+    "answer": " Finnish",
+    "sub": "Sipoo"
+  },
+  {
+    "query": "What is the official language of Mari El Republic?",
+    "answer": " Russian",
+    "sub": "Mari El Republic"
+  },
+  {
+    "query": "What is the official language of Helsinki?",
+    "answer": " Finnish",
+    "sub": "Helsinki"
+  },
+  {
+    "query": "What is the official language of French Community of Belgium?",
+    "answer": " French",
+    "sub": "French Community of Belgium"
+  },
+  {
+    "query": "What is the official language of Kuhmo?",
+    "answer": " Finnish",
+    "sub": "Kuhmo"
+  },
+  {
+    "query": "What is the official language of Catalonia?",
+    "answer": " Spanish",
+    "sub": "Catalonia"
+  },
+  {
+    "query": "What is the official language of Russian Empire?",
+    "answer": " Polish",
+    "sub": "Russian Empire"
+  },
+  {
+    "query": "What is the official language of Chhattisgarh?",
+    "answer": " Hindi",
+    "sub": "Chhattisgarh"
+  },
+  {
+    "query": "What is the official language of Heinola?",
+    "answer": " Finnish",
+    "sub": "Heinola"
+  },
+  {
+    "query": "What is the official language of Autonomous Republic of Crimea?",
+    "answer": " Ukrainian",
+    "sub": "Autonomous Republic of Crimea"
+  },
+  {
+    "query": "What is the official language of Seychelles?",
+    "answer": " English",
+    "sub": "Seychelles"
+  },
+  {
+    "query": "What is the official language of Navarre?",
+    "answer": " Basque",
+    "sub": "Navarre"
+  },
+  {
+    "query": "What is the official language of Chardonne?",
+    "answer": " French",
+    "sub": "Chardonne"
+  },
+  {
+    "query": "What is the official language of manually coded English?",
+    "answer": " English",
+    "sub": "manually coded English"
+  },
+  {
+    "query": "What is the official language of Spanish Empire?",
+    "answer": " Spanish",
+    "sub": "Spanish Empire"
+  },
+  {
+    "query": "What is the official language of Haninge Municipality?",
+    "answer": " Swedish",
+    "sub": "Haninge Municipality"
+  },
+  {
+    "query": "What is the official language of Saskatchewan?",
+    "answer": " English",
+    "sub": "Saskatchewan"
+  },
+  {
+    "query": "What is the official language of Ukrainian Soviet Socialist Republic?",
+    "answer": " Ukrainian",
+    "sub": "Ukrainian Soviet Socialist Republic"
+  },
+  {
+    "query": "What is the official language of Asturias?",
+    "answer": " Spanish",
+    "sub": "Asturias"
+  },
+  {
+    "query": "What is the official language of East Kalimantan?",
+    "answer": " Indonesian",
+    "sub": "East Kalimantan"
+  },
+  {
+    "query": "What is the official language of Vietnam?",
+    "answer": " Vietnamese",
+    "sub": "Vietnam"
+  },
+  {
+    "query": "What is the official language of Kosovo?",
+    "answer": " Albanian",
+    "sub": "Kosovo"
+  },
+  {
+    "query": "What is the official language of Cadenazzo?",
+    "answer": " Italian",
+    "sub": "Cadenazzo"
+  },
+  {
+    "query": "What is the official language of Eupen?",
+    "answer": " German",
+    "sub": "Eupen"
+  },
+  {
+    "query": "What is the official language of Valkeakoski?",
+    "answer": " Finnish",
+    "sub": "Valkeakoski"
+  },
+  {
+    "query": "What is the official language of Utsjoki?",
+    "answer": " Finnish",
+    "sub": "Utsjoki"
+  },
+  {
+    "query": "What is the official language of World Trade Organization?",
+    "answer": " French",
+    "sub": "World Trade Organization"
+  },
+  {
+    "query": "What is the official language of Republic of Serbian Krajina?",
+    "answer": " Serbian",
+    "sub": "Republic of Serbian Krajina"
+  },
+  {
+    "query": "What is the official language of Finnish Orthodox Church?",
+    "answer": " Finnish",
+    "sub": "Finnish Orthodox Church"
+  },
+  {
+    "query": "What is the official language of Lappeenranta?",
+    "answer": " Finnish",
+    "sub": "Lappeenranta"
+  },
+  {
+    "query": "What is the official language of Ecuador?",
+    "answer": " Spanish",
+    "sub": "Ecuador"
+  },
+  {
+    "query": "What is the official language of Luhansk Oblast?",
+    "answer": " Russian",
+    "sub": "Luhansk Oblast"
+  },
+  {
+    "query": "What is the official language of Hyderabad?",
+    "answer": " Telugu",
+    "sub": "Hyderabad"
+  },
+  {
+    "query": "What is the official language of United Nations?",
+    "answer": " English",
+    "sub": "United Nations"
+  },
+  {
+    "query": "What is the official language of Jersey?",
+    "answer": " English",
+    "sub": "Jersey"
+  },
+  {
+    "query": "What is the official language of Qing dynasty?",
+    "answer": " Mongolian",
+    "sub": "Qing dynasty"
+  },
+  {
+    "query": "What is the official language of VASKhNIL?",
+    "answer": " Russian",
+    "sub": "VASKhNIL"
+  },
+  {
+    "query": "What is the official language of Guyana?",
+    "answer": " English",
+    "sub": "Guyana"
+  },
+  {
+    "query": "What is the official language of Austria?",
+    "answer": " German",
+    "sub": "Austria"
+  },
+  {
+    "query": "What is the official language of Mistretta?",
+    "answer": " Italian",
+    "sub": "Mistretta"
+  },
+  {
+    "query": "What is the official language of Singapore?",
+    "answer": " Malay",
+    "sub": "Singapore"
+  },
+  {
+    "query": "What is the official language of Hailuoto?",
+    "answer": " Finnish",
+    "sub": "Hailuoto"
+  },
+  {
+    "query": "What is the official language of Turkey?",
+    "answer": " Turkish",
+    "sub": "Turkey"
+  },
+  {
+    "query": "What is the official language of Chile?",
+    "answer": " Spanish",
+    "sub": "Chile"
+  },
+  {
+    "query": "What is the official language of Veyrier?",
+    "answer": " French",
+    "sub": "Veyrier"
+  },
+  {
+    "query": "What is the official language of Hyrynsalmi?",
+    "answer": " Finnish",
+    "sub": "Hyrynsalmi"
+  },
+  {
+    "query": "What is the official language of Sint Maarten?",
+    "answer": " Dutch",
+    "sub": "Sint Maarten"
+  },
+  {
+    "query": "What is the official language of International Organization for Standardization?",
+    "answer": " French",
+    "sub": "International Organization for Standardization"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " English",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Brussels Capital Region?",
+    "answer": " French",
+    "sub": "Brussels Capital Region"
+  },
+  {
+    "query": "What is the official language of Canton of Valais?",
+    "answer": " French",
+    "sub": "Canton of Valais"
+  },
+  {
+    "query": "What is the official language of Delhi?",
+    "answer": " Urdu",
+    "sub": "Delhi"
+  },
+  {
+    "query": "What is the official language of Swedish Empire?",
+    "answer": " Swedish",
+    "sub": "Swedish Empire"
+  },
+  {
+    "query": "What is the official language of Raseborg?",
+    "answer": " Swedish",
+    "sub": "Raseborg"
+  },
+  {
+    "query": "What is the official language of Slovak Socialist Republic?",
+    "answer": " Slovak",
+    "sub": "Slovak Socialist Republic"
+  },
+  {
+    "query": "What is the official language of Kalix Municipality?",
+    "answer": " Swedish",
+    "sub": "Kalix Municipality"
+  },
+  {
+    "query": "What is the official language of Raseborg?",
+    "answer": " Finnish",
+    "sub": "Raseborg"
+  },
+  {
+    "query": "What is the official language of South Dakota?",
+    "answer": " English",
+    "sub": "South Dakota"
+  },
+  {
+    "query": "What is the official language of Alabama?",
+    "answer": " English",
+    "sub": "Alabama"
+  },
+  {
+    "query": "What is the official language of Miss Universe?",
+    "answer": " English",
+    "sub": "Miss Universe"
+  },
+  {
+    "query": "What is the official language of California?",
+    "answer": " English",
+    "sub": "California"
+  },
+  {
+    "query": "What is the official language of Pacific Alliance?",
+    "answer": " Spanish",
+    "sub": "Pacific Alliance"
+  },
+  {
+    "query": "What is the official language of Laitila?",
+    "answer": " Finnish",
+    "sub": "Laitila"
+  },
+  {
+    "query": "What is the official language of Switzerland?",
+    "answer": " Italian",
+    "sub": "Switzerland"
+  },
+  {
+    "query": "What is the official language of Tuva Republic?",
+    "answer": " Russian",
+    "sub": "Tuva Republic"
+  },
+  {
+    "query": "What is the official language of Russia?",
+    "answer": " Russian",
+    "sub": "Russia"
+  },
+  {
+    "query": "What is the official language of Sambir?",
+    "answer": " Ukrainian",
+    "sub": "Sambir"
+  },
+  {
+    "query": "What is the official language of Yukon?",
+    "answer": " English",
+    "sub": "Yukon"
+  },
+  {
+    "query": "What is the official language of Liperi?",
+    "answer": " Finnish",
+    "sub": "Liperi"
+  },
+  {
+    "query": "What is the official language of Burkina Faso?",
+    "answer": " French",
+    "sub": "Burkina Faso"
+  },
+  {
+    "query": "What is the official language of Sonvilier?",
+    "answer": " French",
+    "sub": "Sonvilier"
+  },
+  {
+    "query": "What is the official language of Bosco/Gurin?",
+    "answer": " Italian",
+    "sub": "Bosco/Gurin"
+  },
+  {
+    "query": "What is the official language of Jersey?",
+    "answer": " French",
+    "sub": "Jersey"
+  },
+  {
+    "query": "What is the official language of Russia?",
+    "answer": " Azerbaijani",
+    "sub": "Russia"
+  },
+  {
+    "query": "What is the official language of Russia?",
+    "answer": " Mari",
+    "sub": "Russia"
+  },
+  {
+    "query": "What is the official language of Nunavut?",
+    "answer": " French",
+    "sub": "Nunavut"
+  },
+  {
+    "query": "What is the official language of Korpo?",
+    "answer": " Finnish",
+    "sub": "Korpo"
+  },
+  {
+    "query": "What is the official language of Nousiainen?",
+    "answer": " Finnish",
+    "sub": "Nousiainen"
+  },
+  {
+    "query": "What is the official language of Kotka?",
+    "answer": " Finnish",
+    "sub": "Kotka"
+  },
+  {
+    "query": "What is the official language of Army Public School Peshawar?",
+    "answer": " English",
+    "sub": "Army Public School Peshawar"
+  },
+  {
+    "query": "What is the official language of Rabinal?",
+    "answer": " Spanish",
+    "sub": "Rabinal"
+  },
+  {
+    "query": "What is the official language of Italy?",
+    "answer": " Italian",
+    "sub": "Italy"
+  },
+  {
+    "query": "What is the official language of Wetzikon?",
+    "answer": " German",
+    "sub": "Wetzikon"
+  },
+  {
+    "query": "What is the official language of Qing dynasty?",
+    "answer": " Chinese",
+    "sub": "Qing dynasty"
+  },
+  {
+    "query": "What is the official language of North Carolina?",
+    "answer": " English",
+    "sub": "North Carolina"
+  },
+  {
+    "query": "What is the official language of Savukoski?",
+    "answer": " Finnish",
+    "sub": "Savukoski"
+  },
+  {
+    "query": "What is the official language of Karvia?",
+    "answer": " Finnish",
+    "sub": "Karvia"
+  },
+  {
+    "query": "What is the official language of Philippines?",
+    "answer": " Filipino",
+    "sub": "Philippines"
+  },
+  {
+    "query": "What is the official language of Lohja?",
+    "answer": " Finnish",
+    "sub": "Lohja"
+  },
+  {
+    "query": "What is the official language of Philippines?",
+    "answer": " English",
+    "sub": "Philippines"
+  },
+  {
+    "query": "What is the official language of Sweden?",
+    "answer": " Finnish",
+    "sub": "Sweden"
+  },
+  {
+    "query": "What is the official language of Idaho?",
+    "answer": " English",
+    "sub": "Idaho"
+  },
+  {
+    "query": "What is the official language of Maharashtra?",
+    "answer": " Marathi",
+    "sub": "Maharashtra"
+  },
+  {
+    "query": "What is the official language of Republic of Buryatia?",
+    "answer": " Russian",
+    "sub": "Republic of Buryatia"
+  },
+  {
+    "query": "What is the official language of Niger?",
+    "answer": " French",
+    "sub": "Niger"
+  },
+  {
+    "query": "What is the official language of Solna Municipality?",
+    "answer": " Swedish",
+    "sub": "Solna Municipality"
+  },
+  {
+    "query": "What is the official language of Lucknow?",
+    "answer": " English",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "What is the official language of Russian Soviet Federative Socialist Republic?",
+    "answer": " Russian",
+    "sub": "Russian Soviet Federative Socialist Republic"
+  },
+  {
+    "query": "What is the official language of Spiez?",
+    "answer": " German",
+    "sub": "Spiez"
+  },
+  {
+    "query": "What is the official language of Autonomous Province of Kosovo and Metohija?",
+    "answer": " Albanian",
+    "sub": "Autonomous Province of Kosovo and Metohija"
+  },
+  {
+    "query": "What is the official language of Hammarland?",
+    "answer": " Swedish",
+    "sub": "Hammarland"
+  },
+  {
+    "query": "What is the official language of Vaala?",
+    "answer": " Finnish",
+    "sub": "Vaala"
+  },
+  {
+    "query": "What is the official language of National Film Board of Canada?",
+    "answer": " French",
+    "sub": "National Film Board of Canada"
+  },
+  {
+    "query": "What is the official language of Jakobstad?",
+    "answer": " Finnish",
+    "sub": "Jakobstad"
+  },
+  {
+    "query": "What is the official language of Mandatory Palestine?",
+    "answer": " Hebrew",
+    "sub": "Mandatory Palestine"
+  },
+  {
+    "query": "What is the official language of ASEAN?",
+    "answer": " Indonesian",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "What is the official language of Serbia and Montenegro?",
+    "answer": " Serbian",
+    "sub": "Serbia and Montenegro"
+  },
+  {
+    "query": "What is the official language of Nuevo Santander?",
+    "answer": " Spanish",
+    "sub": "Nuevo Santander"
+  },
+  {
+    "query": "What is the official language of International Organization for Standardization?",
+    "answer": " English",
+    "sub": "International Organization for Standardization"
+  },
+  {
+    "query": "What is the official language of Croatia?",
+    "answer": " Croatian",
+    "sub": "Croatia"
+  },
+  {
+    "query": "What is the official language of Kiruna Municipality?",
+    "answer": " Finnish",
+    "sub": "Kiruna Municipality"
+  },
+  {
+    "query": "What is the official language of Mashhad?",
+    "answer": " Persian",
+    "sub": "Mashhad"
+  },
+  {
+    "query": "What is the official language of American Samoa?",
+    "answer": " English",
+    "sub": "American Samoa"
+  },
+  {
+    "query": "What is the official language of Kauniainen?",
+    "answer": " Swedish",
+    "sub": "Kauniainen"
+  },
+  {
+    "query": "What is the official language of Czech Republic?",
+    "answer": " Czech",
+    "sub": "Czech Republic"
+  },
+  {
+    "query": "What is the official language of Saint Lucia?",
+    "answer": " English",
+    "sub": "Saint Lucia"
+  },
+  {
+    "query": "What is the official language of North American Free Trade Agreement?",
+    "answer": " Spanish",
+    "sub": "North American Free Trade Agreement"
+  },
+  {
+    "query": "What is the official language of Liechtenstein?",
+    "answer": " German",
+    "sub": "Liechtenstein"
+  },
+  {
+    "query": "What is the official language of Virolahti?",
+    "answer": " Finnish",
+    "sub": "Virolahti"
+  },
+  {
+    "query": "What is the official language of Uganda?",
+    "answer": " English",
+    "sub": "Uganda"
+  },
+  {
+    "query": "What is the official language of Republic of Adygea?",
+    "answer": " Russian",
+    "sub": "Republic of Adygea"
+  },
+  {
+    "query": "What is the official language of Chuvash Republic?",
+    "answer": " Russian",
+    "sub": "Chuvash Republic"
+  },
+  {
+    "query": "What is the official language of Seychelles?",
+    "answer": " French",
+    "sub": "Seychelles"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Czech",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Eritrea?",
+    "answer": " English",
+    "sub": "Eritrea"
+  },
+  {
+    "query": "What is the official language of Mauritius?",
+    "answer": " French",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Lithuanian",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Republic of North Ossetia-Alania?",
+    "answer": " Russian",
+    "sub": "Republic of North Ossetia-Alania"
+  },
+  {
+    "query": "What is the official language of La Gomera?",
+    "answer": " Spanish",
+    "sub": "La Gomera"
+  },
+  {
+    "query": "What is the official language of Enlightenment in Spain?",
+    "answer": " Spanish",
+    "sub": "Enlightenment in Spain"
+  },
+  {
+    "query": "What is the official language of France?",
+    "answer": " French",
+    "sub": "France"
+  },
+  {
+    "query": "What is the official language of Kerala?",
+    "answer": " Malayalam",
+    "sub": "Kerala"
+  },
+  {
+    "query": "What is the official language of Cameroon?",
+    "answer": " French",
+    "sub": "Cameroon"
+  },
+  {
+    "query": "What is the official language of Quebec City?",
+    "answer": " French",
+    "sub": "Quebec City"
+  },
+  {
+    "query": "What is the official language of Community of Valencia?",
+    "answer": " Spanish",
+    "sub": "Community of Valencia"
+  },
+  {
+    "query": "What is the official language of Thailand?",
+    "answer": " Thai",
+    "sub": "Thailand"
+  },
+  {
+    "query": "What is the official language of Asikkala?",
+    "answer": " Finnish",
+    "sub": "Asikkala"
+  },
+  {
+    "query": "What is the official language of Exarchate of Ravenna?",
+    "answer": " Latin",
+    "sub": "Exarchate of Ravenna"
+  },
+  {
+    "query": "What is the official language of Organization for Security and Co-operation in Europe?",
+    "answer": " Italian",
+    "sub": "Organization for Security and Co-operation in Europe"
+  },
+  {
+    "query": "What is the official language of Democratic Republic of the Congo?",
+    "answer": " French",
+    "sub": "Democratic Republic of the Congo"
+  },
+  {
+    "query": "What is the official language of Hungary?",
+    "answer": " Hungarian",
+    "sub": "Hungary"
+  },
+  {
+    "query": "What is the official language of Izabal Department?",
+    "answer": " Spanish",
+    "sub": "Izabal Department"
+  },
+  {
+    "query": "What is the official language of Savonlinna?",
+    "answer": " Finnish",
+    "sub": "Savonlinna"
+  },
+  {
+    "query": "What is the official language of Donetsk People's Republic?",
+    "answer": " Russian",
+    "sub": "Donetsk People's Republic"
+  },
+  {
+    "query": "What is the official language of Vanuatu?",
+    "answer": " French",
+    "sub": "Vanuatu"
+  },
+  {
+    "query": "What is the official language of Estonia?",
+    "answer": " Estonian",
+    "sub": "Estonia"
+  },
+  {
+    "query": "What is the official language of Kentucky?",
+    "answer": " English",
+    "sub": "Kentucky"
+  },
+  {
+    "query": "What is the official language of Storuman Municipality?",
+    "answer": " Swedish",
+    "sub": "Storuman Municipality"
+  },
+  {
+    "query": "What is the official language of Orivesi?",
+    "answer": " Finnish",
+    "sub": "Orivesi"
+  },
+  {
+    "query": "What is the official language of Paltamo?",
+    "answer": " Finnish",
+    "sub": "Paltamo"
+  },
+  {
+    "query": "What is the official language of Lucknow?",
+    "answer": " Hindi",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "What is the official language of Bali?",
+    "answer": " Indonesian",
+    "sub": "Bali"
+  },
+  {
+    "query": "What is the official language of North Dakota?",
+    "answer": " English",
+    "sub": "North Dakota"
+  },
+  {
+    "query": "What is the official language of Kalix Municipality?",
+    "answer": " Finnish",
+    "sub": "Kalix Municipality"
+  },
+  {
+    "query": "What is the official language of Spain?",
+    "answer": " Basque",
+    "sub": "Spain"
+  },
+  {
+    "query": "What is the official language of Malta?",
+    "answer": " English",
+    "sub": "Malta"
+  },
+  {
+    "query": "What is the official language of Republic of Kalmykia?",
+    "answer": " Russian",
+    "sub": "Republic of Kalmykia"
+  },
+  {
+    "query": "What is the official language of Teuva?",
+    "answer": " Finnish",
+    "sub": "Teuva"
+  },
+  {
+    "query": "What is the official language of Camorino?",
+    "answer": " Italian",
+    "sub": "Camorino"
+  },
+  {
+    "query": "What is the official language of canton of Fribourg?",
+    "answer": " French",
+    "sub": "canton of Fribourg"
+  },
+  {
+    "query": "What is the official language of Northwest Territories?",
+    "answer": " English",
+    "sub": "Northwest Territories"
+  },
+  {
+    "query": "What is the official language of Akaa?",
+    "answer": " Finnish",
+    "sub": "Akaa"
+  },
+  {
+    "query": "What is the official language of New Brunswick?",
+    "answer": " English",
+    "sub": "New Brunswick"
+  },
+  {
+    "query": "What is the official language of Wales?",
+    "answer": " English",
+    "sub": "Wales"
+  },
+  {
+    "query": "What is the official language of Hamina?",
+    "answer": " Finnish",
+    "sub": "Hamina"
+  },
+  {
+    "query": "What is the official language of Comoros?",
+    "answer": " French",
+    "sub": "Comoros"
+  },
+  {
+    "query": "What is the official language of Sweden?",
+    "answer": " Romani",
+    "sub": "Sweden"
+  },
+  {
+    "query": "What is the official language of Sundsvall Municipality?",
+    "answer": " Swedish",
+    "sub": "Sundsvall Municipality"
+  },
+  {
+    "query": "What is the official language of Kingdom of Sicily?",
+    "answer": " Greek",
+    "sub": "Kingdom of Sicily"
+  },
+  {
+    "query": "What is the official language of World Health Organization?",
+    "answer": " French",
+    "sub": "World Health Organization"
+  },
+  {
+    "query": "What is the official language of canton of Fribourg?",
+    "answer": " German",
+    "sub": "canton of Fribourg"
+  },
+  {
+    "query": "What is the official language of International Civil Aviation Organization?",
+    "answer": " Russian",
+    "sub": "International Civil Aviation Organization"
+  },
+  {
+    "query": "What is the official language of German-speaking Community of Belgium?",
+    "answer": " German",
+    "sub": "German-speaking Community of Belgium"
+  },
+  {
+    "query": "What is the official language of Kannonkoski?",
+    "answer": " Finnish",
+    "sub": "Kannonkoski"
+  },
+  {
+    "query": "What is the official language of United Nations?",
+    "answer": " French",
+    "sub": "United Nations"
+  },
+  {
+    "query": "What is the official language of Roman Empire?",
+    "answer": " Greek",
+    "sub": "Roman Empire"
+  },
+  {
+    "query": "What is the official language of Udmurt Autonomous Oblast?",
+    "answer": " Russian",
+    "sub": "Udmurt Autonomous Oblast"
+  },
+  {
+    "query": "What is the official language of Indore?",
+    "answer": " Hindi",
+    "sub": "Indore"
+  },
+  {
+    "query": "What is the official language of Gibraltar?",
+    "answer": " English",
+    "sub": "Gibraltar"
+  },
+  {
+    "query": "What is the official language of Byelorussian Soviet Socialist Republic?",
+    "answer": " Polish",
+    "sub": "Byelorussian Soviet Socialist Republic"
+  },
+  {
+    "query": "What is the official language of Spain?",
+    "answer": " Spanish",
+    "sub": "Spain"
+  },
+  {
+    "query": "What is the official language of Torfaen?",
+    "answer": " Welsh",
+    "sub": "Torfaen"
+  },
+  {
+    "query": "What is the official language of Tamil Nadu?",
+    "answer": " Tamil",
+    "sub": "Tamil Nadu"
+  },
+  {
+    "query": "What is the official language of Altai Krai?",
+    "answer": " Russian",
+    "sub": "Altai Krai"
+  },
+  {
+    "query": "What is the official language of Mendrisio?",
+    "answer": " Italian",
+    "sub": "Mendrisio"
+  },
+  {
+    "query": "What is the official language of Luxembourg?",
+    "answer": " French",
+    "sub": "Luxembourg"
+  },
+  {
+    "query": "What is the official language of Aceh?",
+    "answer": " Indonesian",
+    "sub": "Aceh"
+  },
+  {
+    "query": "What is the official language of El Salvador?",
+    "answer": " Spanish",
+    "sub": "El Salvador"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " French",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of United Kingdom?",
+    "answer": " Welsh",
+    "sub": "United Kingdom"
+  },
+  {
+    "query": "What is the official language of Torfaen?",
+    "answer": " English",
+    "sub": "Torfaen"
+  },
+  {
+    "query": "What is the official language of Bex?",
+    "answer": " French",
+    "sub": "Bex"
+  },
+  {
+    "query": "What is the official language of Jambi?",
+    "answer": " Indonesian",
+    "sub": "Jambi"
+  },
+  {
+    "query": "What is the official language of Le Grand-Saconnex?",
+    "answer": " French",
+    "sub": "Le Grand-Saconnex"
+  },
+  {
+    "query": "What is the official language of Denmark?",
+    "answer": " Danish",
+    "sub": "Denmark"
+  },
+  {
+    "query": "What is the official language of International Organization for Standardization?",
+    "answer": " Russian",
+    "sub": "International Organization for Standardization"
+  },
+  {
+    "query": "What is the official language of Kolari?",
+    "answer": " Finnish",
+    "sub": "Kolari"
+  },
+  {
+    "query": "What is the official language of Canada?",
+    "answer": " French",
+    "sub": "Canada"
+  },
+  {
+    "query": "What is the official language of Cologny?",
+    "answer": " French",
+    "sub": "Cologny"
+  },
+  {
+    "query": "What is the official language of County Cork?",
+    "answer": " English",
+    "sub": "County Cork"
+  },
+  {
+    "query": "What is the official language of San Marino?",
+    "answer": " Italian",
+    "sub": "San Marino"
+  },
+  {
+    "query": "What is the official language of Pakistan?",
+    "answer": " English",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "What is the official language of Azerbaijan Democratic Republic?",
+    "answer": " Azerbaijani",
+    "sub": "Azerbaijan Democratic Republic"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Portuguese",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Guernsey?",
+    "answer": " English",
+    "sub": "Guernsey"
+  },
+  {
+    "query": "What is the official language of Merikarvia?",
+    "answer": " Finnish",
+    "sub": "Merikarvia"
+  },
+  {
+    "query": "What is the official language of Ligornetto?",
+    "answer": " Italian",
+    "sub": "Ligornetto"
+  },
+  {
+    "query": "What is the official language of Organization for Security and Co-operation in Europe?",
+    "answer": " Russian",
+    "sub": "Organization for Security and Co-operation in Europe"
+  },
+  {
+    "query": "What is the official language of Dietikon?",
+    "answer": " German",
+    "sub": "Dietikon"
+  },
+  {
+    "query": "What is the official language of First Czechoslovak Republic?",
+    "answer": " Slovak",
+    "sub": "First Czechoslovak Republic"
+  },
+  {
+    "query": "What is the official language of Republic of Venice?",
+    "answer": " Venetian",
+    "sub": "Republic of Venice"
+  },
+  {
+    "query": "What is the official language of Dominica?",
+    "answer": " English",
+    "sub": "Dominica"
+  },
+  {
+    "query": "What is the official language of Faido?",
+    "answer": " Italian",
+    "sub": "Faido"
+  },
+  {
+    "query": "What is the official language of World Athletics?",
+    "answer": " English",
+    "sub": "World Athletics"
+  },
+  {
+    "query": "What is the official language of Kingdom of Tavolara?",
+    "answer": " Italian",
+    "sub": "Kingdom of Tavolara"
+  },
+  {
+    "query": "What is the official language of International Atomic Energy Agency?",
+    "answer": " Russian",
+    "sub": "International Atomic Energy Agency"
+  },
+  {
+    "query": "What is the official language of Guatemala?",
+    "answer": " Spanish",
+    "sub": "Guatemala"
+  },
+  {
+    "query": "What is the official language of Belarus?",
+    "answer": " Russian",
+    "sub": "Belarus"
+  },
+  {
+    "query": "What is the official language of South Carolina?",
+    "answer": " English",
+    "sub": "South Carolina"
+  },
+  {
+    "query": "What is the official language of Saint Vincent and the Grenadines?",
+    "answer": " English",
+    "sub": "Saint Vincent and the Grenadines"
+  },
+  {
+    "query": "What is the official language of Aigle?",
+    "answer": " French",
+    "sub": "Aigle"
+  },
+  {
+    "query": "What is the official language of Mauritius?",
+    "answer": " English",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "What is the official language of Timurid Empire?",
+    "answer": " Persian",
+    "sub": "Timurid Empire"
+  },
+  {
+    "query": "What is the official language of Nicaragua?",
+    "answer": " Spanish",
+    "sub": "Nicaragua"
+  },
+  {
+    "query": "What is the official language of Cebu?",
+    "answer": " Filipino",
+    "sub": "Cebu"
+  },
+  {
+    "query": "What is the official language of Serbia?",
+    "answer": " Serbian",
+    "sub": "Serbia"
+  },
+  {
+    "query": "What is the official language of Prussia?",
+    "answer": " German",
+    "sub": "Prussia"
+  },
+  {
+    "query": "What is the official language of Ulvila?",
+    "answer": " Finnish",
+    "sub": "Ulvila"
+  },
+  {
+    "query": "What is the official language of Faroe Islands?",
+    "answer": " Danish",
+    "sub": "Faroe Islands"
+  },
+  {
+    "query": "What is the official language of Iceland?",
+    "answer": " Icelandic",
+    "sub": "Iceland"
+  },
+  {
+    "query": "What is the official language of Montenegro?",
+    "answer": " Montenegrin",
+    "sub": "Montenegro"
+  },
+  {
+    "query": "What is the official language of Lemland?",
+    "answer": " Swedish",
+    "sub": "Lemland"
+  },
+  {
+    "query": "What is the official language of Karlskoga Municipality?",
+    "answer": " Swedish",
+    "sub": "Karlskoga Municipality"
+  },
+  {
+    "query": "What is the official language of Stockholm Municipality?",
+    "answer": " Swedish",
+    "sub": "Stockholm Municipality"
+  },
+  {
+    "query": "What is the official language of Korsholm?",
+    "answer": " Swedish",
+    "sub": "Korsholm"
+  },
+  {
+    "query": "What is the official language of Karkkila?",
+    "answer": " Finnish",
+    "sub": "Karkkila"
+  },
+  {
+    "query": "What is the official language of Eskilstuna Municipality?",
+    "answer": " Swedish",
+    "sub": "Eskilstuna Municipality"
+  },
+  {
+    "query": "What is the official language of Vichy France?",
+    "answer": " French",
+    "sub": "Vichy France"
+  },
+  {
+    "query": "What is the official language of Somero?",
+    "answer": " Finnish",
+    "sub": "Somero"
+  },
+  {
+    "query": "What is the official language of Melitopol?",
+    "answer": " Russian",
+    "sub": "Melitopol"
+  },
+  {
+    "query": "What is the official language of Muonio?",
+    "answer": " Finnish",
+    "sub": "Muonio"
+  },
+  {
+    "query": "What is the official language of Hankasalmi?",
+    "answer": " Finnish",
+    "sub": "Hankasalmi"
+  },
+  {
+    "query": "What is the official language of Ilmajoki?",
+    "answer": " Finnish",
+    "sub": "Ilmajoki"
+  },
+  {
+    "query": "What is the official language of Canton of Lucerne?",
+    "answer": " German",
+    "sub": "Canton of Lucerne"
+  },
+  {
+    "query": "What is the official language of Pervomaysky District, Yaroslavl Oblast?",
+    "answer": " Russian",
+    "sub": "Pervomaysky District, Yaroslavl Oblast"
+  },
+  {
+    "query": "What is the official language of Serbian Orthodox Church?",
+    "answer": " Serbian",
+    "sub": "Serbian Orthodox Church"
+  },
+  {
+    "query": "What is the official language of Hong Kong?",
+    "answer": " English",
+    "sub": "Hong Kong"
+  },
+  {
+    "query": "What is the official language of President of the Basque Autonomous Community?",
+    "answer": " Basque",
+    "sub": "President of the Basque Autonomous Community"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Romanian",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Liestal?",
+    "answer": " German",
+    "sub": "Liestal"
+  },
+  {
+    "query": "What is the official language of Sui dynasty?",
+    "answer": " Chinese",
+    "sub": "Sui dynasty"
+  },
+  {
+    "query": "What is the official language of Hyderabad?",
+    "answer": " Urdu",
+    "sub": "Hyderabad"
+  },
+  {
+    "query": "What is the official language of Democratic Kampuchea?",
+    "answer": " Khmer",
+    "sub": "Democratic Kampuchea"
+  },
+  {
+    "query": "What is the official language of Biasca?",
+    "answer": " Italian",
+    "sub": "Biasca"
+  },
+  {
+    "query": "What is the official language of Bolama?",
+    "answer": " Portuguese",
+    "sub": "Bolama"
+  },
+  {
+    "query": "What is the official language of South Ossetia?",
+    "answer": " Russian",
+    "sub": "South Ossetia"
+  },
+  {
+    "query": "What is the official language of Aracena?",
+    "answer": " Spanish",
+    "sub": "Aracena"
+  },
+  {
+    "query": "What is the official language of New Jersey?",
+    "answer": " English",
+    "sub": "New Jersey"
+  },
+  {
+    "query": "What is the official language of Namibia?",
+    "answer": " English",
+    "sub": "Namibia"
+  },
+  {
+    "query": "What is the official language of Netherlands Antilles?",
+    "answer": " Dutch",
+    "sub": "Netherlands Antilles"
+  },
+  {
+    "query": "What is the official language of Economic Community of West African States?",
+    "answer": " French",
+    "sub": "Economic Community of West African States"
+  },
+  {
+    "query": "What is the official language of Chiasso?",
+    "answer": " Italian",
+    "sub": "Chiasso"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Slovak",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Prilly?",
+    "answer": " French",
+    "sub": "Prilly"
+  },
+  {
+    "query": "What is the official language of history of Limousin?",
+    "answer": " French",
+    "sub": "history of Limousin"
+  },
+  {
+    "query": "What is the official language of Bangladesh?",
+    "answer": " Bengali",
+    "sub": "Bangladesh"
+  },
+  {
+    "query": "What is the official language of Lamone?",
+    "answer": " Italian",
+    "sub": "Lamone"
+  },
+  {
+    "query": "What is the official language of Central Visayas?",
+    "answer": " Filipino",
+    "sub": "Central Visayas"
+  },
+  {
+    "query": "What is the official language of Ranua?",
+    "answer": " Finnish",
+    "sub": "Ranua"
+  },
+  {
+    "query": "What is the official language of Andorra?",
+    "answer": " Catalan",
+    "sub": "Andorra"
+  },
+  {
+    "query": "What is the official language of Trinidad and Tobago?",
+    "answer": " English",
+    "sub": "Trinidad and Tobago"
+  },
+  {
+    "query": "What is the official language of United Kingdom?",
+    "answer": " English",
+    "sub": "United Kingdom"
+  },
+  {
+    "query": "What is the official language of Kamchatka Krai?",
+    "answer": " Russian",
+    "sub": "Kamchatka Krai"
+  },
+  {
+    "query": "What is the official language of Blonay?",
+    "answer": " French",
+    "sub": "Blonay"
+  },
+  {
+    "query": "What is the official language of Ronco sopra Ascona?",
+    "answer": " Italian",
+    "sub": "Ronco sopra Ascona"
+  },
+  {
+    "query": "What is the official language of Germany?",
+    "answer": " German",
+    "sub": "Germany"
+  },
+  {
+    "query": "What is the official language of Lausanne?",
+    "answer": " French",
+    "sub": "Lausanne"
+  },
+  {
+    "query": "What is the official language of Botswana?",
+    "answer": " English",
+    "sub": "Botswana"
+  },
+  {
+    "query": "What is the official language of Iitti?",
+    "answer": " Finnish",
+    "sub": "Iitti"
+  },
+  {
+    "query": "What is the official language of Sint Maarten?",
+    "answer": " English",
+    "sub": "Sint Maarten"
+  },
+  {
+    "query": "What is the official language of Moscow Mathematical Society?",
+    "answer": " Russian",
+    "sub": "Moscow Mathematical Society"
+  },
+  {
+    "query": "What is the official language of Stavropol Krai?",
+    "answer": " Russian",
+    "sub": "Stavropol Krai"
+  },
+  {
+    "query": "What is the official language of Central African Republic?",
+    "answer": " French",
+    "sub": "Central African Republic"
+  },
+  {
+    "query": "What is the official language of Kingdom of Asturias?",
+    "answer": " Latin",
+    "sub": "Kingdom of Asturias"
+  },
+  {
+    "query": "What is the official language of Gagauzia?",
+    "answer": " Russian",
+    "sub": "Gagauzia"
+  },
+  {
+    "query": "What is the official language of NATO?",
+    "answer": " English",
+    "sub": "NATO"
+  },
+  {
+    "query": "What is the official language of Tolyatti?",
+    "answer": " Russian",
+    "sub": "Tolyatti"
+  },
+  {
+    "query": "What is the official language of Kingdom of Mercia?",
+    "answer": " Latin",
+    "sub": "Kingdom of Mercia"
+  },
+  {
+    "query": "What is the official language of Utah?",
+    "answer": " English",
+    "sub": "Utah"
+  },
+  {
+    "query": "What is the official language of South African Republic?",
+    "answer": " Dutch",
+    "sub": "South African Republic"
+  },
+  {
+    "query": "What is the official language of Dundee?",
+    "answer": " Scots",
+    "sub": "Dundee"
+  },
+  {
+    "query": "What is the official language of Kouvola?",
+    "answer": " Finnish",
+    "sub": "Kouvola"
+  },
+  {
+    "query": "What is the official language of Mandatory Palestine?",
+    "answer": " English",
+    "sub": "Mandatory Palestine"
+  },
+  {
+    "query": "What is the official language of Janakkala?",
+    "answer": " Finnish",
+    "sub": "Janakkala"
+  },
+  {
+    "query": "What is the official language of Krasnodar Krai?",
+    "answer": " Russian",
+    "sub": "Krasnodar Krai"
+  },
+  {
+    "query": "What is the official language of Shakhunya?",
+    "answer": " Russian",
+    "sub": "Shakhunya"
+  },
+  {
+    "query": "What is the official language of Togo?",
+    "answer": " French",
+    "sub": "Togo"
+  },
+  {
+    "query": "What is the official language of Basel-Landschaft?",
+    "answer": " German",
+    "sub": "Basel-Landschaft"
+  },
+  {
+    "query": "What is the official language of Zambia?",
+    "answer": " English",
+    "sub": "Zambia"
+  },
+  {
+    "query": "What is the official language of Liberia?",
+    "answer": " English",
+    "sub": "Liberia"
+  },
+  {
+    "query": "What is the official language of Prince Edward Island?",
+    "answer": " English",
+    "sub": "Prince Edward Island"
+  },
+  {
+    "query": "What is the official language of Kosovo?",
+    "answer": " Serbian",
+    "sub": "Kosovo"
+  },
+  {
+    "query": "What is the official language of Mykolaiv Oblast?",
+    "answer": " Ukrainian",
+    "sub": "Mykolaiv Oblast"
+  },
+  {
+    "query": "What is the official language of Kingdom of Jerusalem?",
+    "answer": " Latin",
+    "sub": "Kingdom of Jerusalem"
+  },
+  {
+    "query": "What is the official language of Malawi?",
+    "answer": " English",
+    "sub": "Malawi"
+  },
+  {
+    "query": "What is the official language of Palestinian territories?",
+    "answer": " Hebrew",
+    "sub": "Palestinian territories"
+  },
+  {
+    "query": "What is the official language of Haukipudas?",
+    "answer": " Finnish",
+    "sub": "Haukipudas"
+  },
+  {
+    "query": "What is the official language of Stockholm County Council?",
+    "answer": " Swedish",
+    "sub": "Stockholm County Council"
+  },
+  {
+    "query": "What is the official language of Turku?",
+    "answer": " Finnish",
+    "sub": "Turku"
+  },
+  {
+    "query": "What is the official language of International Olympic Committee?",
+    "answer": " French",
+    "sub": "International Olympic Committee"
+  },
+  {
+    "query": "What is the official language of Arvidsjaur Municipality?",
+    "answer": " Swedish",
+    "sub": "Arvidsjaur Municipality"
+  },
+  {
+    "query": "What is the official language of Flemish Community?",
+    "answer": " Dutch",
+    "sub": "Flemish Community"
+  },
+  {
+    "query": "What is the official language of Angola?",
+    "answer": " Portuguese",
+    "sub": "Angola"
+  },
+  {
+    "query": "What is the official language of Turku?",
+    "answer": " Swedish",
+    "sub": "Turku"
+  },
+  {
+    "query": "What is the official language of Jamshedpur?",
+    "answer": " English",
+    "sub": "Jamshedpur"
+  },
+  {
+    "query": "What is the official language of Azad Kashmir?",
+    "answer": " English",
+    "sub": "Azad Kashmir"
+  },
+  {
+    "query": "What is the official language of Suomenniemi?",
+    "answer": " Finnish",
+    "sub": "Suomenniemi"
+  },
+  {
+    "query": "What is the official language of Bermuda?",
+    "answer": " English",
+    "sub": "Bermuda"
+  },
+  {
+    "query": "What is the official language of Bedano?",
+    "answer": " Italian",
+    "sub": "Bedano"
+  },
+  {
+    "query": "What is the official language of Formentera?",
+    "answer": " Catalan",
+    "sub": "Formentera"
+  },
+  {
+    "query": "What is the official language of Bonaire?",
+    "answer": " Dutch",
+    "sub": "Bonaire"
+  },
+  {
+    "query": "What is the official language of Sudan?",
+    "answer": " English",
+    "sub": "Sudan"
+  },
+  {
+    "query": "What is the official language of Soviet Union?",
+    "answer": " Russian",
+    "sub": "Soviet Union"
+  },
+  {
+    "query": "What is the official language of Saskatchewan?",
+    "answer": " French",
+    "sub": "Saskatchewan"
+  },
+  {
+    "query": "What is the official language of Haparanda Municipality?",
+    "answer": " Finnish",
+    "sub": "Haparanda Municipality"
+  },
+  {
+    "query": "What is the official language of Aruba?",
+    "answer": " Dutch",
+    "sub": "Aruba"
+  },
+  {
+    "query": "What is the official language of Montserrat?",
+    "answer": " English",
+    "sub": "Montserrat"
+  },
+  {
+    "query": "What is the official language of Somalia?",
+    "answer": " Somali",
+    "sub": "Somalia"
+  },
+  {
+    "query": "What is the official language of Hirvensalmi?",
+    "answer": " Finnish",
+    "sub": "Hirvensalmi"
+  },
+  {
+    "query": "What is the official language of Pajala Municipality?",
+    "answer": " Finnish",
+    "sub": "Pajala Municipality"
+  },
+  {
+    "query": "What is the official language of Organization for Security and Co-operation in Europe?",
+    "answer": " Spanish",
+    "sub": "Organization for Security and Co-operation in Europe"
+  },
+  {
+    "query": "What is the official language of Oulainen?",
+    "answer": " Finnish",
+    "sub": "Oulainen"
+  },
+  {
+    "query": "What is the official language of Autonomous Province of Kosovo and Metohija?",
+    "answer": " Serbian",
+    "sub": "Autonomous Province of Kosovo and Metohija"
+  },
+  {
+    "query": "What is the official language of Karachay-Cherkess Republic?",
+    "answer": " Russian",
+    "sub": "Karachay-Cherkess Republic"
+  },
+  {
+    "query": "What is the official language of Helsinki?",
+    "answer": " Swedish",
+    "sub": "Helsinki"
+  },
+  {
+    "query": "What is the official language of European Space Agency?",
+    "answer": " English",
+    "sub": "European Space Agency"
+  },
+  {
+    "query": "What is the official language of Kokkola?",
+    "answer": " Swedish",
+    "sub": "Kokkola"
+  },
+  {
+    "query": "What is the official language of Morges?",
+    "answer": " French",
+    "sub": "Morges"
+  },
+  {
+    "query": "What is the official language of Arizona?",
+    "answer": " English",
+    "sub": "Arizona"
+  },
+  {
+    "query": "What is the official language of Qazvin Province?",
+    "answer": " Azerbaijani",
+    "sub": "Qazvin Province"
+  },
+  {
+    "query": "What is the official language of Mongolia?",
+    "answer": " Mongolian",
+    "sub": "Mongolia"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Latvian",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Sierra Leone?",
+    "answer": " English",
+    "sub": "Sierra Leone"
+  },
+  {
+    "query": "What is the official language of Ibiza?",
+    "answer": " Catalan",
+    "sub": "Ibiza"
+  },
+  {
+    "query": "What is the official language of Paraguay?",
+    "answer": " Spanish",
+    "sub": "Paraguay"
+  },
+  {
+    "query": "What is the official language of Bashkortostan?",
+    "answer": " Russian",
+    "sub": "Bashkortostan"
+  },
+  {
+    "query": "What is the official language of Indonesia?",
+    "answer": " Indonesian",
+    "sub": "Indonesia"
+  },
+  {
+    "query": "What is the official language of Siuntio?",
+    "answer": " Swedish",
+    "sub": "Siuntio"
+  },
+  {
+    "query": "What is the official language of Cebu?",
+    "answer": " English",
+    "sub": "Cebu"
+  },
+  {
+    "query": "What is the official language of Monaco?",
+    "answer": " French",
+    "sub": "Monaco"
+  },
+  {
+    "query": "What is the official language of Zabaykalsky Krai?",
+    "answer": " Russian",
+    "sub": "Zabaykalsky Krai"
+  },
+  {
+    "query": "What is the official language of Northern Mariana Islands?",
+    "answer": " English",
+    "sub": "Northern Mariana Islands"
+  },
+  {
+    "query": "What is the official language of Neklinovsky District?",
+    "answer": " Russian",
+    "sub": "Neklinovsky District"
+  },
+  {
+    "query": "What is the official language of Azerbaijan?",
+    "answer": " Azerbaijani",
+    "sub": "Azerbaijan"
+  },
+  {
+    "query": "What is the official language of Canton of Vaud?",
+    "answer": " French",
+    "sub": "Canton of Vaud"
+  },
+  {
+    "query": "What is the official language of Singapore?",
+    "answer": " English",
+    "sub": "Singapore"
+  },
+  {
+    "query": "What is the official language of Kiruna Municipality?",
+    "answer": " Swedish",
+    "sub": "Kiruna Municipality"
+  },
+  {
+    "query": "What is the official language of Organisation for Economic Cooperation and Development?",
+    "answer": " French",
+    "sub": "Organisation for Economic Cooperation and Development"
+  },
+  {
+    "query": "What is the official language of Keuruu?",
+    "answer": " Finnish",
+    "sub": "Keuruu"
+  },
+  {
+    "query": "What is the official language of Yverdon-les-Bains?",
+    "answer": " French",
+    "sub": "Yverdon-les-Bains"
+  },
+  {
+    "query": "What is the official language of Bern?",
+    "answer": " German",
+    "sub": "Bern"
+  },
+  {
+    "query": "What is the official language of Chennai?",
+    "answer": " Tamil",
+    "sub": "Chennai"
+  },
+  {
+    "query": "What is the official language of Fiji?",
+    "answer": " English",
+    "sub": "Fiji"
+  },
+  {
+    "query": "What is the official language of India?",
+    "answer": " Hindi",
+    "sub": "India"
+  },
+  {
+    "query": "What is the official language of Canada?",
+    "answer": " English",
+    "sub": "Canada"
+  },
+  {
+    "query": "What is the official language of Mongolian People's Republic?",
+    "answer": " Mongolian",
+    "sub": "Mongolian People's Republic"
+  },
+  {
+    "query": "What is the official language of United Nations?",
+    "answer": " Russian",
+    "sub": "United Nations"
+  },
+  {
+    "query": "What is the official language of Burundi?",
+    "answer": " French",
+    "sub": "Burundi"
+  },
+  {
+    "query": "What is the official language of Dutch Language Union?",
+    "answer": " Dutch",
+    "sub": "Dutch Language Union"
+  },
+  {
+    "query": "What is the official language of Dasht-e Azadegan County?",
+    "answer": " Persian",
+    "sub": "Dasht-e Azadegan County"
+  },
+  {
+    "query": "What is the official language of Thiruvananthapuram?",
+    "answer": " Malayalam",
+    "sub": "Thiruvananthapuram"
+  },
+  {
+    "query": "What is the official language of Trosa Municipality?",
+    "answer": " Finnish",
+    "sub": "Trosa Municipality"
+  },
+  {
+    "query": "What is the official language of International Olympic Committee?",
+    "answer": " English",
+    "sub": "International Olympic Committee"
+  },
+  {
+    "query": "What is the official language of Zaire?",
+    "answer": " French",
+    "sub": "Zaire"
+  },
+  {
+    "query": "What is the official language of Northern Ireland?",
+    "answer": " English",
+    "sub": "Northern Ireland"
+  },
+  {
+    "query": "What is the official language of Pajala Municipality?",
+    "answer": " Swedish",
+    "sub": "Pajala Municipality"
+  },
+  {
+    "query": "What is the official language of Mali?",
+    "answer": " French",
+    "sub": "Mali"
+  },
+  {
+    "query": "What is the official language of Saint Kitts and Nevis?",
+    "answer": " English",
+    "sub": "Saint Kitts and Nevis"
+  },
+  {
+    "query": "What is the official language of Vacallo?",
+    "answer": " Italian",
+    "sub": "Vacallo"
+  },
+  {
+    "query": "What is the official language of Formentera?",
+    "answer": " Spanish",
+    "sub": "Formentera"
+  },
+  {
+    "query": "What is the official language of Central Visayas?",
+    "answer": " English",
+    "sub": "Central Visayas"
+  },
+  {
+    "query": "What is the official language of Saba?",
+    "answer": " English",
+    "sub": "Saba"
+  },
+  {
+    "query": "What is the official language of Couto Misto?",
+    "answer": " Spanish",
+    "sub": "Couto Misto"
+  },
+  {
+    "query": "What is the official language of Odessa Oblast?",
+    "answer": " Ukrainian",
+    "sub": "Odessa Oblast"
+  },
+  {
+    "query": "What is the official language of Tuusula?",
+    "answer": " Finnish",
+    "sub": "Tuusula"
+  },
+  {
+    "query": "What is the official language of Luxembourg?",
+    "answer": " German",
+    "sub": "Luxembourg"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Danish",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Canton of Jura?",
+    "answer": " French",
+    "sub": "Canton of Jura"
+  },
+  {
+    "query": "What is the official language of Lampung?",
+    "answer": " Indonesian",
+    "sub": "Lampung"
+  },
+  {
+    "query": "What is the official language of Albania?",
+    "answer": " Albanian",
+    "sub": "Albania"
+  },
+  {
+    "query": "What is the official language of Ilomantsi?",
+    "answer": " Finnish",
+    "sub": "Ilomantsi"
+  },
+  {
+    "query": "What is the official language of Iisalmi?",
+    "answer": " Finnish",
+    "sub": "Iisalmi"
+  },
+  {
+    "query": "What is the official language of Lutry?",
+    "answer": " French",
+    "sub": "Lutry"
+  },
+  {
+    "query": "What is the official language of Nokia?",
+    "answer": " Finnish",
+    "sub": "Nokia"
+  },
+  {
+    "query": "What is the official language of Pully?",
+    "answer": " French",
+    "sub": "Pully"
+  },
+  {
+    "query": "What is the official language of Kristinestad?",
+    "answer": " Swedish",
+    "sub": "Kristinestad"
+  },
+  {
+    "query": "What is the official language of Cyprus?",
+    "answer": " Turkish",
+    "sub": "Cyprus"
+  },
+  {
+    "query": "What is the official language of Latvia?",
+    "answer": " Latvian",
+    "sub": "Latvia"
+  },
+  {
+    "query": "What is the official language of Mercosur?",
+    "answer": " Portuguese",
+    "sub": "Mercosur"
+  },
+  {
+    "query": "What is the official language of Republic of Dagestan?",
+    "answer": " Russian",
+    "sub": "Republic of Dagestan"
+  },
+  {
+    "query": "What is the official language of Commonwealth of Independent States?",
+    "answer": " Russian",
+    "sub": "Commonwealth of Independent States"
+  },
+  {
+    "query": "What is the official language of NATO?",
+    "answer": " French",
+    "sub": "NATO"
+  },
+  {
+    "query": "What is the official language of Spanish Texas?",
+    "answer": " Spanish",
+    "sub": "Spanish Texas"
+  },
+  {
+    "query": "What is the official language of Kingdom of Jerusalem?",
+    "answer": " Greek",
+    "sub": "Kingdom of Jerusalem"
+  },
+  {
+    "query": "What is the official language of Orbe?",
+    "answer": " French",
+    "sub": "Orbe"
+  },
+  {
+    "query": "What is the official language of Reichskommissariat Moskowien?",
+    "answer": " Russian",
+    "sub": "Reichskommissariat Moskowien"
+  },
+  {
+    "query": "What is the official language of Saint Pierre and Miquelon?",
+    "answer": " French",
+    "sub": "Saint Pierre and Miquelon"
+  },
+  {
+    "query": "What is the official language of Bhopal?",
+    "answer": " Hindi",
+    "sub": "Bhopal"
+  },
+  {
+    "query": "What is the official language of Armenia?",
+    "answer": " Armenian",
+    "sub": "Armenia"
+  },
+  {
+    "query": "What is the official language of Western Cape?",
+    "answer": " English",
+    "sub": "Western Cape"
+  },
+  {
+    "query": "What is the official language of Kingdom of Bulgaria?",
+    "answer": " Bulgarian",
+    "sub": "Kingdom of Bulgaria"
+  },
+  {
+    "query": "What is the official language of Gabon?",
+    "answer": " French",
+    "sub": "Gabon"
+  },
+  {
+    "query": "What is the official language of Puerto Rico?",
+    "answer": " Spanish",
+    "sub": "Puerto Rico"
+  },
+  {
+    "query": "What is the official language of Puerto Rico?",
+    "answer": " English",
+    "sub": "Puerto Rico"
+  },
+  {
+    "query": "What is the official language of Engelberg?",
+    "answer": " German",
+    "sub": "Engelberg"
+  },
+  {
+    "query": "What is the official language of Thrissur?",
+    "answer": " Malayalam",
+    "sub": "Thrissur"
+  },
+  {
+    "query": "What is the official language of Bulgarian Orthodox Church?",
+    "answer": " Bulgarian",
+    "sub": "Bulgarian Orthodox Church"
+  },
+  {
+    "query": "What is the official language of Tuvalu?",
+    "answer": " English",
+    "sub": "Tuvalu"
+  },
+  {
+    "query": "What is the official language of Iowa?",
+    "answer": " English",
+    "sub": "Iowa"
+  },
+  {
+    "query": "What is the official language of Sweden?",
+    "answer": " Swedish",
+    "sub": "Sweden"
+  },
+  {
+    "query": "What is the official language of Georgian Orthodox Church?",
+    "answer": " Georgian",
+    "sub": "Georgian Orthodox Church"
+  },
+  {
+    "query": "What is the official language of Aragon?",
+    "answer": " Catalan",
+    "sub": "Aragon"
+  },
+  {
+    "query": "What is the official language of Guam?",
+    "answer": " English",
+    "sub": "Guam"
+  },
+  {
+    "query": "What is the official language of Autonomous Republic of Crimea?",
+    "answer": " Russian",
+    "sub": "Autonomous Republic of Crimea"
+  },
+  {
+    "query": "What is the official language of Benin?",
+    "answer": " French",
+    "sub": "Benin"
+  },
+  {
+    "query": "What is the official language of Florida?",
+    "answer": " English",
+    "sub": "Florida"
+  },
+  {
+    "query": "What is the official language of Virginia?",
+    "answer": " English",
+    "sub": "Virginia"
+  },
+  {
+    "query": "What is the official language of Joensuu?",
+    "answer": " Finnish",
+    "sub": "Joensuu"
+  },
+  {
+    "query": "What is the official language of Uppsala Municipality?",
+    "answer": " Swedish",
+    "sub": "Uppsala Municipality"
+  },
+  {
+    "query": "What is the official language of Antigua and Barbuda?",
+    "answer": " English",
+    "sub": "Antigua and Barbuda"
+  },
+  {
+    "query": "What is the official language of L'Isle?",
+    "answer": " French",
+    "sub": "L'Isle"
+  },
+  {
+    "query": "What is the official language of ASEAN?",
+    "answer": " Chinese",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "What is the official language of Belgium?",
+    "answer": " French",
+    "sub": "Belgium"
+  },
+  {
+    "query": "What is the official language of Nepali literature?",
+    "answer": " Nepali",
+    "sub": "Nepali literature"
+  },
+  {
+    "query": "What is the official language of Suomussalmi?",
+    "answer": " Finnish",
+    "sub": "Suomussalmi"
+  },
+  {
+    "query": "What is the official language of Independent State of Croatia?",
+    "answer": " Croatian",
+    "sub": "Independent State of Croatia"
+  },
+  {
+    "query": "What is the official language of Catalonia?",
+    "answer": " Catalan",
+    "sub": "Catalonia"
+  },
+  {
+    "query": "What is the official language of Petrozavodsk?",
+    "answer": " Russian",
+    "sub": "Petrozavodsk"
+  },
+  {
+    "query": "What is the official language of Hanko?",
+    "answer": " Swedish",
+    "sub": "Hanko"
+  },
+  {
+    "query": "What is the official language of Chukotka Autonomous Okrug?",
+    "answer": " Russian",
+    "sub": "Chukotka Autonomous Okrug"
+  },
+  {
+    "query": "What is the official language of Pays de la Loire?",
+    "answer": " Breton",
+    "sub": "Pays de la Loire"
+  },
+  {
+    "query": "What is the official language of Ruokolahti?",
+    "answer": " Finnish",
+    "sub": "Ruokolahti"
+  },
+  {
+    "query": "What is the official language of Dundee?",
+    "answer": " English",
+    "sub": "Dundee"
+  },
+  {
+    "query": "What is the official language of Upplands-Bro Municipality?",
+    "answer": " Swedish",
+    "sub": "Upplands-Bro Municipality"
+  },
+  {
+    "query": "What is the official language of Naantali?",
+    "answer": " Finnish",
+    "sub": "Naantali"
+  },
+  {
+    "query": "What is the official language of Kurikka?",
+    "answer": " Finnish",
+    "sub": "Kurikka"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Maltese",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Amravati district?",
+    "answer": " Marathi",
+    "sub": "Amravati district"
+  },
+  {
+    "query": "What is the official language of Brugg?",
+    "answer": " German",
+    "sub": "Brugg"
+  },
+  {
+    "query": "What is the official language of Lemi?",
+    "answer": " Finnish",
+    "sub": "Lemi"
+  },
+  {
+    "query": "What is the official language of Azerbaijan Soviet Socialist Republic?",
+    "answer": " Russian",
+    "sub": "Azerbaijan Soviet Socialist Republic"
+  },
+  {
+    "query": "What is the official language of Norfolk Island?",
+    "answer": " English",
+    "sub": "Norfolk Island"
+  },
+  {
+    "query": "What is the official language of Scotland?",
+    "answer": " English",
+    "sub": "Scotland"
+  },
+  {
+    "query": "What is the official language of Cuba?",
+    "answer": " Spanish",
+    "sub": "Cuba"
+  },
+  {
+    "query": "What is the official language of Biel/Bienne?",
+    "answer": " German",
+    "sub": "Biel/Bienne"
+  },
+  {
+    "query": "What is the official language of Federated States of Micronesia?",
+    "answer": " English",
+    "sub": "Federated States of Micronesia"
+  },
+  {
+    "query": "What is the official language of Perm Krai?",
+    "answer": " Russian",
+    "sub": "Perm Krai"
+  },
+  {
+    "query": "What is the official language of Congress Poland?",
+    "answer": " Russian",
+    "sub": "Congress Poland"
+  },
+  {
+    "query": "What is the official language of Pomarkku?",
+    "answer": " Finnish",
+    "sub": "Pomarkku"
+  },
+  {
+    "query": "What is the official language of Bulgaria?",
+    "answer": " Bulgarian",
+    "sub": "Bulgaria"
+  },
+  {
+    "query": "What is the official language of United States of America?",
+    "answer": " English",
+    "sub": "United States of America"
+  },
+  {
+    "query": "What is the official language of Raisio?",
+    "answer": " Finnish",
+    "sub": "Raisio"
+  },
+  {
+    "query": "What is the official language of Payerne?",
+    "answer": " French",
+    "sub": "Payerne"
+  },
+  {
+    "query": "What is the official language of Illinois?",
+    "answer": " English",
+    "sub": "Illinois"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Italian",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Perroy?",
+    "answer": " French",
+    "sub": "Perroy"
+  },
+  {
+    "query": "What is the official language of Arjeplog Municipality?",
+    "answer": " Swedish",
+    "sub": "Arjeplog Municipality"
+  },
+  {
+    "query": "What is the official language of North Sumatra?",
+    "answer": " Indonesian",
+    "sub": "North Sumatra"
+  },
+  {
+    "query": "What is the official language of Eurajoki?",
+    "answer": " Finnish",
+    "sub": "Eurajoki"
+  },
+  {
+    "query": "What is the official language of Liminka?",
+    "answer": " Finnish",
+    "sub": "Liminka"
+  },
+  {
+    "query": "What is the official language of ASEAN?",
+    "answer": " Thai",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "What is the official language of British Hong Kong?",
+    "answer": " Chinese",
+    "sub": "British Hong Kong"
+  },
+  {
+    "query": "What is the official language of Republic of Florence?",
+    "answer": " Latin",
+    "sub": "Republic of Florence"
+  },
+  {
+    "query": "What is the official language of Tennessee?",
+    "answer": " English",
+    "sub": "Tennessee"
+  },
+  {
+    "query": "What is the official language of Uusikaupunki?",
+    "answer": " Finnish",
+    "sub": "Uusikaupunki"
+  },
+  {
+    "query": "What is the official language of Russian Empire?",
+    "answer": " Swedish",
+    "sub": "Russian Empire"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " Swedish",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of Andhra Pradesh?",
+    "answer": " Telugu",
+    "sub": "Andhra Pradesh"
+  },
+  {
+    "query": "What is the official language of Orange Free State?",
+    "answer": " Dutch",
+    "sub": "Orange Free State"
+  },
+  {
+    "query": "What is the official language of Kaskinen?",
+    "answer": " Swedish",
+    "sub": "Kaskinen"
+  },
+  {
+    "query": "What is the official language of Guernsey?",
+    "answer": " French",
+    "sub": "Guernsey"
+  },
+  {
+    "query": "What is the official language of Imatra?",
+    "answer": " Finnish",
+    "sub": "Imatra"
+  },
+  {
+    "query": "What is the official language of Nakkila?",
+    "answer": " Finnish",
+    "sub": "Nakkila"
+  },
+  {
+    "query": "What is the official language of Canary Islands?",
+    "answer": " Spanish",
+    "sub": "Canary Islands"
+  },
+  {
+    "query": "What is the official language of Republic of Mordovia?",
+    "answer": " Russian",
+    "sub": "Republic of Mordovia"
+  },
+  {
+    "query": "What is the official language of Macau?",
+    "answer": " Portuguese",
+    "sub": "Macau"
+  },
+  {
+    "query": "What is the official language of Altai Republic?",
+    "answer": " Russian",
+    "sub": "Altai Republic"
+  },
+  {
+    "query": "What is the official language of Costa Rica?",
+    "answer": " Spanish",
+    "sub": "Costa Rica"
+  },
+  {
+    "query": "What is the official language of Saint Vincent and the Grenadines?",
+    "answer": " Spanish",
+    "sub": "Saint Vincent and the Grenadines"
+  },
+  {
+    "query": "What is the official language of Paimio?",
+    "answer": " Finnish",
+    "sub": "Paimio"
+  },
+  {
+    "query": "What is the official language of Kitee?",
+    "answer": " Finnish",
+    "sub": "Kitee"
+  },
+  {
+    "query": "What is the official language of European Union?",
+    "answer": " German",
+    "sub": "European Union"
+  },
+  {
+    "query": "What is the official language of International Criminal Court?",
+    "answer": " French",
+    "sub": "International Criminal Court"
+  },
+  {
+    "query": "What is the official language of Pori?",
+    "answer": " Finnish",
+    "sub": "Pori"
+  },
+  {
+    "query": "What is the official language of Menorca?",
+    "answer": " Spanish",
+    "sub": "Menorca"
+  },
+  {
+    "query": "What is the official language of Montenegro?",
+    "answer": " Albanian",
+    "sub": "Montenegro"
+  },
+  {
+    "query": "What is the official language of Zimbabwe?",
+    "answer": " Tonga",
+    "sub": "Zimbabwe"
+  },
+  {
+    "query": "What is the official language of Kashubia?",
+    "answer": " Polish",
+    "sub": "Kashubia"
+  },
+  {
+    "query": "What is the official language of Paris Commune?",
+    "answer": " French",
+    "sub": "Paris Commune"
+  },
+  {
+    "query": "What is the official language of Venezuela?",
+    "answer": " Spanish",
+    "sub": "Venezuela"
+  },
+  {
+    "query": "What is the official language of Siikajoki?",
+    "answer": " Finnish",
+    "sub": "Siikajoki"
+  },
+  {
+    "query": "What is the official language of Marshall Islands?",
+    "answer": " English",
+    "sub": "Marshall Islands"
+  },
+  {
+    "query": "What is the official language of Karelia?",
+    "answer": " Russian",
+    "sub": "Karelia"
+  },
+  {
+    "query": "What is the official language of Kiiminki?",
+    "answer": " Finnish",
+    "sub": "Kiiminki"
+  },
+  {
+    "query": "What is the official language of Hanko?",
+    "answer": " Finnish",
+    "sub": "Hanko"
+  },
+  {
+    "query": "What is the official language of Snezhinsk?",
+    "answer": " Russian",
+    "sub": "Snezhinsk"
+  },
+  {
+    "query": "What is the official language of Community of Valencia?",
+    "answer": " Catalan",
+    "sub": "Community of Valencia"
+  },
+  {
+    "query": "What is the official language of Slovakia?",
+    "answer": " Slovak",
+    "sub": "Slovakia"
+  },
+  {
+    "query": "What is the official language of Haryana?",
+    "answer": " Hindi",
+    "sub": "Haryana"
+  },
+  {
+    "query": "What is the official language of Humppila?",
+    "answer": " Finnish",
+    "sub": "Humppila"
+  },
+  {
+    "query": "What is the official language of South Korea?",
+    "answer": " Korean",
+    "sub": "South Korea"
+  },
+  {
+    "query": "What is the official language of Cape Verde?",
+    "answer": " Portuguese",
+    "sub": "Cape Verde"
+  },
+  {
+    "query": "What is the official language of Shimla?",
+    "answer": " Hindi",
+    "sub": "Shimla"
+  },
+  {
+    "query": "What is the official language of Outokumpu?",
+    "answer": " Finnish",
+    "sub": "Outokumpu"
+  },
+  {
+    "query": "What is the official language of Khorasan Province?",
+    "answer": " Persian",
+    "sub": "Khorasan Province"
+  },
+  {
+    "query": "What is the official language of First Czechoslovak Republic?",
+    "answer": " Czech",
+    "sub": "First Czechoslovak Republic"
+  },
+  {
+    "query": "What is the official language of Caribbean Netherlands?",
+    "answer": " Dutch",
+    "sub": "Caribbean Netherlands"
+  },
+  {
+    "query": "What is the official language of Kemi?",
+    "answer": " Finnish",
+    "sub": "Kemi"
+  },
+  {
+    "query": "What is the official language of Oklahoma?",
+    "answer": " English",
+    "sub": "Oklahoma"
+  },
+  {
+    "query": "What is the official language of Surahammar Municipality?",
+    "answer": " Swedish",
+    "sub": "Surahammar Municipality"
+  },
+  {
+    "query": "What is the official language of Governor-General of Australia?",
+    "answer": " English",
+    "sub": "Governor-General of Australia"
+  },
+  {
+    "query": "What is the official language of Ukraine?",
+    "answer": " Ukrainian",
+    "sub": "Ukraine"
+  },
+  {
+    "query": "What is the official language of Cook Islands?",
+    "answer": " English",
+    "sub": "Cook Islands"
+  },
+  {
+    "query": "What is the official language of UEFA?",
+    "answer": " English",
+    "sub": "UEFA"
+  },
+  {
+    "query": "What is the official language of Kokkola?",
+    "answer": " Finnish",
+    "sub": "Kokkola"
+  },
+  {
+    "query": "What is the official language of Tanzania?",
+    "answer": " English",
+    "sub": "Tanzania"
+  },
+  {
+    "query": "What is the official language of Turkmenistan?",
+    "answer": " Russian",
+    "sub": "Turkmenistan"
+  },
+  {
+    "query": "What is the official language of Somaliland?",
+    "answer": " Somali",
+    "sub": "Somaliland"
+  },
+  {
+    "query": "What is the official language of Sipoo?",
+    "answer": " Swedish",
+    "sub": "Sipoo"
+  },
+  {
+    "query": "What is the official language of Switzerland?",
+    "answer": " German",
+    "sub": "Switzerland"
+  },
+  {
+    "query": "What is the official language of Khabarovsk Krai?",
+    "answer": " Russian",
+    "sub": "Khabarovsk Krai"
+  },
+  {
+    "query": "What is the official language of Uddevalla Municipality?",
+    "answer": " Swedish",
+    "sub": "Uddevalla Municipality"
+  },
+  {
+    "query": "What is the official language of Lahti?",
+    "answer": " Finnish",
+    "sub": "Lahti"
+  },
+  {
+    "query": "What is the official language of Alicante?",
+    "answer": " Spanish",
+    "sub": "Alicante"
+  },
+  {
+    "query": "What is the official language of Parkano?",
+    "answer": " Finnish",
+    "sub": "Parkano"
+  },
+  {
+    "query": "What is the official language of Kuhmoinen?",
+    "answer": " Finnish",
+    "sub": "Kuhmoinen"
+  },
+  {
+    "query": "What is the official language of Belarus?",
+    "answer": " Belarusian",
+    "sub": "Belarus"
+  },
+  {
+    "query": "What is the official language of Uttar Pradesh?",
+    "answer": " Hindi",
+    "sub": "Uttar Pradesh"
+  },
+  {
+    "query": "What is the official language of Korsholm?",
+    "answer": " Finnish",
+    "sub": "Korsholm"
+  },
+  {
+    "query": "What is the official language of Luhansk People's Republic?",
+    "answer": " Russian",
+    "sub": "Luhansk People's Republic"
+  },
+  {
+    "query": "What is the official language of Laos?",
+    "answer": " Lao",
+    "sub": "Laos"
+  },
+  {
+    "query": "What is the official language of Masku?",
+    "answer": " Finnish",
+    "sub": "Masku"
+  },
+  {
+    "query": "What is the official language of Republic of Ingushetia?",
+    "answer": " Russian",
+    "sub": "Republic of Ingushetia"
+  }
+]

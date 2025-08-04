@@ -1,0 +1,4392 @@
+[
+  {
+    "query": "The Rousters debuted on ",
+    "answer": "NBC",
+    "sub": "The Rousters"
+  },
+  {
+    "query": "The Paradise Club debuted on ",
+    "answer": "BBC",
+    "sub": "The Paradise Club"
+  },
+  {
+    "query": "The Tonight Show with Conan O'Brien debuted on ",
+    "answer": "NBC",
+    "sub": "The Tonight Show with Conan O'Brien"
+  },
+  {
+    "query": "Drake & Josh debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Drake & Josh"
+  },
+  {
+    "query": "Salute Your Shorts debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Salute Your Shorts"
+  },
+  {
+    "query": "DinoSquad debuted on ",
+    "answer": "CBS",
+    "sub": "DinoSquad"
+  },
+  {
+    "query": "The Famous Teddy Z debuted on ",
+    "answer": "CBS",
+    "sub": "The Famous Teddy Z"
+  },
+  {
+    "query": "FN",
+    "answer": "MTV",
+    "sub": "FNMTV"
+  },
+  {
+    "query": "This Is Your Life debuted on ",
+    "answer": "NBC",
+    "sub": "This Is Your Life"
+  },
+  {
+    "query": "Million Dollar Password debuted on ",
+    "answer": "CBS",
+    "sub": "Million Dollar Password"
+  },
+  {
+    "query": "Yo Momma debuted on ",
+    "answer": "MTV",
+    "sub": "Yo Momma"
+  },
+  {
+    "query": "GE True debuted on ",
+    "answer": "CBS",
+    "sub": "GE True"
+  },
+  {
+    "query": "Knight Rider debuted on ",
+    "answer": "NBC",
+    "sub": "Knight Rider"
+  },
+  {
+    "query": "Wonder Pets! debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Wonder Pets!"
+  },
+  {
+    "query": "Presidio Med debuted on ",
+    "answer": "CBS",
+    "sub": "Presidio Med"
+  },
+  {
+    "query": "",
+    "answer": "NBC",
+    "sub": "NBC Nightside"
+  },
+  {
+    "query": "Just Deal debuted on ",
+    "answer": "NBC",
+    "sub": "Just Deal"
+  },
+  {
+    "query": "The DuPont Show with June Allyson debuted on ",
+    "answer": "CBS",
+    "sub": "The DuPont Show with June Allyson"
+  },
+  {
+    "query": "Jim Henson's Muppet Babies debuted on ",
+    "answer": "CBS",
+    "sub": "Jim Henson's Muppet Babies"
+  },
+  {
+    "query": "Yancy Derringer debuted on ",
+    "answer": "CBS",
+    "sub": "Yancy Derringer"
+  },
+  {
+    "query": "Every Witch Way debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Every Witch Way"
+  },
+  {
+    "query": "The Law & Harry McGraw debuted on ",
+    "answer": "CBS",
+    "sub": "The Law & Harry McGraw"
+  },
+  {
+    "query": "Epitaphs debuted on ",
+    "answer": "HBO",
+    "sub": "Epitaphs"
+  },
+  {
+    "query": "Strong Medicine debuted on ",
+    "answer": "Lifetime",
+    "sub": "Strong Medicine"
+  },
+  {
+    "query": "Downtown debuted on ",
+    "answer": "MTV",
+    "sub": "Downtown"
+  },
+  {
+    "query": "Sparkhouse debuted on ",
+    "answer": "BBC",
+    "sub": "Sparkhouse"
+  },
+  {
+    "query": "This Old House debuted on ",
+    "answer": "PBS",
+    "sub": "This Old House"
+  },
+  {
+    "query": "Alternative Nation debuted on ",
+    "answer": "MTV",
+    "sub": "Alternative Nation"
+  },
+  {
+    "query": "WWE Tough Enough debuted on ",
+    "answer": "MTV",
+    "sub": "WWE Tough Enough"
+  },
+  {
+    "query": "Romeo! debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Romeo!"
+  },
+  {
+    "query": "Bright Promise debuted on ",
+    "answer": "NBC",
+    "sub": "Bright Promise"
+  },
+  {
+    "query": "Hey Arnold! debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Hey Arnold!"
+  },
+  {
+    "query": "Barnaby Jones debuted on ",
+    "answer": "CBS",
+    "sub": "Barnaby Jones"
+  },
+  {
+    "query": "The Bold and the Beautiful debuted on ",
+    "answer": "CBS",
+    "sub": "The Bold and the Beautiful"
+  },
+  {
+    "query": "Wednesday Night Baseball debuted on ",
+    "answer": "ESPN",
+    "sub": "Wednesday Night Baseball"
+  },
+  {
+    "query": "The Bill Cosby Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Bill Cosby Show"
+  },
+  {
+    "query": "Wild & Crazy Kids debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Wild & Crazy Kids"
+  },
+  {
+    "query": "The Gisele MacKenzie Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Gisele MacKenzie Show"
+  },
+  {
+    "query": "Will & Grace debuted on ",
+    "answer": "NBC",
+    "sub": "Will & Grace"
+  },
+  {
+    "query": "The Michael Richards Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Michael Richards Show"
+  },
+  {
+    "query": "Liquid Television debuted on ",
+    "answer": "MTV",
+    "sub": "Liquid Television"
+  },
+  {
+    "query": "Brooklyn South debuted on ",
+    "answer": "CBS",
+    "sub": "Brooklyn South"
+  },
+  {
+    "query": "SportsCentury debuted on ",
+    "answer": "ESPN",
+    "sub": "SportsCentury"
+  },
+  {
+    "query": "The Morey Amsterdam Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Morey Amsterdam Show"
+  },
+  {
+    "query": "The Return of Captain Nemo debuted on ",
+    "answer": "CBS",
+    "sub": "The Return of Captain Nemo"
+  },
+  {
+    "query": "Bonanza debuted on ",
+    "answer": "NBC",
+    "sub": "Bonanza"
+  },
+  {
+    "query": "We Got It Made debuted on ",
+    "answer": "NBC",
+    "sub": "We Got It Made"
+  },
+  {
+    "query": "Armstrong Circle Theatre debuted on ",
+    "answer": "NBC",
+    "sub": "Armstrong Circle Theatre"
+  },
+  {
+    "query": "How to Make It in America debuted on ",
+    "answer": "HBO",
+    "sub": "How to Make It in America"
+  },
+  {
+    "query": "NBA on ",
+    "answer": "TNT",
+    "sub": "NBA on TNT"
+  },
+  {
+    "query": "American Restoration debuted on ",
+    "answer": "History",
+    "sub": "American Restoration"
+  },
+  {
+    "query": "Outside the Lines debuted on ",
+    "answer": "ESPN",
+    "sub": "Outside the Lines"
+  },
+  {
+    "query": "Bob the Builder debuted on ",
+    "answer": "BBC",
+    "sub": "Bob the Builder"
+  },
+  {
+    "query": "Unsolved Mysteries debuted on ",
+    "answer": "NBC",
+    "sub": "Unsolved Mysteries"
+  },
+  {
+    "query": "Ark II debuted on ",
+    "answer": "CBS",
+    "sub": "Ark II"
+  },
+  {
+    "query": "Hello, Larry debuted on ",
+    "answer": "NBC",
+    "sub": "Hello, Larry"
+  },
+  {
+    "query": "St. Elsewhere debuted on ",
+    "answer": "NBC",
+    "sub": "St. Elsewhere"
+  },
+  {
+    "query": "Mann & Machine debuted on ",
+    "answer": "NBC",
+    "sub": "Mann & Machine"
+  },
+  {
+    "query": "The Danny Thomas Hour debuted on ",
+    "answer": "NBC",
+    "sub": "The Danny Thomas Hour"
+  },
+  {
+    "query": "Carol & Company debuted on ",
+    "answer": "NBC",
+    "sub": "Carol & Company"
+  },
+  {
+    "query": "The Ed Sullivan Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Ed Sullivan Show"
+  },
+  {
+    "query": "Punky Brewster debuted on ",
+    "answer": "NBC",
+    "sub": "Punky Brewster"
+  },
+  {
+    "query": "Singled Out debuted on ",
+    "answer": "MTV",
+    "sub": "Singled Out"
+  },
+  {
+    "query": "The Electric Company debuted on ",
+    "answer": "PBS",
+    "sub": "The Electric Company"
+  },
+  {
+    "query": "Tattletales debuted on ",
+    "answer": "CBS",
+    "sub": "Tattletales"
+  },
+  {
+    "query": "The Lucy Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Lucy Show"
+  },
+  {
+    "query": "Green Acres debuted on ",
+    "answer": "CBS",
+    "sub": "Green Acres"
+  },
+  {
+    "query": "227 debuted on ",
+    "answer": "NBC",
+    "sub": "227"
+  },
+  {
+    "query": "Bully Beatdown debuted on ",
+    "answer": "MTV",
+    "sub": "Bully Beatdown"
+  },
+  {
+    "query": "Ford Star Jubilee debuted on ",
+    "answer": "CBS",
+    "sub": "Ford Star Jubilee"
+  },
+  {
+    "query": "Ni Hao, Kai-Lan debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Ni Hao, Kai-Lan"
+  },
+  {
+    "query": "True Blood debuted on ",
+    "answer": "HBO",
+    "sub": "True Blood"
+  },
+  {
+    "query": "Daddio debuted on ",
+    "answer": "NBC",
+    "sub": "Daddio"
+  },
+  {
+    "query": "The Jean Arthur Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Jean Arthur Show"
+  },
+  {
+    "query": "The Pee-wee Herman Show debuted on ",
+    "answer": "HBO",
+    "sub": "The Pee-wee Herman Show"
+  },
+  {
+    "query": "Real Time with Bill Maher debuted on ",
+    "answer": "HBO",
+    "sub": "Real Time with Bill Maher"
+  },
+  {
+    "query": "Birdz debuted on ",
+    "answer": "CBS",
+    "sub": "Birdz"
+  },
+  {
+    "query": "Date My Mom debuted on ",
+    "answer": "MTV",
+    "sub": "Date My Mom"
+  },
+  {
+    "query": "Atom Ant debuted on ",
+    "answer": "NBC",
+    "sub": "Atom Ant"
+  },
+  {
+    "query": "The Black Donnellys debuted on ",
+    "answer": "NBC",
+    "sub": "The Black Donnellys"
+  },
+  {
+    "query": "A.U.S.A. debuted on ",
+    "answer": "NBC",
+    "sub": "A.U.S.A."
+  },
+  {
+    "query": "The Waverly Wonders debuted on ",
+    "answer": "NBC",
+    "sub": "The Waverly Wonders"
+  },
+  {
+    "query": "Dream Job debuted on ",
+    "answer": "ESPN",
+    "sub": "Dream Job"
+  },
+  {
+    "query": "The Shari Lewis Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Shari Lewis Show"
+  },
+  {
+    "query": "The Puzzle Place debuted on ",
+    "answer": "PBS",
+    "sub": "The Puzzle Place"
+  },
+  {
+    "query": "My Friend Tony debuted on ",
+    "answer": "NBC",
+    "sub": "My Friend Tony"
+  },
+  {
+    "query": "The Law Firm debuted on ",
+    "answer": "NBC",
+    "sub": "The Law Firm"
+  },
+  {
+    "query": "I'm Telling! debuted on ",
+    "answer": "NBC",
+    "sub": "I'm Telling!"
+  },
+  {
+    "query": "",
+    "answer": "CBS",
+    "sub": "CBS Evening News"
+  },
+  {
+    "query": "Breaking Bad debuted on ",
+    "answer": "AMC",
+    "sub": "Breaking Bad"
+  },
+  {
+    "query": "Project Runway Australia debuted on ",
+    "answer": "Fox Arena",
+    "sub": "Project Runway Australia"
+  },
+  {
+    "query": "The Comeback debuted on ",
+    "answer": "HBO",
+    "sub": "The Comeback"
+  },
+  {
+    "query": "",
+    "answer": "ESPN",
+    "sub": "ESPN Major League Soccer"
+  },
+  {
+    "query": "My Living Doll debuted on ",
+    "answer": "CBS",
+    "sub": "My Living Doll"
+  },
+  {
+    "query": "Action League Now! debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Action League Now!"
+  },
+  {
+    "query": "Nova ScienceNow debuted on ",
+    "answer": "PBS",
+    "sub": "Nova ScienceNow"
+  },
+  {
+    "query": "",
+    "answer": "CNN",
+    "sub": "CNN Presents"
+  },
+  {
+    "query": "The Sopranos debuted on ",
+    "answer": "HBO",
+    "sub": "The Sopranos"
+  },
+  {
+    "query": "The Edsel Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Edsel Show"
+  },
+  {
+    "query": "I.R.S. Records Presents The Cutting Edge debuted on ",
+    "answer": "MTV",
+    "sub": "I.R.S. Records Presents The Cutting Edge"
+  },
+  {
+    "query": "",
+    "answer": "CBS",
+    "sub": "CBS Storybreak"
+  },
+  {
+    "query": "Kojak debuted on ",
+    "answer": "CBS",
+    "sub": "Kojak"
+  },
+  {
+    "query": "The Kwicky Koala Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Kwicky Koala Show"
+  },
+  {
+    "query": "Human Weapon debuted on ",
+    "answer": "History",
+    "sub": "Human Weapon"
+  },
+  {
+    "query": "Zach Stone Is Gonna Be Famous debuted on ",
+    "answer": "MTV",
+    "sub": "Zach Stone Is Gonna Be Famous"
+  },
+  {
+    "query": "Storybook Squares debuted on ",
+    "answer": "NBC",
+    "sub": "Storybook Squares"
+  },
+  {
+    "query": "The New Mike Hammer debuted on ",
+    "answer": "CBS",
+    "sub": "The New Mike Hammer"
+  },
+  {
+    "query": "Murder, She Wrote debuted on ",
+    "answer": "CBS",
+    "sub": "Murder, She Wrote"
+  },
+  {
+    "query": "Little Britain USA debuted on ",
+    "answer": "HBO",
+    "sub": "Little Britain USA"
+  },
+  {
+    "query": "Road Rules debuted on ",
+    "answer": "MTV",
+    "sub": "Road Rules"
+  },
+  {
+    "query": "Boardwalk Empire debuted on ",
+    "answer": "HBO",
+    "sub": "Boardwalk Empire"
+  },
+  {
+    "query": "Frontier House debuted on ",
+    "answer": "PBS",
+    "sub": "Frontier House"
+  },
+  {
+    "query": "Yes, Dear debuted on ",
+    "answer": "CBS",
+    "sub": "Yes, Dear"
+  },
+  {
+    "query": "Fireside Theater debuted on ",
+    "answer": "NBC",
+    "sub": "Fireside Theater"
+  },
+  {
+    "query": "Juliet Bravo debuted on ",
+    "answer": "BBC",
+    "sub": "Juliet Bravo"
+  },
+  {
+    "query": "Clear History debuted on ",
+    "answer": "HBO",
+    "sub": "Clear History"
+  },
+  {
+    "query": "Password Plus and Super Password debuted on ",
+    "answer": "NBC",
+    "sub": "Password Plus and Super Password"
+  },
+  {
+    "query": "Big Blue Marble debuted on ",
+    "answer": "PBS",
+    "sub": "Big Blue Marble"
+  },
+  {
+    "query": "As the World Turns debuted on ",
+    "answer": "CBS",
+    "sub": "As the World Turns"
+  },
+  {
+    "query": "Something Is Out There debuted on ",
+    "answer": "NBC",
+    "sub": "Something Is Out There"
+  },
+  {
+    "query": "Quarterlife debuted on ",
+    "answer": "NBC",
+    "sub": "Quarterlife"
+  },
+  {
+    "query": "I Dream of Jeannie debuted on ",
+    "answer": "NBC",
+    "sub": "I Dream of Jeannie"
+  },
+  {
+    "query": "Kate & Allie debuted on ",
+    "answer": "CBS",
+    "sub": "Kate & Allie"
+  },
+  {
+    "query": "The Many Loves of Dobie Gillis debuted on ",
+    "answer": "CBS",
+    "sub": "The Many Loves of Dobie Gillis"
+  },
+  {
+    "query": "The New Andy Griffith Show debuted on ",
+    "answer": "CBS",
+    "sub": "The New Andy Griffith Show"
+  },
+  {
+    "query": "The Alcoa Hour debuted on ",
+    "answer": "NBC",
+    "sub": "The Alcoa Hour"
+  },
+  {
+    "query": "Father Murphy debuted on ",
+    "answer": "NBC",
+    "sub": "Father Murphy"
+  },
+  {
+    "query": "60 Minutes debuted on ",
+    "answer": "CBS",
+    "sub": "60 Minutes"
+  },
+  {
+    "query": "Saturday Night Live debuted on ",
+    "answer": "NBC",
+    "sub": "Saturday Night Live"
+  },
+  {
+    "query": "The Ruff & Reddy Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Ruff & Reddy Show"
+  },
+  {
+    "query": "Miss Susan debuted on ",
+    "answer": "NBC",
+    "sub": "Miss Susan"
+  },
+  {
+    "query": "From These Roots debuted on ",
+    "answer": "NBC",
+    "sub": "From These Roots"
+  },
+  {
+    "query": "See It Now debuted on ",
+    "answer": "CBS",
+    "sub": "See It Now"
+  },
+  {
+    "query": "Petticoat Junction debuted on ",
+    "answer": "CBS",
+    "sub": "Petticoat Junction"
+  },
+  {
+    "query": "Dinky Dog debuted on ",
+    "answer": "CBS",
+    "sub": "Dinky Dog"
+  },
+  {
+    "query": "SNICK debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "SNICK"
+  },
+  {
+    "query": "The Man from U.N.C.L.E. debuted on ",
+    "answer": "NBC",
+    "sub": "The Man from U.N.C.L.E."
+  },
+  {
+    "query": "Together We Stand debuted on ",
+    "answer": "CBS",
+    "sub": "Together We Stand"
+  },
+  {
+    "query": "Max & Shred debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Max & Shred"
+  },
+  {
+    "query": "NYC 22 debuted on ",
+    "answer": "CBS",
+    "sub": "NYC 22"
+  },
+  {
+    "query": "Gullah Gullah Island debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Gullah Gullah Island"
+  },
+  {
+    "query": "Got Talent debuted on ",
+    "answer": "NBC",
+    "sub": "Got Talent"
+  },
+  {
+    "query": "My Two Dads debuted on ",
+    "answer": "NBC",
+    "sub": "My Two Dads"
+  },
+  {
+    "query": "The Andy Williams Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Andy Williams Show"
+  },
+  {
+    "query": "American Pickers debuted on ",
+    "answer": "History",
+    "sub": "American Pickers"
+  },
+  {
+    "query": "Springwatch debuted on ",
+    "answer": "BBC",
+    "sub": "Springwatch"
+  },
+  {
+    "query": "Ballers debuted on ",
+    "answer": "HBO",
+    "sub": "Ballers"
+  },
+  {
+    "query": "John King, USA debuted on ",
+    "answer": "CNN",
+    "sub": "John King, USA"
+  },
+  {
+    "query": "Thursday Night Showcase debuted on ",
+    "answer": "ESPN",
+    "sub": "Thursday Night Showcase"
+  },
+  {
+    "query": "The Doris Day Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Doris Day Show"
+  },
+  {
+    "query": "Growing Up Fisher debuted on ",
+    "answer": "NBC",
+    "sub": "Growing Up Fisher"
+  },
+  {
+    "query": "Pardon the Interruption debuted on ",
+    "answer": "ESPN",
+    "sub": "Pardon the Interruption"
+  },
+  {
+    "query": "Noah Knows Best debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Noah Knows Best"
+  },
+  {
+    "query": "Curb Your Enthusiasm debuted on ",
+    "answer": "HBO",
+    "sub": "Curb Your Enthusiasm"
+  },
+  {
+    "query": "Your Hit Parade debuted on ",
+    "answer": "NBC",
+    "sub": "Your Hit Parade"
+  },
+  {
+    "query": "Westinghouse Desilu Playhouse debuted on ",
+    "answer": "CBS",
+    "sub": "Westinghouse Desilu Playhouse"
+  },
+  {
+    "query": "The Brothers Grunt debuted on ",
+    "answer": "MTV",
+    "sub": "The Brothers Grunt"
+  },
+  {
+    "query": "Jeopardy! debuted on ",
+    "answer": "NBC",
+    "sub": "Jeopardy!"
+  },
+  {
+    "query": "Nick Cannon Presents: Wild 'N Out debuted on ",
+    "answer": "MTV",
+    "sub": "Nick Cannon Presents: Wild 'N Out"
+  },
+  {
+    "query": "Magnum, P.I. debuted on ",
+    "answer": "CBS",
+    "sub": "Magnum, P.I."
+  },
+  {
+    "query": "The Yellow Rose debuted on ",
+    "answer": "NBC",
+    "sub": "The Yellow Rose"
+  },
+  {
+    "query": "Inch High, Private Eye debuted on ",
+    "answer": "NBC",
+    "sub": "Inch High, Private Eye"
+  },
+  {
+    "query": "The Lead with Jake Tapper debuted on ",
+    "answer": "CNN",
+    "sub": "The Lead with Jake Tapper"
+  },
+  {
+    "query": "The Sophisticated Gents debuted on ",
+    "answer": "NBC",
+    "sub": "The Sophisticated Gents"
+  },
+  {
+    "query": "NFL Matchup debuted on ",
+    "answer": "ESPN",
+    "sub": "NFL Matchup"
+  },
+  {
+    "query": "One Big Happy debuted on ",
+    "answer": "NBC",
+    "sub": "One Big Happy"
+  },
+  {
+    "query": "Boxing After Dark debuted on ",
+    "answer": "HBO",
+    "sub": "Boxing After Dark"
+  },
+  {
+    "query": "The Jeffersons debuted on ",
+    "answer": "CBS",
+    "sub": "The Jeffersons"
+  },
+  {
+    "query": "Leg Work debuted on ",
+    "answer": "CBS",
+    "sub": "Leg Work"
+  },
+  {
+    "query": "Underdog debuted on ",
+    "answer": "NBC",
+    "sub": "Underdog"
+  },
+  {
+    "query": "",
+    "answer": "CBS",
+    "sub": "CBS Playhouse"
+  },
+  {
+    "query": "Simon & Simon debuted on ",
+    "answer": "CBS",
+    "sub": "Simon & Simon"
+  },
+  {
+    "query": "The Cosby Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Cosby Show"
+  },
+  {
+    "query": "WIRED Science debuted on ",
+    "answer": "PBS",
+    "sub": "WIRED Science"
+  },
+  {
+    "query": "Elizabeth R debuted on ",
+    "answer": "BBC",
+    "sub": "Elizabeth R"
+  },
+  {
+    "query": "Criminal Minds debuted on ",
+    "answer": "CBS",
+    "sub": "Criminal Minds"
+  },
+  {
+    "query": "Hello Ladies debuted on ",
+    "answer": "HBO",
+    "sub": "Hello Ladies"
+  },
+  {
+    "query": "2 Broke Girls debuted on ",
+    "answer": "CBS",
+    "sub": "2 Broke Girls"
+  },
+  {
+    "query": "Top Cops debuted on ",
+    "answer": "CBS",
+    "sub": "Top Cops"
+  },
+  {
+    "query": "Dogg After Dark debuted on ",
+    "answer": "MTV",
+    "sub": "Dogg After Dark"
+  },
+  {
+    "query": "Wallykazam! debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Wallykazam!"
+  },
+  {
+    "query": "Space Academy debuted on ",
+    "answer": "CBS",
+    "sub": "Space Academy"
+  },
+  {
+    "query": "Emergency! debuted on ",
+    "answer": "NBC",
+    "sub": "Emergency!"
+  },
+  {
+    "query": "Project Greenlight debuted on ",
+    "answer": "HBO",
+    "sub": "Project Greenlight"
+  },
+  {
+    "query": "Welcome Freshmen debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Welcome Freshmen"
+  },
+  {
+    "query": "UFO Hunters debuted on ",
+    "answer": "History",
+    "sub": "UFO Hunters"
+  },
+  {
+    "query": "Redigo debuted on ",
+    "answer": "NBC",
+    "sub": "Redigo"
+  },
+  {
+    "query": "Cheers debuted on ",
+    "answer": "NBC",
+    "sub": "Cheers"
+  },
+  {
+    "query": "Himalaya with Michael Palin debuted on ",
+    "answer": "BBC",
+    "sub": "Himalaya with Michael Palin"
+  },
+  {
+    "query": "Bret Maverick debuted on ",
+    "answer": "NBC",
+    "sub": "Bret Maverick"
+  },
+  {
+    "query": "Sushi Pack debuted on ",
+    "answer": "CBS",
+    "sub": "Sushi Pack"
+  },
+  {
+    "query": "Sanford Arms debuted on ",
+    "answer": "NBC",
+    "sub": "Sanford Arms"
+  },
+  {
+    "query": "Making the Band debuted on ",
+    "answer": "MTV",
+    "sub": "Making the Band"
+  },
+  {
+    "query": "The New Show debuted on ",
+    "answer": "NBC",
+    "sub": "The New Show"
+  },
+  {
+    "query": "The Aquanauts debuted on ",
+    "answer": "CBS",
+    "sub": "The Aquanauts"
+  },
+  {
+    "query": "Lilyhammer debuted on ",
+    "answer": "Netflix",
+    "sub": "Lilyhammer"
+  },
+  {
+    "query": "Amy Prentiss debuted on ",
+    "answer": "NBC",
+    "sub": "Amy Prentiss"
+  },
+  {
+    "query": "The Judy Garland Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Judy Garland Show"
+  },
+  {
+    "query": "Blowin' Up debuted on ",
+    "answer": "MTV",
+    "sub": "Blowin' Up"
+  },
+  {
+    "query": "Baseball Tonight debuted on ",
+    "answer": "ESPN",
+    "sub": "Baseball Tonight"
+  },
+  {
+    "query": "The Roman Holidays debuted on ",
+    "answer": "NBC",
+    "sub": "The Roman Holidays"
+  },
+  {
+    "query": "Dora the Explorer debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Dora the Explorer"
+  },
+  {
+    "query": "The Gong Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Gong Show"
+  },
+  {
+    "query": "Skag debuted on ",
+    "answer": "NBC",
+    "sub": "Skag"
+  },
+  {
+    "query": "The Pink Panther Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Pink Panther Show"
+  },
+  {
+    "query": "Finding Carter debuted on ",
+    "answer": "MTV",
+    "sub": "Finding Carter"
+  },
+  {
+    "query": "American Odyssey debuted on ",
+    "answer": "NBC",
+    "sub": "American Odyssey"
+  },
+  {
+    "query": "Zoey 101 debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Zoey 101"
+  },
+  {
+    "query": "My Big Fat Greek Life debuted on ",
+    "answer": "CBS",
+    "sub": "My Big Fat Greek Life"
+  },
+  {
+    "query": "Q debuted on ",
+    "answer": "BBC",
+    "sub": "Q"
+  },
+  {
+    "query": "True Detective debuted on ",
+    "answer": "HBO",
+    "sub": "True Detective"
+  },
+  {
+    "query": "The Robonic Stooges debuted on ",
+    "answer": "CBS",
+    "sub": "The Robonic Stooges"
+  },
+  {
+    "query": "Modern Marvels debuted on ",
+    "answer": "History",
+    "sub": "Modern Marvels"
+  },
+  {
+    "query": "Ice Road Truckers debuted on ",
+    "answer": "History",
+    "sub": "Ice Road Truckers"
+  },
+  {
+    "query": "Wolf Lake debuted on ",
+    "answer": "CBS",
+    "sub": "Wolf Lake"
+  },
+  {
+    "query": "The Nanny debuted on ",
+    "answer": "CBS",
+    "sub": "The Nanny"
+  },
+  {
+    "query": "",
+    "answer": "PBS",
+    "sub": "PBS Frontline"
+  },
+  {
+    "query": "The Dinah Shore Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Dinah Shore Show"
+  },
+  {
+    "query": "A Different World debuted on ",
+    "answer": "NBC",
+    "sub": "A Different World"
+  },
+  {
+    "query": "Videomatch debuted on ",
+    "answer": "Argentina",
+    "sub": "Videomatch"
+  },
+  {
+    "query": "Sam & Cat debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Sam & Cat"
+  },
+  {
+    "query": "The Andy Griffith Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Andy Griffith Show"
+  },
+  {
+    "query": "Time Warp Trio debuted on ",
+    "answer": "NBC",
+    "sub": "Time Warp Trio"
+  },
+  {
+    "query": "Winter Is Coming debuted on ",
+    "answer": "HBO",
+    "sub": "Winter Is Coming"
+  },
+  {
+    "query": "",
+    "answer": "CNN",
+    "sub": "CNN Heroes"
+  },
+  {
+    "query": "Las Vegas debuted on ",
+    "answer": "NBC",
+    "sub": "Las Vegas"
+  },
+  {
+    "query": "Devious Maids debuted on ",
+    "answer": "Lifetime",
+    "sub": "Devious Maids"
+  },
+  {
+    "query": "Hotel Malibu debuted on ",
+    "answer": "CBS",
+    "sub": "Hotel Malibu"
+  },
+  {
+    "query": "The Beverly Hillbillies debuted on ",
+    "answer": "CBS",
+    "sub": "The Beverly Hillbillies"
+  },
+  {
+    "query": "The Tonight Show Starring Jimmy Fallon debuted on ",
+    "answer": "NBC",
+    "sub": "The Tonight Show Starring Jimmy Fallon"
+  },
+  {
+    "query": "Silk Stalkings debuted on ",
+    "answer": "CBS",
+    "sub": "Silk Stalkings"
+  },
+  {
+    "query": "Unfabulous debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Unfabulous"
+  },
+  {
+    "query": "Trailer Park Boys debuted on ",
+    "answer": "Netflix",
+    "sub": "Trailer Park Boys"
+  },
+  {
+    "query": "Concentration debuted on ",
+    "answer": "NBC",
+    "sub": "Concentration"
+  },
+  {
+    "query": "The Crazy Ones debuted on ",
+    "answer": "CBS",
+    "sub": "The Crazy Ones"
+  },
+  {
+    "query": "The New Phil Silvers Show debuted on ",
+    "answer": "CBS",
+    "sub": "The New Phil Silvers Show"
+  },
+  {
+    "query": "The John Larroquette Show debuted on ",
+    "answer": "NBC",
+    "sub": "The John Larroquette Show"
+  },
+  {
+    "query": "The Banana Splits debuted on ",
+    "answer": "NBC",
+    "sub": "The Banana Splits"
+  },
+  {
+    "query": "",
+    "answer": "MTV",
+    "sub": "MTV Cribs"
+  },
+  {
+    "query": "Arliss debuted on ",
+    "answer": "HBO",
+    "sub": "Arliss"
+  },
+  {
+    "query": "You Gotta See This debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "You Gotta See This"
+  },
+  {
+    "query": "An Early Frost debuted on ",
+    "answer": "NBC",
+    "sub": "An Early Frost"
+  },
+  {
+    "query": "Columbo debuted on ",
+    "answer": "NBC",
+    "sub": "Columbo"
+  },
+  {
+    "query": "The Home Court debuted on ",
+    "answer": "NBC",
+    "sub": "The Home Court"
+  },
+  {
+    "query": "Circus Boy debuted on ",
+    "answer": "NBC",
+    "sub": "Circus Boy"
+  },
+  {
+    "query": "Power Rangers Dino Charge debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Power Rangers Dino Charge"
+  },
+  {
+    "query": "The Golden Palace debuted on ",
+    "answer": "CBS",
+    "sub": "The Golden Palace"
+  },
+  {
+    "query": "Accidental Family debuted on ",
+    "answer": "NBC",
+    "sub": "Accidental Family"
+  },
+  {
+    "query": "Southern Charm debuted on ",
+    "answer": "Bravo",
+    "sub": "Southern Charm"
+  },
+  {
+    "query": "Queer Eye debuted on ",
+    "answer": "Bravo",
+    "sub": "Queer Eye"
+  },
+  {
+    "query": "The Rerun Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Rerun Show"
+  },
+  {
+    "query": "",
+    "answer": "Eurovision",
+    "sub": "Eurovision Song Contest"
+  },
+  {
+    "query": "New York News debuted on ",
+    "answer": "CBS",
+    "sub": "New York News"
+  },
+  {
+    "query": "Short Circuitz debuted on ",
+    "answer": "MTV",
+    "sub": "Short Circuitz"
+  },
+  {
+    "query": "Fat Albert and the Cosby Kids debuted on ",
+    "answer": "CBS",
+    "sub": "Fat Albert and the Cosby Kids"
+  },
+  {
+    "query": "Larry King Live debuted on ",
+    "answer": "CNN",
+    "sub": "Larry King Live"
+  },
+  {
+    "query": "Hec Ramsey debuted on ",
+    "answer": "NBC",
+    "sub": "Hec Ramsey"
+  },
+  {
+    "query": "Passions debuted on ",
+    "answer": "NBC",
+    "sub": "Passions"
+  },
+  {
+    "query": "Frontier debuted on ",
+    "answer": "NBC",
+    "sub": "Frontier"
+  },
+  {
+    "query": "SEC on ",
+    "answer": "CBS",
+    "sub": "SEC on CBS"
+  },
+  {
+    "query": "The Phil Silvers Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Phil Silvers Show"
+  },
+  {
+    "query": "Sanford and Son debuted on ",
+    "answer": "NBC",
+    "sub": "Sanford and Son"
+  },
+  {
+    "query": "SpongeBob SquarePants, season 6 debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "SpongeBob SquarePants, season 6"
+  },
+  {
+    "query": "Ceefax debuted on ",
+    "answer": "BBC",
+    "sub": "Ceefax"
+  },
+  {
+    "query": "Baa Baa Black Sheep debuted on ",
+    "answer": "NBC",
+    "sub": "Baa Baa Black Sheep"
+  },
+  {
+    "query": "Then Came Bronson debuted on ",
+    "answer": "NBC",
+    "sub": "Then Came Bronson"
+  },
+  {
+    "query": "Jefferson Drum debuted on ",
+    "answer": "NBC",
+    "sub": "Jefferson Drum"
+  },
+  {
+    "query": "Letter to Loretta debuted on ",
+    "answer": "NBC",
+    "sub": "Letter to Loretta"
+  },
+  {
+    "query": "Underdog debuted on ",
+    "answer": "CBS",
+    "sub": "Underdog"
+  },
+  {
+    "query": "All Grown Up! debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "All Grown Up!"
+  },
+  {
+    "query": "Snorks debuted on ",
+    "answer": "NBC",
+    "sub": "Snorks"
+  },
+  {
+    "query": "Hell Town debuted on ",
+    "answer": "NBC",
+    "sub": "Hell Town"
+  },
+  {
+    "query": "The Contender 3 debuted on ",
+    "answer": "ESPN",
+    "sub": "The Contender 3"
+  },
+  {
+    "query": "The Flintstones' New Neighbors debuted on ",
+    "answer": "NBC",
+    "sub": "The Flintstones' New Neighbors"
+  },
+  {
+    "query": "Adam-12 debuted on ",
+    "answer": "NBC",
+    "sub": "Adam-12"
+  },
+  {
+    "query": "Jim Rome Is Burning debuted on ",
+    "answer": "ESPN",
+    "sub": "Jim Rome Is Burning"
+  },
+  {
+    "query": "The High Chaparral debuted on ",
+    "answer": "NBC",
+    "sub": "The High Chaparral"
+  },
+  {
+    "query": "Miss Match debuted on ",
+    "answer": "NBC",
+    "sub": "Miss Match"
+  },
+  {
+    "query": "The Chris Rock Show debuted on ",
+    "answer": "HBO",
+    "sub": "The Chris Rock Show"
+  },
+  {
+    "query": "Numbers debuted on ",
+    "answer": "CBS",
+    "sub": "Numbers"
+  },
+  {
+    "query": "Raw Toonage debuted on ",
+    "answer": "CBS",
+    "sub": "Raw Toonage"
+  },
+  {
+    "query": "Fareed Zakaria GPS debuted on ",
+    "answer": "CNN",
+    "sub": "Fareed Zakaria GPS"
+  },
+  {
+    "query": "The Bronx Is Burning debuted on ",
+    "answer": "ESPN",
+    "sub": "The Bronx Is Burning"
+  },
+  {
+    "query": "My Dad Is Better Than Your Dad debuted on ",
+    "answer": "NBC",
+    "sub": "My Dad Is Better Than Your Dad"
+  },
+  {
+    "query": "Forever Knight debuted on ",
+    "answer": "CBS",
+    "sub": "Forever Knight"
+  },
+  {
+    "query": "Dateline ",
+    "answer": "NBC",
+    "sub": "Dateline NBC"
+  },
+  {
+    "query": "Peter Gunn debuted on ",
+    "answer": "NBC",
+    "sub": "Peter Gunn"
+  },
+  {
+    "query": "Lucas Tanner debuted on ",
+    "answer": "NBC",
+    "sub": "Lucas Tanner"
+  },
+  {
+    "query": "True Women debuted on ",
+    "answer": "CBS",
+    "sub": "True Women"
+  },
+  {
+    "query": "The Sports Reporters debuted on ",
+    "answer": "ESPN",
+    "sub": "The Sports Reporters"
+  },
+  {
+    "query": "Family Affair debuted on ",
+    "answer": "CBS",
+    "sub": "Family Affair"
+  },
+  {
+    "query": "Late Night with Jimmy Fallon debuted on ",
+    "answer": "NBC",
+    "sub": "Late Night with Jimmy Fallon"
+  },
+  {
+    "query": "The Face Is Familiar debuted on ",
+    "answer": "CBS",
+    "sub": "The Face Is Familiar"
+  },
+  {
+    "query": "Ding Dong School debuted on ",
+    "answer": "NBC",
+    "sub": "Ding Dong School"
+  },
+  {
+    "query": "The Experiment debuted on ",
+    "answer": "BBC",
+    "sub": "The Experiment"
+  },
+  {
+    "query": "Clarissa Explains It All debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Clarissa Explains It All"
+  },
+  {
+    "query": "Second Verdict debuted on ",
+    "answer": "BBC",
+    "sub": "Second Verdict"
+  },
+  {
+    "query": "The Event debuted on ",
+    "answer": "NBC",
+    "sub": "The Event"
+  },
+  {
+    "query": "Ace Crawford, Private Eye debuted on ",
+    "answer": "CBS",
+    "sub": "Ace Crawford, Private Eye"
+  },
+  {
+    "query": "Baywatch debuted on ",
+    "answer": "NBC",
+    "sub": "Baywatch"
+  },
+  {
+    "query": "The Wuzzles debuted on ",
+    "answer": "CBS",
+    "sub": "The Wuzzles"
+  },
+  {
+    "query": "Most Outrageous Moments debuted on ",
+    "answer": "NBC",
+    "sub": "Most Outrageous Moments"
+  },
+  {
+    "query": "Arthur Godfrey and His Friends debuted on ",
+    "answer": "CBS",
+    "sub": "Arthur Godfrey and His Friends"
+  },
+  {
+    "query": "SportsCenter debuted on ",
+    "answer": "ESPN",
+    "sub": "SportsCenter"
+  },
+  {
+    "query": "Speed Buggy debuted on ",
+    "answer": "CBS",
+    "sub": "Speed Buggy"
+  },
+  {
+    "query": "The Pat Sajak Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Pat Sajak Show"
+  },
+  {
+    "query": "2000 Malibu Road debuted on ",
+    "answer": "CBS",
+    "sub": "2000 Malibu Road"
+  },
+  {
+    "query": "The Celebrity Apprentice debuted on ",
+    "answer": "NBC",
+    "sub": "The Celebrity Apprentice"
+  },
+  {
+    "query": "The Ren & Stimpy Show debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "The Ren & Stimpy Show"
+  },
+  {
+    "query": "Shredderman Rules debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Shredderman Rules"
+  },
+  {
+    "query": "SpeedWeek debuted on ",
+    "answer": "ESPN",
+    "sub": "SpeedWeek"
+  },
+  {
+    "query": "Jennifer Slept Here debuted on ",
+    "answer": "NBC",
+    "sub": "Jennifer Slept Here"
+  },
+  {
+    "query": "The Joseph Cotten Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Joseph Cotten Show"
+  },
+  {
+    "query": "Comedy Playhouse debuted on ",
+    "answer": "BBC",
+    "sub": "Comedy Playhouse"
+  },
+  {
+    "query": "The Betty Hutton Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Betty Hutton Show"
+  },
+  {
+    "query": "Daria debuted on ",
+    "answer": "MTV",
+    "sub": "Daria"
+  },
+  {
+    "query": "My Favorite Martian debuted on ",
+    "answer": "CBS",
+    "sub": "My Favorite Martian"
+  },
+  {
+    "query": "Matinee Theater debuted on ",
+    "answer": "NBC",
+    "sub": "Matinee Theater"
+  },
+  {
+    "query": "Space Sentinels debuted on ",
+    "answer": "NBC",
+    "sub": "Space Sentinels"
+  },
+  {
+    "query": "NFL Insiders debuted on ",
+    "answer": "ESPN",
+    "sub": "NFL Insiders"
+  },
+  {
+    "query": "Crossing Lines debuted on ",
+    "answer": "NBC",
+    "sub": "Crossing Lines"
+  },
+  {
+    "query": "Lost in Space debuted on ",
+    "answer": "CBS",
+    "sub": "Lost in Space"
+  },
+  {
+    "query": "Pigeon Street debuted on ",
+    "answer": "BBC",
+    "sub": "Pigeon Street"
+  },
+  {
+    "query": "The Pretender debuted on ",
+    "answer": "NBC",
+    "sub": "The Pretender"
+  },
+  {
+    "query": "Fabulous Funnies debuted on ",
+    "answer": "NBC",
+    "sub": "Fabulous Funnies"
+  },
+  {
+    "query": "Nash Bridges debuted on ",
+    "answer": "CBS",
+    "sub": "Nash Bridges"
+  },
+  {
+    "query": "Victorious debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Victorious"
+  },
+  {
+    "query": "",
+    "answer": "Nickelodeon",
+    "sub": "Nickelodeon Guts"
+  },
+  {
+    "query": "Merry Madagascar debuted on ",
+    "answer": "NBC",
+    "sub": "Merry Madagascar"
+  },
+  {
+    "query": "The Edge of Night debuted on ",
+    "answer": "CBS",
+    "sub": "The Edge of Night"
+  },
+  {
+    "query": "Playmakers debuted on ",
+    "answer": "ESPN",
+    "sub": "Playmakers"
+  },
+  {
+    "query": "Sam Benedict debuted on ",
+    "answer": "NBC",
+    "sub": "Sam Benedict"
+  },
+  {
+    "query": "The Mary Tyler Moore Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Mary Tyler Moore Show"
+  },
+  {
+    "query": "Yo Gabba Gabba! debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Yo Gabba Gabba!"
+  },
+  {
+    "query": "",
+    "answer": "History",
+    "sub": "History Bites"
+  },
+  {
+    "query": "The New Dick Van Dyke Show debuted on ",
+    "answer": "CBS",
+    "sub": "The New Dick Van Dyke Show"
+  },
+  {
+    "query": "Last Comic Standing debuted on ",
+    "answer": "NBC",
+    "sub": "Last Comic Standing"
+  },
+  {
+    "query": "The Equalizer debuted on ",
+    "answer": "CBS",
+    "sub": "The Equalizer"
+  },
+  {
+    "query": "The Late Late Show with Craig Ferguson debuted on ",
+    "answer": "CBS",
+    "sub": "The Late Late Show with Craig Ferguson"
+  },
+  {
+    "query": "The Sing-Off debuted on ",
+    "answer": "NBC",
+    "sub": "The Sing-Off"
+  },
+  {
+    "query": "A Little Curious debuted on ",
+    "answer": "HBO",
+    "sub": "A Little Curious"
+  },
+  {
+    "query": "Garfield and Friends: They debuted on ",
+    "answer": "CBS",
+    "sub": "Garfield and Friends: They"
+  },
+  {
+    "query": "The George Burns Show debuted on ",
+    "answer": "NBC",
+    "sub": "The George Burns Show"
+  },
+  {
+    "query": "Hawkins Falls, Population 6200 debuted on ",
+    "answer": "NBC",
+    "sub": "Hawkins Falls, Population 6200"
+  },
+  {
+    "query": "NFL on ",
+    "answer": "NBC",
+    "sub": "NFL on NBC"
+  },
+  {
+    "query": "Law & Order debuted on ",
+    "answer": "NBC",
+    "sub": "Law & Order"
+  },
+  {
+    "query": "The Gale Storm Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Gale Storm Show"
+  },
+  {
+    "query": "Danny Phantom debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Danny Phantom"
+  },
+  {
+    "query": "The Client List debuted on ",
+    "answer": "Lifetime",
+    "sub": "The Client List"
+  },
+  {
+    "query": "Wichita Town debuted on ",
+    "answer": "NBC",
+    "sub": "Wichita Town"
+  },
+  {
+    "query": "The Amazing Race debuted on ",
+    "answer": "CBS",
+    "sub": "The Amazing Race"
+  },
+  {
+    "query": "Remember WENN debuted on ",
+    "answer": "AMC",
+    "sub": "Remember WENN"
+  },
+  {
+    "query": "The Lazarus Man debuted on ",
+    "answer": "TNT",
+    "sub": "The Lazarus Man"
+  },
+  {
+    "query": "The Dinah Shore Chevy Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Dinah Shore Chevy Show"
+  },
+  {
+    "query": "Ghost Whisperer debuted on ",
+    "answer": "CBS",
+    "sub": "Ghost Whisperer"
+  },
+  {
+    "query": "Hearts Are Wild debuted on ",
+    "answer": "CBS",
+    "sub": "Hearts Are Wild"
+  },
+  {
+    "query": "Gunpowder, Treason & Plot debuted on ",
+    "answer": "BBC",
+    "sub": "Gunpowder, Treason & Plot"
+  },
+  {
+    "query": "Rob & Big debuted on ",
+    "answer": "MTV",
+    "sub": "Rob & Big"
+  },
+  {
+    "query": "Mama Malone debuted on ",
+    "answer": "CBS",
+    "sub": "Mama Malone"
+  },
+  {
+    "query": "Gary Unmarried debuted on ",
+    "answer": "CBS",
+    "sub": "Gary Unmarried"
+  },
+  {
+    "query": "My Name Is Earl debuted on ",
+    "answer": "NBC",
+    "sub": "My Name Is Earl"
+  },
+  {
+    "query": "December Bride debuted on ",
+    "answer": "CBS",
+    "sub": "December Bride"
+  },
+  {
+    "query": "The Blacklist debuted on ",
+    "answer": "NBC",
+    "sub": "The Blacklist"
+  },
+  {
+    "query": "Eurovision Song Contest 1960 debuted on ",
+    "answer": "BBC",
+    "sub": "Eurovision Song Contest 1960"
+  },
+  {
+    "query": "Picket Fences debuted on ",
+    "answer": "CBS",
+    "sub": "Picket Fences"
+  },
+  {
+    "query": "American Experience debuted on ",
+    "answer": "PBS",
+    "sub": "American Experience"
+  },
+  {
+    "query": "Square Pegs debuted on ",
+    "answer": "CBS",
+    "sub": "Square Pegs"
+  },
+  {
+    "query": "Reliable Sources with Brian Stelter debuted on ",
+    "answer": "CNN",
+    "sub": "Reliable Sources with Brian Stelter"
+  },
+  {
+    "query": "Miami Medical debuted on ",
+    "answer": "CBS",
+    "sub": "Miami Medical"
+  },
+  {
+    "query": "Rowan & Martin's Laugh-In debuted on ",
+    "answer": "NBC",
+    "sub": "Rowan & Martin's Laugh-In"
+  },
+  {
+    "query": "Unscripted debuted on ",
+    "answer": "HBO",
+    "sub": "Unscripted"
+  },
+  {
+    "query": "The Wild Wild West debuted on ",
+    "answer": "CBS",
+    "sub": "The Wild Wild West"
+  },
+  {
+    "query": "McMillan & Wife debuted on ",
+    "answer": "NBC",
+    "sub": "McMillan & Wife"
+  },
+  {
+    "query": "The Fairly OddParents debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "The Fairly OddParents"
+  },
+  {
+    "query": "Alfred Hitchcock Presents debuted on ",
+    "answer": "NBC",
+    "sub": "Alfred Hitchcock Presents"
+  },
+  {
+    "query": "NBA on ",
+    "answer": "NBC",
+    "sub": "NBA on NBC"
+  },
+  {
+    "query": "Love Monkey debuted on ",
+    "answer": "CBS",
+    "sub": "Love Monkey"
+  },
+  {
+    "query": "A Man Called Sloane debuted on ",
+    "answer": "NBC",
+    "sub": "A Man Called Sloane"
+  },
+  {
+    "query": "Merry Christmas, Drake & Josh debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Merry Christmas, Drake & Josh"
+  },
+  {
+    "query": "The Ex List debuted on ",
+    "answer": "CBS",
+    "sub": "The Ex List"
+  },
+  {
+    "query": "Celebrity Cooking Showdown debuted on ",
+    "answer": "NBC",
+    "sub": "Celebrity Cooking Showdown"
+  },
+  {
+    "query": "American Morning debuted on ",
+    "answer": "CNN",
+    "sub": "American Morning"
+  },
+  {
+    "query": "Tourgasm debuted on ",
+    "answer": "HBO",
+    "sub": "Tourgasm"
+  },
+  {
+    "query": "Nikki & Sara Live debuted on ",
+    "answer": "MTV",
+    "sub": "Nikki & Sara Live"
+  },
+  {
+    "query": "Def Comedy Jam debuted on ",
+    "answer": "HBO",
+    "sub": "Def Comedy Jam"
+  },
+  {
+    "query": "Interns debuted on ",
+    "answer": "TNT",
+    "sub": "Interns"
+  },
+  {
+    "query": "The Tab Hunter Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Tab Hunter Show"
+  },
+  {
+    "query": "City Guys debuted on ",
+    "answer": "NBC",
+    "sub": "City Guys"
+  },
+  {
+    "query": "Kenan & Kel debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Kenan & Kel"
+  },
+  {
+    "query": "Fraternity Life debuted on ",
+    "answer": "MTV",
+    "sub": "Fraternity Life"
+  },
+  {
+    "query": "Gentle Ben debuted on ",
+    "answer": "CBS",
+    "sub": "Gentle Ben"
+  },
+  {
+    "query": "WWE Heat debuted on ",
+    "answer": "MTV",
+    "sub": "WWE Heat"
+  },
+  {
+    "query": "Wildboyz debuted on ",
+    "answer": "MTV",
+    "sub": "Wildboyz"
+  },
+  {
+    "query": "American Dreams debuted on ",
+    "answer": "NBC",
+    "sub": "American Dreams"
+  },
+  {
+    "query": "Revolution debuted on ",
+    "answer": "NBC",
+    "sub": "Revolution"
+  },
+  {
+    "query": "Ancient Discoveries debuted on ",
+    "answer": "History",
+    "sub": "Ancient Discoveries"
+  },
+  {
+    "query": "California Dreams debuted on ",
+    "answer": "NBC",
+    "sub": "California Dreams"
+  },
+  {
+    "query": "Tracey Takes On... debuted on ",
+    "answer": "HBO",
+    "sub": "Tracey Takes On..."
+  },
+  {
+    "query": "Starting Point debuted on ",
+    "answer": "CNN",
+    "sub": "Starting Point"
+  },
+  {
+    "query": "Palace Guard debuted on ",
+    "answer": "CBS",
+    "sub": "Palace Guard"
+  },
+  {
+    "query": "Quarterback Princess debuted on ",
+    "answer": "CBS",
+    "sub": "Quarterback Princess"
+  },
+  {
+    "query": "Philip Marlowe, Private Eye debuted on ",
+    "answer": "HBO",
+    "sub": "Philip Marlowe, Private Eye"
+  },
+  {
+    "query": "Last Week Tonight with John Oliver debuted on ",
+    "answer": "HBO",
+    "sub": "Last Week Tonight with John Oliver"
+  },
+  {
+    "query": "Pawn Stars debuted on ",
+    "answer": "History",
+    "sub": "Pawn Stars"
+  },
+  {
+    "query": "The Restless Gun debuted on ",
+    "answer": "NBC",
+    "sub": "The Restless Gun"
+  },
+  {
+    "query": "Rugrats Pre-School Daze debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Rugrats Pre-School Daze"
+  },
+  {
+    "query": "ChalkZone debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "ChalkZone"
+  },
+  {
+    "query": "Good Times debuted on ",
+    "answer": "CBS",
+    "sub": "Good Times"
+  },
+  {
+    "query": "I Bet You Will debuted on ",
+    "answer": "MTV",
+    "sub": "I Bet You Will"
+  },
+  {
+    "query": "All My Children debuted on ",
+    "answer": "iTunes",
+    "sub": "All My Children"
+  },
+  {
+    "query": "Comic Book Men debuted on ",
+    "answer": "AMC",
+    "sub": "Comic Book Men"
+  },
+  {
+    "query": "Sense8 debuted on ",
+    "answer": "Netflix",
+    "sub": "Sense8"
+  },
+  {
+    "query": "The NFL Today debuted on ",
+    "answer": "CBS",
+    "sub": "The NFL Today"
+  },
+  {
+    "query": "When I Was 17 debuted on ",
+    "answer": "MTV",
+    "sub": "When I Was 17"
+  },
+  {
+    "query": "Michael Shayne debuted on ",
+    "answer": "NBC",
+    "sub": "Michael Shayne"
+  },
+  {
+    "query": "Club ",
+    "answer": "MTV",
+    "sub": "Club MTV"
+  },
+  {
+    "query": "Bad Judge debuted on ",
+    "answer": "NBC",
+    "sub": "Bad Judge"
+  },
+  {
+    "query": "Down You Go debuted on ",
+    "answer": "CBS",
+    "sub": "Down You Go"
+  },
+  {
+    "query": "Leap Years debuted on ",
+    "answer": "Showtime",
+    "sub": "Leap Years"
+  },
+  {
+    "query": "The Roosevelts debuted on ",
+    "answer": "PBS",
+    "sub": "The Roosevelts"
+  },
+  {
+    "query": "Navy Log debuted on ",
+    "answer": "CBS",
+    "sub": "Navy Log"
+  },
+  {
+    "query": "120 Minutes debuted on ",
+    "answer": "MTV",
+    "sub": "120 Minutes"
+  },
+  {
+    "query": "Hidden Faces debuted on ",
+    "answer": "NBC",
+    "sub": "Hidden Faces"
+  },
+  {
+    "query": "Late Night with David Letterman debuted on ",
+    "answer": "NBC",
+    "sub": "Late Night with David Letterman"
+  },
+  {
+    "query": "The Chinese Detective debuted on ",
+    "answer": "BBC",
+    "sub": "The Chinese Detective"
+  },
+  {
+    "query": "The Jimmy Durante Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Jimmy Durante Show"
+  },
+  {
+    "query": "Birdman and the Galaxy Trio debuted on ",
+    "answer": "NBC",
+    "sub": "Birdman and the Galaxy Trio"
+  },
+  {
+    "query": "Army Wives debuted on ",
+    "answer": "Lifetime",
+    "sub": "Army Wives"
+  },
+  {
+    "query": "Name That Tune debuted on ",
+    "answer": "NBC",
+    "sub": "Name That Tune"
+  },
+  {
+    "query": "The Skatebirds debuted on ",
+    "answer": "CBS",
+    "sub": "The Skatebirds"
+  },
+  {
+    "query": "Guiding Light debuted on ",
+    "answer": "CBS",
+    "sub": "Guiding Light"
+  },
+  {
+    "query": "Viva La Bam debuted on ",
+    "answer": "MTV",
+    "sub": "Viva La Bam"
+  },
+  {
+    "query": "The Nutt House debuted on ",
+    "answer": "NBC",
+    "sub": "The Nutt House"
+  },
+  {
+    "query": "The Lawless Years debuted on ",
+    "answer": "NBC",
+    "sub": "The Lawless Years"
+  },
+  {
+    "query": "Pranked debuted on ",
+    "answer": "MTV",
+    "sub": "Pranked"
+  },
+  {
+    "query": "Scared Shrekless debuted on ",
+    "answer": "NBC",
+    "sub": "Scared Shrekless"
+  },
+  {
+    "query": "The Johnny Carson Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Johnny Carson Show"
+  },
+  {
+    "query": "The Benny Hill Show debuted on ",
+    "answer": "BBC",
+    "sub": "The Benny Hill Show"
+  },
+  {
+    "query": "The John Forsythe Show debuted on ",
+    "answer": "NBC",
+    "sub": "The John Forsythe Show"
+  },
+  {
+    "query": "The Dukes of Hazzard debuted on ",
+    "answer": "CBS",
+    "sub": "The Dukes of Hazzard"
+  },
+  {
+    "query": "1600 Penn debuted on ",
+    "answer": "NBC",
+    "sub": "1600 Penn"
+  },
+  {
+    "query": "The Fresh Beat Band debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "The Fresh Beat Band"
+  },
+  {
+    "query": "Captain Nice debuted on ",
+    "answer": "NBC",
+    "sub": "Captain Nice"
+  },
+  {
+    "query": "The Biskitts debuted on ",
+    "answer": "CBS",
+    "sub": "The Biskitts"
+  },
+  {
+    "query": "Penn & Teller's Sin City Spectacular debuted on ",
+    "answer": "FX",
+    "sub": "Penn & Teller's Sin City Spectacular"
+  },
+  {
+    "query": "Space Cats debuted on ",
+    "answer": "NBC",
+    "sub": "Space Cats"
+  },
+  {
+    "query": "The Tracy Morgan Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Tracy Morgan Show"
+  },
+  {
+    "query": "Rocket Power debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Rocket Power"
+  },
+  {
+    "query": "Playhouse 90 debuted on ",
+    "answer": "CBS",
+    "sub": "Playhouse 90"
+  },
+  {
+    "query": "The Kate Smith Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Kate Smith Show"
+  },
+  {
+    "query": "Samson & Goliath debuted on ",
+    "answer": "NBC",
+    "sub": "Samson & Goliath"
+  },
+  {
+    "query": "Great Performances debuted on ",
+    "answer": "PBS",
+    "sub": "Great Performances"
+  },
+  {
+    "query": "The Rockford Files debuted on ",
+    "answer": "NBC",
+    "sub": "The Rockford Files"
+  },
+  {
+    "query": "Just Shoot Me! debuted on ",
+    "answer": "NBC",
+    "sub": "Just Shoot Me!"
+  },
+  {
+    "query": "Telephone Time debuted on ",
+    "answer": "CBS",
+    "sub": "Telephone Time"
+  },
+  {
+    "query": "The Big Bang Theory debuted on ",
+    "answer": "CBS",
+    "sub": "The Big Bang Theory"
+  },
+  {
+    "query": "Walking with Dinosaurs debuted on ",
+    "answer": "BBC",
+    "sub": "Walking with Dinosaurs"
+  },
+  {
+    "query": "Al TV debuted on ",
+    "answer": "MTV",
+    "sub": "Al TV"
+  },
+  {
+    "query": "The Josephine Baker Story debuted on ",
+    "answer": "HBO",
+    "sub": "The Josephine Baker Story"
+  },
+  {
+    "query": "WCW Monday Nitro debuted on ",
+    "answer": "TNT",
+    "sub": "WCW Monday Nitro"
+  },
+  {
+    "query": "Todd McFarlane's Spawn debuted on ",
+    "answer": "HBO",
+    "sub": "Todd McFarlane's Spawn"
+  },
+  {
+    "query": "The Magic Clown debuted on ",
+    "answer": "NBC",
+    "sub": "The Magic Clown"
+  },
+  {
+    "query": "Poker After Dark debuted on ",
+    "answer": "NBC",
+    "sub": "Poker After Dark"
+  },
+  {
+    "query": "Bill Moyers Journal debuted on ",
+    "answer": "PBS",
+    "sub": "Bill Moyers Journal"
+  },
+  {
+    "query": "Meet the Press debuted on ",
+    "answer": "NBC",
+    "sub": "Meet the Press"
+  },
+  {
+    "query": "General Electric Theater debuted on ",
+    "answer": "CBS",
+    "sub": "General Electric Theater"
+  },
+  {
+    "query": "Da Ali G Show debuted on ",
+    "answer": "HBO",
+    "sub": "Da Ali G Show"
+  },
+  {
+    "query": "Manimal debuted on ",
+    "answer": "NBC",
+    "sub": "Manimal"
+  },
+  {
+    "query": "Video Village debuted on ",
+    "answer": "CBS",
+    "sub": "Video Village"
+  },
+  {
+    "query": "Early Start debuted on ",
+    "answer": "CNN",
+    "sub": "Early Start"
+  },
+  {
+    "query": "The Jon Stewart Show debuted on ",
+    "answer": "MTV",
+    "sub": "The Jon Stewart Show"
+  },
+  {
+    "query": "Hearts Afire debuted on ",
+    "answer": "CBS",
+    "sub": "Hearts Afire"
+  },
+  {
+    "query": "The Single Guy debuted on ",
+    "answer": "NBC",
+    "sub": "The Single Guy"
+  },
+  {
+    "query": "Flo debuted on ",
+    "answer": "CBS",
+    "sub": "Flo"
+  },
+  {
+    "query": "Diff'rent Strokes debuted on ",
+    "answer": "NBC",
+    "sub": "Diff'rent Strokes"
+  },
+  {
+    "query": "Scooby-Doo debuted on ",
+    "answer": "CBS",
+    "sub": "Scooby-Doo"
+  },
+  {
+    "query": "Doomsday Gun debuted on ",
+    "answer": "HBO",
+    "sub": "Doomsday Gun"
+  },
+  {
+    "query": "Sorority Life debuted on ",
+    "answer": "MTV",
+    "sub": "Sorority Life"
+  },
+  {
+    "query": "Family Ties debuted on ",
+    "answer": "NBC",
+    "sub": "Family Ties"
+  },
+  {
+    "query": "3-2-1 Contact debuted on ",
+    "answer": "PBS",
+    "sub": "3-2-1 Contact"
+  },
+  {
+    "query": "Information Please debuted on ",
+    "answer": "NBC",
+    "sub": "Information Please"
+  },
+  {
+    "query": "Kay O'Brien debuted on ",
+    "answer": "CBS",
+    "sub": "Kay O'Brien"
+  },
+  {
+    "query": "Oddville, ",
+    "answer": "MTV",
+    "sub": "Oddville, MTV"
+  },
+  {
+    "query": "Hidden Hills debuted on ",
+    "answer": "NBC",
+    "sub": "Hidden Hills"
+  },
+  {
+    "query": "Chicago Story debuted on ",
+    "answer": "NBC",
+    "sub": "Chicago Story"
+  },
+  {
+    "query": "Piers Morgan Live debuted on ",
+    "answer": "CNN",
+    "sub": "Piers Morgan Live"
+  },
+  {
+    "query": "Arrested Development debuted on ",
+    "answer": "Netflix",
+    "sub": "Arrested Development"
+  },
+  {
+    "query": "Seinfeld debuted on ",
+    "answer": "NBC",
+    "sub": "Seinfeld"
+  },
+  {
+    "query": "H.R. Pufnstuf debuted on ",
+    "answer": "NBC",
+    "sub": "H.R. Pufnstuf"
+  },
+  {
+    "query": "Monday Night Countdown debuted on ",
+    "answer": "ESPN",
+    "sub": "Monday Night Countdown"
+  },
+  {
+    "query": "The Jack Benny Program debuted on ",
+    "answer": "CBS",
+    "sub": "The Jack Benny Program"
+  },
+  {
+    "query": "The New Shmoo debuted on ",
+    "answer": "NBC",
+    "sub": "The New Shmoo"
+  },
+  {
+    "query": "Strange Days at Blake Holsey High debuted on ",
+    "answer": "NBC",
+    "sub": "Strange Days at Blake Holsey High"
+  },
+  {
+    "query": "Figure It Out debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Figure It Out"
+  },
+  {
+    "query": "George Shrinks debuted on ",
+    "answer": "PBS",
+    "sub": "George Shrinks"
+  },
+  {
+    "query": "SpongeBob SquarePants, season 2 debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "SpongeBob SquarePants, season 2"
+  },
+  {
+    "query": "True Life debuted on ",
+    "answer": "MTV",
+    "sub": "True Life"
+  },
+  {
+    "query": "The ",
+    "answer": "NBC",
+    "sub": "The NBC Mystery Movie"
+  },
+  {
+    "query": "The Hoober-Bloob Highway debuted on ",
+    "answer": "CBS",
+    "sub": "The Hoober-Bloob Highway"
+  },
+  {
+    "query": "Four Kings debuted on ",
+    "answer": "NBC",
+    "sub": "Four Kings"
+  },
+  {
+    "query": "The Garry Moore Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Garry Moore Show"
+  },
+  {
+    "query": "The Dennis Day Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Dennis Day Show"
+  },
+  {
+    "query": "Newhart debuted on ",
+    "answer": "CBS",
+    "sub": "Newhart"
+  },
+  {
+    "query": "My Super Sweet 16 debuted on ",
+    "answer": "MTV",
+    "sub": "My Super Sweet 16"
+  },
+  {
+    "query": "",
+    "answer": "MTV",
+    "sub": "MTV Sports"
+  },
+  {
+    "query": "The Mothers-in-Law debuted on ",
+    "answer": "NBC",
+    "sub": "The Mothers-in-Law"
+  },
+  {
+    "query": "Undateable debuted on ",
+    "answer": "NBC",
+    "sub": "Undateable"
+  },
+  {
+    "query": "Spicy City debuted on ",
+    "answer": "HBO",
+    "sub": "Spicy City"
+  },
+  {
+    "query": "Lovespring International debuted on ",
+    "answer": "Lifetime",
+    "sub": "Lovespring International"
+  },
+  {
+    "query": "Real Sex debuted on ",
+    "answer": "HBO",
+    "sub": "Real Sex"
+  },
+  {
+    "query": "Island Son debuted on ",
+    "answer": "CBS",
+    "sub": "Island Son"
+  },
+  {
+    "query": "Nightly Business Report debuted on ",
+    "answer": "PBS",
+    "sub": "Nightly Business Report"
+  },
+  {
+    "query": "Alvin and the Chipmunks debuted on ",
+    "answer": "NBC",
+    "sub": "Alvin and the Chipmunks"
+  },
+  {
+    "query": "The Barbara Stanwyck Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Barbara Stanwyck Show"
+  },
+  {
+    "query": "Total Request Live debuted on ",
+    "answer": "MTV",
+    "sub": "Total Request Live"
+  },
+  {
+    "query": "Mega Disasters debuted on ",
+    "answer": "History",
+    "sub": "Mega Disasters"
+  },
+  {
+    "query": "The Lloyd Bridges Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Lloyd Bridges Show"
+  },
+  {
+    "query": "This Is Show Business debuted on ",
+    "answer": "CBS",
+    "sub": "This Is Show Business"
+  },
+  {
+    "query": "Banacek debuted on ",
+    "answer": "NBC",
+    "sub": "Banacek"
+  },
+  {
+    "query": "The Men Who Built America debuted on ",
+    "answer": "History",
+    "sub": "The Men Who Built America"
+  },
+  {
+    "query": "Undressed debuted on ",
+    "answer": "MTV",
+    "sub": "Undressed"
+  },
+  {
+    "query": "A Charlie Brown Christmas debuted on ",
+    "answer": "CBS",
+    "sub": "A Charlie Brown Christmas"
+  },
+  {
+    "query": "Murphy Brown debuted on ",
+    "answer": "CBS",
+    "sub": "Murphy Brown"
+  },
+  {
+    "query": "The Long Bright Dark debuted on ",
+    "answer": "HBO",
+    "sub": "The Long Bright Dark"
+  },
+  {
+    "query": "Camera Three debuted on ",
+    "answer": "CBS",
+    "sub": "Camera Three"
+  },
+  {
+    "query": "NewsRadio debuted on ",
+    "answer": "NBC",
+    "sub": "NewsRadio"
+  },
+  {
+    "query": "The Good Wife debuted on ",
+    "answer": "CBS",
+    "sub": "The Good Wife"
+  },
+  {
+    "query": "",
+    "answer": "CBS",
+    "sub": "CBS Morning News"
+  },
+  {
+    "query": "Celebrity Rap Superstar debuted on ",
+    "answer": "MTV",
+    "sub": "Celebrity Rap Superstar"
+  },
+  {
+    "query": "Co-Ed Fever debuted on ",
+    "answer": "CBS",
+    "sub": "Co-Ed Fever"
+  },
+  {
+    "query": "Cagney & Lacey debuted on ",
+    "answer": "CBS",
+    "sub": "Cagney & Lacey"
+  },
+  {
+    "query": "Four Star Playhouse debuted on ",
+    "answer": "CBS",
+    "sub": "Four Star Playhouse"
+  },
+  {
+    "query": "Howdy Doody debuted on ",
+    "answer": "NBC",
+    "sub": "Howdy Doody"
+  },
+  {
+    "query": "Father Knows Best debuted on ",
+    "answer": "CBS",
+    "sub": "Father Knows Best"
+  },
+  {
+    "query": "The Secret Storm debuted on ",
+    "answer": "CBS",
+    "sub": "The Secret Storm"
+  },
+  {
+    "query": "How I Met Your Mother debuted on ",
+    "answer": "CBS",
+    "sub": "How I Met Your Mother"
+  },
+  {
+    "query": "TV Nation debuted on ",
+    "answer": "NBC",
+    "sub": "TV Nation"
+  },
+  {
+    "query": "The Danny Kaye Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Danny Kaye Show"
+  },
+  {
+    "query": "Hee Haw debuted on ",
+    "answer": "CBS",
+    "sub": "Hee Haw"
+  },
+  {
+    "query": "Harry Hill's TV Burp debuted on ",
+    "answer": "ITV",
+    "sub": "Harry Hill's TV Burp"
+  },
+  {
+    "query": "Empty Nest debuted on ",
+    "answer": "NBC",
+    "sub": "Empty Nest"
+  },
+  {
+    "query": "Nurse Jackie debuted on ",
+    "answer": "Showtime",
+    "sub": "Nurse Jackie"
+  },
+  {
+    "query": "Last Call with Carson Daly debuted on ",
+    "answer": "NBC",
+    "sub": "Last Call with Carson Daly"
+  },
+  {
+    "query": "Snowbeast debuted on ",
+    "answer": "NBC",
+    "sub": "Snowbeast"
+  },
+  {
+    "query": "The David Letterman Show debuted on ",
+    "answer": "NBC",
+    "sub": "The David Letterman Show"
+  },
+  {
+    "query": "Hey, Landlord debuted on ",
+    "answer": "NBC",
+    "sub": "Hey, Landlord"
+  },
+  {
+    "query": "The Andros Targets debuted on ",
+    "answer": "CBS",
+    "sub": "The Andros Targets"
+  },
+  {
+    "query": "The Krofft Superstar Hour debuted on ",
+    "answer": "NBC",
+    "sub": "The Krofft Superstar Hour"
+  },
+  {
+    "query": "A Fairly Odd Christmas debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "A Fairly Odd Christmas"
+  },
+  {
+    "query": "60 Minutes Wednesday debuted on ",
+    "answer": "CBS",
+    "sub": "60 Minutes Wednesday"
+  },
+  {
+    "query": "The Brian Keith Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Brian Keith Show"
+  },
+  {
+    "query": "The Munsters debuted on ",
+    "answer": "CBS",
+    "sub": "The Munsters"
+  },
+  {
+    "query": "Room Raiders debuted on ",
+    "answer": "MTV",
+    "sub": "Room Raiders"
+  },
+  {
+    "query": "The Thin Blue Line debuted on ",
+    "answer": "BBC",
+    "sub": "The Thin Blue Line"
+  },
+  {
+    "query": "Climax! debuted on ",
+    "answer": "CBS",
+    "sub": "Climax!"
+  },
+  {
+    "query": "In the Arena debuted on ",
+    "answer": "CNN",
+    "sub": "In the Arena"
+  },
+  {
+    "query": "Silver Spoons debuted on ",
+    "answer": "NBC",
+    "sub": "Silver Spoons"
+  },
+  {
+    "query": "Hull High debuted on ",
+    "answer": "NBC",
+    "sub": "Hull High"
+  },
+  {
+    "query": "The Manhunter debuted on ",
+    "answer": "CBS",
+    "sub": "The Manhunter"
+  },
+  {
+    "query": "The Gene Autry Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Gene Autry Show"
+  },
+  {
+    "query": "Def Poetry debuted on ",
+    "answer": "HBO",
+    "sub": "Def Poetry"
+  },
+  {
+    "query": "Designing Women debuted on ",
+    "answer": "CBS",
+    "sub": "Designing Women"
+  },
+  {
+    "query": "Boiling Points debuted on ",
+    "answer": "MTV",
+    "sub": "Boiling Points"
+  },
+  {
+    "query": "Storefront Lawyers debuted on ",
+    "answer": "CBS",
+    "sub": "Storefront Lawyers"
+  },
+  {
+    "query": "Trippin' debuted on ",
+    "answer": "MTV",
+    "sub": "Trippin'"
+  },
+  {
+    "query": "Worst Week debuted on ",
+    "answer": "CBS",
+    "sub": "Worst Week"
+  },
+  {
+    "query": "",
+    "answer": "ESPN",
+    "sub": "ESPN Major League Baseball"
+  },
+  {
+    "query": "Trapper John, M.D. debuted on ",
+    "answer": "CBS",
+    "sub": "Trapper John, M.D."
+  },
+  {
+    "query": "Moonbase 3 debuted on ",
+    "answer": "BBC",
+    "sub": "Moonbase 3"
+  },
+  {
+    "query": "Airwolf debuted on ",
+    "answer": "CBS",
+    "sub": "Airwolf"
+  },
+  {
+    "query": "How to Rock debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "How to Rock"
+  },
+  {
+    "query": "Freaks and Geeks debuted on ",
+    "answer": "NBC",
+    "sub": "Freaks and Geeks"
+  },
+  {
+    "query": "Hey Dude debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Hey Dude"
+  },
+  {
+    "query": "Mister Sterling debuted on ",
+    "answer": "NBC",
+    "sub": "Mister Sterling"
+  },
+  {
+    "query": "Broadway Open House debuted on ",
+    "answer": "NBC",
+    "sub": "Broadway Open House"
+  },
+  {
+    "query": "Butt-Ugly Martians debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Butt-Ugly Martians"
+  },
+  {
+    "query": "Popzilla debuted on ",
+    "answer": "MTV",
+    "sub": "Popzilla"
+  },
+  {
+    "query": "Doug debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Doug"
+  },
+  {
+    "query": "Producers' Showcase debuted on ",
+    "answer": "NBC",
+    "sub": "Producers' Showcase"
+  },
+  {
+    "query": "The Larry Sanders Show debuted on ",
+    "answer": "HBO",
+    "sub": "The Larry Sanders Show"
+  },
+  {
+    "query": "Big Time Movie debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Big Time Movie"
+  },
+  {
+    "query": "Cousin Skeeter debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Cousin Skeeter"
+  },
+  {
+    "query": "",
+    "answer": "HBO",
+    "sub": "HBO World Championship Boxing"
+  },
+  {
+    "query": "Crossfire debuted on ",
+    "answer": "CNN",
+    "sub": "Crossfire"
+  },
+  {
+    "query": "The Millers debuted on ",
+    "answer": "CBS",
+    "sub": "The Millers"
+  },
+  {
+    "query": "Making the Video debuted on ",
+    "answer": "MTV",
+    "sub": "Making the Video"
+  },
+  {
+    "query": "The Amanda Show debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "The Amanda Show"
+  },
+  {
+    "query": "Lonelygirl15 debuted on ",
+    "answer": "YouTube",
+    "sub": "Lonelygirl15"
+  },
+  {
+    "query": "Skeleton Warriors debuted on ",
+    "answer": "CBS",
+    "sub": "Skeleton Warriors"
+  },
+  {
+    "query": "Shear Genius debuted on ",
+    "answer": "Bravo",
+    "sub": "Shear Genius"
+  },
+  {
+    "query": "",
+    "answer": "CBS",
+    "sub": "CBS Summer Playhouse"
+  },
+  {
+    "query": "Fox Business Tonight debuted on ",
+    "answer": "CNN",
+    "sub": "Fox Business Tonight"
+  },
+  {
+    "query": "Rita Rocks debuted on ",
+    "answer": "Lifetime",
+    "sub": "Rita Rocks"
+  },
+  {
+    "query": "Sunday Night Baseball debuted on ",
+    "answer": "ESPN",
+    "sub": "Sunday Night Baseball"
+  },
+  {
+    "query": "A Gifted Man debuted on ",
+    "answer": "CBS",
+    "sub": "A Gifted Man"
+  },
+  {
+    "query": "Night Court debuted on ",
+    "answer": "NBC",
+    "sub": "Night Court"
+  },
+  {
+    "query": "Stars Earn Stripes debuted on ",
+    "answer": "NBC",
+    "sub": "Stars Earn Stripes"
+  },
+  {
+    "query": "EZ Streets debuted on ",
+    "answer": "CBS",
+    "sub": "EZ Streets"
+  },
+  {
+    "query": "The Merv Griffin Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Merv Griffin Show"
+  },
+  {
+    "query": "Go, Diego, Go! debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Go, Diego, Go!"
+  },
+  {
+    "query": "Major Dad debuted on ",
+    "answer": "CBS",
+    "sub": "Major Dad"
+  },
+  {
+    "query": "Dear Phoebe debuted on ",
+    "answer": "NBC",
+    "sub": "Dear Phoebe"
+  },
+  {
+    "query": "The Road West debuted on ",
+    "answer": "NBC",
+    "sub": "The Road West"
+  },
+  {
+    "query": "Reading Rainbow debuted on ",
+    "answer": "PBS",
+    "sub": "Reading Rainbow"
+  },
+  {
+    "query": "High School Stories debuted on ",
+    "answer": "MTV",
+    "sub": "High School Stories"
+  },
+  {
+    "query": "The Angry Beavers debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "The Angry Beavers"
+  },
+  {
+    "query": "Inside Politics with John King debuted on ",
+    "answer": "CNN",
+    "sub": "Inside Politics with John King"
+  },
+  {
+    "query": "Kukla, Fran and Ollie debuted on ",
+    "answer": "NBC",
+    "sub": "Kukla, Fran and Ollie"
+  },
+  {
+    "query": "The Wide Country debuted on ",
+    "answer": "NBC",
+    "sub": "The Wide Country"
+  },
+  {
+    "query": "Treasure Hunters debuted on ",
+    "answer": "NBC",
+    "sub": "Treasure Hunters"
+  },
+  {
+    "query": "Kid Nation debuted on ",
+    "answer": "CBS",
+    "sub": "Kid Nation"
+  },
+  {
+    "query": "Nova debuted on ",
+    "answer": "PBS",
+    "sub": "Nova"
+  },
+  {
+    "query": "Supertrain debuted on ",
+    "answer": "NBC",
+    "sub": "Supertrain"
+  },
+  {
+    "query": "Millionaire Matchmaker debuted on ",
+    "answer": "Bravo",
+    "sub": "Millionaire Matchmaker"
+  },
+  {
+    "query": "Nicky, Ricky, Dicky & Dawn debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Nicky, Ricky, Dicky & Dawn"
+  },
+  {
+    "query": "Hero High debuted on ",
+    "answer": "NBC",
+    "sub": "Hero High"
+  },
+  {
+    "query": "Time Express debuted on ",
+    "answer": "CBS",
+    "sub": "Time Express"
+  },
+  {
+    "query": "The New Normal debuted on ",
+    "answer": "NBC",
+    "sub": "The New Normal"
+  },
+  {
+    "query": "Goodyear Theatre debuted on ",
+    "answer": "NBC",
+    "sub": "Goodyear Theatre"
+  },
+  {
+    "query": "Sonny Spoon debuted on ",
+    "answer": "NBC",
+    "sub": "Sonny Spoon"
+  },
+  {
+    "query": "Gimme a Break! debuted on ",
+    "answer": "NBC",
+    "sub": "Gimme a Break!"
+  },
+  {
+    "query": "Barney & Friends debuted on ",
+    "answer": "PBS",
+    "sub": "Barney & Friends"
+  },
+  {
+    "query": "The Troop debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "The Troop"
+  },
+  {
+    "query": "He & She debuted on ",
+    "answer": "CBS",
+    "sub": "He & She"
+  },
+  {
+    "query": "Kate Brasher debuted on ",
+    "answer": "CBS",
+    "sub": "Kate Brasher"
+  },
+  {
+    "query": "The Carol Burnett Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Carol Burnett Show"
+  },
+  {
+    "query": "Cameo Theatre debuted on ",
+    "answer": "NBC",
+    "sub": "Cameo Theatre"
+  },
+  {
+    "query": "Two-A-Days debuted on ",
+    "answer": "MTV",
+    "sub": "Two-A-Days"
+  },
+  {
+    "query": "Sealab 2020 debuted on ",
+    "answer": "NBC",
+    "sub": "Sealab 2020"
+  },
+  {
+    "query": "3-2-1 Penguins! debuted on ",
+    "answer": "NBC",
+    "sub": "3-2-1 Penguins!"
+  },
+  {
+    "query": "",
+    "answer": "ESPN",
+    "sub": "ESPN Sunday Night Football"
+  },
+  {
+    "query": "The Wild Thornberrys debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "The Wild Thornberrys"
+  },
+  {
+    "query": "Third Watch debuted on ",
+    "answer": "NBC",
+    "sub": "Third Watch"
+  },
+  {
+    "query": "Dirty Sally debuted on ",
+    "answer": "CBS",
+    "sub": "Dirty Sally"
+  },
+  {
+    "query": "Teen Mom OG debuted on ",
+    "answer": "MTV",
+    "sub": "Teen Mom OG"
+  },
+  {
+    "query": "The Sandy Duncan Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Sandy Duncan Show"
+  },
+  {
+    "query": "The Fantastic Journey debuted on ",
+    "answer": "NBC",
+    "sub": "The Fantastic Journey"
+  },
+  {
+    "query": "Cartoon Sushi debuted on ",
+    "answer": "MTV",
+    "sub": "Cartoon Sushi"
+  },
+  {
+    "query": "The Waltons debuted on ",
+    "answer": "CBS",
+    "sub": "The Waltons"
+  },
+  {
+    "query": "Spyder Games debuted on ",
+    "answer": "MTV",
+    "sub": "Spyder Games"
+  },
+  {
+    "query": "Galaxy High debuted on ",
+    "answer": "CBS",
+    "sub": "Galaxy High"
+  },
+  {
+    "query": "The Early Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Early Show"
+  },
+  {
+    "query": "Good Sports debuted on ",
+    "answer": "CBS",
+    "sub": "Good Sports"
+  },
+  {
+    "query": "Grace and Frankie debuted on ",
+    "answer": "Netflix",
+    "sub": "Grace and Frankie"
+  },
+  {
+    "query": "Call Me Fitz debuted on ",
+    "answer": "HBO",
+    "sub": "Call Me Fitz"
+  },
+  {
+    "query": "The Chevrolet Tele-Theatre debuted on ",
+    "answer": "NBC",
+    "sub": "The Chevrolet Tele-Theatre"
+  },
+  {
+    "query": "The Hitchhiker debuted on ",
+    "answer": "HBO",
+    "sub": "The Hitchhiker"
+  },
+  {
+    "query": "Big Love debuted on ",
+    "answer": "HBO",
+    "sub": "Big Love"
+  },
+  {
+    "query": "Rhoda debuted on ",
+    "answer": "CBS",
+    "sub": "Rhoda"
+  },
+  {
+    "query": "Braingames debuted on ",
+    "answer": "HBO",
+    "sub": "Braingames"
+  },
+  {
+    "query": "The Bold Ones debuted on ",
+    "answer": "NBC",
+    "sub": "The Bold Ones"
+  },
+  {
+    "query": "Miami Vice debuted on ",
+    "answer": "NBC",
+    "sub": "Miami Vice"
+  },
+  {
+    "query": "The Space Kidettes debuted on ",
+    "answer": "NBC",
+    "sub": "The Space Kidettes"
+  },
+  {
+    "query": "America's Best Dance Crew debuted on ",
+    "answer": "MTV",
+    "sub": "America's Best Dance Crew"
+  },
+  {
+    "query": "Medical Investigation debuted on ",
+    "answer": "NBC",
+    "sub": "Medical Investigation"
+  },
+  {
+    "query": "Catscratch debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Catscratch"
+  },
+  {
+    "query": "PAW Patrol debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "PAW Patrol"
+  },
+  {
+    "query": "The Bigelow Theatre debuted on ",
+    "answer": "CBS",
+    "sub": "The Bigelow Theatre"
+  },
+  {
+    "query": "The Little Lulu Show debuted on ",
+    "answer": "HBO",
+    "sub": "The Little Lulu Show"
+  },
+  {
+    "query": "3 lbs debuted on ",
+    "answer": "CBS",
+    "sub": "3 lbs"
+  },
+  {
+    "query": "Invader Zim debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Invader Zim"
+  },
+  {
+    "query": "Men into Space debuted on ",
+    "answer": "CBS",
+    "sub": "Men into Space"
+  },
+  {
+    "query": "Maui Fever debuted on ",
+    "answer": "MTV",
+    "sub": "Maui Fever"
+  },
+  {
+    "query": "Hey, Jeannie! debuted on ",
+    "answer": "CBS",
+    "sub": "Hey, Jeannie!"
+  },
+  {
+    "query": "Taking Chance debuted on ",
+    "answer": "HBO",
+    "sub": "Taking Chance"
+  },
+  {
+    "query": "The Young and the Restless debuted on ",
+    "answer": "CBS",
+    "sub": "The Young and the Restless"
+  },
+  {
+    "query": "Kraft Suspense Theatre debuted on ",
+    "answer": "NBC",
+    "sub": "Kraft Suspense Theatre"
+  },
+  {
+    "query": "Dogfights debuted on ",
+    "answer": "History",
+    "sub": "Dogfights"
+  },
+  {
+    "query": "Screen Directors Playhouse debuted on ",
+    "answer": "NBC",
+    "sub": "Screen Directors Playhouse"
+  },
+  {
+    "query": "Biff Baker, U.S.A. debuted on ",
+    "answer": "CBS",
+    "sub": "Biff Baker, U.S.A."
+  },
+  {
+    "query": "School Pride debuted on ",
+    "answer": "NBC",
+    "sub": "School Pride"
+  },
+  {
+    "query": "Austin City Limits debuted on ",
+    "answer": "PBS",
+    "sub": "Austin City Limits"
+  },
+  {
+    "query": "Evening Shade debuted on ",
+    "answer": "CBS",
+    "sub": "Evening Shade"
+  },
+  {
+    "query": "The Dean Martin Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Dean Martin Show"
+  },
+  {
+    "query": "Orange Is the New Black debuted on ",
+    "answer": "Netflix",
+    "sub": "Orange Is the New Black"
+  },
+  {
+    "query": "The Ellen Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Ellen Show"
+  },
+  {
+    "query": "Museum Secrets debuted on ",
+    "answer": "History",
+    "sub": "Museum Secrets"
+  },
+  {
+    "query": "The Tonight Show with Jay Leno debuted on ",
+    "answer": "NBC",
+    "sub": "The Tonight Show with Jay Leno"
+  },
+  {
+    "query": "Mike & Molly debuted on ",
+    "answer": "CBS",
+    "sub": "Mike & Molly"
+  },
+  {
+    "query": "50 Grand Slam debuted on ",
+    "answer": "NBC",
+    "sub": "50 Grand Slam"
+  },
+  {
+    "query": "Ray Donovan debuted on ",
+    "answer": "Showtime",
+    "sub": "Ray Donovan"
+  },
+  {
+    "query": "The Thundermans debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "The Thundermans"
+  },
+  {
+    "query": "I Used to Be Fat debuted on ",
+    "answer": "MTV",
+    "sub": "I Used to Be Fat"
+  },
+  {
+    "query": "The Corner debuted on ",
+    "answer": "HBO",
+    "sub": "The Corner"
+  },
+  {
+    "query": "Lovers and Friends debuted on ",
+    "answer": "NBC",
+    "sub": "Lovers and Friends"
+  },
+  {
+    "query": "My Super Psycho Sweet 16 debuted on ",
+    "answer": "MTV",
+    "sub": "My Super Psycho Sweet 16"
+  },
+  {
+    "query": "Hatfields & McCoys debuted on ",
+    "answer": "History",
+    "sub": "Hatfields & McCoys"
+  },
+  {
+    "query": "Eerie, Indiana debuted on ",
+    "answer": "NBC",
+    "sub": "Eerie, Indiana"
+  },
+  {
+    "query": "Sherlock Holmes debuted on ",
+    "answer": "BBC",
+    "sub": "Sherlock Holmes"
+  },
+  {
+    "query": "Texas Rising debuted on ",
+    "answer": "History",
+    "sub": "Texas Rising"
+  },
+  {
+    "query": "Disappearing Acts debuted on ",
+    "answer": "HBO",
+    "sub": "Disappearing Acts"
+  },
+  {
+    "query": "Caesars Challenge debuted on ",
+    "answer": "NBC",
+    "sub": "Caesars Challenge"
+  },
+  {
+    "query": "Name Your Adventure debuted on ",
+    "answer": "NBC",
+    "sub": "Name Your Adventure"
+  },
+  {
+    "query": "Jackpot Bowling debuted on ",
+    "answer": "NBC",
+    "sub": "Jackpot Bowling"
+  },
+  {
+    "query": "Hotel Room debuted on ",
+    "answer": "HBO",
+    "sub": "Hotel Room"
+  },
+  {
+    "query": "National Heads-Up Poker Championship debuted on ",
+    "answer": "NBC",
+    "sub": "National Heads-Up Poker Championship"
+  },
+  {
+    "query": "Gambit debuted on ",
+    "answer": "NBC",
+    "sub": "Gambit"
+  },
+  {
+    "query": "Costas Now debuted on ",
+    "answer": "HBO",
+    "sub": "Costas Now"
+  },
+  {
+    "query": "Late Night with Conan O'Brien debuted on ",
+    "answer": "NBC",
+    "sub": "Late Night with Conan O'Brien"
+  },
+  {
+    "query": "Big Monday debuted on ",
+    "answer": "ESPN",
+    "sub": "Big Monday"
+  },
+  {
+    "query": "All Hail King Julien debuted on ",
+    "answer": "Netflix",
+    "sub": "All Hail King Julien"
+  },
+  {
+    "query": "Live from Lincoln Center debuted on ",
+    "answer": "PBS",
+    "sub": "Live from Lincoln Center"
+  },
+  {
+    "query": "Father Dowling Mysteries debuted on ",
+    "answer": "NBC",
+    "sub": "Father Dowling Mysteries"
+  },
+  {
+    "query": "Average Joe debuted on ",
+    "answer": "NBC",
+    "sub": "Average Joe"
+  },
+  {
+    "query": "Maggie Winters debuted on ",
+    "answer": "CBS",
+    "sub": "Maggie Winters"
+  },
+  {
+    "query": "Smothers Brothers debuted on ",
+    "answer": "CBS",
+    "sub": "Smothers Brothers"
+  },
+  {
+    "query": "NewsNight with Aaron Brown debuted on ",
+    "answer": "CNN",
+    "sub": "NewsNight with Aaron Brown"
+  },
+  {
+    "query": "Man, Moment, Machine debuted on ",
+    "answer": "History",
+    "sub": "Man, Moment, Machine"
+  },
+  {
+    "query": "Microsoap debuted on ",
+    "answer": "BBC",
+    "sub": "Microsoap"
+  },
+  {
+    "query": "",
+    "answer": "NBC",
+    "sub": "NBC Sunday Showcase"
+  },
+  {
+    "query": "Midnight Caller debuted on ",
+    "answer": "NBC",
+    "sub": "Midnight Caller"
+  },
+  {
+    "query": "Rugrats debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Rugrats"
+  },
+  {
+    "query": "iCarly debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "iCarly"
+  },
+  {
+    "query": "Hennesey debuted on ",
+    "answer": "CBS",
+    "sub": "Hennesey"
+  },
+  {
+    "query": "The A-Team debuted on ",
+    "answer": "NBC",
+    "sub": "The A-Team"
+  },
+  {
+    "query": "Impact! Xplosion debuted on ",
+    "answer": "Challenge",
+    "sub": "Impact! Xplosion"
+  },
+  {
+    "query": "The Real Wedding Crashers debuted on ",
+    "answer": "NBC",
+    "sub": "The Real Wedding Crashers"
+  },
+  {
+    "query": "Northern Exposure debuted on ",
+    "answer": "CBS",
+    "sub": "Northern Exposure"
+  },
+  {
+    "query": "The Golden Girls debuted on ",
+    "answer": "NBC",
+    "sub": "The Golden Girls"
+  },
+  {
+    "query": "NFL on ",
+    "answer": "CBS",
+    "sub": "NFL on CBS"
+  },
+  {
+    "query": "High Rollers debuted on ",
+    "answer": "NBC",
+    "sub": "High Rollers"
+  },
+  {
+    "query": "The Leftovers debuted on ",
+    "answer": "HBO",
+    "sub": "The Leftovers"
+  },
+  {
+    "query": "Rob Dyrdek's Fantasy Factory debuted on ",
+    "answer": "MTV",
+    "sub": "Rob Dyrdek's Fantasy Factory"
+  },
+  {
+    "query": "Harvey Beaks debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Harvey Beaks"
+  },
+  {
+    "query": "Twenty One debuted on ",
+    "answer": "CBS",
+    "sub": "Twenty One"
+  },
+  {
+    "query": "The Wire debuted on ",
+    "answer": "HBO",
+    "sub": "The Wire"
+  },
+  {
+    "query": "U-Pick Live debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "U-Pick Live"
+  },
+  {
+    "query": "Suddenly Susan debuted on ",
+    "answer": "NBC",
+    "sub": "Suddenly Susan"
+  },
+  {
+    "query": "Dough Re Mi debuted on ",
+    "answer": "NBC",
+    "sub": "Dough Re Mi"
+  },
+  {
+    "query": "Cold Case debuted on ",
+    "answer": "CBS",
+    "sub": "Cold Case"
+  },
+  {
+    "query": "8th & Ocean debuted on ",
+    "answer": "MTV",
+    "sub": "8th & Ocean"
+  },
+  {
+    "query": "Space Stars debuted on ",
+    "answer": "NBC",
+    "sub": "Space Stars"
+  },
+  {
+    "query": "The Young Turks debuted on ",
+    "answer": "YouTube",
+    "sub": "The Young Turks"
+  },
+  {
+    "query": "The Hat Squad debuted on ",
+    "answer": "CBS",
+    "sub": "The Hat Squad"
+  },
+  {
+    "query": "The Jim Henson Hour debuted on ",
+    "answer": "NBC",
+    "sub": "The Jim Henson Hour"
+  },
+  {
+    "query": "The Big Surprise debuted on ",
+    "answer": "NBC",
+    "sub": "The Big Surprise"
+  },
+  {
+    "query": "Sunday NFL Countdown debuted on ",
+    "answer": "ESPN",
+    "sub": "Sunday NFL Countdown"
+  },
+  {
+    "query": "The Dick Van Dyke Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Dick Van Dyke Show"
+  },
+  {
+    "query": "Eye Guess debuted on ",
+    "answer": "NBC",
+    "sub": "Eye Guess"
+  },
+  {
+    "query": "Greatest American Dog debuted on ",
+    "answer": "CBS",
+    "sub": "Greatest American Dog"
+  },
+  {
+    "query": "Disaster Date debuted on ",
+    "answer": "MTV",
+    "sub": "Disaster Date"
+  },
+  {
+    "query": "Ensign O'Toole debuted on ",
+    "answer": "NBC",
+    "sub": "Ensign O'Toole"
+  },
+  {
+    "query": "Tennessee Tuxedo and His Tales debuted on ",
+    "answer": "CBS",
+    "sub": "Tennessee Tuxedo and His Tales"
+  },
+  {
+    "query": "The Dennis O'Keefe Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Dennis O'Keefe Show"
+  },
+  {
+    "query": "Dennis Miller Live debuted on ",
+    "answer": "HBO",
+    "sub": "Dennis Miller Live"
+  },
+  {
+    "query": "The Last Precinct debuted on ",
+    "answer": "NBC",
+    "sub": "The Last Precinct"
+  },
+  {
+    "query": "Courting Alex debuted on ",
+    "answer": "CBS",
+    "sub": "Courting Alex"
+  },
+  {
+    "query": "Rock the Cradle debuted on ",
+    "answer": "MTV",
+    "sub": "Rock the Cradle"
+  },
+  {
+    "query": "The Honeymooners debuted on ",
+    "answer": "CBS",
+    "sub": "The Honeymooners"
+  },
+  {
+    "query": "Real People debuted on ",
+    "answer": "NBC",
+    "sub": "Real People"
+  },
+  {
+    "query": "My Drunk Kitchen debuted on ",
+    "answer": "YouTube",
+    "sub": "My Drunk Kitchen"
+  },
+  {
+    "query": "",
+    "answer": "CBS",
+    "sub": "CBS Television Quiz"
+  },
+  {
+    "query": "Dotto debuted on ",
+    "answer": "CBS",
+    "sub": "Dotto"
+  },
+  {
+    "query": "Capital Gang debuted on ",
+    "answer": "CNN",
+    "sub": "Capital Gang"
+  },
+  {
+    "query": "A Very Brady Christmas debuted on ",
+    "answer": "CBS",
+    "sub": "A Very Brady Christmas"
+  },
+  {
+    "query": "Baby Bob debuted on ",
+    "answer": "CBS",
+    "sub": "Baby Bob"
+  },
+  {
+    "query": "Night Gallery debuted on ",
+    "answer": "NBC",
+    "sub": "Night Gallery"
+  },
+  {
+    "query": "Valemont debuted on ",
+    "answer": "MTV",
+    "sub": "Valemont"
+  },
+  {
+    "query": "The Martha Raye Show debuted on ",
+    "answer": "NBC",
+    "sub": "The Martha Raye Show"
+  },
+  {
+    "query": "College Football Live debuted on ",
+    "answer": "ESPN",
+    "sub": "College Football Live"
+  },
+  {
+    "query": "The Gregory Hines Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Gregory Hines Show"
+  },
+  {
+    "query": "The ",
+    "answer": "NBC",
+    "sub": "The NBC Monday Movie"
+  },
+  {
+    "query": "Life debuted on ",
+    "answer": "NBC",
+    "sub": "Life"
+  },
+  {
+    "query": "Beggar My Neighbour debuted on ",
+    "answer": "BBC",
+    "sub": "Beggar My Neighbour"
+  },
+  {
+    "query": "Planet Forward debuted on ",
+    "answer": "PBS",
+    "sub": "Planet Forward"
+  },
+  {
+    "query": "CHiPs debuted on ",
+    "answer": "NBC",
+    "sub": "CHiPs"
+  },
+  {
+    "query": "The Second Civil War debuted on ",
+    "answer": "HBO",
+    "sub": "The Second Civil War"
+  },
+  {
+    "query": "Down You Go debuted on ",
+    "answer": "NBC",
+    "sub": "Down You Go"
+  },
+  {
+    "query": "Trollkins debuted on ",
+    "answer": "CBS",
+    "sub": "Trollkins"
+  },
+  {
+    "query": "Hollywood Game Night debuted on ",
+    "answer": "NBC",
+    "sub": "Hollywood Game Night"
+  },
+  {
+    "query": "The Gangster Chronicles debuted on ",
+    "answer": "NBC",
+    "sub": "The Gangster Chronicles"
+  },
+  {
+    "query": "The Smurfs debuted on ",
+    "answer": "NBC",
+    "sub": "The Smurfs"
+  },
+  {
+    "query": "Brand New Life debuted on ",
+    "answer": "NBC",
+    "sub": "Brand New Life"
+  },
+  {
+    "query": "My Sister Sam debuted on ",
+    "answer": "CBS",
+    "sub": "My Sister Sam"
+  },
+  {
+    "query": "The Octonauts debuted on ",
+    "answer": "BBC",
+    "sub": "The Octonauts"
+  },
+  {
+    "query": "Alfred Hitchcock Presents debuted on ",
+    "answer": "CBS",
+    "sub": "Alfred Hitchcock Presents"
+  },
+  {
+    "query": "Weekend Today debuted on ",
+    "answer": "NBC",
+    "sub": "Weekend Today"
+  },
+  {
+    "query": "Bagpuss debuted on ",
+    "answer": "BBC",
+    "sub": "Bagpuss"
+  },
+  {
+    "query": "Something Wilder debuted on ",
+    "answer": "NBC",
+    "sub": "Something Wilder"
+  },
+  {
+    "query": "Valiant Lady debuted on ",
+    "answer": "CBS",
+    "sub": "Valiant Lady"
+  },
+  {
+    "query": "Drop Dead Diva debuted on ",
+    "answer": "Lifetime",
+    "sub": "Drop Dead Diva"
+  },
+  {
+    "query": "30 Rock debuted on ",
+    "answer": "NBC",
+    "sub": "30 Rock"
+  },
+  {
+    "query": "She Spies debuted on ",
+    "answer": "NBC",
+    "sub": "She Spies"
+  },
+  {
+    "query": "Bubble Guppies debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Bubble Guppies"
+  },
+  {
+    "query": "The Mentalist debuted on ",
+    "answer": "CBS",
+    "sub": "The Mentalist"
+  },
+  {
+    "query": "Reasonable Doubts debuted on ",
+    "answer": "NBC",
+    "sub": "Reasonable Doubts"
+  },
+  {
+    "query": "Nick Arcade debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Nick Arcade"
+  },
+  {
+    "query": "Shazzan debuted on ",
+    "answer": "CBS",
+    "sub": "Shazzan"
+  },
+  {
+    "query": "Signing Time! debuted on ",
+    "answer": "PBS",
+    "sub": "Signing Time!"
+  },
+  {
+    "query": "Square One Television debuted on ",
+    "answer": "PBS",
+    "sub": "Square One Television"
+  },
+  {
+    "query": "Washington Week debuted on ",
+    "answer": "PBS",
+    "sub": "Washington Week"
+  },
+  {
+    "query": "Big Time Rush debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Big Time Rush"
+  },
+  {
+    "query": "Ancient Aliens debuted on ",
+    "answer": "History",
+    "sub": "Ancient Aliens"
+  },
+  {
+    "query": "Girl Code debuted on ",
+    "answer": "MTV",
+    "sub": "Girl Code"
+  },
+  {
+    "query": "The CollegeHumor Show debuted on ",
+    "answer": "MTV",
+    "sub": "The CollegeHumor Show"
+  },
+  {
+    "query": "The Glen Campbell Goodtime Hour debuted on ",
+    "answer": "CBS",
+    "sub": "The Glen Campbell Goodtime Hour"
+  },
+  {
+    "query": "The First Easter Rabbit debuted on ",
+    "answer": "NBC",
+    "sub": "The First Easter Rabbit"
+  },
+  {
+    "query": "Roll Out debuted on ",
+    "answer": "CBS",
+    "sub": "Roll Out"
+  },
+  {
+    "query": "History Detectives debuted on ",
+    "answer": "PBS",
+    "sub": "History Detectives"
+  },
+  {
+    "query": "Go Go Gophers debuted on ",
+    "answer": "CBS",
+    "sub": "Go Go Gophers"
+  },
+  {
+    "query": "Agatha Christie's Marple debuted on ",
+    "answer": "ITV",
+    "sub": "Agatha Christie's Marple"
+  },
+  {
+    "query": "Bare Essence debuted on ",
+    "answer": "NBC",
+    "sub": "Bare Essence"
+  },
+  {
+    "query": "Turbo FAST debuted on ",
+    "answer": "Netflix",
+    "sub": "Turbo FAST"
+  },
+  {
+    "query": "Wish Kid debuted on ",
+    "answer": "NBC",
+    "sub": "Wish Kid"
+  },
+  {
+    "query": "Shirley Temple's Storybook debuted on ",
+    "answer": "NBC",
+    "sub": "Shirley Temple's Storybook"
+  },
+  {
+    "query": "Around the Horn debuted on ",
+    "answer": "ESPN",
+    "sub": "Around the Horn"
+  },
+  {
+    "query": "Alfred Hitchcock Presents debuted on ",
+    "answer": "NBC",
+    "sub": "Alfred Hitchcock Presents"
+  },
+  {
+    "query": "The Osbournes debuted on ",
+    "answer": "MTV",
+    "sub": "The Osbournes"
+  },
+  {
+    "query": "Soapstar Superstar debuted on ",
+    "answer": "ITV",
+    "sub": "Soapstar Superstar"
+  },
+  {
+    "query": "Press Your Luck debuted on ",
+    "answer": "CBS",
+    "sub": "Press Your Luck"
+  },
+  {
+    "query": "Twenty Good Years debuted on ",
+    "answer": "NBC",
+    "sub": "Twenty Good Years"
+  },
+  {
+    "query": "Adam Adamant Lives! debuted on ",
+    "answer": "BBC",
+    "sub": "Adam Adamant Lives!"
+  },
+  {
+    "query": "The Loner debuted on ",
+    "answer": "CBS",
+    "sub": "The Loner"
+  },
+  {
+    "query": "Silicon Valley debuted on ",
+    "answer": "HBO",
+    "sub": "Silicon Valley"
+  },
+  {
+    "query": "Power Rangers Megaforce debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Power Rangers Megaforce"
+  },
+  {
+    "query": "ProStars debuted on ",
+    "answer": "NBC",
+    "sub": "ProStars"
+  },
+  {
+    "query": "The Andy Milonakis Show debuted on ",
+    "answer": "MTV",
+    "sub": "The Andy Milonakis Show"
+  },
+  {
+    "query": "The Million Second Quiz debuted on ",
+    "answer": "NBC",
+    "sub": "The Million Second Quiz"
+  },
+  {
+    "query": "Taxicab Confessions debuted on ",
+    "answer": "HBO",
+    "sub": "Taxicab Confessions"
+  },
+  {
+    "query": "Crime & Punishment debuted on ",
+    "answer": "NBC",
+    "sub": "Crime & Punishment"
+  },
+  {
+    "query": "Secret Squirrel debuted on ",
+    "answer": "NBC",
+    "sub": "Secret Squirrel"
+  },
+  {
+    "query": "Running Mates debuted on ",
+    "answer": "TNT",
+    "sub": "Running Mates"
+  },
+  {
+    "query": "",
+    "answer": "CBS",
+    "sub": "CBS Schoolbreak Special"
+  },
+  {
+    "query": "Whew! debuted on ",
+    "answer": "CBS",
+    "sub": "Whew!"
+  },
+  {
+    "query": "Brave Eagle debuted on ",
+    "answer": "CBS",
+    "sub": "Brave Eagle"
+  },
+  {
+    "query": "",
+    "answer": "CBS",
+    "sub": "CBS This Morning"
+  },
+  {
+    "query": "M Squad debuted on ",
+    "answer": "NBC",
+    "sub": "M Squad"
+  },
+  {
+    "query": "Hill Street Blues debuted on ",
+    "answer": "NBC",
+    "sub": "Hill Street Blues"
+  },
+  {
+    "query": "Six-Five Special debuted on ",
+    "answer": "BBC",
+    "sub": "Six-Five Special"
+  },
+  {
+    "query": "Fashion Star debuted on ",
+    "answer": "NBC",
+    "sub": "Fashion Star"
+  },
+  {
+    "query": "",
+    "answer": "CBS",
+    "sub": "CBS Sports Spectacular"
+  },
+  {
+    "query": "NBA Shootaround debuted on ",
+    "answer": "ESPN",
+    "sub": "NBA Shootaround"
+  },
+  {
+    "query": "The Bob Newhart Show debuted on ",
+    "answer": "CBS",
+    "sub": "The Bob Newhart Show"
+  },
+  {
+    "query": "True Jackson debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "True Jackson"
+  },
+  {
+    "query": "MMA Live debuted on ",
+    "answer": "ESPN",
+    "sub": "MMA Live"
+  },
+  {
+    "query": "Power Rangers Samurai debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Power Rangers Samurai"
+  },
+  {
+    "query": "The Range Rider debuted on ",
+    "answer": "CBS",
+    "sub": "The Range Rider"
+  },
+  {
+    "query": "3 South debuted on ",
+    "answer": "MTV",
+    "sub": "3 South"
+  },
+  {
+    "query": "Beg, Borrow & Deal debuted on ",
+    "answer": "ESPN",
+    "sub": "Beg, Borrow & Deal"
+  },
+  {
+    "query": "Headbangers Ball debuted on ",
+    "answer": "MTV",
+    "sub": "Headbangers Ball"
+  },
+  {
+    "query": "Friday Night Videos debuted on ",
+    "answer": "NBC",
+    "sub": "Friday Night Videos"
+  },
+  {
+    "query": "Finding Your Roots with Henry Louis Gates, Jr. debuted on ",
+    "answer": "PBS",
+    "sub": "Finding Your Roots with Henry Louis Gates, Jr."
+  },
+  {
+    "query": "Celebrity Deathmatch debuted on ",
+    "answer": "MTV",
+    "sub": "Celebrity Deathmatch"
+  },
+  {
+    "query": "Show Me a Hero debuted on ",
+    "answer": "HBO",
+    "sub": "Show Me a Hero"
+  },
+  {
+    "query": "The Tonight Show Starring Johnny Carson debuted on ",
+    "answer": "NBC",
+    "sub": "The Tonight Show Starring Johnny Carson"
+  },
+  {
+    "query": "Teen Mom 2 debuted on ",
+    "answer": "MTV",
+    "sub": "Teen Mom 2"
+  },
+  {
+    "query": "College Football Scoreboard debuted on ",
+    "answer": "ESPN",
+    "sub": "College Football Scoreboard"
+  },
+  {
+    "query": "The Flintstone Comedy Hour debuted on ",
+    "answer": "CBS",
+    "sub": "The Flintstone Comedy Hour"
+  },
+  {
+    "query": "Gogs debuted on ",
+    "answer": "BBC",
+    "sub": "Gogs"
+  },
+  {
+    "query": "Tales of Wells Fargo debuted on ",
+    "answer": "NBC",
+    "sub": "Tales of Wells Fargo"
+  },
+  {
+    "query": "100 Questions debuted on ",
+    "answer": "NBC",
+    "sub": "100 Questions"
+  },
+  {
+    "query": "16 and Pregnant debuted on ",
+    "answer": "MTV",
+    "sub": "16 and Pregnant"
+  },
+  {
+    "query": "Supah Ninjas debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Supah Ninjas"
+  },
+  {
+    "query": "Pirate Master debuted on ",
+    "answer": "CBS",
+    "sub": "Pirate Master"
+  },
+  {
+    "query": "NCIS: Los Angeles debuted on ",
+    "answer": "CBS",
+    "sub": "NCIS: Los Angeles"
+  },
+  {
+    "query": "The Mommies debuted on ",
+    "answer": "NBC",
+    "sub": "The Mommies"
+  },
+  {
+    "query": "Zoo Quest debuted on ",
+    "answer": "BBC",
+    "sub": "Zoo Quest"
+  },
+  {
+    "query": "The Nightmare Man debuted on ",
+    "answer": "BBC",
+    "sub": "The Nightmare Man"
+  },
+  {
+    "query": "SeaQuest DSV debuted on ",
+    "answer": "NBC",
+    "sub": "SeaQuest DSV"
+  },
+  {
+    "query": "Just Jordan debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Just Jordan"
+  },
+  {
+    "query": "KaBlam! debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "KaBlam!"
+  },
+  {
+    "query": "Daktari debuted on ",
+    "answer": "CBS",
+    "sub": "Daktari"
+  },
+  {
+    "query": "Alcoa Theatre debuted on ",
+    "answer": "NBC",
+    "sub": "Alcoa Theatre"
+  },
+  {
+    "query": "2 Minute Drill debuted on ",
+    "answer": "ESPN",
+    "sub": "2 Minute Drill"
+  },
+  {
+    "query": "The Ray Bradbury Theater debuted on ",
+    "answer": "HBO",
+    "sub": "The Ray Bradbury Theater"
+  },
+  {
+    "query": "The Muppets Celebrate Jim Henson debuted on ",
+    "answer": "CBS",
+    "sub": "The Muppets Celebrate Jim Henson"
+  },
+  {
+    "query": "Good Morning World debuted on ",
+    "answer": "CBS",
+    "sub": "Good Morning World"
+  },
+  {
+    "query": "The Really Wild Show debuted on ",
+    "answer": "BBC",
+    "sub": "The Really Wild Show"
+  },
+  {
+    "query": "Queens Supreme debuted on ",
+    "answer": "CBS",
+    "sub": "Queens Supreme"
+  },
+  {
+    "query": "The Playboy Club debuted on ",
+    "answer": "NBC",
+    "sub": "The Playboy Club"
+  },
+  {
+    "query": "Henry Danger debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "Henry Danger"
+  },
+  {
+    "query": "The 20th Century Fox Hour debuted on ",
+    "answer": "CBS",
+    "sub": "The 20th Century Fox Hour"
+  },
+  {
+    "query": "Gambit debuted on ",
+    "answer": "CBS",
+    "sub": "Gambit"
+  },
+  {
+    "query": "House of Anubis debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "House of Anubis"
+  },
+  {
+    "query": "CatDog debuted on ",
+    "answer": "Nickelodeon",
+    "sub": "CatDog"
+  },
+  {
+    "query": "Weird U.S. debuted on ",
+    "answer": "History",
+    "sub": "Weird U.S."
+  },
+  {
+    "query": "Wrestling Society X debuted on ",
+    "answer": "MTV",
+    "sub": "Wrestling Society X"
+  },
+  {
+    "query": "Yes Minister debuted on ",
+    "answer": "BBC",
+    "sub": "Yes Minister"
+  }
+]

@@ -1,0 +1,4392 @@
+[
+  {
+    "query": "Where did The Rousters debut?",
+    "answer": " NBC",
+    "sub": "The Rousters"
+  },
+  {
+    "query": "Where did The Paradise Club debut?",
+    "answer": " BBC",
+    "sub": "The Paradise Club"
+  },
+  {
+    "query": "Where did The Tonight Show with Conan O'Brien debut?",
+    "answer": " NBC",
+    "sub": "The Tonight Show with Conan O'Brien"
+  },
+  {
+    "query": "Where did Drake & Josh debut?",
+    "answer": " Nickelodeon",
+    "sub": "Drake & Josh"
+  },
+  {
+    "query": "Where did Salute Your Shorts debut?",
+    "answer": " Nickelodeon",
+    "sub": "Salute Your Shorts"
+  },
+  {
+    "query": "Where did DinoSquad debut?",
+    "answer": " CBS",
+    "sub": "DinoSquad"
+  },
+  {
+    "query": "Where did The Famous Teddy Z debut?",
+    "answer": " CBS",
+    "sub": "The Famous Teddy Z"
+  },
+  {
+    "query": "Where did FNMTV debut?",
+    "answer": " MTV",
+    "sub": "FNMTV"
+  },
+  {
+    "query": "Where did This Is Your Life debut?",
+    "answer": " NBC",
+    "sub": "This Is Your Life"
+  },
+  {
+    "query": "Where did Million Dollar Password debut?",
+    "answer": " CBS",
+    "sub": "Million Dollar Password"
+  },
+  {
+    "query": "Where did Yo Momma debut?",
+    "answer": " MTV",
+    "sub": "Yo Momma"
+  },
+  {
+    "query": "Where did GE True debut?",
+    "answer": " CBS",
+    "sub": "GE True"
+  },
+  {
+    "query": "Where did Knight Rider debut?",
+    "answer": " NBC",
+    "sub": "Knight Rider"
+  },
+  {
+    "query": "Where did Wonder Pets! debut?",
+    "answer": " Nickelodeon",
+    "sub": "Wonder Pets!"
+  },
+  {
+    "query": "Where did Presidio Med debut?",
+    "answer": " CBS",
+    "sub": "Presidio Med"
+  },
+  {
+    "query": "Where did NBC Nightside debut?",
+    "answer": " NBC",
+    "sub": "NBC Nightside"
+  },
+  {
+    "query": "Where did Just Deal debut?",
+    "answer": " NBC",
+    "sub": "Just Deal"
+  },
+  {
+    "query": "Where did The DuPont Show with June Allyson debut?",
+    "answer": " CBS",
+    "sub": "The DuPont Show with June Allyson"
+  },
+  {
+    "query": "Where did Jim Henson's Muppet Babies debut?",
+    "answer": " CBS",
+    "sub": "Jim Henson's Muppet Babies"
+  },
+  {
+    "query": "Where did Yancy Derringer debut?",
+    "answer": " CBS",
+    "sub": "Yancy Derringer"
+  },
+  {
+    "query": "Where did Every Witch Way debut?",
+    "answer": " Nickelodeon",
+    "sub": "Every Witch Way"
+  },
+  {
+    "query": "Where did The Law & Harry McGraw debut?",
+    "answer": " CBS",
+    "sub": "The Law & Harry McGraw"
+  },
+  {
+    "query": "Where did Epitaphs debut?",
+    "answer": " HBO",
+    "sub": "Epitaphs"
+  },
+  {
+    "query": "Where did Strong Medicine debut?",
+    "answer": " Lifetime",
+    "sub": "Strong Medicine"
+  },
+  {
+    "query": "Where did Downtown debut?",
+    "answer": " MTV",
+    "sub": "Downtown"
+  },
+  {
+    "query": "Where did Sparkhouse debut?",
+    "answer": " BBC",
+    "sub": "Sparkhouse"
+  },
+  {
+    "query": "Where did This Old House debut?",
+    "answer": " PBS",
+    "sub": "This Old House"
+  },
+  {
+    "query": "Where did Alternative Nation debut?",
+    "answer": " MTV",
+    "sub": "Alternative Nation"
+  },
+  {
+    "query": "Where did WWE Tough Enough debut?",
+    "answer": " MTV",
+    "sub": "WWE Tough Enough"
+  },
+  {
+    "query": "Where did Romeo! debut?",
+    "answer": " Nickelodeon",
+    "sub": "Romeo!"
+  },
+  {
+    "query": "Where did Bright Promise debut?",
+    "answer": " NBC",
+    "sub": "Bright Promise"
+  },
+  {
+    "query": "Where did Hey Arnold! debut?",
+    "answer": " Nickelodeon",
+    "sub": "Hey Arnold!"
+  },
+  {
+    "query": "Where did Barnaby Jones debut?",
+    "answer": " CBS",
+    "sub": "Barnaby Jones"
+  },
+  {
+    "query": "Where did The Bold and the Beautiful debut?",
+    "answer": " CBS",
+    "sub": "The Bold and the Beautiful"
+  },
+  {
+    "query": "Where did Wednesday Night Baseball debut?",
+    "answer": " ESPN",
+    "sub": "Wednesday Night Baseball"
+  },
+  {
+    "query": "Where did The Bill Cosby Show debut?",
+    "answer": " NBC",
+    "sub": "The Bill Cosby Show"
+  },
+  {
+    "query": "Where did Wild & Crazy Kids debut?",
+    "answer": " Nickelodeon",
+    "sub": "Wild & Crazy Kids"
+  },
+  {
+    "query": "Where did The Gisele MacKenzie Show debut?",
+    "answer": " NBC",
+    "sub": "The Gisele MacKenzie Show"
+  },
+  {
+    "query": "Where did Will & Grace debut?",
+    "answer": " NBC",
+    "sub": "Will & Grace"
+  },
+  {
+    "query": "Where did The Michael Richards Show debut?",
+    "answer": " NBC",
+    "sub": "The Michael Richards Show"
+  },
+  {
+    "query": "Where did Liquid Television debut?",
+    "answer": " MTV",
+    "sub": "Liquid Television"
+  },
+  {
+    "query": "Where did Brooklyn South debut?",
+    "answer": " CBS",
+    "sub": "Brooklyn South"
+  },
+  {
+    "query": "Where did SportsCentury debut?",
+    "answer": " ESPN",
+    "sub": "SportsCentury"
+  },
+  {
+    "query": "Where did The Morey Amsterdam Show debut?",
+    "answer": " CBS",
+    "sub": "The Morey Amsterdam Show"
+  },
+  {
+    "query": "Where did The Return of Captain Nemo debut?",
+    "answer": " CBS",
+    "sub": "The Return of Captain Nemo"
+  },
+  {
+    "query": "Where did Bonanza debut?",
+    "answer": " NBC",
+    "sub": "Bonanza"
+  },
+  {
+    "query": "Where did We Got It Made debut?",
+    "answer": " NBC",
+    "sub": "We Got It Made"
+  },
+  {
+    "query": "Where did Armstrong Circle Theatre debut?",
+    "answer": " NBC",
+    "sub": "Armstrong Circle Theatre"
+  },
+  {
+    "query": "Where did How to Make It in America debut?",
+    "answer": " HBO",
+    "sub": "How to Make It in America"
+  },
+  {
+    "query": "Where did NBA on TNT debut?",
+    "answer": " TNT",
+    "sub": "NBA on TNT"
+  },
+  {
+    "query": "Where did American Restoration debut?",
+    "answer": " History",
+    "sub": "American Restoration"
+  },
+  {
+    "query": "Where did Outside the Lines debut?",
+    "answer": " ESPN",
+    "sub": "Outside the Lines"
+  },
+  {
+    "query": "Where did Bob the Builder debut?",
+    "answer": " BBC",
+    "sub": "Bob the Builder"
+  },
+  {
+    "query": "Where did Unsolved Mysteries debut?",
+    "answer": " NBC",
+    "sub": "Unsolved Mysteries"
+  },
+  {
+    "query": "Where did Ark II debut?",
+    "answer": " CBS",
+    "sub": "Ark II"
+  },
+  {
+    "query": "Where did Hello, Larry debut?",
+    "answer": " NBC",
+    "sub": "Hello, Larry"
+  },
+  {
+    "query": "Where did St. Elsewhere debut?",
+    "answer": " NBC",
+    "sub": "St. Elsewhere"
+  },
+  {
+    "query": "Where did Mann & Machine debut?",
+    "answer": " NBC",
+    "sub": "Mann & Machine"
+  },
+  {
+    "query": "Where did The Danny Thomas Hour debut?",
+    "answer": " NBC",
+    "sub": "The Danny Thomas Hour"
+  },
+  {
+    "query": "Where did Carol & Company debut?",
+    "answer": " NBC",
+    "sub": "Carol & Company"
+  },
+  {
+    "query": "Where did The Ed Sullivan Show debut?",
+    "answer": " CBS",
+    "sub": "The Ed Sullivan Show"
+  },
+  {
+    "query": "Where did Punky Brewster debut?",
+    "answer": " NBC",
+    "sub": "Punky Brewster"
+  },
+  {
+    "query": "Where did Singled Out debut?",
+    "answer": " MTV",
+    "sub": "Singled Out"
+  },
+  {
+    "query": "Where did The Electric Company debut?",
+    "answer": " PBS",
+    "sub": "The Electric Company"
+  },
+  {
+    "query": "Where did Tattletales debut?",
+    "answer": " CBS",
+    "sub": "Tattletales"
+  },
+  {
+    "query": "Where did The Lucy Show debut?",
+    "answer": " CBS",
+    "sub": "The Lucy Show"
+  },
+  {
+    "query": "Where did Green Acres debut?",
+    "answer": " CBS",
+    "sub": "Green Acres"
+  },
+  {
+    "query": "Where did 227 debut?",
+    "answer": " NBC",
+    "sub": "227"
+  },
+  {
+    "query": "Where did Bully Beatdown debut?",
+    "answer": " MTV",
+    "sub": "Bully Beatdown"
+  },
+  {
+    "query": "Where did Ford Star Jubilee debut?",
+    "answer": " CBS",
+    "sub": "Ford Star Jubilee"
+  },
+  {
+    "query": "Where did Ni Hao, Kai-Lan debut?",
+    "answer": " Nickelodeon",
+    "sub": "Ni Hao, Kai-Lan"
+  },
+  {
+    "query": "Where did True Blood debut?",
+    "answer": " HBO",
+    "sub": "True Blood"
+  },
+  {
+    "query": "Where did Daddio debut?",
+    "answer": " NBC",
+    "sub": "Daddio"
+  },
+  {
+    "query": "Where did The Jean Arthur Show debut?",
+    "answer": " CBS",
+    "sub": "The Jean Arthur Show"
+  },
+  {
+    "query": "Where did The Pee-wee Herman Show debut?",
+    "answer": " HBO",
+    "sub": "The Pee-wee Herman Show"
+  },
+  {
+    "query": "Where did Real Time with Bill Maher debut?",
+    "answer": " HBO",
+    "sub": "Real Time with Bill Maher"
+  },
+  {
+    "query": "Where did Birdz debut?",
+    "answer": " CBS",
+    "sub": "Birdz"
+  },
+  {
+    "query": "Where did Date My Mom debut?",
+    "answer": " MTV",
+    "sub": "Date My Mom"
+  },
+  {
+    "query": "Where did Atom Ant debut?",
+    "answer": " NBC",
+    "sub": "Atom Ant"
+  },
+  {
+    "query": "Where did The Black Donnellys debut?",
+    "answer": " NBC",
+    "sub": "The Black Donnellys"
+  },
+  {
+    "query": "Where did A.U.S.A. debut?",
+    "answer": " NBC",
+    "sub": "A.U.S.A."
+  },
+  {
+    "query": "Where did The Waverly Wonders debut?",
+    "answer": " NBC",
+    "sub": "The Waverly Wonders"
+  },
+  {
+    "query": "Where did Dream Job debut?",
+    "answer": " ESPN",
+    "sub": "Dream Job"
+  },
+  {
+    "query": "Where did The Shari Lewis Show debut?",
+    "answer": " NBC",
+    "sub": "The Shari Lewis Show"
+  },
+  {
+    "query": "Where did The Puzzle Place debut?",
+    "answer": " PBS",
+    "sub": "The Puzzle Place"
+  },
+  {
+    "query": "Where did My Friend Tony debut?",
+    "answer": " NBC",
+    "sub": "My Friend Tony"
+  },
+  {
+    "query": "Where did The Law Firm debut?",
+    "answer": " NBC",
+    "sub": "The Law Firm"
+  },
+  {
+    "query": "Where did I'm Telling! debut?",
+    "answer": " NBC",
+    "sub": "I'm Telling!"
+  },
+  {
+    "query": "Where did CBS Evening News debut?",
+    "answer": " CBS",
+    "sub": "CBS Evening News"
+  },
+  {
+    "query": "Where did Breaking Bad debut?",
+    "answer": " AMC",
+    "sub": "Breaking Bad"
+  },
+  {
+    "query": "Where did Project Runway Australia debut?",
+    "answer": " Fox Arena",
+    "sub": "Project Runway Australia"
+  },
+  {
+    "query": "Where did The Comeback debut?",
+    "answer": " HBO",
+    "sub": "The Comeback"
+  },
+  {
+    "query": "Where did ESPN Major League Soccer debut?",
+    "answer": " ESPN",
+    "sub": "ESPN Major League Soccer"
+  },
+  {
+    "query": "Where did My Living Doll debut?",
+    "answer": " CBS",
+    "sub": "My Living Doll"
+  },
+  {
+    "query": "Where did Action League Now! debut?",
+    "answer": " Nickelodeon",
+    "sub": "Action League Now!"
+  },
+  {
+    "query": "Where did Nova ScienceNow debut?",
+    "answer": " PBS",
+    "sub": "Nova ScienceNow"
+  },
+  {
+    "query": "Where did CNN Presents debut?",
+    "answer": " CNN",
+    "sub": "CNN Presents"
+  },
+  {
+    "query": "Where did The Sopranos debut?",
+    "answer": " HBO",
+    "sub": "The Sopranos"
+  },
+  {
+    "query": "Where did The Edsel Show debut?",
+    "answer": " CBS",
+    "sub": "The Edsel Show"
+  },
+  {
+    "query": "Where did I.R.S. Records Presents The Cutting Edge debut?",
+    "answer": " MTV",
+    "sub": "I.R.S. Records Presents The Cutting Edge"
+  },
+  {
+    "query": "Where did CBS Storybreak debut?",
+    "answer": " CBS",
+    "sub": "CBS Storybreak"
+  },
+  {
+    "query": "Where did Kojak debut?",
+    "answer": " CBS",
+    "sub": "Kojak"
+  },
+  {
+    "query": "Where did The Kwicky Koala Show debut?",
+    "answer": " CBS",
+    "sub": "The Kwicky Koala Show"
+  },
+  {
+    "query": "Where did Human Weapon debut?",
+    "answer": " History",
+    "sub": "Human Weapon"
+  },
+  {
+    "query": "Where did Zach Stone Is Gonna Be Famous debut?",
+    "answer": " MTV",
+    "sub": "Zach Stone Is Gonna Be Famous"
+  },
+  {
+    "query": "Where did Storybook Squares debut?",
+    "answer": " NBC",
+    "sub": "Storybook Squares"
+  },
+  {
+    "query": "Where did The New Mike Hammer debut?",
+    "answer": " CBS",
+    "sub": "The New Mike Hammer"
+  },
+  {
+    "query": "Where did Murder, She Wrote debut?",
+    "answer": " CBS",
+    "sub": "Murder, She Wrote"
+  },
+  {
+    "query": "Where did Little Britain USA debut?",
+    "answer": " HBO",
+    "sub": "Little Britain USA"
+  },
+  {
+    "query": "Where did Road Rules debut?",
+    "answer": " MTV",
+    "sub": "Road Rules"
+  },
+  {
+    "query": "Where did Boardwalk Empire debut?",
+    "answer": " HBO",
+    "sub": "Boardwalk Empire"
+  },
+  {
+    "query": "Where did Frontier House debut?",
+    "answer": " PBS",
+    "sub": "Frontier House"
+  },
+  {
+    "query": "Where did Yes, Dear debut?",
+    "answer": " CBS",
+    "sub": "Yes, Dear"
+  },
+  {
+    "query": "Where did Fireside Theater debut?",
+    "answer": " NBC",
+    "sub": "Fireside Theater"
+  },
+  {
+    "query": "Where did Juliet Bravo debut?",
+    "answer": " BBC",
+    "sub": "Juliet Bravo"
+  },
+  {
+    "query": "Where did Clear History debut?",
+    "answer": " HBO",
+    "sub": "Clear History"
+  },
+  {
+    "query": "Where did Password Plus and Super Password debut?",
+    "answer": " NBC",
+    "sub": "Password Plus and Super Password"
+  },
+  {
+    "query": "Where did Big Blue Marble debut?",
+    "answer": " PBS",
+    "sub": "Big Blue Marble"
+  },
+  {
+    "query": "Where did As the World Turns debut?",
+    "answer": " CBS",
+    "sub": "As the World Turns"
+  },
+  {
+    "query": "Where did Something Is Out There debut?",
+    "answer": " NBC",
+    "sub": "Something Is Out There"
+  },
+  {
+    "query": "Where did Quarterlife debut?",
+    "answer": " NBC",
+    "sub": "Quarterlife"
+  },
+  {
+    "query": "Where did I Dream of Jeannie debut?",
+    "answer": " NBC",
+    "sub": "I Dream of Jeannie"
+  },
+  {
+    "query": "Where did Kate & Allie debut?",
+    "answer": " CBS",
+    "sub": "Kate & Allie"
+  },
+  {
+    "query": "Where did The Many Loves of Dobie Gillis debut?",
+    "answer": " CBS",
+    "sub": "The Many Loves of Dobie Gillis"
+  },
+  {
+    "query": "Where did The New Andy Griffith Show debut?",
+    "answer": " CBS",
+    "sub": "The New Andy Griffith Show"
+  },
+  {
+    "query": "Where did The Alcoa Hour debut?",
+    "answer": " NBC",
+    "sub": "The Alcoa Hour"
+  },
+  {
+    "query": "Where did Father Murphy debut?",
+    "answer": " NBC",
+    "sub": "Father Murphy"
+  },
+  {
+    "query": "Where did 60 Minutes debut?",
+    "answer": " CBS",
+    "sub": "60 Minutes"
+  },
+  {
+    "query": "Where did Saturday Night Live debut?",
+    "answer": " NBC",
+    "sub": "Saturday Night Live"
+  },
+  {
+    "query": "Where did The Ruff & Reddy Show debut?",
+    "answer": " NBC",
+    "sub": "The Ruff & Reddy Show"
+  },
+  {
+    "query": "Where did Miss Susan debut?",
+    "answer": " NBC",
+    "sub": "Miss Susan"
+  },
+  {
+    "query": "Where did From These Roots debut?",
+    "answer": " NBC",
+    "sub": "From These Roots"
+  },
+  {
+    "query": "Where did See It Now debut?",
+    "answer": " CBS",
+    "sub": "See It Now"
+  },
+  {
+    "query": "Where did Petticoat Junction debut?",
+    "answer": " CBS",
+    "sub": "Petticoat Junction"
+  },
+  {
+    "query": "Where did Dinky Dog debut?",
+    "answer": " CBS",
+    "sub": "Dinky Dog"
+  },
+  {
+    "query": "Where did SNICK debut?",
+    "answer": " Nickelodeon",
+    "sub": "SNICK"
+  },
+  {
+    "query": "Where did The Man from U.N.C.L.E. debut?",
+    "answer": " NBC",
+    "sub": "The Man from U.N.C.L.E."
+  },
+  {
+    "query": "Where did Together We Stand debut?",
+    "answer": " CBS",
+    "sub": "Together We Stand"
+  },
+  {
+    "query": "Where did Max & Shred debut?",
+    "answer": " Nickelodeon",
+    "sub": "Max & Shred"
+  },
+  {
+    "query": "Where did NYC 22 debut?",
+    "answer": " CBS",
+    "sub": "NYC 22"
+  },
+  {
+    "query": "Where did Gullah Gullah Island debut?",
+    "answer": " Nickelodeon",
+    "sub": "Gullah Gullah Island"
+  },
+  {
+    "query": "Where did Got Talent debut?",
+    "answer": " NBC",
+    "sub": "Got Talent"
+  },
+  {
+    "query": "Where did My Two Dads debut?",
+    "answer": " NBC",
+    "sub": "My Two Dads"
+  },
+  {
+    "query": "Where did The Andy Williams Show debut?",
+    "answer": " NBC",
+    "sub": "The Andy Williams Show"
+  },
+  {
+    "query": "Where did American Pickers debut?",
+    "answer": " History",
+    "sub": "American Pickers"
+  },
+  {
+    "query": "Where did Springwatch debut?",
+    "answer": " BBC",
+    "sub": "Springwatch"
+  },
+  {
+    "query": "Where did Ballers debut?",
+    "answer": " HBO",
+    "sub": "Ballers"
+  },
+  {
+    "query": "Where did John King, USA debut?",
+    "answer": " CNN",
+    "sub": "John King, USA"
+  },
+  {
+    "query": "Where did Thursday Night Showcase debut?",
+    "answer": " ESPN",
+    "sub": "Thursday Night Showcase"
+  },
+  {
+    "query": "Where did The Doris Day Show debut?",
+    "answer": " CBS",
+    "sub": "The Doris Day Show"
+  },
+  {
+    "query": "Where did Growing Up Fisher debut?",
+    "answer": " NBC",
+    "sub": "Growing Up Fisher"
+  },
+  {
+    "query": "Where did Pardon the Interruption debut?",
+    "answer": " ESPN",
+    "sub": "Pardon the Interruption"
+  },
+  {
+    "query": "Where did Noah Knows Best debut?",
+    "answer": " Nickelodeon",
+    "sub": "Noah Knows Best"
+  },
+  {
+    "query": "Where did Curb Your Enthusiasm debut?",
+    "answer": " HBO",
+    "sub": "Curb Your Enthusiasm"
+  },
+  {
+    "query": "Where did Your Hit Parade debut?",
+    "answer": " NBC",
+    "sub": "Your Hit Parade"
+  },
+  {
+    "query": "Where did Westinghouse Desilu Playhouse debut?",
+    "answer": " CBS",
+    "sub": "Westinghouse Desilu Playhouse"
+  },
+  {
+    "query": "Where did The Brothers Grunt debut?",
+    "answer": " MTV",
+    "sub": "The Brothers Grunt"
+  },
+  {
+    "query": "Where did Jeopardy! debut?",
+    "answer": " NBC",
+    "sub": "Jeopardy!"
+  },
+  {
+    "query": "Where did Nick Cannon Presents: Wild 'N Out debut?",
+    "answer": " MTV",
+    "sub": "Nick Cannon Presents: Wild 'N Out"
+  },
+  {
+    "query": "Where did Magnum, P.I. debut?",
+    "answer": " CBS",
+    "sub": "Magnum, P.I."
+  },
+  {
+    "query": "Where did The Yellow Rose debut?",
+    "answer": " NBC",
+    "sub": "The Yellow Rose"
+  },
+  {
+    "query": "Where did Inch High, Private Eye debut?",
+    "answer": " NBC",
+    "sub": "Inch High, Private Eye"
+  },
+  {
+    "query": "Where did The Lead with Jake Tapper debut?",
+    "answer": " CNN",
+    "sub": "The Lead with Jake Tapper"
+  },
+  {
+    "query": "Where did The Sophisticated Gents debut?",
+    "answer": " NBC",
+    "sub": "The Sophisticated Gents"
+  },
+  {
+    "query": "Where did NFL Matchup debut?",
+    "answer": " ESPN",
+    "sub": "NFL Matchup"
+  },
+  {
+    "query": "Where did One Big Happy debut?",
+    "answer": " NBC",
+    "sub": "One Big Happy"
+  },
+  {
+    "query": "Where did Boxing After Dark debut?",
+    "answer": " HBO",
+    "sub": "Boxing After Dark"
+  },
+  {
+    "query": "Where did The Jeffersons debut?",
+    "answer": " CBS",
+    "sub": "The Jeffersons"
+  },
+  {
+    "query": "Where did Leg Work debut?",
+    "answer": " CBS",
+    "sub": "Leg Work"
+  },
+  {
+    "query": "Where did Underdog debut?",
+    "answer": " NBC",
+    "sub": "Underdog"
+  },
+  {
+    "query": "Where did CBS Playhouse debut?",
+    "answer": " CBS",
+    "sub": "CBS Playhouse"
+  },
+  {
+    "query": "Where did Simon & Simon debut?",
+    "answer": " CBS",
+    "sub": "Simon & Simon"
+  },
+  {
+    "query": "Where did The Cosby Show debut?",
+    "answer": " NBC",
+    "sub": "The Cosby Show"
+  },
+  {
+    "query": "Where did WIRED Science debut?",
+    "answer": " PBS",
+    "sub": "WIRED Science"
+  },
+  {
+    "query": "Where did Elizabeth R debut?",
+    "answer": " BBC",
+    "sub": "Elizabeth R"
+  },
+  {
+    "query": "Where did Criminal Minds debut?",
+    "answer": " CBS",
+    "sub": "Criminal Minds"
+  },
+  {
+    "query": "Where did Hello Ladies debut?",
+    "answer": " HBO",
+    "sub": "Hello Ladies"
+  },
+  {
+    "query": "Where did 2 Broke Girls debut?",
+    "answer": " CBS",
+    "sub": "2 Broke Girls"
+  },
+  {
+    "query": "Where did Top Cops debut?",
+    "answer": " CBS",
+    "sub": "Top Cops"
+  },
+  {
+    "query": "Where did Dogg After Dark debut?",
+    "answer": " MTV",
+    "sub": "Dogg After Dark"
+  },
+  {
+    "query": "Where did Wallykazam! debut?",
+    "answer": " Nickelodeon",
+    "sub": "Wallykazam!"
+  },
+  {
+    "query": "Where did Space Academy debut?",
+    "answer": " CBS",
+    "sub": "Space Academy"
+  },
+  {
+    "query": "Where did Emergency! debut?",
+    "answer": " NBC",
+    "sub": "Emergency!"
+  },
+  {
+    "query": "Where did Project Greenlight debut?",
+    "answer": " HBO",
+    "sub": "Project Greenlight"
+  },
+  {
+    "query": "Where did Welcome Freshmen debut?",
+    "answer": " Nickelodeon",
+    "sub": "Welcome Freshmen"
+  },
+  {
+    "query": "Where did UFO Hunters debut?",
+    "answer": " History",
+    "sub": "UFO Hunters"
+  },
+  {
+    "query": "Where did Redigo debut?",
+    "answer": " NBC",
+    "sub": "Redigo"
+  },
+  {
+    "query": "Where did Cheers debut?",
+    "answer": " NBC",
+    "sub": "Cheers"
+  },
+  {
+    "query": "Where did Himalaya with Michael Palin debut?",
+    "answer": " BBC",
+    "sub": "Himalaya with Michael Palin"
+  },
+  {
+    "query": "Where did Bret Maverick debut?",
+    "answer": " NBC",
+    "sub": "Bret Maverick"
+  },
+  {
+    "query": "Where did Sushi Pack debut?",
+    "answer": " CBS",
+    "sub": "Sushi Pack"
+  },
+  {
+    "query": "Where did Sanford Arms debut?",
+    "answer": " NBC",
+    "sub": "Sanford Arms"
+  },
+  {
+    "query": "Where did Making the Band debut?",
+    "answer": " MTV",
+    "sub": "Making the Band"
+  },
+  {
+    "query": "Where did The New Show debut?",
+    "answer": " NBC",
+    "sub": "The New Show"
+  },
+  {
+    "query": "Where did The Aquanauts debut?",
+    "answer": " CBS",
+    "sub": "The Aquanauts"
+  },
+  {
+    "query": "Where did Lilyhammer debut?",
+    "answer": " Netflix",
+    "sub": "Lilyhammer"
+  },
+  {
+    "query": "Where did Amy Prentiss debut?",
+    "answer": " NBC",
+    "sub": "Amy Prentiss"
+  },
+  {
+    "query": "Where did The Judy Garland Show debut?",
+    "answer": " CBS",
+    "sub": "The Judy Garland Show"
+  },
+  {
+    "query": "Where did Blowin' Up debut?",
+    "answer": " MTV",
+    "sub": "Blowin' Up"
+  },
+  {
+    "query": "Where did Baseball Tonight debut?",
+    "answer": " ESPN",
+    "sub": "Baseball Tonight"
+  },
+  {
+    "query": "Where did The Roman Holidays debut?",
+    "answer": " NBC",
+    "sub": "The Roman Holidays"
+  },
+  {
+    "query": "Where did Dora the Explorer debut?",
+    "answer": " Nickelodeon",
+    "sub": "Dora the Explorer"
+  },
+  {
+    "query": "Where did The Gong Show debut?",
+    "answer": " NBC",
+    "sub": "The Gong Show"
+  },
+  {
+    "query": "Where did Skag debut?",
+    "answer": " NBC",
+    "sub": "Skag"
+  },
+  {
+    "query": "Where did The Pink Panther Show debut?",
+    "answer": " NBC",
+    "sub": "The Pink Panther Show"
+  },
+  {
+    "query": "Where did Finding Carter debut?",
+    "answer": " MTV",
+    "sub": "Finding Carter"
+  },
+  {
+    "query": "Where did American Odyssey debut?",
+    "answer": " NBC",
+    "sub": "American Odyssey"
+  },
+  {
+    "query": "Where did Zoey 101 debut?",
+    "answer": " Nickelodeon",
+    "sub": "Zoey 101"
+  },
+  {
+    "query": "Where did My Big Fat Greek Life debut?",
+    "answer": " CBS",
+    "sub": "My Big Fat Greek Life"
+  },
+  {
+    "query": "Where did Q debut?",
+    "answer": " BBC",
+    "sub": "Q"
+  },
+  {
+    "query": "Where did True Detective debut?",
+    "answer": " HBO",
+    "sub": "True Detective"
+  },
+  {
+    "query": "Where did The Robonic Stooges debut?",
+    "answer": " CBS",
+    "sub": "The Robonic Stooges"
+  },
+  {
+    "query": "Where did Modern Marvels debut?",
+    "answer": " History",
+    "sub": "Modern Marvels"
+  },
+  {
+    "query": "Where did Ice Road Truckers debut?",
+    "answer": " History",
+    "sub": "Ice Road Truckers"
+  },
+  {
+    "query": "Where did Wolf Lake debut?",
+    "answer": " CBS",
+    "sub": "Wolf Lake"
+  },
+  {
+    "query": "Where did The Nanny debut?",
+    "answer": " CBS",
+    "sub": "The Nanny"
+  },
+  {
+    "query": "Where did PBS Frontline debut?",
+    "answer": " PBS",
+    "sub": "PBS Frontline"
+  },
+  {
+    "query": "Where did The Dinah Shore Show debut?",
+    "answer": " NBC",
+    "sub": "The Dinah Shore Show"
+  },
+  {
+    "query": "Where did A Different World debut?",
+    "answer": " NBC",
+    "sub": "A Different World"
+  },
+  {
+    "query": "Where did Videomatch debut?",
+    "answer": " Argentina",
+    "sub": "Videomatch"
+  },
+  {
+    "query": "Where did Sam & Cat debut?",
+    "answer": " Nickelodeon",
+    "sub": "Sam & Cat"
+  },
+  {
+    "query": "Where did The Andy Griffith Show debut?",
+    "answer": " CBS",
+    "sub": "The Andy Griffith Show"
+  },
+  {
+    "query": "Where did Time Warp Trio debut?",
+    "answer": " NBC",
+    "sub": "Time Warp Trio"
+  },
+  {
+    "query": "Where did Winter Is Coming debut?",
+    "answer": " HBO",
+    "sub": "Winter Is Coming"
+  },
+  {
+    "query": "Where did CNN Heroes debut?",
+    "answer": " CNN",
+    "sub": "CNN Heroes"
+  },
+  {
+    "query": "Where did Las Vegas debut?",
+    "answer": " NBC",
+    "sub": "Las Vegas"
+  },
+  {
+    "query": "Where did Devious Maids debut?",
+    "answer": " Lifetime",
+    "sub": "Devious Maids"
+  },
+  {
+    "query": "Where did Hotel Malibu debut?",
+    "answer": " CBS",
+    "sub": "Hotel Malibu"
+  },
+  {
+    "query": "Where did The Beverly Hillbillies debut?",
+    "answer": " CBS",
+    "sub": "The Beverly Hillbillies"
+  },
+  {
+    "query": "Where did The Tonight Show Starring Jimmy Fallon debut?",
+    "answer": " NBC",
+    "sub": "The Tonight Show Starring Jimmy Fallon"
+  },
+  {
+    "query": "Where did Silk Stalkings debut?",
+    "answer": " CBS",
+    "sub": "Silk Stalkings"
+  },
+  {
+    "query": "Where did Unfabulous debut?",
+    "answer": " Nickelodeon",
+    "sub": "Unfabulous"
+  },
+  {
+    "query": "Where did Trailer Park Boys debut?",
+    "answer": " Netflix",
+    "sub": "Trailer Park Boys"
+  },
+  {
+    "query": "Where did Concentration debut?",
+    "answer": " NBC",
+    "sub": "Concentration"
+  },
+  {
+    "query": "Where did The Crazy Ones debut?",
+    "answer": " CBS",
+    "sub": "The Crazy Ones"
+  },
+  {
+    "query": "Where did The New Phil Silvers Show debut?",
+    "answer": " CBS",
+    "sub": "The New Phil Silvers Show"
+  },
+  {
+    "query": "Where did The John Larroquette Show debut?",
+    "answer": " NBC",
+    "sub": "The John Larroquette Show"
+  },
+  {
+    "query": "Where did The Banana Splits debut?",
+    "answer": " NBC",
+    "sub": "The Banana Splits"
+  },
+  {
+    "query": "Where did MTV Cribs debut?",
+    "answer": " MTV",
+    "sub": "MTV Cribs"
+  },
+  {
+    "query": "Where did Arliss debut?",
+    "answer": " HBO",
+    "sub": "Arliss"
+  },
+  {
+    "query": "Where did You Gotta See This debut?",
+    "answer": " Nickelodeon",
+    "sub": "You Gotta See This"
+  },
+  {
+    "query": "Where did An Early Frost debut?",
+    "answer": " NBC",
+    "sub": "An Early Frost"
+  },
+  {
+    "query": "Where did Columbo debut?",
+    "answer": " NBC",
+    "sub": "Columbo"
+  },
+  {
+    "query": "Where did The Home Court debut?",
+    "answer": " NBC",
+    "sub": "The Home Court"
+  },
+  {
+    "query": "Where did Circus Boy debut?",
+    "answer": " NBC",
+    "sub": "Circus Boy"
+  },
+  {
+    "query": "Where did Power Rangers Dino Charge debut?",
+    "answer": " Nickelodeon",
+    "sub": "Power Rangers Dino Charge"
+  },
+  {
+    "query": "Where did The Golden Palace debut?",
+    "answer": " CBS",
+    "sub": "The Golden Palace"
+  },
+  {
+    "query": "Where did Accidental Family debut?",
+    "answer": " NBC",
+    "sub": "Accidental Family"
+  },
+  {
+    "query": "Where did Southern Charm debut?",
+    "answer": " Bravo",
+    "sub": "Southern Charm"
+  },
+  {
+    "query": "Where did Queer Eye debut?",
+    "answer": " Bravo",
+    "sub": "Queer Eye"
+  },
+  {
+    "query": "Where did The Rerun Show debut?",
+    "answer": " NBC",
+    "sub": "The Rerun Show"
+  },
+  {
+    "query": "Where did Eurovision Song Contest debut?",
+    "answer": " Eurovision",
+    "sub": "Eurovision Song Contest"
+  },
+  {
+    "query": "Where did New York News debut?",
+    "answer": " CBS",
+    "sub": "New York News"
+  },
+  {
+    "query": "Where did Short Circuitz debut?",
+    "answer": " MTV",
+    "sub": "Short Circuitz"
+  },
+  {
+    "query": "Where did Fat Albert and the Cosby Kids debut?",
+    "answer": " CBS",
+    "sub": "Fat Albert and the Cosby Kids"
+  },
+  {
+    "query": "Where did Larry King Live debut?",
+    "answer": " CNN",
+    "sub": "Larry King Live"
+  },
+  {
+    "query": "Where did Hec Ramsey debut?",
+    "answer": " NBC",
+    "sub": "Hec Ramsey"
+  },
+  {
+    "query": "Where did Passions debut?",
+    "answer": " NBC",
+    "sub": "Passions"
+  },
+  {
+    "query": "Where did Frontier debut?",
+    "answer": " NBC",
+    "sub": "Frontier"
+  },
+  {
+    "query": "Where did SEC on CBS debut?",
+    "answer": " CBS",
+    "sub": "SEC on CBS"
+  },
+  {
+    "query": "Where did The Phil Silvers Show debut?",
+    "answer": " CBS",
+    "sub": "The Phil Silvers Show"
+  },
+  {
+    "query": "Where did Sanford and Son debut?",
+    "answer": " NBC",
+    "sub": "Sanford and Son"
+  },
+  {
+    "query": "Where did SpongeBob SquarePants, season 6 debut?",
+    "answer": " Nickelodeon",
+    "sub": "SpongeBob SquarePants, season 6"
+  },
+  {
+    "query": "Where did Ceefax debut?",
+    "answer": " BBC",
+    "sub": "Ceefax"
+  },
+  {
+    "query": "Where did Baa Baa Black Sheep debut?",
+    "answer": " NBC",
+    "sub": "Baa Baa Black Sheep"
+  },
+  {
+    "query": "Where did Then Came Bronson debut?",
+    "answer": " NBC",
+    "sub": "Then Came Bronson"
+  },
+  {
+    "query": "Where did Jefferson Drum debut?",
+    "answer": " NBC",
+    "sub": "Jefferson Drum"
+  },
+  {
+    "query": "Where did Letter to Loretta debut?",
+    "answer": " NBC",
+    "sub": "Letter to Loretta"
+  },
+  {
+    "query": "Where did Underdog debut?",
+    "answer": " CBS",
+    "sub": "Underdog"
+  },
+  {
+    "query": "Where did All Grown Up! debut?",
+    "answer": " Nickelodeon",
+    "sub": "All Grown Up!"
+  },
+  {
+    "query": "Where did Snorks debut?",
+    "answer": " NBC",
+    "sub": "Snorks"
+  },
+  {
+    "query": "Where did Hell Town debut?",
+    "answer": " NBC",
+    "sub": "Hell Town"
+  },
+  {
+    "query": "Where did The Contender 3 debut?",
+    "answer": " ESPN",
+    "sub": "The Contender 3"
+  },
+  {
+    "query": "Where did The Flintstones' New Neighbors debut?",
+    "answer": " NBC",
+    "sub": "The Flintstones' New Neighbors"
+  },
+  {
+    "query": "Where did Adam-12 debut?",
+    "answer": " NBC",
+    "sub": "Adam-12"
+  },
+  {
+    "query": "Where did Jim Rome Is Burning debut?",
+    "answer": " ESPN",
+    "sub": "Jim Rome Is Burning"
+  },
+  {
+    "query": "Where did The High Chaparral debut?",
+    "answer": " NBC",
+    "sub": "The High Chaparral"
+  },
+  {
+    "query": "Where did Miss Match debut?",
+    "answer": " NBC",
+    "sub": "Miss Match"
+  },
+  {
+    "query": "Where did The Chris Rock Show debut?",
+    "answer": " HBO",
+    "sub": "The Chris Rock Show"
+  },
+  {
+    "query": "Where did Numbers debut?",
+    "answer": " CBS",
+    "sub": "Numbers"
+  },
+  {
+    "query": "Where did Raw Toonage debut?",
+    "answer": " CBS",
+    "sub": "Raw Toonage"
+  },
+  {
+    "query": "Where did Fareed Zakaria GPS debut?",
+    "answer": " CNN",
+    "sub": "Fareed Zakaria GPS"
+  },
+  {
+    "query": "Where did The Bronx Is Burning debut?",
+    "answer": " ESPN",
+    "sub": "The Bronx Is Burning"
+  },
+  {
+    "query": "Where did My Dad Is Better Than Your Dad debut?",
+    "answer": " NBC",
+    "sub": "My Dad Is Better Than Your Dad"
+  },
+  {
+    "query": "Where did Forever Knight debut?",
+    "answer": " CBS",
+    "sub": "Forever Knight"
+  },
+  {
+    "query": "Where did Dateline NBC debut?",
+    "answer": " NBC",
+    "sub": "Dateline NBC"
+  },
+  {
+    "query": "Where did Peter Gunn debut?",
+    "answer": " NBC",
+    "sub": "Peter Gunn"
+  },
+  {
+    "query": "Where did Lucas Tanner debut?",
+    "answer": " NBC",
+    "sub": "Lucas Tanner"
+  },
+  {
+    "query": "Where did True Women debut?",
+    "answer": " CBS",
+    "sub": "True Women"
+  },
+  {
+    "query": "Where did The Sports Reporters debut?",
+    "answer": " ESPN",
+    "sub": "The Sports Reporters"
+  },
+  {
+    "query": "Where did Family Affair debut?",
+    "answer": " CBS",
+    "sub": "Family Affair"
+  },
+  {
+    "query": "Where did Late Night with Jimmy Fallon debut?",
+    "answer": " NBC",
+    "sub": "Late Night with Jimmy Fallon"
+  },
+  {
+    "query": "Where did The Face Is Familiar debut?",
+    "answer": " CBS",
+    "sub": "The Face Is Familiar"
+  },
+  {
+    "query": "Where did Ding Dong School debut?",
+    "answer": " NBC",
+    "sub": "Ding Dong School"
+  },
+  {
+    "query": "Where did The Experiment debut?",
+    "answer": " BBC",
+    "sub": "The Experiment"
+  },
+  {
+    "query": "Where did Clarissa Explains It All debut?",
+    "answer": " Nickelodeon",
+    "sub": "Clarissa Explains It All"
+  },
+  {
+    "query": "Where did Second Verdict debut?",
+    "answer": " BBC",
+    "sub": "Second Verdict"
+  },
+  {
+    "query": "Where did The Event debut?",
+    "answer": " NBC",
+    "sub": "The Event"
+  },
+  {
+    "query": "Where did Ace Crawford, Private Eye debut?",
+    "answer": " CBS",
+    "sub": "Ace Crawford, Private Eye"
+  },
+  {
+    "query": "Where did Baywatch debut?",
+    "answer": " NBC",
+    "sub": "Baywatch"
+  },
+  {
+    "query": "Where did The Wuzzles debut?",
+    "answer": " CBS",
+    "sub": "The Wuzzles"
+  },
+  {
+    "query": "Where did Most Outrageous Moments debut?",
+    "answer": " NBC",
+    "sub": "Most Outrageous Moments"
+  },
+  {
+    "query": "Where did Arthur Godfrey and His Friends debut?",
+    "answer": " CBS",
+    "sub": "Arthur Godfrey and His Friends"
+  },
+  {
+    "query": "Where did SportsCenter debut?",
+    "answer": " ESPN",
+    "sub": "SportsCenter"
+  },
+  {
+    "query": "Where did Speed Buggy debut?",
+    "answer": " CBS",
+    "sub": "Speed Buggy"
+  },
+  {
+    "query": "Where did The Pat Sajak Show debut?",
+    "answer": " CBS",
+    "sub": "The Pat Sajak Show"
+  },
+  {
+    "query": "Where did 2000 Malibu Road debut?",
+    "answer": " CBS",
+    "sub": "2000 Malibu Road"
+  },
+  {
+    "query": "Where did The Celebrity Apprentice debut?",
+    "answer": " NBC",
+    "sub": "The Celebrity Apprentice"
+  },
+  {
+    "query": "Where did The Ren & Stimpy Show debut?",
+    "answer": " Nickelodeon",
+    "sub": "The Ren & Stimpy Show"
+  },
+  {
+    "query": "Where did Shredderman Rules debut?",
+    "answer": " Nickelodeon",
+    "sub": "Shredderman Rules"
+  },
+  {
+    "query": "Where did SpeedWeek debut?",
+    "answer": " ESPN",
+    "sub": "SpeedWeek"
+  },
+  {
+    "query": "Where did Jennifer Slept Here debut?",
+    "answer": " NBC",
+    "sub": "Jennifer Slept Here"
+  },
+  {
+    "query": "Where did The Joseph Cotten Show debut?",
+    "answer": " NBC",
+    "sub": "The Joseph Cotten Show"
+  },
+  {
+    "query": "Where did Comedy Playhouse debut?",
+    "answer": " BBC",
+    "sub": "Comedy Playhouse"
+  },
+  {
+    "query": "Where did The Betty Hutton Show debut?",
+    "answer": " CBS",
+    "sub": "The Betty Hutton Show"
+  },
+  {
+    "query": "Where did Daria debut?",
+    "answer": " MTV",
+    "sub": "Daria"
+  },
+  {
+    "query": "Where did My Favorite Martian debut?",
+    "answer": " CBS",
+    "sub": "My Favorite Martian"
+  },
+  {
+    "query": "Where did Matinee Theater debut?",
+    "answer": " NBC",
+    "sub": "Matinee Theater"
+  },
+  {
+    "query": "Where did Space Sentinels debut?",
+    "answer": " NBC",
+    "sub": "Space Sentinels"
+  },
+  {
+    "query": "Where did NFL Insiders debut?",
+    "answer": " ESPN",
+    "sub": "NFL Insiders"
+  },
+  {
+    "query": "Where did Crossing Lines debut?",
+    "answer": " NBC",
+    "sub": "Crossing Lines"
+  },
+  {
+    "query": "Where did Lost in Space debut?",
+    "answer": " CBS",
+    "sub": "Lost in Space"
+  },
+  {
+    "query": "Where did Pigeon Street debut?",
+    "answer": " BBC",
+    "sub": "Pigeon Street"
+  },
+  {
+    "query": "Where did The Pretender debut?",
+    "answer": " NBC",
+    "sub": "The Pretender"
+  },
+  {
+    "query": "Where did Fabulous Funnies debut?",
+    "answer": " NBC",
+    "sub": "Fabulous Funnies"
+  },
+  {
+    "query": "Where did Nash Bridges debut?",
+    "answer": " CBS",
+    "sub": "Nash Bridges"
+  },
+  {
+    "query": "Where did Victorious debut?",
+    "answer": " Nickelodeon",
+    "sub": "Victorious"
+  },
+  {
+    "query": "Where did Nickelodeon Guts debut?",
+    "answer": " Nickelodeon",
+    "sub": "Nickelodeon Guts"
+  },
+  {
+    "query": "Where did Merry Madagascar debut?",
+    "answer": " NBC",
+    "sub": "Merry Madagascar"
+  },
+  {
+    "query": "Where did The Edge of Night debut?",
+    "answer": " CBS",
+    "sub": "The Edge of Night"
+  },
+  {
+    "query": "Where did Playmakers debut?",
+    "answer": " ESPN",
+    "sub": "Playmakers"
+  },
+  {
+    "query": "Where did Sam Benedict debut?",
+    "answer": " NBC",
+    "sub": "Sam Benedict"
+  },
+  {
+    "query": "Where did The Mary Tyler Moore Show debut?",
+    "answer": " CBS",
+    "sub": "The Mary Tyler Moore Show"
+  },
+  {
+    "query": "Where did Yo Gabba Gabba! debut?",
+    "answer": " Nickelodeon",
+    "sub": "Yo Gabba Gabba!"
+  },
+  {
+    "query": "Where did History Bites debut?",
+    "answer": " History",
+    "sub": "History Bites"
+  },
+  {
+    "query": "Where did The New Dick Van Dyke Show debut?",
+    "answer": " CBS",
+    "sub": "The New Dick Van Dyke Show"
+  },
+  {
+    "query": "Where did Last Comic Standing debut?",
+    "answer": " NBC",
+    "sub": "Last Comic Standing"
+  },
+  {
+    "query": "Where did The Equalizer debut?",
+    "answer": " CBS",
+    "sub": "The Equalizer"
+  },
+  {
+    "query": "Where did The Late Late Show with Craig Ferguson debut?",
+    "answer": " CBS",
+    "sub": "The Late Late Show with Craig Ferguson"
+  },
+  {
+    "query": "Where did The Sing-Off debut?",
+    "answer": " NBC",
+    "sub": "The Sing-Off"
+  },
+  {
+    "query": "Where did A Little Curious debut?",
+    "answer": " HBO",
+    "sub": "A Little Curious"
+  },
+  {
+    "query": "Where did Garfield and Friends: They debut?",
+    "answer": " CBS",
+    "sub": "Garfield and Friends: They"
+  },
+  {
+    "query": "Where did The George Burns Show debut?",
+    "answer": " NBC",
+    "sub": "The George Burns Show"
+  },
+  {
+    "query": "Where did Hawkins Falls, Population 6200 debut?",
+    "answer": " NBC",
+    "sub": "Hawkins Falls, Population 6200"
+  },
+  {
+    "query": "Where did NFL on NBC debut?",
+    "answer": " NBC",
+    "sub": "NFL on NBC"
+  },
+  {
+    "query": "Where did Law & Order debut?",
+    "answer": " NBC",
+    "sub": "Law & Order"
+  },
+  {
+    "query": "Where did The Gale Storm Show debut?",
+    "answer": " CBS",
+    "sub": "The Gale Storm Show"
+  },
+  {
+    "query": "Where did Danny Phantom debut?",
+    "answer": " Nickelodeon",
+    "sub": "Danny Phantom"
+  },
+  {
+    "query": "Where did The Client List debut?",
+    "answer": " Lifetime",
+    "sub": "The Client List"
+  },
+  {
+    "query": "Where did Wichita Town debut?",
+    "answer": " NBC",
+    "sub": "Wichita Town"
+  },
+  {
+    "query": "Where did The Amazing Race debut?",
+    "answer": " CBS",
+    "sub": "The Amazing Race"
+  },
+  {
+    "query": "Where did Remember WENN debut?",
+    "answer": " AMC",
+    "sub": "Remember WENN"
+  },
+  {
+    "query": "Where did The Lazarus Man debut?",
+    "answer": " TNT",
+    "sub": "The Lazarus Man"
+  },
+  {
+    "query": "Where did The Dinah Shore Chevy Show debut?",
+    "answer": " NBC",
+    "sub": "The Dinah Shore Chevy Show"
+  },
+  {
+    "query": "Where did Ghost Whisperer debut?",
+    "answer": " CBS",
+    "sub": "Ghost Whisperer"
+  },
+  {
+    "query": "Where did Hearts Are Wild debut?",
+    "answer": " CBS",
+    "sub": "Hearts Are Wild"
+  },
+  {
+    "query": "Where did Gunpowder, Treason & Plot debut?",
+    "answer": " BBC",
+    "sub": "Gunpowder, Treason & Plot"
+  },
+  {
+    "query": "Where did Rob & Big debut?",
+    "answer": " MTV",
+    "sub": "Rob & Big"
+  },
+  {
+    "query": "Where did Mama Malone debut?",
+    "answer": " CBS",
+    "sub": "Mama Malone"
+  },
+  {
+    "query": "Where did Gary Unmarried debut?",
+    "answer": " CBS",
+    "sub": "Gary Unmarried"
+  },
+  {
+    "query": "Where did My Name Is Earl debut?",
+    "answer": " NBC",
+    "sub": "My Name Is Earl"
+  },
+  {
+    "query": "Where did December Bride debut?",
+    "answer": " CBS",
+    "sub": "December Bride"
+  },
+  {
+    "query": "Where did The Blacklist debut?",
+    "answer": " NBC",
+    "sub": "The Blacklist"
+  },
+  {
+    "query": "Where did Eurovision Song Contest 1960 debut?",
+    "answer": " BBC",
+    "sub": "Eurovision Song Contest 1960"
+  },
+  {
+    "query": "Where did Picket Fences debut?",
+    "answer": " CBS",
+    "sub": "Picket Fences"
+  },
+  {
+    "query": "Where did American Experience debut?",
+    "answer": " PBS",
+    "sub": "American Experience"
+  },
+  {
+    "query": "Where did Square Pegs debut?",
+    "answer": " CBS",
+    "sub": "Square Pegs"
+  },
+  {
+    "query": "Where did Reliable Sources with Brian Stelter debut?",
+    "answer": " CNN",
+    "sub": "Reliable Sources with Brian Stelter"
+  },
+  {
+    "query": "Where did Miami Medical debut?",
+    "answer": " CBS",
+    "sub": "Miami Medical"
+  },
+  {
+    "query": "Where did Rowan & Martin's Laugh-In debut?",
+    "answer": " NBC",
+    "sub": "Rowan & Martin's Laugh-In"
+  },
+  {
+    "query": "Where did Unscripted debut?",
+    "answer": " HBO",
+    "sub": "Unscripted"
+  },
+  {
+    "query": "Where did The Wild Wild West debut?",
+    "answer": " CBS",
+    "sub": "The Wild Wild West"
+  },
+  {
+    "query": "Where did McMillan & Wife debut?",
+    "answer": " NBC",
+    "sub": "McMillan & Wife"
+  },
+  {
+    "query": "Where did The Fairly OddParents debut?",
+    "answer": " Nickelodeon",
+    "sub": "The Fairly OddParents"
+  },
+  {
+    "query": "Where did Alfred Hitchcock Presents debut?",
+    "answer": " NBC",
+    "sub": "Alfred Hitchcock Presents"
+  },
+  {
+    "query": "Where did NBA on NBC debut?",
+    "answer": " NBC",
+    "sub": "NBA on NBC"
+  },
+  {
+    "query": "Where did Love Monkey debut?",
+    "answer": " CBS",
+    "sub": "Love Monkey"
+  },
+  {
+    "query": "Where did A Man Called Sloane debut?",
+    "answer": " NBC",
+    "sub": "A Man Called Sloane"
+  },
+  {
+    "query": "Where did Merry Christmas, Drake & Josh debut?",
+    "answer": " Nickelodeon",
+    "sub": "Merry Christmas, Drake & Josh"
+  },
+  {
+    "query": "Where did The Ex List debut?",
+    "answer": " CBS",
+    "sub": "The Ex List"
+  },
+  {
+    "query": "Where did Celebrity Cooking Showdown debut?",
+    "answer": " NBC",
+    "sub": "Celebrity Cooking Showdown"
+  },
+  {
+    "query": "Where did American Morning debut?",
+    "answer": " CNN",
+    "sub": "American Morning"
+  },
+  {
+    "query": "Where did Tourgasm debut?",
+    "answer": " HBO",
+    "sub": "Tourgasm"
+  },
+  {
+    "query": "Where did Nikki & Sara Live debut?",
+    "answer": " MTV",
+    "sub": "Nikki & Sara Live"
+  },
+  {
+    "query": "Where did Def Comedy Jam debut?",
+    "answer": " HBO",
+    "sub": "Def Comedy Jam"
+  },
+  {
+    "query": "Where did Interns debut?",
+    "answer": " TNT",
+    "sub": "Interns"
+  },
+  {
+    "query": "Where did The Tab Hunter Show debut?",
+    "answer": " NBC",
+    "sub": "The Tab Hunter Show"
+  },
+  {
+    "query": "Where did City Guys debut?",
+    "answer": " NBC",
+    "sub": "City Guys"
+  },
+  {
+    "query": "Where did Kenan & Kel debut?",
+    "answer": " Nickelodeon",
+    "sub": "Kenan & Kel"
+  },
+  {
+    "query": "Where did Fraternity Life debut?",
+    "answer": " MTV",
+    "sub": "Fraternity Life"
+  },
+  {
+    "query": "Where did Gentle Ben debut?",
+    "answer": " CBS",
+    "sub": "Gentle Ben"
+  },
+  {
+    "query": "Where did WWE Heat debut?",
+    "answer": " MTV",
+    "sub": "WWE Heat"
+  },
+  {
+    "query": "Where did Wildboyz debut?",
+    "answer": " MTV",
+    "sub": "Wildboyz"
+  },
+  {
+    "query": "Where did American Dreams debut?",
+    "answer": " NBC",
+    "sub": "American Dreams"
+  },
+  {
+    "query": "Where did Revolution debut?",
+    "answer": " NBC",
+    "sub": "Revolution"
+  },
+  {
+    "query": "Where did Ancient Discoveries debut?",
+    "answer": " History",
+    "sub": "Ancient Discoveries"
+  },
+  {
+    "query": "Where did California Dreams debut?",
+    "answer": " NBC",
+    "sub": "California Dreams"
+  },
+  {
+    "query": "Where did Tracey Takes On... debut?",
+    "answer": " HBO",
+    "sub": "Tracey Takes On..."
+  },
+  {
+    "query": "Where did Starting Point debut?",
+    "answer": " CNN",
+    "sub": "Starting Point"
+  },
+  {
+    "query": "Where did Palace Guard debut?",
+    "answer": " CBS",
+    "sub": "Palace Guard"
+  },
+  {
+    "query": "Where did Quarterback Princess debut?",
+    "answer": " CBS",
+    "sub": "Quarterback Princess"
+  },
+  {
+    "query": "Where did Philip Marlowe, Private Eye debut?",
+    "answer": " HBO",
+    "sub": "Philip Marlowe, Private Eye"
+  },
+  {
+    "query": "Where did Last Week Tonight with John Oliver debut?",
+    "answer": " HBO",
+    "sub": "Last Week Tonight with John Oliver"
+  },
+  {
+    "query": "Where did Pawn Stars debut?",
+    "answer": " History",
+    "sub": "Pawn Stars"
+  },
+  {
+    "query": "Where did The Restless Gun debut?",
+    "answer": " NBC",
+    "sub": "The Restless Gun"
+  },
+  {
+    "query": "Where did Rugrats Pre-School Daze debut?",
+    "answer": " Nickelodeon",
+    "sub": "Rugrats Pre-School Daze"
+  },
+  {
+    "query": "Where did ChalkZone debut?",
+    "answer": " Nickelodeon",
+    "sub": "ChalkZone"
+  },
+  {
+    "query": "Where did Good Times debut?",
+    "answer": " CBS",
+    "sub": "Good Times"
+  },
+  {
+    "query": "Where did I Bet You Will debut?",
+    "answer": " MTV",
+    "sub": "I Bet You Will"
+  },
+  {
+    "query": "Where did All My Children debut?",
+    "answer": " iTunes",
+    "sub": "All My Children"
+  },
+  {
+    "query": "Where did Comic Book Men debut?",
+    "answer": " AMC",
+    "sub": "Comic Book Men"
+  },
+  {
+    "query": "Where did Sense8 debut?",
+    "answer": " Netflix",
+    "sub": "Sense8"
+  },
+  {
+    "query": "Where did The NFL Today debut?",
+    "answer": " CBS",
+    "sub": "The NFL Today"
+  },
+  {
+    "query": "Where did When I Was 17 debut?",
+    "answer": " MTV",
+    "sub": "When I Was 17"
+  },
+  {
+    "query": "Where did Michael Shayne debut?",
+    "answer": " NBC",
+    "sub": "Michael Shayne"
+  },
+  {
+    "query": "Where did Club MTV debut?",
+    "answer": " MTV",
+    "sub": "Club MTV"
+  },
+  {
+    "query": "Where did Bad Judge debut?",
+    "answer": " NBC",
+    "sub": "Bad Judge"
+  },
+  {
+    "query": "Where did Down You Go debut?",
+    "answer": " CBS",
+    "sub": "Down You Go"
+  },
+  {
+    "query": "Where did Leap Years debut?",
+    "answer": " Showtime",
+    "sub": "Leap Years"
+  },
+  {
+    "query": "Where did The Roosevelts debut?",
+    "answer": " PBS",
+    "sub": "The Roosevelts"
+  },
+  {
+    "query": "Where did Navy Log debut?",
+    "answer": " CBS",
+    "sub": "Navy Log"
+  },
+  {
+    "query": "Where did 120 Minutes debut?",
+    "answer": " MTV",
+    "sub": "120 Minutes"
+  },
+  {
+    "query": "Where did Hidden Faces debut?",
+    "answer": " NBC",
+    "sub": "Hidden Faces"
+  },
+  {
+    "query": "Where did Late Night with David Letterman debut?",
+    "answer": " NBC",
+    "sub": "Late Night with David Letterman"
+  },
+  {
+    "query": "Where did The Chinese Detective debut?",
+    "answer": " BBC",
+    "sub": "The Chinese Detective"
+  },
+  {
+    "query": "Where did The Jimmy Durante Show debut?",
+    "answer": " NBC",
+    "sub": "The Jimmy Durante Show"
+  },
+  {
+    "query": "Where did Birdman and the Galaxy Trio debut?",
+    "answer": " NBC",
+    "sub": "Birdman and the Galaxy Trio"
+  },
+  {
+    "query": "Where did Army Wives debut?",
+    "answer": " Lifetime",
+    "sub": "Army Wives"
+  },
+  {
+    "query": "Where did Name That Tune debut?",
+    "answer": " NBC",
+    "sub": "Name That Tune"
+  },
+  {
+    "query": "Where did The Skatebirds debut?",
+    "answer": " CBS",
+    "sub": "The Skatebirds"
+  },
+  {
+    "query": "Where did Guiding Light debut?",
+    "answer": " CBS",
+    "sub": "Guiding Light"
+  },
+  {
+    "query": "Where did Viva La Bam debut?",
+    "answer": " MTV",
+    "sub": "Viva La Bam"
+  },
+  {
+    "query": "Where did The Nutt House debut?",
+    "answer": " NBC",
+    "sub": "The Nutt House"
+  },
+  {
+    "query": "Where did The Lawless Years debut?",
+    "answer": " NBC",
+    "sub": "The Lawless Years"
+  },
+  {
+    "query": "Where did Pranked debut?",
+    "answer": " MTV",
+    "sub": "Pranked"
+  },
+  {
+    "query": "Where did Scared Shrekless debut?",
+    "answer": " NBC",
+    "sub": "Scared Shrekless"
+  },
+  {
+    "query": "Where did The Johnny Carson Show debut?",
+    "answer": " CBS",
+    "sub": "The Johnny Carson Show"
+  },
+  {
+    "query": "Where did The Benny Hill Show debut?",
+    "answer": " BBC",
+    "sub": "The Benny Hill Show"
+  },
+  {
+    "query": "Where did The John Forsythe Show debut?",
+    "answer": " NBC",
+    "sub": "The John Forsythe Show"
+  },
+  {
+    "query": "Where did The Dukes of Hazzard debut?",
+    "answer": " CBS",
+    "sub": "The Dukes of Hazzard"
+  },
+  {
+    "query": "Where did 1600 Penn debut?",
+    "answer": " NBC",
+    "sub": "1600 Penn"
+  },
+  {
+    "query": "Where did The Fresh Beat Band debut?",
+    "answer": " Nickelodeon",
+    "sub": "The Fresh Beat Band"
+  },
+  {
+    "query": "Where did Captain Nice debut?",
+    "answer": " NBC",
+    "sub": "Captain Nice"
+  },
+  {
+    "query": "Where did The Biskitts debut?",
+    "answer": " CBS",
+    "sub": "The Biskitts"
+  },
+  {
+    "query": "Where did Penn & Teller's Sin City Spectacular debut?",
+    "answer": " FX",
+    "sub": "Penn & Teller's Sin City Spectacular"
+  },
+  {
+    "query": "Where did Space Cats debut?",
+    "answer": " NBC",
+    "sub": "Space Cats"
+  },
+  {
+    "query": "Where did The Tracy Morgan Show debut?",
+    "answer": " NBC",
+    "sub": "The Tracy Morgan Show"
+  },
+  {
+    "query": "Where did Rocket Power debut?",
+    "answer": " Nickelodeon",
+    "sub": "Rocket Power"
+  },
+  {
+    "query": "Where did Playhouse 90 debut?",
+    "answer": " CBS",
+    "sub": "Playhouse 90"
+  },
+  {
+    "query": "Where did The Kate Smith Show debut?",
+    "answer": " CBS",
+    "sub": "The Kate Smith Show"
+  },
+  {
+    "query": "Where did Samson & Goliath debut?",
+    "answer": " NBC",
+    "sub": "Samson & Goliath"
+  },
+  {
+    "query": "Where did Great Performances debut?",
+    "answer": " PBS",
+    "sub": "Great Performances"
+  },
+  {
+    "query": "Where did The Rockford Files debut?",
+    "answer": " NBC",
+    "sub": "The Rockford Files"
+  },
+  {
+    "query": "Where did Just Shoot Me! debut?",
+    "answer": " NBC",
+    "sub": "Just Shoot Me!"
+  },
+  {
+    "query": "Where did Telephone Time debut?",
+    "answer": " CBS",
+    "sub": "Telephone Time"
+  },
+  {
+    "query": "Where did The Big Bang Theory debut?",
+    "answer": " CBS",
+    "sub": "The Big Bang Theory"
+  },
+  {
+    "query": "Where did Walking with Dinosaurs debut?",
+    "answer": " BBC",
+    "sub": "Walking with Dinosaurs"
+  },
+  {
+    "query": "Where did Al TV debut?",
+    "answer": " MTV",
+    "sub": "Al TV"
+  },
+  {
+    "query": "Where did The Josephine Baker Story debut?",
+    "answer": " HBO",
+    "sub": "The Josephine Baker Story"
+  },
+  {
+    "query": "Where did WCW Monday Nitro debut?",
+    "answer": " TNT",
+    "sub": "WCW Monday Nitro"
+  },
+  {
+    "query": "Where did Todd McFarlane's Spawn debut?",
+    "answer": " HBO",
+    "sub": "Todd McFarlane's Spawn"
+  },
+  {
+    "query": "Where did The Magic Clown debut?",
+    "answer": " NBC",
+    "sub": "The Magic Clown"
+  },
+  {
+    "query": "Where did Poker After Dark debut?",
+    "answer": " NBC",
+    "sub": "Poker After Dark"
+  },
+  {
+    "query": "Where did Bill Moyers Journal debut?",
+    "answer": " PBS",
+    "sub": "Bill Moyers Journal"
+  },
+  {
+    "query": "Where did Meet the Press debut?",
+    "answer": " NBC",
+    "sub": "Meet the Press"
+  },
+  {
+    "query": "Where did General Electric Theater debut?",
+    "answer": " CBS",
+    "sub": "General Electric Theater"
+  },
+  {
+    "query": "Where did Da Ali G Show debut?",
+    "answer": " HBO",
+    "sub": "Da Ali G Show"
+  },
+  {
+    "query": "Where did Manimal debut?",
+    "answer": " NBC",
+    "sub": "Manimal"
+  },
+  {
+    "query": "Where did Video Village debut?",
+    "answer": " CBS",
+    "sub": "Video Village"
+  },
+  {
+    "query": "Where did Early Start debut?",
+    "answer": " CNN",
+    "sub": "Early Start"
+  },
+  {
+    "query": "Where did The Jon Stewart Show debut?",
+    "answer": " MTV",
+    "sub": "The Jon Stewart Show"
+  },
+  {
+    "query": "Where did Hearts Afire debut?",
+    "answer": " CBS",
+    "sub": "Hearts Afire"
+  },
+  {
+    "query": "Where did The Single Guy debut?",
+    "answer": " NBC",
+    "sub": "The Single Guy"
+  },
+  {
+    "query": "Where did Flo debut?",
+    "answer": " CBS",
+    "sub": "Flo"
+  },
+  {
+    "query": "Where did Diff'rent Strokes debut?",
+    "answer": " NBC",
+    "sub": "Diff'rent Strokes"
+  },
+  {
+    "query": "Where did Scooby-Doo debut?",
+    "answer": " CBS",
+    "sub": "Scooby-Doo"
+  },
+  {
+    "query": "Where did Doomsday Gun debut?",
+    "answer": " HBO",
+    "sub": "Doomsday Gun"
+  },
+  {
+    "query": "Where did Sorority Life debut?",
+    "answer": " MTV",
+    "sub": "Sorority Life"
+  },
+  {
+    "query": "Where did Family Ties debut?",
+    "answer": " NBC",
+    "sub": "Family Ties"
+  },
+  {
+    "query": "Where did 3-2-1 Contact debut?",
+    "answer": " PBS",
+    "sub": "3-2-1 Contact"
+  },
+  {
+    "query": "Where did Information Please debut?",
+    "answer": " NBC",
+    "sub": "Information Please"
+  },
+  {
+    "query": "Where did Kay O'Brien debut?",
+    "answer": " CBS",
+    "sub": "Kay O'Brien"
+  },
+  {
+    "query": "Where did Oddville, MTV debut?",
+    "answer": " MTV",
+    "sub": "Oddville, MTV"
+  },
+  {
+    "query": "Where did Hidden Hills debut?",
+    "answer": " NBC",
+    "sub": "Hidden Hills"
+  },
+  {
+    "query": "Where did Chicago Story debut?",
+    "answer": " NBC",
+    "sub": "Chicago Story"
+  },
+  {
+    "query": "Where did Piers Morgan Live debut?",
+    "answer": " CNN",
+    "sub": "Piers Morgan Live"
+  },
+  {
+    "query": "Where did Arrested Development debut?",
+    "answer": " Netflix",
+    "sub": "Arrested Development"
+  },
+  {
+    "query": "Where did Seinfeld debut?",
+    "answer": " NBC",
+    "sub": "Seinfeld"
+  },
+  {
+    "query": "Where did H.R. Pufnstuf debut?",
+    "answer": " NBC",
+    "sub": "H.R. Pufnstuf"
+  },
+  {
+    "query": "Where did Monday Night Countdown debut?",
+    "answer": " ESPN",
+    "sub": "Monday Night Countdown"
+  },
+  {
+    "query": "Where did The Jack Benny Program debut?",
+    "answer": " CBS",
+    "sub": "The Jack Benny Program"
+  },
+  {
+    "query": "Where did The New Shmoo debut?",
+    "answer": " NBC",
+    "sub": "The New Shmoo"
+  },
+  {
+    "query": "Where did Strange Days at Blake Holsey High debut?",
+    "answer": " NBC",
+    "sub": "Strange Days at Blake Holsey High"
+  },
+  {
+    "query": "Where did Figure It Out debut?",
+    "answer": " Nickelodeon",
+    "sub": "Figure It Out"
+  },
+  {
+    "query": "Where did George Shrinks debut?",
+    "answer": " PBS",
+    "sub": "George Shrinks"
+  },
+  {
+    "query": "Where did SpongeBob SquarePants, season 2 debut?",
+    "answer": " Nickelodeon",
+    "sub": "SpongeBob SquarePants, season 2"
+  },
+  {
+    "query": "Where did True Life debut?",
+    "answer": " MTV",
+    "sub": "True Life"
+  },
+  {
+    "query": "Where did The NBC Mystery Movie debut?",
+    "answer": " NBC",
+    "sub": "The NBC Mystery Movie"
+  },
+  {
+    "query": "Where did The Hoober-Bloob Highway debut?",
+    "answer": " CBS",
+    "sub": "The Hoober-Bloob Highway"
+  },
+  {
+    "query": "Where did Four Kings debut?",
+    "answer": " NBC",
+    "sub": "Four Kings"
+  },
+  {
+    "query": "Where did The Garry Moore Show debut?",
+    "answer": " CBS",
+    "sub": "The Garry Moore Show"
+  },
+  {
+    "query": "Where did The Dennis Day Show debut?",
+    "answer": " NBC",
+    "sub": "The Dennis Day Show"
+  },
+  {
+    "query": "Where did Newhart debut?",
+    "answer": " CBS",
+    "sub": "Newhart"
+  },
+  {
+    "query": "Where did My Super Sweet 16 debut?",
+    "answer": " MTV",
+    "sub": "My Super Sweet 16"
+  },
+  {
+    "query": "Where did MTV Sports debut?",
+    "answer": " MTV",
+    "sub": "MTV Sports"
+  },
+  {
+    "query": "Where did The Mothers-in-Law debut?",
+    "answer": " NBC",
+    "sub": "The Mothers-in-Law"
+  },
+  {
+    "query": "Where did Undateable debut?",
+    "answer": " NBC",
+    "sub": "Undateable"
+  },
+  {
+    "query": "Where did Spicy City debut?",
+    "answer": " HBO",
+    "sub": "Spicy City"
+  },
+  {
+    "query": "Where did Lovespring International debut?",
+    "answer": " Lifetime",
+    "sub": "Lovespring International"
+  },
+  {
+    "query": "Where did Real Sex debut?",
+    "answer": " HBO",
+    "sub": "Real Sex"
+  },
+  {
+    "query": "Where did Island Son debut?",
+    "answer": " CBS",
+    "sub": "Island Son"
+  },
+  {
+    "query": "Where did Nightly Business Report debut?",
+    "answer": " PBS",
+    "sub": "Nightly Business Report"
+  },
+  {
+    "query": "Where did Alvin and the Chipmunks debut?",
+    "answer": " NBC",
+    "sub": "Alvin and the Chipmunks"
+  },
+  {
+    "query": "Where did The Barbara Stanwyck Show debut?",
+    "answer": " NBC",
+    "sub": "The Barbara Stanwyck Show"
+  },
+  {
+    "query": "Where did Total Request Live debut?",
+    "answer": " MTV",
+    "sub": "Total Request Live"
+  },
+  {
+    "query": "Where did Mega Disasters debut?",
+    "answer": " History",
+    "sub": "Mega Disasters"
+  },
+  {
+    "query": "Where did The Lloyd Bridges Show debut?",
+    "answer": " CBS",
+    "sub": "The Lloyd Bridges Show"
+  },
+  {
+    "query": "Where did This Is Show Business debut?",
+    "answer": " CBS",
+    "sub": "This Is Show Business"
+  },
+  {
+    "query": "Where did Banacek debut?",
+    "answer": " NBC",
+    "sub": "Banacek"
+  },
+  {
+    "query": "Where did The Men Who Built America debut?",
+    "answer": " History",
+    "sub": "The Men Who Built America"
+  },
+  {
+    "query": "Where did Undressed debut?",
+    "answer": " MTV",
+    "sub": "Undressed"
+  },
+  {
+    "query": "Where did A Charlie Brown Christmas debut?",
+    "answer": " CBS",
+    "sub": "A Charlie Brown Christmas"
+  },
+  {
+    "query": "Where did Murphy Brown debut?",
+    "answer": " CBS",
+    "sub": "Murphy Brown"
+  },
+  {
+    "query": "Where did The Long Bright Dark debut?",
+    "answer": " HBO",
+    "sub": "The Long Bright Dark"
+  },
+  {
+    "query": "Where did Camera Three debut?",
+    "answer": " CBS",
+    "sub": "Camera Three"
+  },
+  {
+    "query": "Where did NewsRadio debut?",
+    "answer": " NBC",
+    "sub": "NewsRadio"
+  },
+  {
+    "query": "Where did The Good Wife debut?",
+    "answer": " CBS",
+    "sub": "The Good Wife"
+  },
+  {
+    "query": "Where did CBS Morning News debut?",
+    "answer": " CBS",
+    "sub": "CBS Morning News"
+  },
+  {
+    "query": "Where did Celebrity Rap Superstar debut?",
+    "answer": " MTV",
+    "sub": "Celebrity Rap Superstar"
+  },
+  {
+    "query": "Where did Co-Ed Fever debut?",
+    "answer": " CBS",
+    "sub": "Co-Ed Fever"
+  },
+  {
+    "query": "Where did Cagney & Lacey debut?",
+    "answer": " CBS",
+    "sub": "Cagney & Lacey"
+  },
+  {
+    "query": "Where did Four Star Playhouse debut?",
+    "answer": " CBS",
+    "sub": "Four Star Playhouse"
+  },
+  {
+    "query": "Where did Howdy Doody debut?",
+    "answer": " NBC",
+    "sub": "Howdy Doody"
+  },
+  {
+    "query": "Where did Father Knows Best debut?",
+    "answer": " CBS",
+    "sub": "Father Knows Best"
+  },
+  {
+    "query": "Where did The Secret Storm debut?",
+    "answer": " CBS",
+    "sub": "The Secret Storm"
+  },
+  {
+    "query": "Where did How I Met Your Mother debut?",
+    "answer": " CBS",
+    "sub": "How I Met Your Mother"
+  },
+  {
+    "query": "Where did TV Nation debut?",
+    "answer": " NBC",
+    "sub": "TV Nation"
+  },
+  {
+    "query": "Where did The Danny Kaye Show debut?",
+    "answer": " CBS",
+    "sub": "The Danny Kaye Show"
+  },
+  {
+    "query": "Where did Hee Haw debut?",
+    "answer": " CBS",
+    "sub": "Hee Haw"
+  },
+  {
+    "query": "Where did Harry Hill's TV Burp debut?",
+    "answer": " ITV",
+    "sub": "Harry Hill's TV Burp"
+  },
+  {
+    "query": "Where did Empty Nest debut?",
+    "answer": " NBC",
+    "sub": "Empty Nest"
+  },
+  {
+    "query": "Where did Nurse Jackie debut?",
+    "answer": " Showtime",
+    "sub": "Nurse Jackie"
+  },
+  {
+    "query": "Where did Last Call with Carson Daly debut?",
+    "answer": " NBC",
+    "sub": "Last Call with Carson Daly"
+  },
+  {
+    "query": "Where did Snowbeast debut?",
+    "answer": " NBC",
+    "sub": "Snowbeast"
+  },
+  {
+    "query": "Where did The David Letterman Show debut?",
+    "answer": " NBC",
+    "sub": "The David Letterman Show"
+  },
+  {
+    "query": "Where did Hey, Landlord debut?",
+    "answer": " NBC",
+    "sub": "Hey, Landlord"
+  },
+  {
+    "query": "Where did The Andros Targets debut?",
+    "answer": " CBS",
+    "sub": "The Andros Targets"
+  },
+  {
+    "query": "Where did The Krofft Superstar Hour debut?",
+    "answer": " NBC",
+    "sub": "The Krofft Superstar Hour"
+  },
+  {
+    "query": "Where did A Fairly Odd Christmas debut?",
+    "answer": " Nickelodeon",
+    "sub": "A Fairly Odd Christmas"
+  },
+  {
+    "query": "Where did 60 Minutes Wednesday debut?",
+    "answer": " CBS",
+    "sub": "60 Minutes Wednesday"
+  },
+  {
+    "query": "Where did The Brian Keith Show debut?",
+    "answer": " NBC",
+    "sub": "The Brian Keith Show"
+  },
+  {
+    "query": "Where did The Munsters debut?",
+    "answer": " CBS",
+    "sub": "The Munsters"
+  },
+  {
+    "query": "Where did Room Raiders debut?",
+    "answer": " MTV",
+    "sub": "Room Raiders"
+  },
+  {
+    "query": "Where did The Thin Blue Line debut?",
+    "answer": " BBC",
+    "sub": "The Thin Blue Line"
+  },
+  {
+    "query": "Where did Climax! debut?",
+    "answer": " CBS",
+    "sub": "Climax!"
+  },
+  {
+    "query": "Where did In the Arena debut?",
+    "answer": " CNN",
+    "sub": "In the Arena"
+  },
+  {
+    "query": "Where did Silver Spoons debut?",
+    "answer": " NBC",
+    "sub": "Silver Spoons"
+  },
+  {
+    "query": "Where did Hull High debut?",
+    "answer": " NBC",
+    "sub": "Hull High"
+  },
+  {
+    "query": "Where did The Manhunter debut?",
+    "answer": " CBS",
+    "sub": "The Manhunter"
+  },
+  {
+    "query": "Where did The Gene Autry Show debut?",
+    "answer": " CBS",
+    "sub": "The Gene Autry Show"
+  },
+  {
+    "query": "Where did Def Poetry debut?",
+    "answer": " HBO",
+    "sub": "Def Poetry"
+  },
+  {
+    "query": "Where did Designing Women debut?",
+    "answer": " CBS",
+    "sub": "Designing Women"
+  },
+  {
+    "query": "Where did Boiling Points debut?",
+    "answer": " MTV",
+    "sub": "Boiling Points"
+  },
+  {
+    "query": "Where did Storefront Lawyers debut?",
+    "answer": " CBS",
+    "sub": "Storefront Lawyers"
+  },
+  {
+    "query": "Where did Trippin' debut?",
+    "answer": " MTV",
+    "sub": "Trippin'"
+  },
+  {
+    "query": "Where did Worst Week debut?",
+    "answer": " CBS",
+    "sub": "Worst Week"
+  },
+  {
+    "query": "Where did ESPN Major League Baseball debut?",
+    "answer": " ESPN",
+    "sub": "ESPN Major League Baseball"
+  },
+  {
+    "query": "Where did Trapper John, M.D. debut?",
+    "answer": " CBS",
+    "sub": "Trapper John, M.D."
+  },
+  {
+    "query": "Where did Moonbase 3 debut?",
+    "answer": " BBC",
+    "sub": "Moonbase 3"
+  },
+  {
+    "query": "Where did Airwolf debut?",
+    "answer": " CBS",
+    "sub": "Airwolf"
+  },
+  {
+    "query": "Where did How to Rock debut?",
+    "answer": " Nickelodeon",
+    "sub": "How to Rock"
+  },
+  {
+    "query": "Where did Freaks and Geeks debut?",
+    "answer": " NBC",
+    "sub": "Freaks and Geeks"
+  },
+  {
+    "query": "Where did Hey Dude debut?",
+    "answer": " Nickelodeon",
+    "sub": "Hey Dude"
+  },
+  {
+    "query": "Where did Mister Sterling debut?",
+    "answer": " NBC",
+    "sub": "Mister Sterling"
+  },
+  {
+    "query": "Where did Broadway Open House debut?",
+    "answer": " NBC",
+    "sub": "Broadway Open House"
+  },
+  {
+    "query": "Where did Butt-Ugly Martians debut?",
+    "answer": " Nickelodeon",
+    "sub": "Butt-Ugly Martians"
+  },
+  {
+    "query": "Where did Popzilla debut?",
+    "answer": " MTV",
+    "sub": "Popzilla"
+  },
+  {
+    "query": "Where did Doug debut?",
+    "answer": " Nickelodeon",
+    "sub": "Doug"
+  },
+  {
+    "query": "Where did Producers' Showcase debut?",
+    "answer": " NBC",
+    "sub": "Producers' Showcase"
+  },
+  {
+    "query": "Where did The Larry Sanders Show debut?",
+    "answer": " HBO",
+    "sub": "The Larry Sanders Show"
+  },
+  {
+    "query": "Where did Big Time Movie debut?",
+    "answer": " Nickelodeon",
+    "sub": "Big Time Movie"
+  },
+  {
+    "query": "Where did Cousin Skeeter debut?",
+    "answer": " Nickelodeon",
+    "sub": "Cousin Skeeter"
+  },
+  {
+    "query": "Where did HBO World Championship Boxing debut?",
+    "answer": " HBO",
+    "sub": "HBO World Championship Boxing"
+  },
+  {
+    "query": "Where did Crossfire debut?",
+    "answer": " CNN",
+    "sub": "Crossfire"
+  },
+  {
+    "query": "Where did The Millers debut?",
+    "answer": " CBS",
+    "sub": "The Millers"
+  },
+  {
+    "query": "Where did Making the Video debut?",
+    "answer": " MTV",
+    "sub": "Making the Video"
+  },
+  {
+    "query": "Where did The Amanda Show debut?",
+    "answer": " Nickelodeon",
+    "sub": "The Amanda Show"
+  },
+  {
+    "query": "Where did Lonelygirl15 debut?",
+    "answer": " YouTube",
+    "sub": "Lonelygirl15"
+  },
+  {
+    "query": "Where did Skeleton Warriors debut?",
+    "answer": " CBS",
+    "sub": "Skeleton Warriors"
+  },
+  {
+    "query": "Where did Shear Genius debut?",
+    "answer": " Bravo",
+    "sub": "Shear Genius"
+  },
+  {
+    "query": "Where did CBS Summer Playhouse debut?",
+    "answer": " CBS",
+    "sub": "CBS Summer Playhouse"
+  },
+  {
+    "query": "Where did Fox Business Tonight debut?",
+    "answer": " CNN",
+    "sub": "Fox Business Tonight"
+  },
+  {
+    "query": "Where did Rita Rocks debut?",
+    "answer": " Lifetime",
+    "sub": "Rita Rocks"
+  },
+  {
+    "query": "Where did Sunday Night Baseball debut?",
+    "answer": " ESPN",
+    "sub": "Sunday Night Baseball"
+  },
+  {
+    "query": "Where did A Gifted Man debut?",
+    "answer": " CBS",
+    "sub": "A Gifted Man"
+  },
+  {
+    "query": "Where did Night Court debut?",
+    "answer": " NBC",
+    "sub": "Night Court"
+  },
+  {
+    "query": "Where did Stars Earn Stripes debut?",
+    "answer": " NBC",
+    "sub": "Stars Earn Stripes"
+  },
+  {
+    "query": "Where did EZ Streets debut?",
+    "answer": " CBS",
+    "sub": "EZ Streets"
+  },
+  {
+    "query": "Where did The Merv Griffin Show debut?",
+    "answer": " NBC",
+    "sub": "The Merv Griffin Show"
+  },
+  {
+    "query": "Where did Go, Diego, Go! debut?",
+    "answer": " Nickelodeon",
+    "sub": "Go, Diego, Go!"
+  },
+  {
+    "query": "Where did Major Dad debut?",
+    "answer": " CBS",
+    "sub": "Major Dad"
+  },
+  {
+    "query": "Where did Dear Phoebe debut?",
+    "answer": " NBC",
+    "sub": "Dear Phoebe"
+  },
+  {
+    "query": "Where did The Road West debut?",
+    "answer": " NBC",
+    "sub": "The Road West"
+  },
+  {
+    "query": "Where did Reading Rainbow debut?",
+    "answer": " PBS",
+    "sub": "Reading Rainbow"
+  },
+  {
+    "query": "Where did High School Stories debut?",
+    "answer": " MTV",
+    "sub": "High School Stories"
+  },
+  {
+    "query": "Where did The Angry Beavers debut?",
+    "answer": " Nickelodeon",
+    "sub": "The Angry Beavers"
+  },
+  {
+    "query": "Where did Inside Politics with John King debut?",
+    "answer": " CNN",
+    "sub": "Inside Politics with John King"
+  },
+  {
+    "query": "Where did Kukla, Fran and Ollie debut?",
+    "answer": " NBC",
+    "sub": "Kukla, Fran and Ollie"
+  },
+  {
+    "query": "Where did The Wide Country debut?",
+    "answer": " NBC",
+    "sub": "The Wide Country"
+  },
+  {
+    "query": "Where did Treasure Hunters debut?",
+    "answer": " NBC",
+    "sub": "Treasure Hunters"
+  },
+  {
+    "query": "Where did Kid Nation debut?",
+    "answer": " CBS",
+    "sub": "Kid Nation"
+  },
+  {
+    "query": "Where did Nova debut?",
+    "answer": " PBS",
+    "sub": "Nova"
+  },
+  {
+    "query": "Where did Supertrain debut?",
+    "answer": " NBC",
+    "sub": "Supertrain"
+  },
+  {
+    "query": "Where did Millionaire Matchmaker debut?",
+    "answer": " Bravo",
+    "sub": "Millionaire Matchmaker"
+  },
+  {
+    "query": "Where did Nicky, Ricky, Dicky & Dawn debut?",
+    "answer": " Nickelodeon",
+    "sub": "Nicky, Ricky, Dicky & Dawn"
+  },
+  {
+    "query": "Where did Hero High debut?",
+    "answer": " NBC",
+    "sub": "Hero High"
+  },
+  {
+    "query": "Where did Time Express debut?",
+    "answer": " CBS",
+    "sub": "Time Express"
+  },
+  {
+    "query": "Where did The New Normal debut?",
+    "answer": " NBC",
+    "sub": "The New Normal"
+  },
+  {
+    "query": "Where did Goodyear Theatre debut?",
+    "answer": " NBC",
+    "sub": "Goodyear Theatre"
+  },
+  {
+    "query": "Where did Sonny Spoon debut?",
+    "answer": " NBC",
+    "sub": "Sonny Spoon"
+  },
+  {
+    "query": "Where did Gimme a Break! debut?",
+    "answer": " NBC",
+    "sub": "Gimme a Break!"
+  },
+  {
+    "query": "Where did Barney & Friends debut?",
+    "answer": " PBS",
+    "sub": "Barney & Friends"
+  },
+  {
+    "query": "Where did The Troop debut?",
+    "answer": " Nickelodeon",
+    "sub": "The Troop"
+  },
+  {
+    "query": "Where did He & She debut?",
+    "answer": " CBS",
+    "sub": "He & She"
+  },
+  {
+    "query": "Where did Kate Brasher debut?",
+    "answer": " CBS",
+    "sub": "Kate Brasher"
+  },
+  {
+    "query": "Where did The Carol Burnett Show debut?",
+    "answer": " CBS",
+    "sub": "The Carol Burnett Show"
+  },
+  {
+    "query": "Where did Cameo Theatre debut?",
+    "answer": " NBC",
+    "sub": "Cameo Theatre"
+  },
+  {
+    "query": "Where did Two-A-Days debut?",
+    "answer": " MTV",
+    "sub": "Two-A-Days"
+  },
+  {
+    "query": "Where did Sealab 2020 debut?",
+    "answer": " NBC",
+    "sub": "Sealab 2020"
+  },
+  {
+    "query": "Where did 3-2-1 Penguins! debut?",
+    "answer": " NBC",
+    "sub": "3-2-1 Penguins!"
+  },
+  {
+    "query": "Where did ESPN Sunday Night Football debut?",
+    "answer": " ESPN",
+    "sub": "ESPN Sunday Night Football"
+  },
+  {
+    "query": "Where did The Wild Thornberrys debut?",
+    "answer": " Nickelodeon",
+    "sub": "The Wild Thornberrys"
+  },
+  {
+    "query": "Where did Third Watch debut?",
+    "answer": " NBC",
+    "sub": "Third Watch"
+  },
+  {
+    "query": "Where did Dirty Sally debut?",
+    "answer": " CBS",
+    "sub": "Dirty Sally"
+  },
+  {
+    "query": "Where did Teen Mom OG debut?",
+    "answer": " MTV",
+    "sub": "Teen Mom OG"
+  },
+  {
+    "query": "Where did The Sandy Duncan Show debut?",
+    "answer": " CBS",
+    "sub": "The Sandy Duncan Show"
+  },
+  {
+    "query": "Where did The Fantastic Journey debut?",
+    "answer": " NBC",
+    "sub": "The Fantastic Journey"
+  },
+  {
+    "query": "Where did Cartoon Sushi debut?",
+    "answer": " MTV",
+    "sub": "Cartoon Sushi"
+  },
+  {
+    "query": "Where did The Waltons debut?",
+    "answer": " CBS",
+    "sub": "The Waltons"
+  },
+  {
+    "query": "Where did Spyder Games debut?",
+    "answer": " MTV",
+    "sub": "Spyder Games"
+  },
+  {
+    "query": "Where did Galaxy High debut?",
+    "answer": " CBS",
+    "sub": "Galaxy High"
+  },
+  {
+    "query": "Where did The Early Show debut?",
+    "answer": " CBS",
+    "sub": "The Early Show"
+  },
+  {
+    "query": "Where did Good Sports debut?",
+    "answer": " CBS",
+    "sub": "Good Sports"
+  },
+  {
+    "query": "Where did Grace and Frankie debut?",
+    "answer": " Netflix",
+    "sub": "Grace and Frankie"
+  },
+  {
+    "query": "Where did Call Me Fitz debut?",
+    "answer": " HBO",
+    "sub": "Call Me Fitz"
+  },
+  {
+    "query": "Where did The Chevrolet Tele-Theatre debut?",
+    "answer": " NBC",
+    "sub": "The Chevrolet Tele-Theatre"
+  },
+  {
+    "query": "Where did The Hitchhiker debut?",
+    "answer": " HBO",
+    "sub": "The Hitchhiker"
+  },
+  {
+    "query": "Where did Big Love debut?",
+    "answer": " HBO",
+    "sub": "Big Love"
+  },
+  {
+    "query": "Where did Rhoda debut?",
+    "answer": " CBS",
+    "sub": "Rhoda"
+  },
+  {
+    "query": "Where did Braingames debut?",
+    "answer": " HBO",
+    "sub": "Braingames"
+  },
+  {
+    "query": "Where did The Bold Ones debut?",
+    "answer": " NBC",
+    "sub": "The Bold Ones"
+  },
+  {
+    "query": "Where did Miami Vice debut?",
+    "answer": " NBC",
+    "sub": "Miami Vice"
+  },
+  {
+    "query": "Where did The Space Kidettes debut?",
+    "answer": " NBC",
+    "sub": "The Space Kidettes"
+  },
+  {
+    "query": "Where did America's Best Dance Crew debut?",
+    "answer": " MTV",
+    "sub": "America's Best Dance Crew"
+  },
+  {
+    "query": "Where did Medical Investigation debut?",
+    "answer": " NBC",
+    "sub": "Medical Investigation"
+  },
+  {
+    "query": "Where did Catscratch debut?",
+    "answer": " Nickelodeon",
+    "sub": "Catscratch"
+  },
+  {
+    "query": "Where did PAW Patrol debut?",
+    "answer": " Nickelodeon",
+    "sub": "PAW Patrol"
+  },
+  {
+    "query": "Where did The Bigelow Theatre debut?",
+    "answer": " CBS",
+    "sub": "The Bigelow Theatre"
+  },
+  {
+    "query": "Where did The Little Lulu Show debut?",
+    "answer": " HBO",
+    "sub": "The Little Lulu Show"
+  },
+  {
+    "query": "Where did 3 lbs debut?",
+    "answer": " CBS",
+    "sub": "3 lbs"
+  },
+  {
+    "query": "Where did Invader Zim debut?",
+    "answer": " Nickelodeon",
+    "sub": "Invader Zim"
+  },
+  {
+    "query": "Where did Men into Space debut?",
+    "answer": " CBS",
+    "sub": "Men into Space"
+  },
+  {
+    "query": "Where did Maui Fever debut?",
+    "answer": " MTV",
+    "sub": "Maui Fever"
+  },
+  {
+    "query": "Where did Hey, Jeannie! debut?",
+    "answer": " CBS",
+    "sub": "Hey, Jeannie!"
+  },
+  {
+    "query": "Where did Taking Chance debut?",
+    "answer": " HBO",
+    "sub": "Taking Chance"
+  },
+  {
+    "query": "Where did The Young and the Restless debut?",
+    "answer": " CBS",
+    "sub": "The Young and the Restless"
+  },
+  {
+    "query": "Where did Kraft Suspense Theatre debut?",
+    "answer": " NBC",
+    "sub": "Kraft Suspense Theatre"
+  },
+  {
+    "query": "Where did Dogfights debut?",
+    "answer": " History",
+    "sub": "Dogfights"
+  },
+  {
+    "query": "Where did Screen Directors Playhouse debut?",
+    "answer": " NBC",
+    "sub": "Screen Directors Playhouse"
+  },
+  {
+    "query": "Where did Biff Baker, U.S.A. debut?",
+    "answer": " CBS",
+    "sub": "Biff Baker, U.S.A."
+  },
+  {
+    "query": "Where did School Pride debut?",
+    "answer": " NBC",
+    "sub": "School Pride"
+  },
+  {
+    "query": "Where did Austin City Limits debut?",
+    "answer": " PBS",
+    "sub": "Austin City Limits"
+  },
+  {
+    "query": "Where did Evening Shade debut?",
+    "answer": " CBS",
+    "sub": "Evening Shade"
+  },
+  {
+    "query": "Where did The Dean Martin Show debut?",
+    "answer": " NBC",
+    "sub": "The Dean Martin Show"
+  },
+  {
+    "query": "Where did Orange Is the New Black debut?",
+    "answer": " Netflix",
+    "sub": "Orange Is the New Black"
+  },
+  {
+    "query": "Where did The Ellen Show debut?",
+    "answer": " CBS",
+    "sub": "The Ellen Show"
+  },
+  {
+    "query": "Where did Museum Secrets debut?",
+    "answer": " History",
+    "sub": "Museum Secrets"
+  },
+  {
+    "query": "Where did The Tonight Show with Jay Leno debut?",
+    "answer": " NBC",
+    "sub": "The Tonight Show with Jay Leno"
+  },
+  {
+    "query": "Where did Mike & Molly debut?",
+    "answer": " CBS",
+    "sub": "Mike & Molly"
+  },
+  {
+    "query": "Where did 50 Grand Slam debut?",
+    "answer": " NBC",
+    "sub": "50 Grand Slam"
+  },
+  {
+    "query": "Where did Ray Donovan debut?",
+    "answer": " Showtime",
+    "sub": "Ray Donovan"
+  },
+  {
+    "query": "Where did The Thundermans debut?",
+    "answer": " Nickelodeon",
+    "sub": "The Thundermans"
+  },
+  {
+    "query": "Where did I Used to Be Fat debut?",
+    "answer": " MTV",
+    "sub": "I Used to Be Fat"
+  },
+  {
+    "query": "Where did The Corner debut?",
+    "answer": " HBO",
+    "sub": "The Corner"
+  },
+  {
+    "query": "Where did Lovers and Friends debut?",
+    "answer": " NBC",
+    "sub": "Lovers and Friends"
+  },
+  {
+    "query": "Where did My Super Psycho Sweet 16 debut?",
+    "answer": " MTV",
+    "sub": "My Super Psycho Sweet 16"
+  },
+  {
+    "query": "Where did Hatfields & McCoys debut?",
+    "answer": " History",
+    "sub": "Hatfields & McCoys"
+  },
+  {
+    "query": "Where did Eerie, Indiana debut?",
+    "answer": " NBC",
+    "sub": "Eerie, Indiana"
+  },
+  {
+    "query": "Where did Sherlock Holmes debut?",
+    "answer": " BBC",
+    "sub": "Sherlock Holmes"
+  },
+  {
+    "query": "Where did Texas Rising debut?",
+    "answer": " History",
+    "sub": "Texas Rising"
+  },
+  {
+    "query": "Where did Disappearing Acts debut?",
+    "answer": " HBO",
+    "sub": "Disappearing Acts"
+  },
+  {
+    "query": "Where did Caesars Challenge debut?",
+    "answer": " NBC",
+    "sub": "Caesars Challenge"
+  },
+  {
+    "query": "Where did Name Your Adventure debut?",
+    "answer": " NBC",
+    "sub": "Name Your Adventure"
+  },
+  {
+    "query": "Where did Jackpot Bowling debut?",
+    "answer": " NBC",
+    "sub": "Jackpot Bowling"
+  },
+  {
+    "query": "Where did Hotel Room debut?",
+    "answer": " HBO",
+    "sub": "Hotel Room"
+  },
+  {
+    "query": "Where did National Heads-Up Poker Championship debut?",
+    "answer": " NBC",
+    "sub": "National Heads-Up Poker Championship"
+  },
+  {
+    "query": "Where did Gambit debut?",
+    "answer": " NBC",
+    "sub": "Gambit"
+  },
+  {
+    "query": "Where did Costas Now debut?",
+    "answer": " HBO",
+    "sub": "Costas Now"
+  },
+  {
+    "query": "Where did Late Night with Conan O'Brien debut?",
+    "answer": " NBC",
+    "sub": "Late Night with Conan O'Brien"
+  },
+  {
+    "query": "Where did Big Monday debut?",
+    "answer": " ESPN",
+    "sub": "Big Monday"
+  },
+  {
+    "query": "Where did All Hail King Julien debut?",
+    "answer": " Netflix",
+    "sub": "All Hail King Julien"
+  },
+  {
+    "query": "Where did Live from Lincoln Center debut?",
+    "answer": " PBS",
+    "sub": "Live from Lincoln Center"
+  },
+  {
+    "query": "Where did Father Dowling Mysteries debut?",
+    "answer": " NBC",
+    "sub": "Father Dowling Mysteries"
+  },
+  {
+    "query": "Where did Average Joe debut?",
+    "answer": " NBC",
+    "sub": "Average Joe"
+  },
+  {
+    "query": "Where did Maggie Winters debut?",
+    "answer": " CBS",
+    "sub": "Maggie Winters"
+  },
+  {
+    "query": "Where did Smothers Brothers debut?",
+    "answer": " CBS",
+    "sub": "Smothers Brothers"
+  },
+  {
+    "query": "Where did NewsNight with Aaron Brown debut?",
+    "answer": " CNN",
+    "sub": "NewsNight with Aaron Brown"
+  },
+  {
+    "query": "Where did Man, Moment, Machine debut?",
+    "answer": " History",
+    "sub": "Man, Moment, Machine"
+  },
+  {
+    "query": "Where did Microsoap debut?",
+    "answer": " BBC",
+    "sub": "Microsoap"
+  },
+  {
+    "query": "Where did NBC Sunday Showcase debut?",
+    "answer": " NBC",
+    "sub": "NBC Sunday Showcase"
+  },
+  {
+    "query": "Where did Midnight Caller debut?",
+    "answer": " NBC",
+    "sub": "Midnight Caller"
+  },
+  {
+    "query": "Where did Rugrats debut?",
+    "answer": " Nickelodeon",
+    "sub": "Rugrats"
+  },
+  {
+    "query": "Where did iCarly debut?",
+    "answer": " Nickelodeon",
+    "sub": "iCarly"
+  },
+  {
+    "query": "Where did Hennesey debut?",
+    "answer": " CBS",
+    "sub": "Hennesey"
+  },
+  {
+    "query": "Where did The A-Team debut?",
+    "answer": " NBC",
+    "sub": "The A-Team"
+  },
+  {
+    "query": "Where did Impact! Xplosion debut?",
+    "answer": " Challenge",
+    "sub": "Impact! Xplosion"
+  },
+  {
+    "query": "Where did The Real Wedding Crashers debut?",
+    "answer": " NBC",
+    "sub": "The Real Wedding Crashers"
+  },
+  {
+    "query": "Where did Northern Exposure debut?",
+    "answer": " CBS",
+    "sub": "Northern Exposure"
+  },
+  {
+    "query": "Where did The Golden Girls debut?",
+    "answer": " NBC",
+    "sub": "The Golden Girls"
+  },
+  {
+    "query": "Where did NFL on CBS debut?",
+    "answer": " CBS",
+    "sub": "NFL on CBS"
+  },
+  {
+    "query": "Where did High Rollers debut?",
+    "answer": " NBC",
+    "sub": "High Rollers"
+  },
+  {
+    "query": "Where did The Leftovers debut?",
+    "answer": " HBO",
+    "sub": "The Leftovers"
+  },
+  {
+    "query": "Where did Rob Dyrdek's Fantasy Factory debut?",
+    "answer": " MTV",
+    "sub": "Rob Dyrdek's Fantasy Factory"
+  },
+  {
+    "query": "Where did Harvey Beaks debut?",
+    "answer": " Nickelodeon",
+    "sub": "Harvey Beaks"
+  },
+  {
+    "query": "Where did Twenty One debut?",
+    "answer": " CBS",
+    "sub": "Twenty One"
+  },
+  {
+    "query": "Where did The Wire debut?",
+    "answer": " HBO",
+    "sub": "The Wire"
+  },
+  {
+    "query": "Where did U-Pick Live debut?",
+    "answer": " Nickelodeon",
+    "sub": "U-Pick Live"
+  },
+  {
+    "query": "Where did Suddenly Susan debut?",
+    "answer": " NBC",
+    "sub": "Suddenly Susan"
+  },
+  {
+    "query": "Where did Dough Re Mi debut?",
+    "answer": " NBC",
+    "sub": "Dough Re Mi"
+  },
+  {
+    "query": "Where did Cold Case debut?",
+    "answer": " CBS",
+    "sub": "Cold Case"
+  },
+  {
+    "query": "Where did 8th & Ocean debut?",
+    "answer": " MTV",
+    "sub": "8th & Ocean"
+  },
+  {
+    "query": "Where did Space Stars debut?",
+    "answer": " NBC",
+    "sub": "Space Stars"
+  },
+  {
+    "query": "Where did The Young Turks debut?",
+    "answer": " YouTube",
+    "sub": "The Young Turks"
+  },
+  {
+    "query": "Where did The Hat Squad debut?",
+    "answer": " CBS",
+    "sub": "The Hat Squad"
+  },
+  {
+    "query": "Where did The Jim Henson Hour debut?",
+    "answer": " NBC",
+    "sub": "The Jim Henson Hour"
+  },
+  {
+    "query": "Where did The Big Surprise debut?",
+    "answer": " NBC",
+    "sub": "The Big Surprise"
+  },
+  {
+    "query": "Where did Sunday NFL Countdown debut?",
+    "answer": " ESPN",
+    "sub": "Sunday NFL Countdown"
+  },
+  {
+    "query": "Where did The Dick Van Dyke Show debut?",
+    "answer": " CBS",
+    "sub": "The Dick Van Dyke Show"
+  },
+  {
+    "query": "Where did Eye Guess debut?",
+    "answer": " NBC",
+    "sub": "Eye Guess"
+  },
+  {
+    "query": "Where did Greatest American Dog debut?",
+    "answer": " CBS",
+    "sub": "Greatest American Dog"
+  },
+  {
+    "query": "Where did Disaster Date debut?",
+    "answer": " MTV",
+    "sub": "Disaster Date"
+  },
+  {
+    "query": "Where did Ensign O'Toole debut?",
+    "answer": " NBC",
+    "sub": "Ensign O'Toole"
+  },
+  {
+    "query": "Where did Tennessee Tuxedo and His Tales debut?",
+    "answer": " CBS",
+    "sub": "Tennessee Tuxedo and His Tales"
+  },
+  {
+    "query": "Where did The Dennis O'Keefe Show debut?",
+    "answer": " CBS",
+    "sub": "The Dennis O'Keefe Show"
+  },
+  {
+    "query": "Where did Dennis Miller Live debut?",
+    "answer": " HBO",
+    "sub": "Dennis Miller Live"
+  },
+  {
+    "query": "Where did The Last Precinct debut?",
+    "answer": " NBC",
+    "sub": "The Last Precinct"
+  },
+  {
+    "query": "Where did Courting Alex debut?",
+    "answer": " CBS",
+    "sub": "Courting Alex"
+  },
+  {
+    "query": "Where did Rock the Cradle debut?",
+    "answer": " MTV",
+    "sub": "Rock the Cradle"
+  },
+  {
+    "query": "Where did The Honeymooners debut?",
+    "answer": " CBS",
+    "sub": "The Honeymooners"
+  },
+  {
+    "query": "Where did Real People debut?",
+    "answer": " NBC",
+    "sub": "Real People"
+  },
+  {
+    "query": "Where did My Drunk Kitchen debut?",
+    "answer": " YouTube",
+    "sub": "My Drunk Kitchen"
+  },
+  {
+    "query": "Where did CBS Television Quiz debut?",
+    "answer": " CBS",
+    "sub": "CBS Television Quiz"
+  },
+  {
+    "query": "Where did Dotto debut?",
+    "answer": " CBS",
+    "sub": "Dotto"
+  },
+  {
+    "query": "Where did Capital Gang debut?",
+    "answer": " CNN",
+    "sub": "Capital Gang"
+  },
+  {
+    "query": "Where did A Very Brady Christmas debut?",
+    "answer": " CBS",
+    "sub": "A Very Brady Christmas"
+  },
+  {
+    "query": "Where did Baby Bob debut?",
+    "answer": " CBS",
+    "sub": "Baby Bob"
+  },
+  {
+    "query": "Where did Night Gallery debut?",
+    "answer": " NBC",
+    "sub": "Night Gallery"
+  },
+  {
+    "query": "Where did Valemont debut?",
+    "answer": " MTV",
+    "sub": "Valemont"
+  },
+  {
+    "query": "Where did The Martha Raye Show debut?",
+    "answer": " NBC",
+    "sub": "The Martha Raye Show"
+  },
+  {
+    "query": "Where did College Football Live debut?",
+    "answer": " ESPN",
+    "sub": "College Football Live"
+  },
+  {
+    "query": "Where did The Gregory Hines Show debut?",
+    "answer": " CBS",
+    "sub": "The Gregory Hines Show"
+  },
+  {
+    "query": "Where did The NBC Monday Movie debut?",
+    "answer": " NBC",
+    "sub": "The NBC Monday Movie"
+  },
+  {
+    "query": "Where did Life debut?",
+    "answer": " NBC",
+    "sub": "Life"
+  },
+  {
+    "query": "Where did Beggar My Neighbour debut?",
+    "answer": " BBC",
+    "sub": "Beggar My Neighbour"
+  },
+  {
+    "query": "Where did Planet Forward debut?",
+    "answer": " PBS",
+    "sub": "Planet Forward"
+  },
+  {
+    "query": "Where did CHiPs debut?",
+    "answer": " NBC",
+    "sub": "CHiPs"
+  },
+  {
+    "query": "Where did The Second Civil War debut?",
+    "answer": " HBO",
+    "sub": "The Second Civil War"
+  },
+  {
+    "query": "Where did Down You Go debut?",
+    "answer": " NBC",
+    "sub": "Down You Go"
+  },
+  {
+    "query": "Where did Trollkins debut?",
+    "answer": " CBS",
+    "sub": "Trollkins"
+  },
+  {
+    "query": "Where did Hollywood Game Night debut?",
+    "answer": " NBC",
+    "sub": "Hollywood Game Night"
+  },
+  {
+    "query": "Where did The Gangster Chronicles debut?",
+    "answer": " NBC",
+    "sub": "The Gangster Chronicles"
+  },
+  {
+    "query": "Where did The Smurfs debut?",
+    "answer": " NBC",
+    "sub": "The Smurfs"
+  },
+  {
+    "query": "Where did Brand New Life debut?",
+    "answer": " NBC",
+    "sub": "Brand New Life"
+  },
+  {
+    "query": "Where did My Sister Sam debut?",
+    "answer": " CBS",
+    "sub": "My Sister Sam"
+  },
+  {
+    "query": "Where did The Octonauts debut?",
+    "answer": " BBC",
+    "sub": "The Octonauts"
+  },
+  {
+    "query": "Where did Alfred Hitchcock Presents debut?",
+    "answer": " CBS",
+    "sub": "Alfred Hitchcock Presents"
+  },
+  {
+    "query": "Where did Weekend Today debut?",
+    "answer": " NBC",
+    "sub": "Weekend Today"
+  },
+  {
+    "query": "Where did Bagpuss debut?",
+    "answer": " BBC",
+    "sub": "Bagpuss"
+  },
+  {
+    "query": "Where did Something Wilder debut?",
+    "answer": " NBC",
+    "sub": "Something Wilder"
+  },
+  {
+    "query": "Where did Valiant Lady debut?",
+    "answer": " CBS",
+    "sub": "Valiant Lady"
+  },
+  {
+    "query": "Where did Drop Dead Diva debut?",
+    "answer": " Lifetime",
+    "sub": "Drop Dead Diva"
+  },
+  {
+    "query": "Where did 30 Rock debut?",
+    "answer": " NBC",
+    "sub": "30 Rock"
+  },
+  {
+    "query": "Where did She Spies debut?",
+    "answer": " NBC",
+    "sub": "She Spies"
+  },
+  {
+    "query": "Where did Bubble Guppies debut?",
+    "answer": " Nickelodeon",
+    "sub": "Bubble Guppies"
+  },
+  {
+    "query": "Where did The Mentalist debut?",
+    "answer": " CBS",
+    "sub": "The Mentalist"
+  },
+  {
+    "query": "Where did Reasonable Doubts debut?",
+    "answer": " NBC",
+    "sub": "Reasonable Doubts"
+  },
+  {
+    "query": "Where did Nick Arcade debut?",
+    "answer": " Nickelodeon",
+    "sub": "Nick Arcade"
+  },
+  {
+    "query": "Where did Shazzan debut?",
+    "answer": " CBS",
+    "sub": "Shazzan"
+  },
+  {
+    "query": "Where did Signing Time! debut?",
+    "answer": " PBS",
+    "sub": "Signing Time!"
+  },
+  {
+    "query": "Where did Square One Television debut?",
+    "answer": " PBS",
+    "sub": "Square One Television"
+  },
+  {
+    "query": "Where did Washington Week debut?",
+    "answer": " PBS",
+    "sub": "Washington Week"
+  },
+  {
+    "query": "Where did Big Time Rush debut?",
+    "answer": " Nickelodeon",
+    "sub": "Big Time Rush"
+  },
+  {
+    "query": "Where did Ancient Aliens debut?",
+    "answer": " History",
+    "sub": "Ancient Aliens"
+  },
+  {
+    "query": "Where did Girl Code debut?",
+    "answer": " MTV",
+    "sub": "Girl Code"
+  },
+  {
+    "query": "Where did The CollegeHumor Show debut?",
+    "answer": " MTV",
+    "sub": "The CollegeHumor Show"
+  },
+  {
+    "query": "Where did The Glen Campbell Goodtime Hour debut?",
+    "answer": " CBS",
+    "sub": "The Glen Campbell Goodtime Hour"
+  },
+  {
+    "query": "Where did The First Easter Rabbit debut?",
+    "answer": " NBC",
+    "sub": "The First Easter Rabbit"
+  },
+  {
+    "query": "Where did Roll Out debut?",
+    "answer": " CBS",
+    "sub": "Roll Out"
+  },
+  {
+    "query": "Where did History Detectives debut?",
+    "answer": " PBS",
+    "sub": "History Detectives"
+  },
+  {
+    "query": "Where did Go Go Gophers debut?",
+    "answer": " CBS",
+    "sub": "Go Go Gophers"
+  },
+  {
+    "query": "Where did Agatha Christie's Marple debut?",
+    "answer": " ITV",
+    "sub": "Agatha Christie's Marple"
+  },
+  {
+    "query": "Where did Bare Essence debut?",
+    "answer": " NBC",
+    "sub": "Bare Essence"
+  },
+  {
+    "query": "Where did Turbo FAST debut?",
+    "answer": " Netflix",
+    "sub": "Turbo FAST"
+  },
+  {
+    "query": "Where did Wish Kid debut?",
+    "answer": " NBC",
+    "sub": "Wish Kid"
+  },
+  {
+    "query": "Where did Shirley Temple's Storybook debut?",
+    "answer": " NBC",
+    "sub": "Shirley Temple's Storybook"
+  },
+  {
+    "query": "Where did Around the Horn debut?",
+    "answer": " ESPN",
+    "sub": "Around the Horn"
+  },
+  {
+    "query": "Where did Alfred Hitchcock Presents debut?",
+    "answer": " NBC",
+    "sub": "Alfred Hitchcock Presents"
+  },
+  {
+    "query": "Where did The Osbournes debut?",
+    "answer": " MTV",
+    "sub": "The Osbournes"
+  },
+  {
+    "query": "Where did Soapstar Superstar debut?",
+    "answer": " ITV",
+    "sub": "Soapstar Superstar"
+  },
+  {
+    "query": "Where did Press Your Luck debut?",
+    "answer": " CBS",
+    "sub": "Press Your Luck"
+  },
+  {
+    "query": "Where did Twenty Good Years debut?",
+    "answer": " NBC",
+    "sub": "Twenty Good Years"
+  },
+  {
+    "query": "Where did Adam Adamant Lives! debut?",
+    "answer": " BBC",
+    "sub": "Adam Adamant Lives!"
+  },
+  {
+    "query": "Where did The Loner debut?",
+    "answer": " CBS",
+    "sub": "The Loner"
+  },
+  {
+    "query": "Where did Silicon Valley debut?",
+    "answer": " HBO",
+    "sub": "Silicon Valley"
+  },
+  {
+    "query": "Where did Power Rangers Megaforce debut?",
+    "answer": " Nickelodeon",
+    "sub": "Power Rangers Megaforce"
+  },
+  {
+    "query": "Where did ProStars debut?",
+    "answer": " NBC",
+    "sub": "ProStars"
+  },
+  {
+    "query": "Where did The Andy Milonakis Show debut?",
+    "answer": " MTV",
+    "sub": "The Andy Milonakis Show"
+  },
+  {
+    "query": "Where did The Million Second Quiz debut?",
+    "answer": " NBC",
+    "sub": "The Million Second Quiz"
+  },
+  {
+    "query": "Where did Taxicab Confessions debut?",
+    "answer": " HBO",
+    "sub": "Taxicab Confessions"
+  },
+  {
+    "query": "Where did Crime & Punishment debut?",
+    "answer": " NBC",
+    "sub": "Crime & Punishment"
+  },
+  {
+    "query": "Where did Secret Squirrel debut?",
+    "answer": " NBC",
+    "sub": "Secret Squirrel"
+  },
+  {
+    "query": "Where did Running Mates debut?",
+    "answer": " TNT",
+    "sub": "Running Mates"
+  },
+  {
+    "query": "Where did CBS Schoolbreak Special debut?",
+    "answer": " CBS",
+    "sub": "CBS Schoolbreak Special"
+  },
+  {
+    "query": "Where did Whew! debut?",
+    "answer": " CBS",
+    "sub": "Whew!"
+  },
+  {
+    "query": "Where did Brave Eagle debut?",
+    "answer": " CBS",
+    "sub": "Brave Eagle"
+  },
+  {
+    "query": "Where did CBS This Morning debut?",
+    "answer": " CBS",
+    "sub": "CBS This Morning"
+  },
+  {
+    "query": "Where did M Squad debut?",
+    "answer": " NBC",
+    "sub": "M Squad"
+  },
+  {
+    "query": "Where did Hill Street Blues debut?",
+    "answer": " NBC",
+    "sub": "Hill Street Blues"
+  },
+  {
+    "query": "Where did Six-Five Special debut?",
+    "answer": " BBC",
+    "sub": "Six-Five Special"
+  },
+  {
+    "query": "Where did Fashion Star debut?",
+    "answer": " NBC",
+    "sub": "Fashion Star"
+  },
+  {
+    "query": "Where did CBS Sports Spectacular debut?",
+    "answer": " CBS",
+    "sub": "CBS Sports Spectacular"
+  },
+  {
+    "query": "Where did NBA Shootaround debut?",
+    "answer": " ESPN",
+    "sub": "NBA Shootaround"
+  },
+  {
+    "query": "Where did The Bob Newhart Show debut?",
+    "answer": " CBS",
+    "sub": "The Bob Newhart Show"
+  },
+  {
+    "query": "Where did True Jackson debut?",
+    "answer": " Nickelodeon",
+    "sub": "True Jackson"
+  },
+  {
+    "query": "Where did MMA Live debut?",
+    "answer": " ESPN",
+    "sub": "MMA Live"
+  },
+  {
+    "query": "Where did Power Rangers Samurai debut?",
+    "answer": " Nickelodeon",
+    "sub": "Power Rangers Samurai"
+  },
+  {
+    "query": "Where did The Range Rider debut?",
+    "answer": " CBS",
+    "sub": "The Range Rider"
+  },
+  {
+    "query": "Where did 3 South debut?",
+    "answer": " MTV",
+    "sub": "3 South"
+  },
+  {
+    "query": "Where did Beg, Borrow & Deal debut?",
+    "answer": " ESPN",
+    "sub": "Beg, Borrow & Deal"
+  },
+  {
+    "query": "Where did Headbangers Ball debut?",
+    "answer": " MTV",
+    "sub": "Headbangers Ball"
+  },
+  {
+    "query": "Where did Friday Night Videos debut?",
+    "answer": " NBC",
+    "sub": "Friday Night Videos"
+  },
+  {
+    "query": "Where did Finding Your Roots with Henry Louis Gates, Jr. debut?",
+    "answer": " PBS",
+    "sub": "Finding Your Roots with Henry Louis Gates, Jr."
+  },
+  {
+    "query": "Where did Celebrity Deathmatch debut?",
+    "answer": " MTV",
+    "sub": "Celebrity Deathmatch"
+  },
+  {
+    "query": "Where did Show Me a Hero debut?",
+    "answer": " HBO",
+    "sub": "Show Me a Hero"
+  },
+  {
+    "query": "Where did The Tonight Show Starring Johnny Carson debut?",
+    "answer": " NBC",
+    "sub": "The Tonight Show Starring Johnny Carson"
+  },
+  {
+    "query": "Where did Teen Mom 2 debut?",
+    "answer": " MTV",
+    "sub": "Teen Mom 2"
+  },
+  {
+    "query": "Where did College Football Scoreboard debut?",
+    "answer": " ESPN",
+    "sub": "College Football Scoreboard"
+  },
+  {
+    "query": "Where did The Flintstone Comedy Hour debut?",
+    "answer": " CBS",
+    "sub": "The Flintstone Comedy Hour"
+  },
+  {
+    "query": "Where did Gogs debut?",
+    "answer": " BBC",
+    "sub": "Gogs"
+  },
+  {
+    "query": "Where did Tales of Wells Fargo debut?",
+    "answer": " NBC",
+    "sub": "Tales of Wells Fargo"
+  },
+  {
+    "query": "Where did 100 Questions debut?",
+    "answer": " NBC",
+    "sub": "100 Questions"
+  },
+  {
+    "query": "Where did 16 and Pregnant debut?",
+    "answer": " MTV",
+    "sub": "16 and Pregnant"
+  },
+  {
+    "query": "Where did Supah Ninjas debut?",
+    "answer": " Nickelodeon",
+    "sub": "Supah Ninjas"
+  },
+  {
+    "query": "Where did Pirate Master debut?",
+    "answer": " CBS",
+    "sub": "Pirate Master"
+  },
+  {
+    "query": "Where did NCIS: Los Angeles debut?",
+    "answer": " CBS",
+    "sub": "NCIS: Los Angeles"
+  },
+  {
+    "query": "Where did The Mommies debut?",
+    "answer": " NBC",
+    "sub": "The Mommies"
+  },
+  {
+    "query": "Where did Zoo Quest debut?",
+    "answer": " BBC",
+    "sub": "Zoo Quest"
+  },
+  {
+    "query": "Where did The Nightmare Man debut?",
+    "answer": " BBC",
+    "sub": "The Nightmare Man"
+  },
+  {
+    "query": "Where did SeaQuest DSV debut?",
+    "answer": " NBC",
+    "sub": "SeaQuest DSV"
+  },
+  {
+    "query": "Where did Just Jordan debut?",
+    "answer": " Nickelodeon",
+    "sub": "Just Jordan"
+  },
+  {
+    "query": "Where did KaBlam! debut?",
+    "answer": " Nickelodeon",
+    "sub": "KaBlam!"
+  },
+  {
+    "query": "Where did Daktari debut?",
+    "answer": " CBS",
+    "sub": "Daktari"
+  },
+  {
+    "query": "Where did Alcoa Theatre debut?",
+    "answer": " NBC",
+    "sub": "Alcoa Theatre"
+  },
+  {
+    "query": "Where did 2 Minute Drill debut?",
+    "answer": " ESPN",
+    "sub": "2 Minute Drill"
+  },
+  {
+    "query": "Where did The Ray Bradbury Theater debut?",
+    "answer": " HBO",
+    "sub": "The Ray Bradbury Theater"
+  },
+  {
+    "query": "Where did The Muppets Celebrate Jim Henson debut?",
+    "answer": " CBS",
+    "sub": "The Muppets Celebrate Jim Henson"
+  },
+  {
+    "query": "Where did Good Morning World debut?",
+    "answer": " CBS",
+    "sub": "Good Morning World"
+  },
+  {
+    "query": "Where did The Really Wild Show debut?",
+    "answer": " BBC",
+    "sub": "The Really Wild Show"
+  },
+  {
+    "query": "Where did Queens Supreme debut?",
+    "answer": " CBS",
+    "sub": "Queens Supreme"
+  },
+  {
+    "query": "Where did The Playboy Club debut?",
+    "answer": " NBC",
+    "sub": "The Playboy Club"
+  },
+  {
+    "query": "Where did Henry Danger debut?",
+    "answer": " Nickelodeon",
+    "sub": "Henry Danger"
+  },
+  {
+    "query": "Where did The 20th Century Fox Hour debut?",
+    "answer": " CBS",
+    "sub": "The 20th Century Fox Hour"
+  },
+  {
+    "query": "Where did Gambit debut?",
+    "answer": " CBS",
+    "sub": "Gambit"
+  },
+  {
+    "query": "Where did House of Anubis debut?",
+    "answer": " Nickelodeon",
+    "sub": "House of Anubis"
+  },
+  {
+    "query": "Where did CatDog debut?",
+    "answer": " Nickelodeon",
+    "sub": "CatDog"
+  },
+  {
+    "query": "Where did Weird U.S. debut?",
+    "answer": " History",
+    "sub": "Weird U.S."
+  },
+  {
+    "query": "Where did Wrestling Society X debut?",
+    "answer": " MTV",
+    "sub": "Wrestling Society X"
+  },
+  {
+    "query": "Where did Yes Minister debut?",
+    "answer": " BBC",
+    "sub": "Yes Minister"
+  }
+]

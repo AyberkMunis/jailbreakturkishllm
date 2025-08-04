@@ -1,0 +1,1807 @@
+[
+  {
+    "query": "Alan Turing'in çalışma alanı ",
+    "answer": "mantık",
+    "sub": "Alan Turing"
+  },
+  {
+    "query": "John Vincent Atanasoff'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "John Vincent Atanasoff"
+  },
+  {
+    "query": "Edward Burnett Tylor'in çalışma alanı ",
+    "answer": "antropoloji",
+    "sub": "Edward Burnett Tylor"
+  },
+  {
+    "query": "Anaksagoras'in çalışma alanı ",
+    "answer": "felsefe",
+    "sub": "Anaksagoras"
+  },
+  {
+    "query": "Robert Bunsen'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Robert Bunsen"
+  },
+  {
+    "query": "Adam Carolla'in çalışma alanı ",
+    "answer": "komedyen",
+    "sub": "Adam Carolla"
+  },
+  {
+    "query": "Benjamin Lee Whorf'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Benjamin Lee Whorf"
+  },
+  {
+    "query": "Edward Sapir'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Edward Sapir"
+  },
+  {
+    "query": "Bruce Perens'in çalışma alanı ",
+    "answer": "bilgisayar programcılığı",
+    "sub": "Bruce Perens"
+  },
+  {
+    "query": "Charles Kay Ogden'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Charles Kay Ogden"
+  },
+  {
+    "query": "",
+    "answer": "Mağara",
+    "sub": "Mağara bilimi"
+  },
+  {
+    "query": "Jean Calvin'in çalışma alanı ",
+    "answer": "teoloji",
+    "sub": "Jean Calvin"
+  },
+  {
+    "query": "Charles Proteus Steinmetz'in çalışma alanı ",
+    "answer": "matematikçi",
+    "sub": "Charles Proteus Steinmetz"
+  },
+  {
+    "query": "",
+    "answer": "fizik",
+    "sub": "fiziksel sistem"
+  },
+  {
+    "query": "Carl Rogers'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Carl Rogers"
+  },
+  {
+    "query": "Charles F. Hockett'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Charles F. Hockett"
+  },
+  {
+    "query": "David Hilbert'in çalışma alanı ",
+    "answer": "geometri",
+    "sub": "David Hilbert"
+  },
+  {
+    "query": "Richard Wagner'in çalışma alanı ",
+    "answer": "Opera",
+    "sub": "Richard Wagner"
+  },
+  {
+    "query": "Öklid'in çalışma alanı ",
+    "answer": "geometri",
+    "sub": "Öklid"
+  },
+  {
+    "query": "Max Weber'in çalışma alanı ",
+    "answer": "toplum bilimi",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "Hans Eysenck'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Hans Eysenck"
+  },
+  {
+    "query": "Eugene Wigner'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Eugene Wigner"
+  },
+  {
+    "query": "Felix Hausdorff'in çalışma alanı ",
+    "answer": "Topoloji",
+    "sub": "Felix Hausdorff"
+  },
+  {
+    "query": "Fred Hoyle'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Fred Hoyle"
+  },
+  {
+    "query": "Galen'in çalışma alanı ",
+    "answer": "anatomi",
+    "sub": "Galen"
+  },
+  {
+    "query": "William Harvey'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "William Harvey"
+  },
+  {
+    "query": "Joseph Campbell'in çalışma alanı ",
+    "answer": "mitoloji",
+    "sub": "Joseph Campbell"
+  },
+  {
+    "query": "",
+    "answer": "LGBT",
+    "sub": "LGBT sosyal hareketleri"
+  },
+  {
+    "query": "Howard Carter'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "Howard Carter"
+  },
+  {
+    "query": "Heinrich Schliemann'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "Heinrich Schliemann"
+  },
+  {
+    "query": "Claude Bernard'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "Claude Bernard"
+  },
+  {
+    "query": "Isaac Newton'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "Justus von Liebig'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Justus von Liebig"
+  },
+  {
+    "query": "John James Rickard Macleod'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "John James Rickard Macleod"
+  },
+  {
+    "query": "Frederick Banting'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "Frederick Banting"
+  },
+  {
+    "query": "Karl Marx'in çalışma alanı ",
+    "answer": "toplum bilimi",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "İstihbarat teşkilatı'in çalışma alanı ",
+    "answer": "Casusluk",
+    "sub": "İstihbarat teşkilatı"
+  },
+  {
+    "query": "Hans Bethe'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Hans Bethe"
+  },
+  {
+    "query": "Jack Ruby'in çalışma alanı ",
+    "answer": "Gece kulübü",
+    "sub": "Jack Ruby"
+  },
+  {
+    "query": "Arthur Evans'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "Arthur Evans"
+  },
+  {
+    "query": "Leonard Bloomfield'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Leonard Bloomfield"
+  },
+  {
+    "query": "Uluslararası Virüs Taksonomisi Komitesi'in çalışma alanı ",
+    "answer": "virüs",
+    "sub": "Uluslararası Virüs Taksonomisi Komitesi"
+  },
+  {
+    "query": "Percy Williams Bridgman'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Percy Williams Bridgman"
+  },
+  {
+    "query": "Gerolamo Cardano'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Gerolamo Cardano"
+  },
+  {
+    "query": "Max Weber'in çalışma alanı ",
+    "answer": "iktisat",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "Michael Faraday'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Michael Faraday"
+  },
+  {
+    "query": "ornitoloji'in çalışma alanı ",
+    "answer": "kuş",
+    "sub": "ornitoloji"
+  },
+  {
+    "query": "Bonaventura Cavalieri'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Bonaventura Cavalieri"
+  },
+  {
+    "query": "Galileo Galilei'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "İskenderiyeli Hypatia'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "İskenderiyeli Hypatia"
+  },
+  {
+    "query": "Miguel Servet'in çalışma alanı ",
+    "answer": "teoloji",
+    "sub": "Miguel Servet"
+  },
+  {
+    "query": "James Mellaart'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "James Mellaart"
+  },
+  {
+    "query": "Johan Vilhelm Snellman'in çalışma alanı ",
+    "answer": "Fince",
+    "sub": "Johan Vilhelm Snellman"
+  },
+  {
+    "query": "Edwin Hubble'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Edwin Hubble"
+  },
+  {
+    "query": "Otto Struve'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Otto Struve"
+  },
+  {
+    "query": "John Lubbock'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "John Lubbock"
+  },
+  {
+    "query": "Isaac Newton'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "Ilya Prigogine'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Ilya Prigogine"
+  },
+  {
+    "query": "Franz Boas'in çalışma alanı ",
+    "answer": "antropoloji",
+    "sub": "Franz Boas"
+  },
+  {
+    "query": "Roman Jakobson'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Roman Jakobson"
+  },
+  {
+    "query": "Sapir-Whorf hipotezi'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Sapir-Whorf hipotezi"
+  },
+  {
+    "query": "",
+    "answer": "bilim",
+    "sub": "bilimsel yöntem"
+  },
+  {
+    "query": "William Crookes'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "William Crookes"
+  },
+  {
+    "query": "Stephen Jay Gould'in çalışma alanı ",
+    "answer": "evrim",
+    "sub": "Stephen Jay Gould"
+  },
+  {
+    "query": "Steve Biko'in çalışma alanı ",
+    "answer": "apartheid",
+    "sub": "Steve Biko"
+  },
+  {
+    "query": "Solomon Schechter'in çalışma alanı ",
+    "answer": "İbranice",
+    "sub": "Solomon Schechter"
+  },
+  {
+    "query": "Charles Darwin'in çalışma alanı ",
+    "answer": "biyoloji",
+    "sub": "Charles Darwin"
+  },
+  {
+    "query": "Tycho Brahe'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Tycho Brahe"
+  },
+  {
+    "query": "John Stuart Mill'in çalışma alanı ",
+    "answer": "felsefe",
+    "sub": "John Stuart Mill"
+  },
+  {
+    "query": "Alan Turing'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Alan Turing"
+  },
+  {
+    "query": "Vilfredo Pareto'in çalışma alanı ",
+    "answer": "toplum bilimi",
+    "sub": "Vilfredo Pareto"
+  },
+  {
+    "query": "W. Somerset Maugham'in çalışma alanı ",
+    "answer": "oyun yazarı",
+    "sub": "W. Somerset Maugham"
+  },
+  {
+    "query": "W. Somerset Maugham'in çalışma alanı ",
+    "answer": "roman yazarı",
+    "sub": "W. Somerset Maugham"
+  },
+  {
+    "query": "Alexandre Darracq'in çalışma alanı ",
+    "answer": "otomobil",
+    "sub": "Alexandre Darracq"
+  },
+  {
+    "query": "Enrico Fermi'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Enrico Fermi"
+  },
+  {
+    "query": "Giovanni Domenico Cassini'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Giovanni Domenico Cassini"
+  },
+  {
+    "query": "Roger Penrose'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Roger Penrose"
+  },
+  {
+    "query": "Raymond Smullyan'in çalışma alanı ",
+    "answer": "mantık",
+    "sub": "Raymond Smullyan"
+  },
+  {
+    "query": "Norman McLaren'in çalışma alanı ",
+    "answer": "animasyon",
+    "sub": "Norman McLaren"
+  },
+  {
+    "query": "Johann Wolfgang von Goethe'in çalışma alanı ",
+    "answer": "anatomi",
+    "sub": "Johann Wolfgang von Goethe"
+  },
+  {
+    "query": "Paracelsus'in çalışma alanı ",
+    "answer": "tıp",
+    "sub": "Paracelsus"
+  },
+  {
+    "query": "John Coltrane'in çalışma alanı ",
+    "answer": "Caz",
+    "sub": "John Coltrane"
+  },
+  {
+    "query": "Hermann von Helmholtz'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "Hava trafik kontrol'in çalışma alanı ",
+    "answer": "havacılık",
+    "sub": "Hava trafik kontrol"
+  },
+  {
+    "query": "gramer kategorisi'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "gramer kategorisi"
+  },
+  {
+    "query": "Galen'in çalışma alanı ",
+    "answer": "tıp",
+    "sub": "Galen"
+  },
+  {
+    "query": "Akira Toriyama'in çalışma alanı ",
+    "answer": "Manga",
+    "sub": "Akira Toriyama"
+  },
+  {
+    "query": "Robert Koldewey'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "Robert Koldewey"
+  },
+  {
+    "query": "Abraham Maslow'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Abraham Maslow"
+  },
+  {
+    "query": "Edward Frankland'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Edward Frankland"
+  },
+  {
+    "query": "Louis Pasteur'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Louis Pasteur"
+  },
+  {
+    "query": "Henry Cavendish'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Henry Cavendish"
+  },
+  {
+    "query": "Edward Thorndike'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Edward Thorndike"
+  },
+  {
+    "query": "Peter von Uslar'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Peter von Uslar"
+  },
+  {
+    "query": "Karl Marx'in çalışma alanı ",
+    "answer": "iktisat",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "Robert N. Bellah'in çalışma alanı ",
+    "answer": "toplum bilimi",
+    "sub": "Robert N. Bellah"
+  },
+  {
+    "query": "Ulf von Euler'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "Ulf von Euler"
+  },
+  {
+    "query": "Carl Menger'in çalışma alanı ",
+    "answer": "iktisat",
+    "sub": "Carl Menger"
+  },
+  {
+    "query": "Alexander Cunningham'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "Alexander Cunningham"
+  },
+  {
+    "query": "Galileo Galilei'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "Pomponius Mela'in çalışma alanı ",
+    "answer": "coğrafya",
+    "sub": "Pomponius Mela"
+  },
+  {
+    "query": "Nikolay İvanoviç Lobaçevski'in çalışma alanı ",
+    "answer": "geometri",
+    "sub": "Nikolay İvanoviç Lobaçevski"
+  },
+  {
+    "query": "Christiaan Huygens'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Christiaan Huygens"
+  },
+  {
+    "query": "Abram İoffe'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Abram İoffe"
+  },
+  {
+    "query": "Amerika Birleşik Devletleri Balık ve Vahşi Yaşam Servisi'in çalışma alanı ",
+    "answer": "habitat",
+    "sub": "Amerika Birleşik Devletleri Balık ve Vahşi Yaşam Servisi"
+  },
+  {
+    "query": "Web uygulaması'in çalışma alanı ",
+    "answer": "web sitesi",
+    "sub": "Web uygulaması"
+  },
+  {
+    "query": "Nagarjuna'in çalışma alanı ",
+    "answer": "Budizm",
+    "sub": "Nagarjuna"
+  },
+  {
+    "query": "Ludwig von Mises'in çalışma alanı ",
+    "answer": "iktisat",
+    "sub": "Ludwig von Mises"
+  },
+  {
+    "query": "William Rowan Hamilton'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "William Rowan Hamilton"
+  },
+  {
+    "query": "Ernest Rutherford'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Ernest Rutherford"
+  },
+  {
+    "query": "William Herschel'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "William Herschel"
+  },
+  {
+    "query": "Nikolay Bogolyubov'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Nikolay Bogolyubov"
+  },
+  {
+    "query": "İvan Pavlov'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "İvan Pavlov"
+  },
+  {
+    "query": "Zahi Hawass'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "Zahi Hawass"
+  },
+  {
+    "query": "Halford John Mackinder'in çalışma alanı ",
+    "answer": "coğrafya",
+    "sub": "Halford John Mackinder"
+  },
+  {
+    "query": "Chen Shou'in çalışma alanı ",
+    "answer": "tarih",
+    "sub": "Chen Shou"
+  },
+  {
+    "query": "Hermann Minkowski'in çalışma alanı ",
+    "answer": "geometri",
+    "sub": "Hermann Minkowski"
+  },
+  {
+    "query": "Johann Weyer'in çalışma alanı ",
+    "answer": "doktor",
+    "sub": "Johann Weyer"
+  },
+  {
+    "query": "Galileo Galilei'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "Julian Schwinger'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Julian Schwinger"
+  },
+  {
+    "query": "Ulrich Beck'in çalışma alanı ",
+    "answer": "toplum bilimi",
+    "sub": "Ulrich Beck"
+  },
+  {
+    "query": "Devrimci Rusya Sanatçılar Derneği'in çalışma alanı ",
+    "answer": "sanat",
+    "sub": "Devrimci Rusya Sanatçılar Derneği"
+  },
+  {
+    "query": "Frederick Ashton'in çalışma alanı ",
+    "answer": "bale",
+    "sub": "Frederick Ashton"
+  },
+  {
+    "query": "Liutprando di Cremona'in çalışma alanı ",
+    "answer": "diplomat",
+    "sub": "Liutprando di Cremona"
+  },
+  {
+    "query": "İntihar saldırısı'in çalışma alanı ",
+    "answer": "terörizm",
+    "sub": "İntihar saldırısı"
+  },
+  {
+    "query": "Albrecht Kossel'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "Albrecht Kossel"
+  },
+  {
+    "query": "Lev Vıgotskiy'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Lev Vıgotskiy"
+  },
+  {
+    "query": "Karl Marx'in çalışma alanı ",
+    "answer": "felsefe",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "Friedrich Wilhelm Bessel'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Friedrich Wilhelm Bessel"
+  },
+  {
+    "query": "G. Stanley Hall'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "G. Stanley Hall"
+  },
+  {
+    "query": "Herbert A. Hauptman'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Herbert A. Hauptman"
+  },
+  {
+    "query": "Joseph Alois Schumpeter'in çalışma alanı ",
+    "answer": "iktisat",
+    "sub": "Joseph Alois Schumpeter"
+  },
+  {
+    "query": "Abdullah bin Selam'in çalışma alanı ",
+    "answer": "Yahudilik",
+    "sub": "Abdullah bin Selam"
+  },
+  {
+    "query": "Max Weber'in çalışma alanı ",
+    "answer": "tarih",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "Edward Gibbon'in çalışma alanı ",
+    "answer": "tarih",
+    "sub": "Edward Gibbon"
+  },
+  {
+    "query": "Struga Şiir Akşamları'in çalışma alanı ",
+    "answer": "şiir",
+    "sub": "Struga Şiir Akşamları"
+  },
+  {
+    "query": "Ernst Emil Herzfeld'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "Ernst Emil Herzfeld"
+  },
+  {
+    "query": "John Archibald Wheeler'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "John Archibald Wheeler"
+  },
+  {
+    "query": "Anita Borg'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Anita Borg"
+  },
+  {
+    "query": "Leonhard Euler'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Leonhard Euler"
+  },
+  {
+    "query": "Kindi'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Kindi"
+  },
+  {
+    "query": "August Krogh'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "August Krogh"
+  },
+  {
+    "query": "Hermann Ebbinghaus'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Hermann Ebbinghaus"
+  },
+  {
+    "query": "James Frazer'in çalışma alanı ",
+    "answer": "folklor",
+    "sub": "James Frazer"
+  },
+  {
+    "query": "Thomas Bartholin'in çalışma alanı ",
+    "answer": "tıp",
+    "sub": "Thomas Bartholin"
+  },
+  {
+    "query": "Kazimierz Kuratowski'in çalışma alanı ",
+    "answer": "Topoloji",
+    "sub": "Kazimierz Kuratowski"
+  },
+  {
+    "query": "Raoul Bott'in çalışma alanı ",
+    "answer": "geometri",
+    "sub": "Raoul Bott"
+  },
+  {
+    "query": "Samuel Linde'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Samuel Linde"
+  },
+  {
+    "query": "Alfred Kroeber'in çalışma alanı ",
+    "answer": "antropoloji",
+    "sub": "Alfred Kroeber"
+  },
+  {
+    "query": "Felix Bloch'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Felix Bloch"
+  },
+  {
+    "query": "Frederic Bartlett'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Frederic Bartlett"
+  },
+  {
+    "query": "Pierre Janet'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Pierre Janet"
+  },
+  {
+    "query": "Harrie Massey'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Harrie Massey"
+  },
+  {
+    "query": "Akaki Şanidze'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Akaki Şanidze"
+  },
+  {
+    "query": "Frederica De Laguna'in çalışma alanı ",
+    "answer": "antropoloji",
+    "sub": "Frederica De Laguna"
+  },
+  {
+    "query": "Anders Celsius'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Anders Celsius"
+  },
+  {
+    "query": "David Crystal'in çalışma alanı ",
+    "answer": "İngilizce",
+    "sub": "David Crystal"
+  },
+  {
+    "query": "Bert Sakmann'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "Bert Sakmann"
+  },
+  {
+    "query": "Marston Morse'in çalışma alanı ",
+    "answer": "Topoloji",
+    "sub": "Marston Morse"
+  },
+  {
+    "query": "Michio Kaku'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Michio Kaku"
+  },
+  {
+    "query": "Willem Einthoven'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "Willem Einthoven"
+  },
+  {
+    "query": "Joseph von Fraunhofer'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Joseph von Fraunhofer"
+  },
+  {
+    "query": "Siniçiro Tomonaga'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Siniçiro Tomonaga"
+  },
+  {
+    "query": "Jean-Martin Charcot'in çalışma alanı ",
+    "answer": "tıp",
+    "sub": "Jean-Martin Charcot"
+  },
+  {
+    "query": "Sydney Brenner'in çalışma alanı ",
+    "answer": "biyoloji",
+    "sub": "Sydney Brenner"
+  },
+  {
+    "query": "Hermann Schwarz'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Hermann Schwarz"
+  },
+  {
+    "query": "Johannes de Sacrobosco'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Johannes de Sacrobosco"
+  },
+  {
+    "query": "Erasmus Darwin'in çalışma alanı ",
+    "answer": "tıp",
+    "sub": "Erasmus Darwin"
+  },
+  {
+    "query": "Jean le Rond d'Alembert'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Jean le Rond d'Alembert"
+  },
+  {
+    "query": "Luca Pacioli'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Luca Pacioli"
+  },
+  {
+    "query": "Stephen Hales'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "Stephen Hales"
+  },
+  {
+    "query": "Vitaly L. Ginzburg'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Vitaly L. Ginzburg"
+  },
+  {
+    "query": "Arthur Leonard Schawlow'in çalışma alanı ",
+    "answer": "fizikçi",
+    "sub": "Arthur Leonard Schawlow"
+  },
+  {
+    "query": "Sima Qian'in çalışma alanı ",
+    "answer": "tarih",
+    "sub": "Sima Qian"
+  },
+  {
+    "query": "Av köpeği'in çalışma alanı ",
+    "answer": "avcılık",
+    "sub": "Av köpeği"
+  },
+  {
+    "query": "Paul Broca'in çalışma alanı ",
+    "answer": "anatomi",
+    "sub": "Paul Broca"
+  },
+  {
+    "query": "Ulisse Dini'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Ulisse Dini"
+  },
+  {
+    "query": "Marcel Mauss'in çalışma alanı ",
+    "answer": "toplum bilimi",
+    "sub": "Marcel Mauss"
+  },
+  {
+    "query": "Batlamyus'in çalışma alanı ",
+    "answer": "matematikçi",
+    "sub": "Batlamyus"
+  },
+  {
+    "query": "Isaac Barrow'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Isaac Barrow"
+  },
+  {
+    "query": "Sean M. Carroll'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Sean M. Carroll"
+  },
+  {
+    "query": "Jean Piaget'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Jean Piaget"
+  },
+  {
+    "query": "Stefan Banach'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Stefan Banach"
+  },
+  {
+    "query": "Henry Corbin'in çalışma alanı ",
+    "answer": "felsefe",
+    "sub": "Henry Corbin"
+  },
+  {
+    "query": "Thomas J. Watson'in çalışma alanı ",
+    "answer": "IBM",
+    "sub": "Thomas J. Watson"
+  },
+  {
+    "query": "Joseph Priestley'in çalışma alanı ",
+    "answer": "felsefe",
+    "sub": "Joseph Priestley"
+  },
+  {
+    "query": "Nikolaus Joseph von Jacquin'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Nikolaus Joseph von Jacquin"
+  },
+  {
+    "query": "Julius Lothar Meyer'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Julius Lothar Meyer"
+  },
+  {
+    "query": "Kurt Lewin'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Kurt Lewin"
+  },
+  {
+    "query": "Arnold Çikobava'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Arnold Çikobava"
+  },
+  {
+    "query": "James Clerk Maxwell'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "James Clerk Maxwell"
+  },
+  {
+    "query": "Elias James Corey'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Elias James Corey"
+  },
+  {
+    "query": "Alfred Marshall'in çalışma alanı ",
+    "answer": "iktisat",
+    "sub": "Alfred Marshall"
+  },
+  {
+    "query": "Nicolaus Copernicus'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Nicolaus Copernicus"
+  },
+  {
+    "query": "Eric Maskin'in çalışma alanı ",
+    "answer": "ekonomist",
+    "sub": "Eric Maskin"
+  },
+  {
+    "query": "Helen Fisher'in çalışma alanı ",
+    "answer": "antropoloji",
+    "sub": "Helen Fisher"
+  },
+  {
+    "query": "Jared Diamond'in çalışma alanı ",
+    "answer": "ekoloji",
+    "sub": "Jared Diamond"
+  },
+  {
+    "query": "Jeremiah Horrocks'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Jeremiah Horrocks"
+  },
+  {
+    "query": "Andrey Kolmogorov'in çalışma alanı ",
+    "answer": "geometri",
+    "sub": "Andrey Kolmogorov"
+  },
+  {
+    "query": "Joseph Louis Gay-Lussac'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Joseph Louis Gay-Lussac"
+  },
+  {
+    "query": "Oktan'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Oktan"
+  },
+  {
+    "query": "Spacewatch'in çalışma alanı ",
+    "answer": "Asteroit",
+    "sub": "Spacewatch"
+  },
+  {
+    "query": "Henri Brocard'in çalışma alanı ",
+    "answer": "geometri",
+    "sub": "Henri Brocard"
+  },
+  {
+    "query": "Daniel Bernoulli'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Daniel Bernoulli"
+  },
+  {
+    "query": "Physics-Uspekhi'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Physics-Uspekhi"
+  },
+  {
+    "query": "Julian Huxley'in çalışma alanı ",
+    "answer": "biyoloji",
+    "sub": "Julian Huxley"
+  },
+  {
+    "query": "Edward Bradford Titchener'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Edward Bradford Titchener"
+  },
+  {
+    "query": "Michael Faraday'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Michael Faraday"
+  },
+  {
+    "query": "Werner Sombart'in çalışma alanı ",
+    "answer": "toplum bilimi",
+    "sub": "Werner Sombart"
+  },
+  {
+    "query": "Otto Neurath'in çalışma alanı ",
+    "answer": "toplum bilimi",
+    "sub": "Otto Neurath"
+  },
+  {
+    "query": "Stephen Wolfram'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Stephen Wolfram"
+  },
+  {
+    "query": "Humphry Davy'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Humphry Davy"
+  },
+  {
+    "query": "El-Mesûdî'in çalışma alanı ",
+    "answer": "tarih",
+    "sub": "El-Mesûdî"
+  },
+  {
+    "query": "Henri Moissan'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Henri Moissan"
+  },
+  {
+    "query": "Heinz Hopf'in çalışma alanı ",
+    "answer": "Topoloji",
+    "sub": "Heinz Hopf"
+  },
+  {
+    "query": "Heinz Hopf'in çalışma alanı ",
+    "answer": "geometri",
+    "sub": "Heinz Hopf"
+  },
+  {
+    "query": "Pierre Curie'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Pierre Curie"
+  },
+  {
+    "query": "Isaac Barrow'in çalışma alanı ",
+    "answer": "teoloji",
+    "sub": "Isaac Barrow"
+  },
+  {
+    "query": "Gustav Robert Kirchoff'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Gustav Robert Kirchoff"
+  },
+  {
+    "query": "Norbert Wiener'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Norbert Wiener"
+  },
+  {
+    "query": "Steven Weinberg'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Steven Weinberg"
+  },
+  {
+    "query": "Hıraçya Acaryan'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Hıraçya Acaryan"
+  },
+  {
+    "query": "Carl Ritter'in çalışma alanı ",
+    "answer": "coğrafya",
+    "sub": "Carl Ritter"
+  },
+  {
+    "query": "Urbain Le Verrier'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Urbain Le Verrier"
+  },
+  {
+    "query": "Ian Hodder'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "Ian Hodder"
+  },
+  {
+    "query": "Johan Huizinga'in çalışma alanı ",
+    "answer": "tarih",
+    "sub": "Johan Huizinga"
+  },
+  {
+    "query": "Eugenius Warming'in çalışma alanı ",
+    "answer": "biyoloji",
+    "sub": "Eugenius Warming"
+  },
+  {
+    "query": "İlk Dönem Flaman Resmi'in çalışma alanı ",
+    "answer": "Çizim",
+    "sub": "İlk Dönem Flaman Resmi"
+  },
+  {
+    "query": "Science'in çalışma alanı ",
+    "answer": "bilim",
+    "sub": "Science"
+  },
+  {
+    "query": "vücut bölgeleri'in çalışma alanı ",
+    "answer": "anatomi",
+    "sub": "vücut bölgeleri"
+  },
+  {
+    "query": "Edward Teller'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Edward Teller"
+  },
+  {
+    "query": "Led Zeppelin'in çalışma alanı ",
+    "answer": "müzisyen",
+    "sub": "Led Zeppelin"
+  },
+  {
+    "query": "Bithyinialı Asclepiades'in çalışma alanı ",
+    "answer": "tıp",
+    "sub": "Bithyinialı Asclepiades"
+  },
+  {
+    "query": "Stefan Mazurkiewicz'in çalışma alanı ",
+    "answer": "Topoloji",
+    "sub": "Stefan Mazurkiewicz"
+  },
+  {
+    "query": "Urania'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Urania"
+  },
+  {
+    "query": "James Frazer'in çalışma alanı ",
+    "answer": "antropoloji",
+    "sub": "James Frazer"
+  },
+  {
+    "query": "Anatoli Fomenko'in çalışma alanı ",
+    "answer": "Topoloji",
+    "sub": "Anatoli Fomenko"
+  },
+  {
+    "query": "Immanuel Wallerstein'in çalışma alanı ",
+    "answer": "toplum bilimi",
+    "sub": "Immanuel Wallerstein"
+  },
+  {
+    "query": "Regiomontanus'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Regiomontanus"
+  },
+  {
+    "query": "Ernest Orlando Lawrence'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Ernest Orlando Lawrence"
+  },
+  {
+    "query": "Marie Curie'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Marie Curie"
+  },
+  {
+    "query": "John Anthony Walker'in çalışma alanı ",
+    "answer": "Casusluk",
+    "sub": "John Anthony Walker"
+  },
+  {
+    "query": "John Napier'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "John Napier"
+  },
+  {
+    "query": "Isaac Newton'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "Olin J. Eggen'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Olin J. Eggen"
+  },
+  {
+    "query": "Üniversite Lille 2'in çalışma alanı ",
+    "answer": "Eczacılık",
+    "sub": "Üniversite Lille 2"
+  },
+  {
+    "query": "Yeoryos Metallinos'in çalışma alanı ",
+    "answer": "teoloji",
+    "sub": "Yeoryos Metallinos"
+  },
+  {
+    "query": "Larry Sanger'in çalışma alanı ",
+    "answer": "felsefe",
+    "sub": "Larry Sanger"
+  },
+  {
+    "query": "Philipp Lenard'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Philipp Lenard"
+  },
+  {
+    "query": "Hermann von Helmholtz'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "Friedrich Wilhelm Bessel'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Friedrich Wilhelm Bessel"
+  },
+  {
+    "query": "N. F. S. Grundtvig'in çalışma alanı ",
+    "answer": "felsefe",
+    "sub": "N. F. S. Grundtvig"
+  },
+  {
+    "query": "Otto E. Neugebauer'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Otto E. Neugebauer"
+  },
+  {
+    "query": "Fritjof Capra'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Fritjof Capra"
+  },
+  {
+    "query": "Saskia Sassen'in çalışma alanı ",
+    "answer": "toplum bilimi",
+    "sub": "Saskia Sassen"
+  },
+  {
+    "query": "Zhou Youguang'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Zhou Youguang"
+  },
+  {
+    "query": "Alfred Kinsey'in çalışma alanı ",
+    "answer": "biyoloji",
+    "sub": "Alfred Kinsey"
+  },
+  {
+    "query": "Mesrop Maştots'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Mesrop Maştots"
+  },
+  {
+    "query": "Kazimierz Ajdukiewicz'in çalışma alanı ",
+    "answer": "mantık",
+    "sub": "Kazimierz Ajdukiewicz"
+  },
+  {
+    "query": "James Franck'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "James Franck"
+  },
+  {
+    "query": "David Harvey'in çalışma alanı ",
+    "answer": "coğrafya",
+    "sub": "David Harvey"
+  },
+  {
+    "query": "Hantaro Nagaoka'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Hantaro Nagaoka"
+  },
+  {
+    "query": "Elinor Ostrom'in çalışma alanı ",
+    "answer": "iktisat",
+    "sub": "Elinor Ostrom"
+  },
+  {
+    "query": "Arthur Schoenflies'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Arthur Schoenflies"
+  },
+  {
+    "query": "Torbern Olof Bergman'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Torbern Olof Bergman"
+  },
+  {
+    "query": "Wallace Carothers'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Wallace Carothers"
+  },
+  {
+    "query": "Edward V. Appleton'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Edward V. Appleton"
+  },
+  {
+    "query": "John Dalton'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "John Dalton"
+  },
+  {
+    "query": "John Dalton'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "John Dalton"
+  },
+  {
+    "query": "Nicolas Steno'in çalışma alanı ",
+    "answer": "anatomi",
+    "sub": "Nicolas Steno"
+  },
+  {
+    "query": "Archibald Hill'in çalışma alanı ",
+    "answer": "Fizyoloji",
+    "sub": "Archibald Hill"
+  },
+  {
+    "query": "Akteon'in çalışma alanı ",
+    "answer": "avcılık",
+    "sub": "Akteon"
+  },
+  {
+    "query": "Alfred Tarski'in çalışma alanı ",
+    "answer": "mantık",
+    "sub": "Alfred Tarski"
+  },
+  {
+    "query": "Dimitri Mendeleyev'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Dimitri Mendeleyev"
+  },
+  {
+    "query": "Dimitri Mendeleyev'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Dimitri Mendeleyev"
+  },
+  {
+    "query": "Nureddin Batruci'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Nureddin Batruci"
+  },
+  {
+    "query": "Paul McCartney'in çalışma alanı ",
+    "answer": "müzisyen",
+    "sub": "Paul McCartney"
+  },
+  {
+    "query": "Jonathan Haidt'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Jonathan Haidt"
+  },
+  {
+    "query": "Charles Babbage'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Charles Babbage"
+  },
+  {
+    "query": "Vladimir Voevodsky'in çalışma alanı ",
+    "answer": "Topoloji",
+    "sub": "Vladimir Voevodsky"
+  },
+  {
+    "query": "Nicolaus Copernicus'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Nicolaus Copernicus"
+  },
+  {
+    "query": "Marian Rejewski'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Marian Rejewski"
+  },
+  {
+    "query": "Aryabhata'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Aryabhata"
+  },
+  {
+    "query": "Paul Broca'in çalışma alanı ",
+    "answer": "antropoloji",
+    "sub": "Paul Broca"
+  },
+  {
+    "query": "Halit Hüseyni'in çalışma alanı ",
+    "answer": "Afganistan",
+    "sub": "Halit Hüseyni"
+  },
+  {
+    "query": "Clyde Tombaugh'in çalışma alanı ",
+    "answer": "astronom",
+    "sub": "Clyde Tombaugh"
+  },
+  {
+    "query": "Boris Rıbakov'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "Boris Rıbakov"
+  },
+  {
+    "query": "Willis Eugene Lamb'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Willis Eugene Lamb"
+  },
+  {
+    "query": "Arşimet'in çalışma alanı ",
+    "answer": "geometri",
+    "sub": "Arşimet"
+  },
+  {
+    "query": "Anaksagoras'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Anaksagoras"
+  },
+  {
+    "query": "İbni Hişam'in çalışma alanı ",
+    "answer": "tarih",
+    "sub": "İbni Hişam"
+  },
+  {
+    "query": "Christiaan Huygens'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Christiaan Huygens"
+  },
+  {
+    "query": "Theodor Billroth'in çalışma alanı ",
+    "answer": "cerrahi",
+    "sub": "Theodor Billroth"
+  },
+  {
+    "query": "Michael Jackson'in çalışma alanı ",
+    "answer": "müzisyen",
+    "sub": "Michael Jackson"
+  },
+  {
+    "query": "David Bohm'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "David Bohm"
+  },
+  {
+    "query": "Hertha Ayrton'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Hertha Ayrton"
+  },
+  {
+    "query": "Homi J. Bhabha'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Homi J. Bhabha"
+  },
+  {
+    "query": "Karl Schwarzschild'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Karl Schwarzschild"
+  },
+  {
+    "query": "Adam Smith'in çalışma alanı ",
+    "answer": "iktisat",
+    "sub": "Adam Smith"
+  },
+  {
+    "query": "Adonis'in çalışma alanı ",
+    "answer": "avcılık",
+    "sub": "Adonis"
+  },
+  {
+    "query": "Robert A. Millikan'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Robert A. Millikan"
+  },
+  {
+    "query": "İnsan ",
+    "answer": "anatomi",
+    "sub": "İnsan anatomik terimleri"
+  },
+  {
+    "query": "Mildred Dresselhaus'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Mildred Dresselhaus"
+  },
+  {
+    "query": "George Dantzig'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "George Dantzig"
+  },
+  {
+    "query": "Max Dehn'in çalışma alanı ",
+    "answer": "Topoloji",
+    "sub": "Max Dehn"
+  },
+  {
+    "query": "Gerardus Mercator'in çalışma alanı ",
+    "answer": "coğrafya",
+    "sub": "Gerardus Mercator"
+  },
+  {
+    "query": "Carl Linnaeus'in çalışma alanı ",
+    "answer": "tıp",
+    "sub": "Carl Linnaeus"
+  },
+  {
+    "query": "Karl Polanyi'in çalışma alanı ",
+    "answer": "toplum bilimi",
+    "sub": "Karl Polanyi"
+  },
+  {
+    "query": "Charles Darwin'in çalışma alanı ",
+    "answer": "jeoloji",
+    "sub": "Charles Darwin"
+  },
+  {
+    "query": "Frank Wilczek'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Frank Wilczek"
+  },
+  {
+    "query": "Guo Moruo'in çalışma alanı ",
+    "answer": "tarih",
+    "sub": "Guo Moruo"
+  },
+  {
+    "query": "Germaine Greer'in çalışma alanı ",
+    "answer": "feminizm",
+    "sub": "Germaine Greer"
+  },
+  {
+    "query": "Hellmuth Kneser'in çalışma alanı ",
+    "answer": "Topoloji",
+    "sub": "Hellmuth Kneser"
+  },
+  {
+    "query": "Andrey Kolmogorov'in çalışma alanı ",
+    "answer": "Topoloji",
+    "sub": "Andrey Kolmogorov"
+  },
+  {
+    "query": "Johann Heinrich Lambert'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Johann Heinrich Lambert"
+  },
+  {
+    "query": "Alexander Bogdanov'in çalışma alanı ",
+    "answer": "tıp",
+    "sub": "Alexander Bogdanov"
+  },
+  {
+    "query": "Brahmagupta'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Brahmagupta"
+  },
+  {
+    "query": "Spacewatch'in çalışma alanı ",
+    "answer": "kuyruklu yıldız",
+    "sub": "Spacewatch"
+  },
+  {
+    "query": "Ludwig Klages'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Ludwig Klages"
+  },
+  {
+    "query": "Wilhelm Wien'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Wilhelm Wien"
+  },
+  {
+    "query": "Ali Ekber Dihhoda'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Ali Ekber Dihhoda"
+  },
+  {
+    "query": "Edinburgh Matematik Derneği'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Edinburgh Matematik Derneği"
+  },
+  {
+    "query": "Hermann von Helmholtz'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "Leonhard Euler'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Leonhard Euler"
+  },
+  {
+    "query": "NOTAM'in çalışma alanı ",
+    "answer": "havacılık",
+    "sub": "NOTAM"
+  },
+  {
+    "query": "Galileo Galilei'in çalışma alanı ",
+    "answer": "felsefe",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "Gregor Mendel'in çalışma alanı ",
+    "answer": "genetik",
+    "sub": "Gregor Mendel"
+  },
+  {
+    "query": "Ahmed Kesrevi'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Ahmed Kesrevi"
+  },
+  {
+    "query": "Bruce Springsteen'in çalışma alanı ",
+    "answer": "müzisyen",
+    "sub": "Bruce Springsteen"
+  },
+  {
+    "query": "William Lipscomb'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "William Lipscomb"
+  },
+  {
+    "query": "Sofya Kovalevskaya'in çalışma alanı ",
+    "answer": "matematik",
+    "sub": "Sofya Kovalevskaya"
+  },
+  {
+    "query": "Giordano Bruno'in çalışma alanı ",
+    "answer": "felsefe",
+    "sub": "Giordano Bruno"
+  },
+  {
+    "query": "Callippus'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Callippus"
+  },
+  {
+    "query": "Vilhelm Thomsen'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Vilhelm Thomsen"
+  },
+  {
+    "query": "Edward Condon'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Edward Condon"
+  },
+  {
+    "query": "Menaechmus'in çalışma alanı ",
+    "answer": "geometri",
+    "sub": "Menaechmus"
+  },
+  {
+    "query": "Henri Becquerel'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Henri Becquerel"
+  },
+  {
+    "query": "Bin Yayla'in çalışma alanı ",
+    "answer": "felsefe",
+    "sub": "Bin Yayla"
+  },
+  {
+    "query": "Lazarus Geiger'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Lazarus Geiger"
+  },
+  {
+    "query": "İstatistiksel model'in çalışma alanı ",
+    "answer": "istatistik",
+    "sub": "İstatistiksel model"
+  },
+  {
+    "query": "Kip Thorne'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Kip Thorne"
+  },
+  {
+    "query": "Alexis Bouvard'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Alexis Bouvard"
+  },
+  {
+    "query": "Carl Djerassi'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Carl Djerassi"
+  },
+  {
+    "query": "Borsacı'in çalışma alanı ",
+    "answer": "Stok",
+    "sub": "Borsacı"
+  },
+  {
+    "query": "Antonio Vallisneri'in çalışma alanı ",
+    "answer": "tıp",
+    "sub": "Antonio Vallisneri"
+  },
+  {
+    "query": "İbn Ebî Useybia'in çalışma alanı ",
+    "answer": "tıp",
+    "sub": "İbn Ebî Useybia"
+  },
+  {
+    "query": "August Weismann'in çalışma alanı ",
+    "answer": "biyoloji",
+    "sub": "August Weismann"
+  },
+  {
+    "query": "Giovanni Riccioli'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Giovanni Riccioli"
+  },
+  {
+    "query": "James Hillman'in çalışma alanı ",
+    "answer": "psikoloji",
+    "sub": "James Hillman"
+  },
+  {
+    "query": "Paul Langevin'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Paul Langevin"
+  },
+  {
+    "query": "Ekrem Akurgal'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "Ekrem Akurgal"
+  },
+  {
+    "query": "Robert J. Braidwood'in çalışma alanı ",
+    "answer": "arkeoloji",
+    "sub": "Robert J. Braidwood"
+  },
+  {
+    "query": "Johannes Hevelius'in çalışma alanı ",
+    "answer": "astronomi",
+    "sub": "Johannes Hevelius"
+  },
+  {
+    "query": "John Cockcroft'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "John Cockcroft"
+  },
+  {
+    "query": "Brian De Palma'in çalışma alanı ",
+    "answer": "film",
+    "sub": "Brian De Palma"
+  },
+  {
+    "query": "Domingo de Soto'in çalışma alanı ",
+    "answer": "teoloji",
+    "sub": "Domingo de Soto"
+  },
+  {
+    "query": "Tamaz Gamkrelidze'in çalışma alanı ",
+    "answer": "dilbilim",
+    "sub": "Tamaz Gamkrelidze"
+  },
+  {
+    "query": "Pyotr Nikolaevich Lebedev'in çalışma alanı ",
+    "answer": "fizik",
+    "sub": "Pyotr Nikolaevich Lebedev"
+  },
+  {
+    "query": "Svante Arrhenius'in çalışma alanı ",
+    "answer": "kimya",
+    "sub": "Svante Arrhenius"
+  },
+  {
+    "query": "rokoko'in çalışma alanı ",
+    "answer": "mimarlık",
+    "sub": "rokoko"
+  },
+  {
+    "query": "Eberhard Hopf'in çalışma alanı ",
+    "answer": "Topoloji",
+    "sub": "Eberhard Hopf"
+  }
+]

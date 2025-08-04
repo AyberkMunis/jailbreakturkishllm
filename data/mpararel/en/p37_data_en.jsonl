@@ -1,0 +1,4832 @@
+[
+  {
+    "query": "the official language of Azad Kashmir is the ",
+    "answer": "Urdu",
+    "sub": "Azad Kashmir"
+  },
+  {
+    "query": "the official language of Sorengo is the ",
+    "answer": "Italian",
+    "sub": "Sorengo"
+  },
+  {
+    "query": "the official language of Padasjoki is the ",
+    "answer": "Finnish",
+    "sub": "Padasjoki"
+  },
+  {
+    "query": "the official language of Alta Verapaz Department is the ",
+    "answer": "Spanish",
+    "sub": "Alta Verapaz Department"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "French",
+    "sub": "French Polynesia"
+  },
+  {
+    "query": "the official language of Virrat is the ",
+    "answer": "Finnish",
+    "sub": "Virrat"
+  },
+  {
+    "query": "the official language of Brunei is the ",
+    "answer": "Malay",
+    "sub": "Brunei"
+  },
+  {
+    "query": "the official language of Uttar Pradesh is the ",
+    "answer": "Urdu",
+    "sub": "Uttar Pradesh"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Finnish",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Wallonia is the ",
+    "answer": "French",
+    "sub": "Wallonia"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Slovene",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Haiti is the ",
+    "answer": "French",
+    "sub": "Haiti"
+  },
+  {
+    "query": "the official language of Union of South Africa is the ",
+    "answer": "Dutch",
+    "sub": "Union of South Africa"
+  },
+  {
+    "query": "the official language of Val d'Aran is the ",
+    "answer": "Catalan",
+    "sub": "Val d'Aran"
+  },
+  {
+    "query": "the official language of Bellinzona is the ",
+    "answer": "Italian",
+    "sub": "Bellinzona"
+  },
+  {
+    "query": "the official language of Kronoby is the ",
+    "answer": "Swedish",
+    "sub": "Kronoby"
+  },
+  {
+    "query": "the official language of Shanghai Cooperation Organisation is the ",
+    "answer": "Russian",
+    "sub": "Shanghai Cooperation Organisation"
+  },
+  {
+    "query": "the official language of Stellaland is the ",
+    "answer": "Dutch",
+    "sub": "Stellaland"
+  },
+  {
+    "query": "the official language of Biel/Bienne is the ",
+    "answer": "French",
+    "sub": "Biel/Bienne"
+  },
+  {
+    "query": "the official language of Sotkamo is the ",
+    "answer": "Finnish",
+    "sub": "Sotkamo"
+  },
+  {
+    "query": "the official language of Wyoming is the ",
+    "answer": "English",
+    "sub": "Wyoming"
+  },
+  {
+    "query": "the official language of Vesanto is the ",
+    "answer": "Finnish",
+    "sub": "Vesanto"
+  },
+  {
+    "query": "the official language of World Athletics is the ",
+    "answer": "French",
+    "sub": "World Athletics"
+  },
+  {
+    "query": "the official language of Odessa Oblast is the ",
+    "answer": "Russian",
+    "sub": "Odessa Oblast"
+  },
+  {
+    "query": "the official language of Holy See is the ",
+    "answer": "Latin",
+    "sub": "Holy See"
+  },
+  {
+    "query": "the official language of Parikkala is the ",
+    "answer": "Finnish",
+    "sub": "Parikkala"
+  },
+  {
+    "query": "the official language of Kerava is the ",
+    "answer": "Finnish",
+    "sub": "Kerava"
+  },
+  {
+    "query": "the official language of Uruguay is the ",
+    "answer": "Spanish",
+    "sub": "Uruguay"
+  },
+  {
+    "query": "the official language of Jamshedpur is the ",
+    "answer": "Hindi",
+    "sub": "Jamshedpur"
+  },
+  {
+    "query": "the official language of Molina de Segura is the ",
+    "answer": "Spanish",
+    "sub": "Molina de Segura"
+  },
+  {
+    "query": "the official language of South Ossetia is the ",
+    "answer": "Georgian",
+    "sub": "South Ossetia"
+  },
+  {
+    "query": "the official language of Cambodia is the ",
+    "answer": "Khmer",
+    "sub": "Cambodia"
+  },
+  {
+    "query": "the official language of Porrentruy is the ",
+    "answer": "French",
+    "sub": "Porrentruy"
+  },
+  {
+    "query": "the official language of Nykarleby is the ",
+    "answer": "Swedish",
+    "sub": "Nykarleby"
+  },
+  {
+    "query": "the official language of Krasnoyarsk Krai is the ",
+    "answer": "Russian",
+    "sub": "Krasnoyarsk Krai"
+  },
+  {
+    "query": "the official language of Republic of the Congo is the ",
+    "answer": "French",
+    "sub": "Republic of the Congo"
+  },
+  {
+    "query": "the official language of Crown of Aragon is the ",
+    "answer": "Catalan",
+    "sub": "Crown of Aragon"
+  },
+  {
+    "query": "the official language of Crown of Aragon is the ",
+    "answer": "Latin",
+    "sub": "Crown of Aragon"
+  },
+  {
+    "query": "the official language of Solomon Islands is the ",
+    "answer": "English",
+    "sub": "Solomon Islands"
+  },
+  {
+    "query": "the official language of Meghalaya is the ",
+    "answer": "English",
+    "sub": "Meghalaya"
+  },
+  {
+    "query": "the official language of Lohja is the ",
+    "answer": "Swedish",
+    "sub": "Lohja"
+  },
+  {
+    "query": "the official language of Tornio is the ",
+    "answer": "Finnish",
+    "sub": "Tornio"
+  },
+  {
+    "query": "the official language of Rajasthan is the ",
+    "answer": "Hindi",
+    "sub": "Rajasthan"
+  },
+  {
+    "query": "the official language of Shanghai Cooperation Organisation is the ",
+    "answer": "Chinese",
+    "sub": "Shanghai Cooperation Organisation"
+  },
+  {
+    "query": "the official language of Easter Island is the ",
+    "answer": "Spanish",
+    "sub": "Easter Island"
+  },
+  {
+    "query": "the official language of Mallorca is the ",
+    "answer": "Catalan",
+    "sub": "Mallorca"
+  },
+  {
+    "query": "the official language of Brazil is the ",
+    "answer": "Portuguese",
+    "sub": "Brazil"
+  },
+  {
+    "query": "the official language of Mexico is the ",
+    "answer": "Spanish",
+    "sub": "Mexico"
+  },
+  {
+    "query": "the official language of Posio is the ",
+    "answer": "Finnish",
+    "sub": "Posio"
+  },
+  {
+    "query": "the official language of Karijoki is the ",
+    "answer": "Finnish",
+    "sub": "Karijoki"
+  },
+  {
+    "query": "the official language of The Gambia is the ",
+    "answer": "English",
+    "sub": "The Gambia"
+  },
+  {
+    "query": "the official language of Kyōto Prefecture is the ",
+    "answer": "Japanese",
+    "sub": "Kyōto Prefecture"
+  },
+  {
+    "query": "the official language of South Georgia and the South Sandwich Islands is the ",
+    "answer": "English",
+    "sub": "South Georgia and the South Sandwich Islands"
+  },
+  {
+    "query": "the official language of Sastamala is the ",
+    "answer": "Finnish",
+    "sub": "Sastamala"
+  },
+  {
+    "query": "the official language of Kingdom of Jerusalem is the ",
+    "answer": "Italian",
+    "sub": "Kingdom of Jerusalem"
+  },
+  {
+    "query": "the official language of Isle of Man is the ",
+    "answer": "English",
+    "sub": "Isle of Man"
+  },
+  {
+    "query": "the official language of Mississippi is the ",
+    "answer": "English",
+    "sub": "Mississippi"
+  },
+  {
+    "query": "the official language of Macau is the ",
+    "answer": "Chinese",
+    "sub": "Macau"
+  },
+  {
+    "query": "the official language of Bernese Jura is the ",
+    "answer": "French",
+    "sub": "Bernese Jura"
+  },
+  {
+    "query": "the official language of Czechoslovakia is the ",
+    "answer": "Slovak",
+    "sub": "Czechoslovakia"
+  },
+  {
+    "query": "the official language of Salla is the ",
+    "answer": "Finnish",
+    "sub": "Salla"
+  },
+  {
+    "query": "the official language of Kiuruvesi is the ",
+    "answer": "Finnish",
+    "sub": "Kiuruvesi"
+  },
+  {
+    "query": "the official language of Pirkkala is the ",
+    "answer": "Finnish",
+    "sub": "Pirkkala"
+  },
+  {
+    "query": "the official language of Malax is the ",
+    "answer": "Finnish",
+    "sub": "Malax"
+  },
+  {
+    "query": "the official language of Donetsk Oblast is the ",
+    "answer": "Russian",
+    "sub": "Donetsk Oblast"
+  },
+  {
+    "query": "the official language of Loimaa is the ",
+    "answer": "Finnish",
+    "sub": "Loimaa"
+  },
+  {
+    "query": "the official language of National Film Board of Canada is the ",
+    "answer": "English",
+    "sub": "National Film Board of Canada"
+  },
+  {
+    "query": "the official language of Israel is the ",
+    "answer": "Hebrew",
+    "sub": "Israel"
+  },
+  {
+    "query": "the official language of Samoa is the ",
+    "answer": "English",
+    "sub": "Samoa"
+  },
+  {
+    "query": "the official language of Republic of Tatarstan is the ",
+    "answer": "Russian",
+    "sub": "Republic of Tatarstan"
+  },
+  {
+    "query": "the official language of Brussels Capital Region is the ",
+    "answer": "Dutch",
+    "sub": "Brussels Capital Region"
+  },
+  {
+    "query": "the official language of Hawaii is the ",
+    "answer": "Hawaiian",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "the official language of Switzerland is the ",
+    "answer": "French",
+    "sub": "Switzerland"
+  },
+  {
+    "query": "the official language of Kajaani is the ",
+    "answer": "Finnish",
+    "sub": "Kajaani"
+  },
+  {
+    "query": "the official language of Kingdom of Deheubarth is the ",
+    "answer": "Welsh",
+    "sub": "Kingdom of Deheubarth"
+  },
+  {
+    "query": "the official language of Belgium is the ",
+    "answer": "German",
+    "sub": "Belgium"
+  },
+  {
+    "query": "the official language of Nauru is the ",
+    "answer": "English",
+    "sub": "Nauru"
+  },
+  {
+    "query": "the official language of Delhi is the ",
+    "answer": "English",
+    "sub": "Delhi"
+  },
+  {
+    "query": "the official language of Navarre is the ",
+    "answer": "Spanish",
+    "sub": "Navarre"
+  },
+  {
+    "query": "the official language of Ibiza is the ",
+    "answer": "Spanish",
+    "sub": "Ibiza"
+  },
+  {
+    "query": "the official language of Jomala is the ",
+    "answer": "Swedish",
+    "sub": "Jomala"
+  },
+  {
+    "query": "the official language of Kerala is the ",
+    "answer": "English",
+    "sub": "Kerala"
+  },
+  {
+    "query": "the official language of Falkland Islands is the ",
+    "answer": "English",
+    "sub": "Falkland Islands"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Mari",
+    "sub": "Mari El Republic"
+  },
+  {
+    "query": "the official language of Free City of Danzig is the ",
+    "answer": "Polish",
+    "sub": "Free City of Danzig"
+  },
+  {
+    "query": "the official language of UEFA is the ",
+    "answer": "French",
+    "sub": "UEFA"
+  },
+  {
+    "query": "the official language of Couto Misto is the ",
+    "answer": "Portuguese",
+    "sub": "Couto Misto"
+  },
+  {
+    "query": "the official language of Friesland is the ",
+    "answer": "Dutch",
+    "sub": "Friesland"
+  },
+  {
+    "query": "the official language of Guinea is the ",
+    "answer": "French",
+    "sub": "Guinea"
+  },
+  {
+    "query": "the official language of Udmurt Autonomous Soviet Socialist Republic is the ",
+    "answer": "Russian",
+    "sub": "Udmurt Autonomous Soviet Socialist Republic"
+  },
+  {
+    "query": "the official language of Coimbatore is the ",
+    "answer": "Tamil",
+    "sub": "Coimbatore"
+  },
+  {
+    "query": "the official language of Australia is the ",
+    "answer": "English",
+    "sub": "Australia"
+  },
+  {
+    "query": "the official language of Peru is the ",
+    "answer": "Spanish",
+    "sub": "Peru"
+  },
+  {
+    "query": "the official language of Delhi is the ",
+    "answer": "Punjabi",
+    "sub": "Delhi"
+  },
+  {
+    "query": "the official language of Swiss Federal Constitution is the ",
+    "answer": "French",
+    "sub": "Swiss Federal Constitution"
+  },
+  {
+    "query": "the official language of Bengkulu is the ",
+    "answer": "Indonesian",
+    "sub": "Bengkulu"
+  },
+  {
+    "query": "the official language of Lesotho is the ",
+    "answer": "English",
+    "sub": "Lesotho"
+  },
+  {
+    "query": "the official language of Juankoski is the ",
+    "answer": "Finnish",
+    "sub": "Juankoski"
+  },
+  {
+    "query": "the official language of India is the ",
+    "answer": "English",
+    "sub": "India"
+  },
+  {
+    "query": "the official language of Pitcairn Islands is the ",
+    "answer": "English",
+    "sub": "Pitcairn Islands"
+  },
+  {
+    "query": "the official language of Khanty-Mansi Autonomous Okrug is the ",
+    "answer": "Russian",
+    "sub": "Khanty-Mansi Autonomous Okrug"
+  },
+  {
+    "query": "the official language of Zimbabwe is the ",
+    "answer": "English",
+    "sub": "Zimbabwe"
+  },
+  {
+    "query": "the official language of Lucerne is the ",
+    "answer": "German",
+    "sub": "Lucerne"
+  },
+  {
+    "query": "the official language of Transnistria is the ",
+    "answer": "Ukrainian",
+    "sub": "Transnistria"
+  },
+  {
+    "query": "the official language of Djibouti is the ",
+    "answer": "French",
+    "sub": "Djibouti"
+  },
+  {
+    "query": "the official language of Vallorbe is the ",
+    "answer": "French",
+    "sub": "Vallorbe"
+  },
+  {
+    "query": "the official language of Wappo people is the ",
+    "answer": "English",
+    "sub": "Wappo people"
+  },
+  {
+    "query": "the official language of Sahrawi Arab Democratic Republic is the ",
+    "answer": "Spanish",
+    "sub": "Sahrawi Arab Democratic Republic"
+  },
+  {
+    "query": "the official language of Sint Eustatius is the ",
+    "answer": "English",
+    "sub": "Sint Eustatius"
+  },
+  {
+    "query": "the official language of Montana is the ",
+    "answer": "English",
+    "sub": "Montana"
+  },
+  {
+    "query": "the official language of The Bahamas is the ",
+    "answer": "English",
+    "sub": "The Bahamas"
+  },
+  {
+    "query": "the official language of Republic of Dagestan is the ",
+    "answer": "Azerbaijani",
+    "sub": "Republic of Dagestan"
+  },
+  {
+    "query": "the official language of North Macedonia is the ",
+    "answer": "Macedonian",
+    "sub": "North Macedonia"
+  },
+  {
+    "query": "the official language of Ontario is the ",
+    "answer": "English",
+    "sub": "Ontario"
+  },
+  {
+    "query": "the official language of Alberta is the ",
+    "answer": "English",
+    "sub": "Alberta"
+  },
+  {
+    "query": "the official language of Montenegro is the ",
+    "answer": "Serbian",
+    "sub": "Montenegro"
+  },
+  {
+    "query": "the official language of Zhovti Vody is the ",
+    "answer": "Ukrainian",
+    "sub": "Zhovti Vody"
+  },
+  {
+    "query": "the official language of Kuusamo is the ",
+    "answer": "Finnish",
+    "sub": "Kuusamo"
+  },
+  {
+    "query": "the official language of Jammu and Kashmir is the ",
+    "answer": "Urdu",
+    "sub": "Jammu and Kashmir"
+  },
+  {
+    "query": "the official language of Nastola is the ",
+    "answer": "Finnish",
+    "sub": "Nastola"
+  },
+  {
+    "query": "the official language of Eswatini is the ",
+    "answer": "English",
+    "sub": "Eswatini"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Dutch",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Grenada is the ",
+    "answer": "English",
+    "sub": "Grenada"
+  },
+  {
+    "query": "the official language of Alderney is the ",
+    "answer": "English",
+    "sub": "Alderney"
+  },
+  {
+    "query": "the official language of Canton Aargau is the ",
+    "answer": "German",
+    "sub": "Canton Aargau"
+  },
+  {
+    "query": "the official language of Republic of Khakassia is the ",
+    "answer": "Russian",
+    "sub": "Republic of Khakassia"
+  },
+  {
+    "query": "the official language of Chechen Republic is the ",
+    "answer": "Russian",
+    "sub": "Chechen Republic"
+  },
+  {
+    "query": "the official language of Mykolaiv Oblast is the ",
+    "answer": "Russian",
+    "sub": "Mykolaiv Oblast"
+  },
+  {
+    "query": "the official language of Punjab is the ",
+    "answer": "Punjabi",
+    "sub": "Punjab"
+  },
+  {
+    "query": "the official language of Rwanda is the ",
+    "answer": "English",
+    "sub": "Rwanda"
+  },
+  {
+    "query": "the official language of Finland is the ",
+    "answer": "Finnish",
+    "sub": "Finland"
+  },
+  {
+    "query": "the official language of Loviisa is the ",
+    "answer": "Swedish",
+    "sub": "Loviisa"
+  },
+  {
+    "query": "the official language of Nebraska is the ",
+    "answer": "English",
+    "sub": "Nebraska"
+  },
+  {
+    "query": "the official language of Poland is the ",
+    "answer": "Polish",
+    "sub": "Poland"
+  },
+  {
+    "query": "the official language of Ukrainian Soviet Socialist Republic is the ",
+    "answer": "Russian",
+    "sub": "Ukrainian Soviet Socialist Republic"
+  },
+  {
+    "query": "the official language of Nyon is the ",
+    "answer": "French",
+    "sub": "Nyon"
+  },
+  {
+    "query": "the official language of Basel is the ",
+    "answer": "German",
+    "sub": "Basel"
+  },
+  {
+    "query": "the official language of Arkansas is the ",
+    "answer": "English",
+    "sub": "Arkansas"
+  },
+  {
+    "query": "the official language of Romania is the ",
+    "answer": "Romanian",
+    "sub": "Romania"
+  },
+  {
+    "query": "the official language of Kaskinen is the ",
+    "answer": "Finnish",
+    "sub": "Kaskinen"
+  },
+  {
+    "query": "the official language of Kingdom of the Lombards is the ",
+    "answer": "Latin",
+    "sub": "Kingdom of the Lombards"
+  },
+  {
+    "query": "the official language of Sri Lanka is the ",
+    "answer": "Tamil",
+    "sub": "Sri Lanka"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Greek",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Ylitornio is the ",
+    "answer": "Finnish",
+    "sub": "Ylitornio"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Irish",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Kenya is the ",
+    "answer": "English",
+    "sub": "Kenya"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "French",
+    "sub": "French Southern and Antarctic Lands"
+  },
+  {
+    "query": "the official language of Ghana is the ",
+    "answer": "English",
+    "sub": "Ghana"
+  },
+  {
+    "query": "the official language of Kauhajoki is the ",
+    "answer": "Finnish",
+    "sub": "Kauhajoki"
+  },
+  {
+    "query": "the official language of Raahe is the ",
+    "answer": "Finnish",
+    "sub": "Raahe"
+  },
+  {
+    "query": "the official language of Provence is the ",
+    "answer": "French",
+    "sub": "Provence"
+  },
+  {
+    "query": "the official language of Slovenia is the ",
+    "answer": "Slovene",
+    "sub": "Slovenia"
+  },
+  {
+    "query": "the official language of Jakobstad is the ",
+    "answer": "Swedish",
+    "sub": "Jakobstad"
+  },
+  {
+    "query": "the official language of President of the Basque Autonomous Community is the ",
+    "answer": "Spanish",
+    "sub": "President of the Basque Autonomous Community"
+  },
+  {
+    "query": "the official language of Tervola is the ",
+    "answer": "Finnish",
+    "sub": "Tervola"
+  },
+  {
+    "query": "the official language of Moldova is the ",
+    "answer": "Romanian",
+    "sub": "Moldova"
+  },
+  {
+    "query": "the official language of Ruovesi is the ",
+    "answer": "Finnish",
+    "sub": "Ruovesi"
+  },
+  {
+    "query": "the official language of ASEAN is the ",
+    "answer": "Filipino",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "the official language of A Ver-o-Mar is the ",
+    "answer": "Portuguese",
+    "sub": "A Ver-o-Mar"
+  },
+  {
+    "query": "the official language of Organization for Security and Co-operation in Europe is the ",
+    "answer": "French",
+    "sub": "Organization for Security and Co-operation in Europe"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "French",
+    "sub": "French Guiana"
+  },
+  {
+    "query": "the official language of Lithuania is the ",
+    "answer": "Lithuanian",
+    "sub": "Lithuania"
+  },
+  {
+    "query": "the official language of Kristinestad is the ",
+    "answer": "Finnish",
+    "sub": "Kristinestad"
+  },
+  {
+    "query": "the official language of Komi Republic is the ",
+    "answer": "Russian",
+    "sub": "Komi Republic"
+  },
+  {
+    "query": "the official language of Anguilla is the ",
+    "answer": "English",
+    "sub": "Anguilla"
+  },
+  {
+    "query": "the official language of Belize is the ",
+    "answer": "English",
+    "sub": "Belize"
+  },
+  {
+    "query": "the official language of Mercosur is the ",
+    "answer": "Spanish",
+    "sub": "Mercosur"
+  },
+  {
+    "query": "the official language of Spain is the ",
+    "answer": "Catalan",
+    "sub": "Spain"
+  },
+  {
+    "query": "the official language of Pelkosenniemi is the ",
+    "answer": "Finnish",
+    "sub": "Pelkosenniemi"
+  },
+  {
+    "query": "the official language of Barbados is the ",
+    "answer": "English",
+    "sub": "Barbados"
+  },
+  {
+    "query": "the official language of Melitopol is the ",
+    "answer": "Ukrainian",
+    "sub": "Melitopol"
+  },
+  {
+    "query": "the official language of Sigtuna Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Sigtuna Municipality"
+  },
+  {
+    "query": "the official language of Nykarleby is the ",
+    "answer": "Finnish",
+    "sub": "Nykarleby"
+  },
+  {
+    "query": "the official language of West ",
+    "answer": "German",
+    "sub": "West Germany"
+  },
+  {
+    "query": "the official language of Nenets Autonomous Okrug is the ",
+    "answer": "Russian",
+    "sub": "Nenets Autonomous Okrug"
+  },
+  {
+    "query": "the official language of Caribbean Netherlands is the ",
+    "answer": "English",
+    "sub": "Caribbean Netherlands"
+  },
+  {
+    "query": "the official language of Colombia is the ",
+    "answer": "Spanish",
+    "sub": "Colombia"
+  },
+  {
+    "query": "the official language of Kauhava is the ",
+    "answer": "Finnish",
+    "sub": "Kauhava"
+  },
+  {
+    "query": "the official language of Bahia is the ",
+    "answer": "Portuguese",
+    "sub": "Bahia"
+  },
+  {
+    "query": "the official language of Brunei is the ",
+    "answer": "English",
+    "sub": "Brunei"
+  },
+  {
+    "query": "the official language of Kingdom of Sicily is the ",
+    "answer": "Latin",
+    "sub": "Kingdom of Sicily"
+  },
+  {
+    "query": "the official language of Donetsk Oblast is the ",
+    "answer": "Ukrainian",
+    "sub": "Donetsk Oblast"
+  },
+  {
+    "query": "the official language of Jambi is the ",
+    "answer": "Malay",
+    "sub": "Jambi"
+  },
+  {
+    "query": "the official language of Patna is the ",
+    "answer": "Hindi",
+    "sub": "Patna"
+  },
+  {
+    "query": "the official language of Union between Sweden and Norway is the ",
+    "answer": "Swedish",
+    "sub": "Union between Sweden and Norway"
+  },
+  {
+    "query": "the official language of Sevastopol is the ",
+    "answer": "Ukrainian",
+    "sub": "Sevastopol"
+  },
+  {
+    "query": "the official language of Royal 22e Régiment is the ",
+    "answer": "French",
+    "sub": "Royal 22e Régiment"
+  },
+  {
+    "query": "the official language of Les Bois is the ",
+    "answer": "French",
+    "sub": "Les Bois"
+  },
+  {
+    "query": "the official language of Pakistan is the ",
+    "answer": "Urdu",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "the official language of Varkaus is the ",
+    "answer": "Finnish",
+    "sub": "Varkaus"
+  },
+  {
+    "query": "the official language of Mariehamn is the ",
+    "answer": "Swedish",
+    "sub": "Mariehamn"
+  },
+  {
+    "query": "the official language of Canton of Bern is the ",
+    "answer": "French",
+    "sub": "Canton of Bern"
+  },
+  {
+    "query": "the official language of Luhansk People's Republic is the ",
+    "answer": "Ukrainian",
+    "sub": "Luhansk People's Republic"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "French",
+    "sub": "French immersion"
+  },
+  {
+    "query": "the official language of La Chaux-de-Fonds is the ",
+    "answer": "French",
+    "sub": "La Chaux-de-Fonds"
+  },
+  {
+    "query": "the official language of Kaarina is the ",
+    "answer": "Finnish",
+    "sub": "Kaarina"
+  },
+  {
+    "query": "the official language of Grand Duchy of Moscow is the ",
+    "answer": "Russian",
+    "sub": "Grand Duchy of Moscow"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Czech",
+    "sub": "Czechoslovakia"
+  },
+  {
+    "query": "the official language of Senegal is the ",
+    "answer": "French",
+    "sub": "Senegal"
+  },
+  {
+    "query": "the official language of Le Locle is the ",
+    "answer": "French",
+    "sub": "Le Locle"
+  },
+  {
+    "query": "the official language of Kirkkonummi is the ",
+    "answer": "Swedish",
+    "sub": "Kirkkonummi"
+  },
+  {
+    "query": "the official language of Porvoo is the ",
+    "answer": "Finnish",
+    "sub": "Porvoo"
+  },
+  {
+    "query": "the official language of Sovereign Military Order of Malta is the ",
+    "answer": "Latin",
+    "sub": "Sovereign Military Order of Malta"
+  },
+  {
+    "query": "the official language of Parainen is the ",
+    "answer": "Finnish",
+    "sub": "Parainen"
+  },
+  {
+    "query": "the official language of Nunavut is the ",
+    "answer": "English",
+    "sub": "Nunavut"
+  },
+  {
+    "query": "the official language of Geneva is the ",
+    "answer": "French",
+    "sub": "Geneva"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Bulgarian",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Canton of Bern is the ",
+    "answer": "German",
+    "sub": "Canton of Bern"
+  },
+  {
+    "query": "the official language of Meyrin is the ",
+    "answer": "French",
+    "sub": "Meyrin"
+  },
+  {
+    "query": "the official language of World Health Organization is the ",
+    "answer": "English",
+    "sub": "World Health Organization"
+  },
+  {
+    "query": "the official language of North Kosovo is the ",
+    "answer": "Serbian",
+    "sub": "North Kosovo"
+  },
+  {
+    "query": "the official language of Sint Eustatius is the ",
+    "answer": "Dutch",
+    "sub": "Sint Eustatius"
+  },
+  {
+    "query": "the official language of Bosnia and Herzegovina is the ",
+    "answer": "Serbian",
+    "sub": "Bosnia and Herzegovina"
+  },
+  {
+    "query": "the official language of South Tyrol is the ",
+    "answer": "Italian",
+    "sub": "South Tyrol"
+  },
+  {
+    "query": "the official language of Finland is the ",
+    "answer": "Swedish",
+    "sub": "Finland"
+  },
+  {
+    "query": "the official language of Savoy is the ",
+    "answer": "French",
+    "sub": "Savoy"
+  },
+  {
+    "query": "the official language of Papua New Guinea is the ",
+    "answer": "English",
+    "sub": "Papua New Guinea"
+  },
+  {
+    "query": "the official language of Ticino is the ",
+    "answer": "Italian",
+    "sub": "Ticino"
+  },
+  {
+    "query": "the official language of Lieto is the ",
+    "answer": "Finnish",
+    "sub": "Lieto"
+  },
+  {
+    "query": "the official language of Malta is the ",
+    "answer": "Maltese",
+    "sub": "Malta"
+  },
+  {
+    "query": "the official language of Rwanda is the ",
+    "answer": "French",
+    "sub": "Rwanda"
+  },
+  {
+    "query": "the official language of Jokioinen is the ",
+    "answer": "Finnish",
+    "sub": "Jokioinen"
+  },
+  {
+    "query": "the official language of Maaninka is the ",
+    "answer": "Finnish",
+    "sub": "Maaninka"
+  },
+  {
+    "query": "the official language of Nepal is the ",
+    "answer": "Nepali",
+    "sub": "Nepal"
+  },
+  {
+    "query": "the official language of Botkyrka Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Botkyrka Municipality"
+  },
+  {
+    "query": "the official language of Saltvik is the ",
+    "answer": "Swedish",
+    "sub": "Saltvik"
+  },
+  {
+    "query": "the official language of Pontianak Sultanate is the ",
+    "answer": "Malay",
+    "sub": "Pontianak Sultanate"
+  },
+  {
+    "query": "the official language of Republic of Venice is the ",
+    "answer": "Italian",
+    "sub": "Republic of Venice"
+  },
+  {
+    "query": "the official language of Chad is the ",
+    "answer": "French",
+    "sub": "Chad"
+  },
+  {
+    "query": "the official language of Caslano is the ",
+    "answer": "Italian",
+    "sub": "Caslano"
+  },
+  {
+    "query": "the official language of Yerevan is the ",
+    "answer": "Armenian",
+    "sub": "Yerevan"
+  },
+  {
+    "query": "the official language of Bolivia is the ",
+    "answer": "Spanish",
+    "sub": "Bolivia"
+  },
+  {
+    "query": "the official language of Benelux is the ",
+    "answer": "Dutch",
+    "sub": "Benelux"
+  },
+  {
+    "query": "the official language of Malaysia is the ",
+    "answer": "English",
+    "sub": "Malaysia"
+  },
+  {
+    "query": "the official language of Val d'Aran is the ",
+    "answer": "Spanish",
+    "sub": "Val d'Aran"
+  },
+  {
+    "query": "the official language of Russian Empire is the ",
+    "answer": "Finnish",
+    "sub": "Russian Empire"
+  },
+  {
+    "query": "the official language of South Sudan is the ",
+    "answer": "English",
+    "sub": "South Sudan"
+  },
+  {
+    "query": "the official language of Equatorial Guinea is the ",
+    "answer": "French",
+    "sub": "Equatorial Guinea"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Hungarian",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Banten is the ",
+    "answer": "Indonesian",
+    "sub": "Banten"
+  },
+  {
+    "query": "the official language of Gothenburg Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Gothenburg Municipality"
+  },
+  {
+    "query": "the official language of Huddinge Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Huddinge Municipality"
+  },
+  {
+    "query": "the official language of Loppi is the ",
+    "answer": "Finnish",
+    "sub": "Loppi"
+  },
+  {
+    "query": "the official language of Kyrgyzstan is the ",
+    "answer": "Russian",
+    "sub": "Kyrgyzstan"
+  },
+  {
+    "query": "the official language of Porvoo is the ",
+    "answer": "Swedish",
+    "sub": "Porvoo"
+  },
+  {
+    "query": "the official language of Vihti is the ",
+    "answer": "Finnish",
+    "sub": "Vihti"
+  },
+  {
+    "query": "the official language of Basel-Stadt is the ",
+    "answer": "German",
+    "sub": "Basel-Stadt"
+  },
+  {
+    "query": "the official language of Flemish Region is the ",
+    "answer": "Dutch",
+    "sub": "Flemish Region"
+  },
+  {
+    "query": "the official language of Tierp Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Tierp Municipality"
+  },
+  {
+    "query": "the official language of Japan is the ",
+    "answer": "Japanese",
+    "sub": "Japan"
+  },
+  {
+    "query": "the official language of Alavus is the ",
+    "answer": "Finnish",
+    "sub": "Alavus"
+  },
+  {
+    "query": "the official language of Byelorussian Soviet Socialist Republic is the ",
+    "answer": "Russian",
+    "sub": "Byelorussian Soviet Socialist Republic"
+  },
+  {
+    "query": "the official language of Kangasala is the ",
+    "answer": "Finnish",
+    "sub": "Kangasala"
+  },
+  {
+    "query": "the official language of Iran is the ",
+    "answer": "Persian",
+    "sub": "Iran"
+  },
+  {
+    "query": "the official language of Tampere is the ",
+    "answer": "Finnish",
+    "sub": "Tampere"
+  },
+  {
+    "query": "the official language of Oulu is the ",
+    "answer": "Finnish",
+    "sub": "Oulu"
+  },
+  {
+    "query": "the official language of Nazi ",
+    "answer": "German",
+    "sub": "Nazi Germany"
+  },
+  {
+    "query": "the official language of Espoo is the ",
+    "answer": "Swedish",
+    "sub": "Espoo"
+  },
+  {
+    "query": "the official language of Aragon is the ",
+    "answer": "Spanish",
+    "sub": "Aragon"
+  },
+  {
+    "query": "the official language of Panama is the ",
+    "answer": "Spanish",
+    "sub": "Panama"
+  },
+  {
+    "query": "the official language of Quebec is the ",
+    "answer": "French",
+    "sub": "Quebec"
+  },
+  {
+    "query": "the official language of Roman Empire is the ",
+    "answer": "Latin",
+    "sub": "Roman Empire"
+  },
+  {
+    "query": "the official language of Equatorial Guinea is the ",
+    "answer": "Spanish",
+    "sub": "Equatorial Guinea"
+  },
+  {
+    "query": "the official language of Church of Greece is the ",
+    "answer": "Greek",
+    "sub": "Church of Greece"
+  },
+  {
+    "query": "the official language of Newfoundland and Labrador is the ",
+    "answer": "English",
+    "sub": "Newfoundland and Labrador"
+  },
+  {
+    "query": "the official language of Kaustinen is the ",
+    "answer": "Finnish",
+    "sub": "Kaustinen"
+  },
+  {
+    "query": "the official language of Yamalo-Nenets Autonomous Okrug is the ",
+    "answer": "Russian",
+    "sub": "Yamalo-Nenets Autonomous Okrug"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Estonian",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of South Tyrol is the ",
+    "answer": "German",
+    "sub": "South Tyrol"
+  },
+  {
+    "query": "the official language of Moudon is the ",
+    "answer": "French",
+    "sub": "Moudon"
+  },
+  {
+    "query": "the official language of Versoix is the ",
+    "answer": "French",
+    "sub": "Versoix"
+  },
+  {
+    "query": "the official language of Republic of Venice is the ",
+    "answer": "Latin",
+    "sub": "Republic of Venice"
+  },
+  {
+    "query": "the official language of International Commission on Illumination is the ",
+    "answer": "French",
+    "sub": "International Commission on Illumination"
+  },
+  {
+    "query": "the official language of Keminmaa is the ",
+    "answer": "Finnish",
+    "sub": "Keminmaa"
+  },
+  {
+    "query": "the official language of State of Brazil is the ",
+    "answer": "Portuguese",
+    "sub": "State of Brazil"
+  },
+  {
+    "query": "the official language of Kumlinge is the ",
+    "answer": "Swedish",
+    "sub": "Kumlinge"
+  },
+  {
+    "query": "the official language of Benelux is the ",
+    "answer": "French",
+    "sub": "Benelux"
+  },
+  {
+    "query": "the official language of Menorca is the ",
+    "answer": "Catalan",
+    "sub": "Menorca"
+  },
+  {
+    "query": "the official language of United Nations is the ",
+    "answer": "Spanish",
+    "sub": "United Nations"
+  },
+  {
+    "query": "the official language of Saba is the ",
+    "answer": "Dutch",
+    "sub": "Saba"
+  },
+  {
+    "query": "the official language of Qing dynasty is the ",
+    "answer": "Tibetan",
+    "sub": "Qing dynasty"
+  },
+  {
+    "query": "the official language of Juva is the ",
+    "answer": "Finnish",
+    "sub": "Juva"
+  },
+  {
+    "query": "the official language of Luhansk Oblast is the ",
+    "answer": "Ukrainian",
+    "sub": "Luhansk Oblast"
+  },
+  {
+    "query": "the official language of Vaasa is the ",
+    "answer": "Swedish",
+    "sub": "Vaasa"
+  },
+  {
+    "query": "the official language of Sakha Republic is the ",
+    "answer": "Russian",
+    "sub": "Sakha Republic"
+  },
+  {
+    "query": "the official language of Delhi is the ",
+    "answer": "Hindi",
+    "sub": "Delhi"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Polish",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of United States Virgin Islands is the ",
+    "answer": "English",
+    "sub": "United States Virgin Islands"
+  },
+  {
+    "query": "the official language of Jokkmokk Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Jokkmokk Municipality"
+  },
+  {
+    "query": "the official language of Dominican Republic is the ",
+    "answer": "Spanish",
+    "sub": "Dominican Republic"
+  },
+  {
+    "query": "the official language of Wales is the ",
+    "answer": "Welsh",
+    "sub": "Wales"
+  },
+  {
+    "query": "the official language of Ouchy is the ",
+    "answer": "French",
+    "sub": "Ouchy"
+  },
+  {
+    "query": "the official language of Lucknow is the ",
+    "answer": "Urdu",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "the official language of Donetsk is the ",
+    "answer": "Ukrainian",
+    "sub": "Donetsk"
+  },
+  {
+    "query": "the official language of Flanders is the ",
+    "answer": "Dutch",
+    "sub": "Flanders"
+  },
+  {
+    "query": "the official language of Krokom Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Krokom Municipality"
+  },
+  {
+    "query": "the official language of Huittinen is the ",
+    "answer": "Finnish",
+    "sub": "Huittinen"
+  },
+  {
+    "query": "the official language of Lapua is the ",
+    "answer": "Finnish",
+    "sub": "Lapua"
+  },
+  {
+    "query": "the official language of Jewish Autonomous Oblast is the ",
+    "answer": "Russian",
+    "sub": "Jewish Autonomous Oblast"
+  },
+  {
+    "query": "the official language of International Academy of Sciences San Marino is the ",
+    "answer": "English",
+    "sub": "International Academy of Sciences San Marino"
+  },
+  {
+    "query": "the official language of Sundbyberg Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Sundbyberg Municipality"
+  },
+  {
+    "query": "the official language of British Columbia is the ",
+    "answer": "English",
+    "sub": "British Columbia"
+  },
+  {
+    "query": "the official language of Kangasniemi is the ",
+    "answer": "Finnish",
+    "sub": "Kangasniemi"
+  },
+  {
+    "query": "the official language of Belgium is the ",
+    "answer": "Dutch",
+    "sub": "Belgium"
+  },
+  {
+    "query": "the official language of Cossonay is the ",
+    "answer": "French",
+    "sub": "Cossonay"
+  },
+  {
+    "query": "the official language of Congress Poland is the ",
+    "answer": "Polish",
+    "sub": "Congress Poland"
+  },
+  {
+    "query": "the official language of Quetzaltenango is the ",
+    "answer": "Spanish",
+    "sub": "Quetzaltenango"
+  },
+  {
+    "query": "the official language of Byzantine Empire is the ",
+    "answer": "Latin",
+    "sub": "Byzantine Empire"
+  },
+  {
+    "query": "the official language of Ireland is the ",
+    "answer": "English",
+    "sub": "Ireland"
+  },
+  {
+    "query": "the official language of Netherlands is the ",
+    "answer": "Dutch",
+    "sub": "Netherlands"
+  },
+  {
+    "query": "the official language of Suonenjoki is the ",
+    "answer": "Finnish",
+    "sub": "Suonenjoki"
+  },
+  {
+    "query": "the official language of Kansas is the ",
+    "answer": "English",
+    "sub": "Kansas"
+  },
+  {
+    "query": "the official language of Vantaa is the ",
+    "answer": "Finnish",
+    "sub": "Vantaa"
+  },
+  {
+    "query": "the official language of South Africa is the ",
+    "answer": "English",
+    "sub": "South Africa"
+  },
+  {
+    "query": "the official language of Locarno is the ",
+    "answer": "Italian",
+    "sub": "Locarno"
+  },
+  {
+    "query": "the official language of County of Ribagorza is the ",
+    "answer": "Catalan",
+    "sub": "County of Ribagorza"
+  },
+  {
+    "query": "the official language of Vanuatu is the ",
+    "answer": "English",
+    "sub": "Vanuatu"
+  },
+  {
+    "query": "the official language of Siuntio is the ",
+    "answer": "Finnish",
+    "sub": "Siuntio"
+  },
+  {
+    "query": "the official language of Institut d'Estudis ",
+    "answer": "Catalan",
+    "sub": "Institut d'Estudis Catalans"
+  },
+  {
+    "query": "the official language of Vevey is the ",
+    "answer": "French",
+    "sub": "Vevey"
+  },
+  {
+    "query": "the official language of Canton of Geneva is the ",
+    "answer": "French",
+    "sub": "Canton of Geneva"
+  },
+  {
+    "query": "the official language of Montenegro is the ",
+    "answer": "Croatian",
+    "sub": "Montenegro"
+  },
+  {
+    "query": "the official language of Suriname is the ",
+    "answer": "Dutch",
+    "sub": "Suriname"
+  },
+  {
+    "query": "the official language of Jharkhand is the ",
+    "answer": "Hindi",
+    "sub": "Jharkhand"
+  },
+  {
+    "query": "the official language of Lugano is the ",
+    "answer": "Italian",
+    "sub": "Lugano"
+  },
+  {
+    "query": "the official language of Udmurt Republic is the ",
+    "answer": "Russian",
+    "sub": "Udmurt Republic"
+  },
+  {
+    "query": "the official language of Loviisa is the ",
+    "answer": "Finnish",
+    "sub": "Loviisa"
+  },
+  {
+    "query": "the official language of Colorado is the ",
+    "answer": "English",
+    "sub": "Colorado"
+  },
+  {
+    "query": "the official language of Siikainen is the ",
+    "answer": "Finnish",
+    "sub": "Siikainen"
+  },
+  {
+    "query": "the official language of Vaasa is the ",
+    "answer": "Finnish",
+    "sub": "Vaasa"
+  },
+  {
+    "query": "the official language of Swiss Federal Constitution is the ",
+    "answer": "Italian",
+    "sub": "Swiss Federal Constitution"
+  },
+  {
+    "query": "the official language of Kabardino-Balkaria is the ",
+    "answer": "Russian",
+    "sub": "Kabardino-Balkaria"
+  },
+  {
+    "query": "the official language of Tonga is the ",
+    "answer": "English",
+    "sub": "Tonga"
+  },
+  {
+    "query": "the official language of Lapinlahti is the ",
+    "answer": "Finnish",
+    "sub": "Lapinlahti"
+  },
+  {
+    "query": "the official language of England is the ",
+    "answer": "English",
+    "sub": "England"
+  },
+  {
+    "query": "the official language of Equatorial Guinea is the ",
+    "answer": "Portuguese",
+    "sub": "Equatorial Guinea"
+  },
+  {
+    "query": "the official language of Forssa is the ",
+    "answer": "Finnish",
+    "sub": "Forssa"
+  },
+  {
+    "query": "the official language of Transnistria is the ",
+    "answer": "Russian",
+    "sub": "Transnistria"
+  },
+  {
+    "query": "the official language of Byelorussian Soviet Socialist Republic is the ",
+    "answer": "Belarusian",
+    "sub": "Byelorussian Soviet Socialist Republic"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "English",
+    "sub": "English plural"
+  },
+  {
+    "query": "the official language of Collonge-Bellerive is the ",
+    "answer": "French",
+    "sub": "Collonge-Bellerive"
+  },
+  {
+    "query": "the official language of Kyustendil Province is the ",
+    "answer": "Bulgarian",
+    "sub": "Kyustendil Province"
+  },
+  {
+    "query": "the official language of Orimattila is the ",
+    "answer": "Finnish",
+    "sub": "Orimattila"
+  },
+  {
+    "query": "the official language of Ireland is the ",
+    "answer": "Irish",
+    "sub": "Ireland"
+  },
+  {
+    "query": "the official language of Guinea-Bissau is the ",
+    "answer": "Portuguese",
+    "sub": "Guinea-Bissau"
+  },
+  {
+    "query": "the official language of Bosnia and Herzegovina is the ",
+    "answer": "Croatian",
+    "sub": "Bosnia and Herzegovina"
+  },
+  {
+    "query": "the official language of Indiana is the ",
+    "answer": "English",
+    "sub": "Indiana"
+  },
+  {
+    "query": "the official language of Renens is the ",
+    "answer": "French",
+    "sub": "Renens"
+  },
+  {
+    "query": "the official language of North Korea is the ",
+    "answer": "Korean",
+    "sub": "North Korea"
+  },
+  {
+    "query": "the official language of Donetsk People's Republic is the ",
+    "answer": "Ukrainian",
+    "sub": "Donetsk People's Republic"
+  },
+  {
+    "query": "the official language of Kronoby is the ",
+    "answer": "Finnish",
+    "sub": "Kronoby"
+  },
+  {
+    "query": "the official language of Tavannes is the ",
+    "answer": "French",
+    "sub": "Tavannes"
+  },
+  {
+    "query": "the official language of Singapore is the ",
+    "answer": "Tamil",
+    "sub": "Singapore"
+  },
+  {
+    "query": "the official language of Russia is the ",
+    "answer": "Ukrainian",
+    "sub": "Russia"
+  },
+  {
+    "query": "the official language of Kingdom of Sicily is the ",
+    "answer": "Sicilian",
+    "sub": "Kingdom of Sicily"
+  },
+  {
+    "query": "the official language of Collective Security Treaty Organisation is the ",
+    "answer": "Russian",
+    "sub": "Collective Security Treaty Organisation"
+  },
+  {
+    "query": "the official language of Kuopio is the ",
+    "answer": "Finnish",
+    "sub": "Kuopio"
+  },
+  {
+    "query": "the official language of Kauniainen is the ",
+    "answer": "Finnish",
+    "sub": "Kauniainen"
+  },
+  {
+    "query": "the official language of Argentina is the ",
+    "answer": "Spanish",
+    "sub": "Argentina"
+  },
+  {
+    "query": "the official language of Eura is the ",
+    "answer": "Finnish",
+    "sub": "Eura"
+  },
+  {
+    "query": "the official language of Hollola is the ",
+    "answer": "Finnish",
+    "sub": "Hollola"
+  },
+  {
+    "query": "the official language of Mikkeli is the ",
+    "answer": "Finnish",
+    "sub": "Mikkeli"
+  },
+  {
+    "query": "the official language of Bernese Oberland is the ",
+    "answer": "German",
+    "sub": "Bernese Oberland"
+  },
+  {
+    "query": "the official language of Duchy of ",
+    "answer": "Norman",
+    "sub": "Duchy of Normandy"
+  },
+  {
+    "query": "the official language of Netherlands Antilles is the ",
+    "answer": "English",
+    "sub": "Netherlands Antilles"
+  },
+  {
+    "query": "the official language of Kontiolahti is the ",
+    "answer": "Finnish",
+    "sub": "Kontiolahti"
+  },
+  {
+    "query": "the official language of Royal Society of British Artists is the ",
+    "answer": "English",
+    "sub": "Royal Society of British Artists"
+  },
+  {
+    "query": "the official language of Espoo is the ",
+    "answer": "Finnish",
+    "sub": "Espoo"
+  },
+  {
+    "query": "the official language of Aarau is the ",
+    "answer": "German",
+    "sub": "Aarau"
+  },
+  {
+    "query": "the official language of Yalta is the ",
+    "answer": "Russian",
+    "sub": "Yalta"
+  },
+  {
+    "query": "the official language of Zhovti Vody is the ",
+    "answer": "Russian",
+    "sub": "Zhovti Vody"
+  },
+  {
+    "query": "the official language of Nova Scotia is the ",
+    "answer": "English",
+    "sub": "Nova Scotia"
+  },
+  {
+    "query": "the official language of Organisation for Economic Cooperation and Development is the ",
+    "answer": "English",
+    "sub": "Organisation for Economic Cooperation and Development"
+  },
+  {
+    "query": "the official language of Hawaii is the ",
+    "answer": "English",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "the official language of Campione d'Italia is the ",
+    "answer": "Italian",
+    "sub": "Campione d'Italia"
+  },
+  {
+    "query": "the official language of Vantaa is the ",
+    "answer": "Swedish",
+    "sub": "Vantaa"
+  },
+  {
+    "query": "the official language of Tsardom of Russia is the ",
+    "answer": "Russian",
+    "sub": "Tsardom of Russia"
+  },
+  {
+    "query": "the official language of Carouge is the ",
+    "answer": "French",
+    "sub": "Carouge"
+  },
+  {
+    "query": "the official language of Tolmezzo is the ",
+    "answer": "Italian",
+    "sub": "Tolmezzo"
+  },
+  {
+    "query": "the official language of World Health Organization is the ",
+    "answer": "Russian",
+    "sub": "World Health Organization"
+  },
+  {
+    "query": "the official language of Palau is the ",
+    "answer": "English",
+    "sub": "Palau"
+  },
+  {
+    "query": "the official language of County Cork is the ",
+    "answer": "Irish",
+    "sub": "County Cork"
+  },
+  {
+    "query": "the official language of Azerbaijan Soviet Socialist Republic is the ",
+    "answer": "Azerbaijani",
+    "sub": "Azerbaijan Soviet Socialist Republic"
+  },
+  {
+    "query": "the official language of Rovaniemi is the ",
+    "answer": "Finnish",
+    "sub": "Rovaniemi"
+  },
+  {
+    "query": "the official language of Vimpeli is the ",
+    "answer": "Finnish",
+    "sub": "Vimpeli"
+  },
+  {
+    "query": "the official language of Niue is the ",
+    "answer": "English",
+    "sub": "Niue"
+  },
+  {
+    "query": "the official language of Old Kingdom of Egypt is the ",
+    "answer": "Egyptian",
+    "sub": "Old Kingdom of Egypt"
+  },
+  {
+    "query": "the official language of Cote d'Ivoire is the ",
+    "answer": "French",
+    "sub": "Cote d'Ivoire"
+  },
+  {
+    "query": "the official language of Honduras is the ",
+    "answer": "Spanish",
+    "sub": "Honduras"
+  },
+  {
+    "query": "the official language of New Hampshire is the ",
+    "answer": "English",
+    "sub": "New Hampshire"
+  },
+  {
+    "query": "the official language of Cayman Islands is the ",
+    "answer": "English",
+    "sub": "Cayman Islands"
+  },
+  {
+    "query": "the official language of Burundi is the ",
+    "answer": "English",
+    "sub": "Burundi"
+  },
+  {
+    "query": "the official language of Kirkkonummi is the ",
+    "answer": "Finnish",
+    "sub": "Kirkkonummi"
+  },
+  {
+    "query": "the official language of Ikaalinen is the ",
+    "answer": "Finnish",
+    "sub": "Ikaalinen"
+  },
+  {
+    "query": "the official language of Cameroon is the ",
+    "answer": "English",
+    "sub": "Cameroon"
+  },
+  {
+    "query": "the official language of Alaska is the ",
+    "answer": "English",
+    "sub": "Alaska"
+  },
+  {
+    "query": "the official language of Isojoki is the ",
+    "answer": "Finnish",
+    "sub": "Isojoki"
+  },
+  {
+    "query": "the official language of Vatican City is the ",
+    "answer": "Italian",
+    "sub": "Vatican City"
+  },
+  {
+    "query": "the official language of Donetsk is the ",
+    "answer": "Russian",
+    "sub": "Donetsk"
+  },
+  {
+    "query": "the official language of Mozambique is the ",
+    "answer": "Portuguese",
+    "sub": "Mozambique"
+  },
+  {
+    "query": "the official language of Timor-Leste is the ",
+    "answer": "Portuguese",
+    "sub": "Timor-Leste"
+  },
+  {
+    "query": "the official language of Akrotiri and Dhekelia is the ",
+    "answer": "English",
+    "sub": "Akrotiri and Dhekelia"
+  },
+  {
+    "query": "the official language of L'Abbaye is the ",
+    "answer": "French",
+    "sub": "L'Abbaye"
+  },
+  {
+    "query": "the official language of British Antarctic Territory is the ",
+    "answer": "English",
+    "sub": "British Antarctic Territory"
+  },
+  {
+    "query": "the official language of Lieksa is the ",
+    "answer": "Finnish",
+    "sub": "Lieksa"
+  },
+  {
+    "query": "the official language of Brissago is the ",
+    "answer": "Italian",
+    "sub": "Brissago"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Russian",
+    "sub": "Russian Empire"
+  },
+  {
+    "query": "the official language of Nigeria is the ",
+    "answer": "English",
+    "sub": "Nigeria"
+  },
+  {
+    "query": "the official language of Kingdom of the Netherlands is the ",
+    "answer": "Dutch",
+    "sub": "Kingdom of the Netherlands"
+  },
+  {
+    "query": "the official language of Abkhazia is the ",
+    "answer": "Russian",
+    "sub": "Abkhazia"
+  },
+  {
+    "query": "the official language of Viitasaari is the ",
+    "answer": "Finnish",
+    "sub": "Viitasaari"
+  },
+  {
+    "query": "the official language of Mallorca is the ",
+    "answer": "Spanish",
+    "sub": "Mallorca"
+  },
+  {
+    "query": "the official language of Portugal is the ",
+    "answer": "Portuguese",
+    "sub": "Portugal"
+  },
+  {
+    "query": "the official language of Kalajoki is the ",
+    "answer": "Finnish",
+    "sub": "Kalajoki"
+  },
+  {
+    "query": "the official language of Union between Sweden and Norway is the ",
+    "answer": "Norwegian",
+    "sub": "Union between Sweden and Norway"
+  },
+  {
+    "query": "the official language of Haparanda Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Haparanda Municipality"
+  },
+  {
+    "query": "the official language of Manitoba is the ",
+    "answer": "English",
+    "sub": "Manitoba"
+  },
+  {
+    "query": "the official language of Berg Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Berg Municipality"
+  },
+  {
+    "query": "the official language of European Space Agency is the ",
+    "answer": "French",
+    "sub": "European Space Agency"
+  },
+  {
+    "query": "the official language of Malabo is the ",
+    "answer": "Spanish",
+    "sub": "Malabo"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Spanish",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Laukaa is the ",
+    "answer": "Finnish",
+    "sub": "Laukaa"
+  },
+  {
+    "query": "the official language of Kaavi is the ",
+    "answer": "Finnish",
+    "sub": "Kaavi"
+  },
+  {
+    "query": "the official language of Sipoo is the ",
+    "answer": "Finnish",
+    "sub": "Sipoo"
+  },
+  {
+    "query": "the official language of Mari El Republic is the ",
+    "answer": "Russian",
+    "sub": "Mari El Republic"
+  },
+  {
+    "query": "the official language of Helsinki is the ",
+    "answer": "Finnish",
+    "sub": "Helsinki"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "French",
+    "sub": "French Community of Belgium"
+  },
+  {
+    "query": "the official language of Kuhmo is the ",
+    "answer": "Finnish",
+    "sub": "Kuhmo"
+  },
+  {
+    "query": "the official language of Catalonia is the ",
+    "answer": "Spanish",
+    "sub": "Catalonia"
+  },
+  {
+    "query": "the official language of Russian Empire is the ",
+    "answer": "Polish",
+    "sub": "Russian Empire"
+  },
+  {
+    "query": "the official language of Chhattisgarh is the ",
+    "answer": "Hindi",
+    "sub": "Chhattisgarh"
+  },
+  {
+    "query": "the official language of Heinola is the ",
+    "answer": "Finnish",
+    "sub": "Heinola"
+  },
+  {
+    "query": "the official language of Autonomous Republic of Crimea is the ",
+    "answer": "Ukrainian",
+    "sub": "Autonomous Republic of Crimea"
+  },
+  {
+    "query": "the official language of Seychelles is the ",
+    "answer": "English",
+    "sub": "Seychelles"
+  },
+  {
+    "query": "the official language of Navarre is the ",
+    "answer": "Basque",
+    "sub": "Navarre"
+  },
+  {
+    "query": "the official language of Chardonne is the ",
+    "answer": "French",
+    "sub": "Chardonne"
+  },
+  {
+    "query": "the official language of manually coded ",
+    "answer": "English",
+    "sub": "manually coded English"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Spanish",
+    "sub": "Spanish Empire"
+  },
+  {
+    "query": "the official language of Haninge Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Haninge Municipality"
+  },
+  {
+    "query": "the official language of Saskatchewan is the ",
+    "answer": "English",
+    "sub": "Saskatchewan"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Ukrainian",
+    "sub": "Ukrainian Soviet Socialist Republic"
+  },
+  {
+    "query": "the official language of Asturias is the ",
+    "answer": "Spanish",
+    "sub": "Asturias"
+  },
+  {
+    "query": "the official language of East Kalimantan is the ",
+    "answer": "Indonesian",
+    "sub": "East Kalimantan"
+  },
+  {
+    "query": "the official language of Vietnam is the ",
+    "answer": "Vietnamese",
+    "sub": "Vietnam"
+  },
+  {
+    "query": "the official language of Kosovo is the ",
+    "answer": "Albanian",
+    "sub": "Kosovo"
+  },
+  {
+    "query": "the official language of Cadenazzo is the ",
+    "answer": "Italian",
+    "sub": "Cadenazzo"
+  },
+  {
+    "query": "the official language of Eupen is the ",
+    "answer": "German",
+    "sub": "Eupen"
+  },
+  {
+    "query": "the official language of Valkeakoski is the ",
+    "answer": "Finnish",
+    "sub": "Valkeakoski"
+  },
+  {
+    "query": "the official language of Utsjoki is the ",
+    "answer": "Finnish",
+    "sub": "Utsjoki"
+  },
+  {
+    "query": "the official language of World Trade Organization is the ",
+    "answer": "French",
+    "sub": "World Trade Organization"
+  },
+  {
+    "query": "the official language of Republic of ",
+    "answer": "Serbian",
+    "sub": "Republic of Serbian Krajina"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Finnish",
+    "sub": "Finnish Orthodox Church"
+  },
+  {
+    "query": "the official language of Lappeenranta is the ",
+    "answer": "Finnish",
+    "sub": "Lappeenranta"
+  },
+  {
+    "query": "the official language of Ecuador is the ",
+    "answer": "Spanish",
+    "sub": "Ecuador"
+  },
+  {
+    "query": "the official language of Luhansk Oblast is the ",
+    "answer": "Russian",
+    "sub": "Luhansk Oblast"
+  },
+  {
+    "query": "the official language of Hyderabad is the ",
+    "answer": "Telugu",
+    "sub": "Hyderabad"
+  },
+  {
+    "query": "the official language of United Nations is the ",
+    "answer": "English",
+    "sub": "United Nations"
+  },
+  {
+    "query": "the official language of Jersey is the ",
+    "answer": "English",
+    "sub": "Jersey"
+  },
+  {
+    "query": "the official language of Qing dynasty is the ",
+    "answer": "Mongolian",
+    "sub": "Qing dynasty"
+  },
+  {
+    "query": "the official language of VASKhNIL is the ",
+    "answer": "Russian",
+    "sub": "VASKhNIL"
+  },
+  {
+    "query": "the official language of Guyana is the ",
+    "answer": "English",
+    "sub": "Guyana"
+  },
+  {
+    "query": "the official language of Austria is the ",
+    "answer": "German",
+    "sub": "Austria"
+  },
+  {
+    "query": "the official language of Mistretta is the ",
+    "answer": "Italian",
+    "sub": "Mistretta"
+  },
+  {
+    "query": "the official language of Singapore is the ",
+    "answer": "Malay",
+    "sub": "Singapore"
+  },
+  {
+    "query": "the official language of Hailuoto is the ",
+    "answer": "Finnish",
+    "sub": "Hailuoto"
+  },
+  {
+    "query": "the official language of Turkey is the ",
+    "answer": "Turkish",
+    "sub": "Turkey"
+  },
+  {
+    "query": "the official language of Chile is the ",
+    "answer": "Spanish",
+    "sub": "Chile"
+  },
+  {
+    "query": "the official language of Veyrier is the ",
+    "answer": "French",
+    "sub": "Veyrier"
+  },
+  {
+    "query": "the official language of Hyrynsalmi is the ",
+    "answer": "Finnish",
+    "sub": "Hyrynsalmi"
+  },
+  {
+    "query": "the official language of Sint Maarten is the ",
+    "answer": "Dutch",
+    "sub": "Sint Maarten"
+  },
+  {
+    "query": "the official language of International Organization for Standardization is the ",
+    "answer": "French",
+    "sub": "International Organization for Standardization"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "English",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Brussels Capital Region is the ",
+    "answer": "French",
+    "sub": "Brussels Capital Region"
+  },
+  {
+    "query": "the official language of Canton of Valais is the ",
+    "answer": "French",
+    "sub": "Canton of Valais"
+  },
+  {
+    "query": "the official language of Delhi is the ",
+    "answer": "Urdu",
+    "sub": "Delhi"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Swedish",
+    "sub": "Swedish Empire"
+  },
+  {
+    "query": "the official language of Raseborg is the ",
+    "answer": "Swedish",
+    "sub": "Raseborg"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Slovak",
+    "sub": "Slovak Socialist Republic"
+  },
+  {
+    "query": "the official language of Kalix Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Kalix Municipality"
+  },
+  {
+    "query": "the official language of Raseborg is the ",
+    "answer": "Finnish",
+    "sub": "Raseborg"
+  },
+  {
+    "query": "the official language of South Dakota is the ",
+    "answer": "English",
+    "sub": "South Dakota"
+  },
+  {
+    "query": "the official language of Alabama is the ",
+    "answer": "English",
+    "sub": "Alabama"
+  },
+  {
+    "query": "the official language of Miss Universe is the ",
+    "answer": "English",
+    "sub": "Miss Universe"
+  },
+  {
+    "query": "the official language of California is the ",
+    "answer": "English",
+    "sub": "California"
+  },
+  {
+    "query": "the official language of Pacific Alliance is the ",
+    "answer": "Spanish",
+    "sub": "Pacific Alliance"
+  },
+  {
+    "query": "the official language of Laitila is the ",
+    "answer": "Finnish",
+    "sub": "Laitila"
+  },
+  {
+    "query": "the official language of Switzerland is the ",
+    "answer": "Italian",
+    "sub": "Switzerland"
+  },
+  {
+    "query": "the official language of Tuva Republic is the ",
+    "answer": "Russian",
+    "sub": "Tuva Republic"
+  },
+  {
+    "query": "the official language of Russia is the ",
+    "answer": "Russian",
+    "sub": "Russia"
+  },
+  {
+    "query": "the official language of Sambir is the ",
+    "answer": "Ukrainian",
+    "sub": "Sambir"
+  },
+  {
+    "query": "the official language of Yukon is the ",
+    "answer": "English",
+    "sub": "Yukon"
+  },
+  {
+    "query": "the official language of Liperi is the ",
+    "answer": "Finnish",
+    "sub": "Liperi"
+  },
+  {
+    "query": "the official language of Burkina Faso is the ",
+    "answer": "French",
+    "sub": "Burkina Faso"
+  },
+  {
+    "query": "the official language of Sonvilier is the ",
+    "answer": "French",
+    "sub": "Sonvilier"
+  },
+  {
+    "query": "the official language of Bosco/Gurin is the ",
+    "answer": "Italian",
+    "sub": "Bosco/Gurin"
+  },
+  {
+    "query": "the official language of Jersey is the ",
+    "answer": "French",
+    "sub": "Jersey"
+  },
+  {
+    "query": "the official language of Russia is the ",
+    "answer": "Azerbaijani",
+    "sub": "Russia"
+  },
+  {
+    "query": "the official language of Russia is the ",
+    "answer": "Mari",
+    "sub": "Russia"
+  },
+  {
+    "query": "the official language of Nunavut is the ",
+    "answer": "French",
+    "sub": "Nunavut"
+  },
+  {
+    "query": "the official language of Korpo is the ",
+    "answer": "Finnish",
+    "sub": "Korpo"
+  },
+  {
+    "query": "the official language of Nousiainen is the ",
+    "answer": "Finnish",
+    "sub": "Nousiainen"
+  },
+  {
+    "query": "the official language of Kotka is the ",
+    "answer": "Finnish",
+    "sub": "Kotka"
+  },
+  {
+    "query": "the official language of Army Public School Peshawar is the ",
+    "answer": "English",
+    "sub": "Army Public School Peshawar"
+  },
+  {
+    "query": "the official language of Rabinal is the ",
+    "answer": "Spanish",
+    "sub": "Rabinal"
+  },
+  {
+    "query": "the official language of Italy is the ",
+    "answer": "Italian",
+    "sub": "Italy"
+  },
+  {
+    "query": "the official language of Wetzikon is the ",
+    "answer": "German",
+    "sub": "Wetzikon"
+  },
+  {
+    "query": "the official language of Qing dynasty is the ",
+    "answer": "Chinese",
+    "sub": "Qing dynasty"
+  },
+  {
+    "query": "the official language of North Carolina is the ",
+    "answer": "English",
+    "sub": "North Carolina"
+  },
+  {
+    "query": "the official language of Savukoski is the ",
+    "answer": "Finnish",
+    "sub": "Savukoski"
+  },
+  {
+    "query": "the official language of Karvia is the ",
+    "answer": "Finnish",
+    "sub": "Karvia"
+  },
+  {
+    "query": "the official language of Philippines is the ",
+    "answer": "Filipino",
+    "sub": "Philippines"
+  },
+  {
+    "query": "the official language of Lohja is the ",
+    "answer": "Finnish",
+    "sub": "Lohja"
+  },
+  {
+    "query": "the official language of Philippines is the ",
+    "answer": "English",
+    "sub": "Philippines"
+  },
+  {
+    "query": "the official language of Sweden is the ",
+    "answer": "Finnish",
+    "sub": "Sweden"
+  },
+  {
+    "query": "the official language of Idaho is the ",
+    "answer": "English",
+    "sub": "Idaho"
+  },
+  {
+    "query": "the official language of Maharashtra is the ",
+    "answer": "Marathi",
+    "sub": "Maharashtra"
+  },
+  {
+    "query": "the official language of Republic of Buryatia is the ",
+    "answer": "Russian",
+    "sub": "Republic of Buryatia"
+  },
+  {
+    "query": "the official language of Niger is the ",
+    "answer": "French",
+    "sub": "Niger"
+  },
+  {
+    "query": "the official language of Solna Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Solna Municipality"
+  },
+  {
+    "query": "the official language of Lucknow is the ",
+    "answer": "English",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Russian",
+    "sub": "Russian Soviet Federative Socialist Republic"
+  },
+  {
+    "query": "the official language of Spiez is the ",
+    "answer": "German",
+    "sub": "Spiez"
+  },
+  {
+    "query": "the official language of Autonomous Province of Kosovo and Metohija is the ",
+    "answer": "Albanian",
+    "sub": "Autonomous Province of Kosovo and Metohija"
+  },
+  {
+    "query": "the official language of Hammarland is the ",
+    "answer": "Swedish",
+    "sub": "Hammarland"
+  },
+  {
+    "query": "the official language of Vaala is the ",
+    "answer": "Finnish",
+    "sub": "Vaala"
+  },
+  {
+    "query": "the official language of National Film Board of Canada is the ",
+    "answer": "French",
+    "sub": "National Film Board of Canada"
+  },
+  {
+    "query": "the official language of Jakobstad is the ",
+    "answer": "Finnish",
+    "sub": "Jakobstad"
+  },
+  {
+    "query": "the official language of Mandatory Palestine is the ",
+    "answer": "Hebrew",
+    "sub": "Mandatory Palestine"
+  },
+  {
+    "query": "the official language of ASEAN is the ",
+    "answer": "Indonesian",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "the official language of Serbia and Montenegro is the ",
+    "answer": "Serbian",
+    "sub": "Serbia and Montenegro"
+  },
+  {
+    "query": "the official language of Nuevo Santander is the ",
+    "answer": "Spanish",
+    "sub": "Nuevo Santander"
+  },
+  {
+    "query": "the official language of International Organization for Standardization is the ",
+    "answer": "English",
+    "sub": "International Organization for Standardization"
+  },
+  {
+    "query": "the official language of Croatia is the ",
+    "answer": "Croatian",
+    "sub": "Croatia"
+  },
+  {
+    "query": "the official language of Kiruna Municipality is the ",
+    "answer": "Finnish",
+    "sub": "Kiruna Municipality"
+  },
+  {
+    "query": "the official language of Mashhad is the ",
+    "answer": "Persian",
+    "sub": "Mashhad"
+  },
+  {
+    "query": "the official language of American Samoa is the ",
+    "answer": "English",
+    "sub": "American Samoa"
+  },
+  {
+    "query": "the official language of Kauniainen is the ",
+    "answer": "Swedish",
+    "sub": "Kauniainen"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Czech",
+    "sub": "Czech Republic"
+  },
+  {
+    "query": "the official language of Saint Lucia is the ",
+    "answer": "English",
+    "sub": "Saint Lucia"
+  },
+  {
+    "query": "the official language of North American Free Trade Agreement is the ",
+    "answer": "Spanish",
+    "sub": "North American Free Trade Agreement"
+  },
+  {
+    "query": "the official language of Liechtenstein is the ",
+    "answer": "German",
+    "sub": "Liechtenstein"
+  },
+  {
+    "query": "the official language of Virolahti is the ",
+    "answer": "Finnish",
+    "sub": "Virolahti"
+  },
+  {
+    "query": "the official language of Uganda is the ",
+    "answer": "English",
+    "sub": "Uganda"
+  },
+  {
+    "query": "the official language of Republic of Adygea is the ",
+    "answer": "Russian",
+    "sub": "Republic of Adygea"
+  },
+  {
+    "query": "the official language of Chuvash Republic is the ",
+    "answer": "Russian",
+    "sub": "Chuvash Republic"
+  },
+  {
+    "query": "the official language of Seychelles is the ",
+    "answer": "French",
+    "sub": "Seychelles"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Czech",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Eritrea is the ",
+    "answer": "English",
+    "sub": "Eritrea"
+  },
+  {
+    "query": "the official language of Mauritius is the ",
+    "answer": "French",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Lithuanian",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Republic of North Ossetia-Alania is the ",
+    "answer": "Russian",
+    "sub": "Republic of North Ossetia-Alania"
+  },
+  {
+    "query": "the official language of La Gomera is the ",
+    "answer": "Spanish",
+    "sub": "La Gomera"
+  },
+  {
+    "query": "the official language of Enlightenment in Spain is the ",
+    "answer": "Spanish",
+    "sub": "Enlightenment in Spain"
+  },
+  {
+    "query": "the official language of France is the ",
+    "answer": "French",
+    "sub": "France"
+  },
+  {
+    "query": "the official language of Kerala is the ",
+    "answer": "Malayalam",
+    "sub": "Kerala"
+  },
+  {
+    "query": "the official language of Cameroon is the ",
+    "answer": "French",
+    "sub": "Cameroon"
+  },
+  {
+    "query": "the official language of Quebec City is the ",
+    "answer": "French",
+    "sub": "Quebec City"
+  },
+  {
+    "query": "the official language of Community of Valencia is the ",
+    "answer": "Spanish",
+    "sub": "Community of Valencia"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Thai",
+    "sub": "Thailand"
+  },
+  {
+    "query": "the official language of Asikkala is the ",
+    "answer": "Finnish",
+    "sub": "Asikkala"
+  },
+  {
+    "query": "the official language of Exarchate of Ravenna is the ",
+    "answer": "Latin",
+    "sub": "Exarchate of Ravenna"
+  },
+  {
+    "query": "the official language of Organization for Security and Co-operation in Europe is the ",
+    "answer": "Italian",
+    "sub": "Organization for Security and Co-operation in Europe"
+  },
+  {
+    "query": "the official language of Democratic Republic of the Congo is the ",
+    "answer": "French",
+    "sub": "Democratic Republic of the Congo"
+  },
+  {
+    "query": "the official language of Hungary is the ",
+    "answer": "Hungarian",
+    "sub": "Hungary"
+  },
+  {
+    "query": "the official language of Izabal Department is the ",
+    "answer": "Spanish",
+    "sub": "Izabal Department"
+  },
+  {
+    "query": "the official language of Savonlinna is the ",
+    "answer": "Finnish",
+    "sub": "Savonlinna"
+  },
+  {
+    "query": "the official language of Donetsk People's Republic is the ",
+    "answer": "Russian",
+    "sub": "Donetsk People's Republic"
+  },
+  {
+    "query": "the official language of Vanuatu is the ",
+    "answer": "French",
+    "sub": "Vanuatu"
+  },
+  {
+    "query": "the official language of Estonia is the ",
+    "answer": "Estonian",
+    "sub": "Estonia"
+  },
+  {
+    "query": "the official language of Kentucky is the ",
+    "answer": "English",
+    "sub": "Kentucky"
+  },
+  {
+    "query": "the official language of Storuman Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Storuman Municipality"
+  },
+  {
+    "query": "the official language of Orivesi is the ",
+    "answer": "Finnish",
+    "sub": "Orivesi"
+  },
+  {
+    "query": "the official language of Paltamo is the ",
+    "answer": "Finnish",
+    "sub": "Paltamo"
+  },
+  {
+    "query": "the official language of Lucknow is the ",
+    "answer": "Hindi",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "the official language of Bali is the ",
+    "answer": "Indonesian",
+    "sub": "Bali"
+  },
+  {
+    "query": "the official language of North Dakota is the ",
+    "answer": "English",
+    "sub": "North Dakota"
+  },
+  {
+    "query": "the official language of Kalix Municipality is the ",
+    "answer": "Finnish",
+    "sub": "Kalix Municipality"
+  },
+  {
+    "query": "the official language of Spain is the ",
+    "answer": "Basque",
+    "sub": "Spain"
+  },
+  {
+    "query": "the official language of Malta is the ",
+    "answer": "English",
+    "sub": "Malta"
+  },
+  {
+    "query": "the official language of Republic of Kalmykia is the ",
+    "answer": "Russian",
+    "sub": "Republic of Kalmykia"
+  },
+  {
+    "query": "the official language of Teuva is the ",
+    "answer": "Finnish",
+    "sub": "Teuva"
+  },
+  {
+    "query": "the official language of Camorino is the ",
+    "answer": "Italian",
+    "sub": "Camorino"
+  },
+  {
+    "query": "the official language of canton of Fribourg is the ",
+    "answer": "French",
+    "sub": "canton of Fribourg"
+  },
+  {
+    "query": "the official language of Northwest Territories is the ",
+    "answer": "English",
+    "sub": "Northwest Territories"
+  },
+  {
+    "query": "the official language of Akaa is the ",
+    "answer": "Finnish",
+    "sub": "Akaa"
+  },
+  {
+    "query": "the official language of New Brunswick is the ",
+    "answer": "English",
+    "sub": "New Brunswick"
+  },
+  {
+    "query": "the official language of Wales is the ",
+    "answer": "English",
+    "sub": "Wales"
+  },
+  {
+    "query": "the official language of Hamina is the ",
+    "answer": "Finnish",
+    "sub": "Hamina"
+  },
+  {
+    "query": "the official language of Comoros is the ",
+    "answer": "French",
+    "sub": "Comoros"
+  },
+  {
+    "query": "the official language of Sweden is the ",
+    "answer": "Romani",
+    "sub": "Sweden"
+  },
+  {
+    "query": "the official language of Sundsvall Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Sundsvall Municipality"
+  },
+  {
+    "query": "the official language of Kingdom of Sicily is the ",
+    "answer": "Greek",
+    "sub": "Kingdom of Sicily"
+  },
+  {
+    "query": "the official language of World Health Organization is the ",
+    "answer": "French",
+    "sub": "World Health Organization"
+  },
+  {
+    "query": "the official language of canton of Fribourg is the ",
+    "answer": "German",
+    "sub": "canton of Fribourg"
+  },
+  {
+    "query": "the official language of International Civil Aviation Organization is the ",
+    "answer": "Russian",
+    "sub": "International Civil Aviation Organization"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "German",
+    "sub": "German-speaking Community of Belgium"
+  },
+  {
+    "query": "the official language of Kannonkoski is the ",
+    "answer": "Finnish",
+    "sub": "Kannonkoski"
+  },
+  {
+    "query": "the official language of United Nations is the ",
+    "answer": "French",
+    "sub": "United Nations"
+  },
+  {
+    "query": "the official language of Roman Empire is the ",
+    "answer": "Greek",
+    "sub": "Roman Empire"
+  },
+  {
+    "query": "the official language of Udmurt Autonomous Oblast is the ",
+    "answer": "Russian",
+    "sub": "Udmurt Autonomous Oblast"
+  },
+  {
+    "query": "the official language of Indore is the ",
+    "answer": "Hindi",
+    "sub": "Indore"
+  },
+  {
+    "query": "the official language of Gibraltar is the ",
+    "answer": "English",
+    "sub": "Gibraltar"
+  },
+  {
+    "query": "the official language of Byelorussian Soviet Socialist Republic is the ",
+    "answer": "Polish",
+    "sub": "Byelorussian Soviet Socialist Republic"
+  },
+  {
+    "query": "the official language of Spain is the ",
+    "answer": "Spanish",
+    "sub": "Spain"
+  },
+  {
+    "query": "the official language of Torfaen is the ",
+    "answer": "Welsh",
+    "sub": "Torfaen"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Tamil",
+    "sub": "Tamil Nadu"
+  },
+  {
+    "query": "the official language of Altai Krai is the ",
+    "answer": "Russian",
+    "sub": "Altai Krai"
+  },
+  {
+    "query": "the official language of Mendrisio is the ",
+    "answer": "Italian",
+    "sub": "Mendrisio"
+  },
+  {
+    "query": "the official language of Luxembourg is the ",
+    "answer": "French",
+    "sub": "Luxembourg"
+  },
+  {
+    "query": "the official language of Aceh is the ",
+    "answer": "Indonesian",
+    "sub": "Aceh"
+  },
+  {
+    "query": "the official language of El Salvador is the ",
+    "answer": "Spanish",
+    "sub": "El Salvador"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "French",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of United Kingdom is the ",
+    "answer": "Welsh",
+    "sub": "United Kingdom"
+  },
+  {
+    "query": "the official language of Torfaen is the ",
+    "answer": "English",
+    "sub": "Torfaen"
+  },
+  {
+    "query": "the official language of Bex is the ",
+    "answer": "French",
+    "sub": "Bex"
+  },
+  {
+    "query": "the official language of Jambi is the ",
+    "answer": "Indonesian",
+    "sub": "Jambi"
+  },
+  {
+    "query": "the official language of Le Grand-Saconnex is the ",
+    "answer": "French",
+    "sub": "Le Grand-Saconnex"
+  },
+  {
+    "query": "the official language of Denmark is the ",
+    "answer": "Danish",
+    "sub": "Denmark"
+  },
+  {
+    "query": "the official language of International Organization for Standardization is the ",
+    "answer": "Russian",
+    "sub": "International Organization for Standardization"
+  },
+  {
+    "query": "the official language of Kolari is the ",
+    "answer": "Finnish",
+    "sub": "Kolari"
+  },
+  {
+    "query": "the official language of Canada is the ",
+    "answer": "French",
+    "sub": "Canada"
+  },
+  {
+    "query": "the official language of Cologny is the ",
+    "answer": "French",
+    "sub": "Cologny"
+  },
+  {
+    "query": "the official language of County Cork is the ",
+    "answer": "English",
+    "sub": "County Cork"
+  },
+  {
+    "query": "the official language of San Marino is the ",
+    "answer": "Italian",
+    "sub": "San Marino"
+  },
+  {
+    "query": "the official language of Pakistan is the ",
+    "answer": "English",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "the official language of Azerbaijan Democratic Republic is the ",
+    "answer": "Azerbaijani",
+    "sub": "Azerbaijan Democratic Republic"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Portuguese",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Guernsey is the ",
+    "answer": "English",
+    "sub": "Guernsey"
+  },
+  {
+    "query": "the official language of Merikarvia is the ",
+    "answer": "Finnish",
+    "sub": "Merikarvia"
+  },
+  {
+    "query": "the official language of Ligornetto is the ",
+    "answer": "Italian",
+    "sub": "Ligornetto"
+  },
+  {
+    "query": "the official language of Organization for Security and Co-operation in Europe is the ",
+    "answer": "Russian",
+    "sub": "Organization for Security and Co-operation in Europe"
+  },
+  {
+    "query": "the official language of Dietikon is the ",
+    "answer": "German",
+    "sub": "Dietikon"
+  },
+  {
+    "query": "the official language of First Czechoslovak Republic is the ",
+    "answer": "Slovak",
+    "sub": "First Czechoslovak Republic"
+  },
+  {
+    "query": "the official language of Republic of Venice is the ",
+    "answer": "Venetian",
+    "sub": "Republic of Venice"
+  },
+  {
+    "query": "the official language of Dominica is the ",
+    "answer": "English",
+    "sub": "Dominica"
+  },
+  {
+    "query": "the official language of Faido is the ",
+    "answer": "Italian",
+    "sub": "Faido"
+  },
+  {
+    "query": "the official language of World Athletics is the ",
+    "answer": "English",
+    "sub": "World Athletics"
+  },
+  {
+    "query": "the official language of Kingdom of Tavolara is the ",
+    "answer": "Italian",
+    "sub": "Kingdom of Tavolara"
+  },
+  {
+    "query": "the official language of International Atomic Energy Agency is the ",
+    "answer": "Russian",
+    "sub": "International Atomic Energy Agency"
+  },
+  {
+    "query": "the official language of Guatemala is the ",
+    "answer": "Spanish",
+    "sub": "Guatemala"
+  },
+  {
+    "query": "the official language of Belarus is the ",
+    "answer": "Russian",
+    "sub": "Belarus"
+  },
+  {
+    "query": "the official language of South Carolina is the ",
+    "answer": "English",
+    "sub": "South Carolina"
+  },
+  {
+    "query": "the official language of Saint Vincent and the Grenadines is the ",
+    "answer": "English",
+    "sub": "Saint Vincent and the Grenadines"
+  },
+  {
+    "query": "the official language of Aigle is the ",
+    "answer": "French",
+    "sub": "Aigle"
+  },
+  {
+    "query": "the official language of Mauritius is the ",
+    "answer": "English",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "the official language of Timurid Empire is the ",
+    "answer": "Persian",
+    "sub": "Timurid Empire"
+  },
+  {
+    "query": "the official language of Nicaragua is the ",
+    "answer": "Spanish",
+    "sub": "Nicaragua"
+  },
+  {
+    "query": "the official language of Cebu is the ",
+    "answer": "Filipino",
+    "sub": "Cebu"
+  },
+  {
+    "query": "the official language of Serbia is the ",
+    "answer": "Serbian",
+    "sub": "Serbia"
+  },
+  {
+    "query": "the official language of Prussia is the ",
+    "answer": "German",
+    "sub": "Prussia"
+  },
+  {
+    "query": "the official language of Ulvila is the ",
+    "answer": "Finnish",
+    "sub": "Ulvila"
+  },
+  {
+    "query": "the official language of Faroe Islands is the ",
+    "answer": "Danish",
+    "sub": "Faroe Islands"
+  },
+  {
+    "query": "the official language of Iceland is the ",
+    "answer": "Icelandic",
+    "sub": "Iceland"
+  },
+  {
+    "query": "the official language of Montenegro is the ",
+    "answer": "Montenegrin",
+    "sub": "Montenegro"
+  },
+  {
+    "query": "the official language of Lemland is the ",
+    "answer": "Swedish",
+    "sub": "Lemland"
+  },
+  {
+    "query": "the official language of Karlskoga Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Karlskoga Municipality"
+  },
+  {
+    "query": "the official language of Stockholm Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Stockholm Municipality"
+  },
+  {
+    "query": "the official language of Korsholm is the ",
+    "answer": "Swedish",
+    "sub": "Korsholm"
+  },
+  {
+    "query": "the official language of Karkkila is the ",
+    "answer": "Finnish",
+    "sub": "Karkkila"
+  },
+  {
+    "query": "the official language of Eskilstuna Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Eskilstuna Municipality"
+  },
+  {
+    "query": "the official language of Vichy France is the ",
+    "answer": "French",
+    "sub": "Vichy France"
+  },
+  {
+    "query": "the official language of Somero is the ",
+    "answer": "Finnish",
+    "sub": "Somero"
+  },
+  {
+    "query": "the official language of Melitopol is the ",
+    "answer": "Russian",
+    "sub": "Melitopol"
+  },
+  {
+    "query": "the official language of Muonio is the ",
+    "answer": "Finnish",
+    "sub": "Muonio"
+  },
+  {
+    "query": "the official language of Hankasalmi is the ",
+    "answer": "Finnish",
+    "sub": "Hankasalmi"
+  },
+  {
+    "query": "the official language of Ilmajoki is the ",
+    "answer": "Finnish",
+    "sub": "Ilmajoki"
+  },
+  {
+    "query": "the official language of Canton of Lucerne is the ",
+    "answer": "German",
+    "sub": "Canton of Lucerne"
+  },
+  {
+    "query": "the official language of Pervomaysky District, Yaroslavl Oblast is the ",
+    "answer": "Russian",
+    "sub": "Pervomaysky District, Yaroslavl Oblast"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Serbian",
+    "sub": "Serbian Orthodox Church"
+  },
+  {
+    "query": "the official language of Hong Kong is the ",
+    "answer": "English",
+    "sub": "Hong Kong"
+  },
+  {
+    "query": "the official language of President of the ",
+    "answer": "Basque",
+    "sub": "President of the Basque Autonomous Community"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Romanian",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Liestal is the ",
+    "answer": "German",
+    "sub": "Liestal"
+  },
+  {
+    "query": "the official language of Sui dynasty is the ",
+    "answer": "Chinese",
+    "sub": "Sui dynasty"
+  },
+  {
+    "query": "the official language of Hyderabad is the ",
+    "answer": "Urdu",
+    "sub": "Hyderabad"
+  },
+  {
+    "query": "the official language of Democratic Kampuchea is the ",
+    "answer": "Khmer",
+    "sub": "Democratic Kampuchea"
+  },
+  {
+    "query": "the official language of Biasca is the ",
+    "answer": "Italian",
+    "sub": "Biasca"
+  },
+  {
+    "query": "the official language of Bolama is the ",
+    "answer": "Portuguese",
+    "sub": "Bolama"
+  },
+  {
+    "query": "the official language of South Ossetia is the ",
+    "answer": "Russian",
+    "sub": "South Ossetia"
+  },
+  {
+    "query": "the official language of Aracena is the ",
+    "answer": "Spanish",
+    "sub": "Aracena"
+  },
+  {
+    "query": "the official language of New Jersey is the ",
+    "answer": "English",
+    "sub": "New Jersey"
+  },
+  {
+    "query": "the official language of Namibia is the ",
+    "answer": "English",
+    "sub": "Namibia"
+  },
+  {
+    "query": "the official language of Netherlands Antilles is the ",
+    "answer": "Dutch",
+    "sub": "Netherlands Antilles"
+  },
+  {
+    "query": "the official language of Economic Community of West African States is the ",
+    "answer": "French",
+    "sub": "Economic Community of West African States"
+  },
+  {
+    "query": "the official language of Chiasso is the ",
+    "answer": "Italian",
+    "sub": "Chiasso"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Slovak",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Prilly is the ",
+    "answer": "French",
+    "sub": "Prilly"
+  },
+  {
+    "query": "the official language of history of Limousin is the ",
+    "answer": "French",
+    "sub": "history of Limousin"
+  },
+  {
+    "query": "the official language of Bangladesh is the ",
+    "answer": "Bengali",
+    "sub": "Bangladesh"
+  },
+  {
+    "query": "the official language of Lamone is the ",
+    "answer": "Italian",
+    "sub": "Lamone"
+  },
+  {
+    "query": "the official language of Central Visayas is the ",
+    "answer": "Filipino",
+    "sub": "Central Visayas"
+  },
+  {
+    "query": "the official language of Ranua is the ",
+    "answer": "Finnish",
+    "sub": "Ranua"
+  },
+  {
+    "query": "the official language of Andorra is the ",
+    "answer": "Catalan",
+    "sub": "Andorra"
+  },
+  {
+    "query": "the official language of Trinidad and Tobago is the ",
+    "answer": "English",
+    "sub": "Trinidad and Tobago"
+  },
+  {
+    "query": "the official language of United Kingdom is the ",
+    "answer": "English",
+    "sub": "United Kingdom"
+  },
+  {
+    "query": "the official language of Kamchatka Krai is the ",
+    "answer": "Russian",
+    "sub": "Kamchatka Krai"
+  },
+  {
+    "query": "the official language of Blonay is the ",
+    "answer": "French",
+    "sub": "Blonay"
+  },
+  {
+    "query": "the official language of Ronco sopra Ascona is the ",
+    "answer": "Italian",
+    "sub": "Ronco sopra Ascona"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "German",
+    "sub": "Germany"
+  },
+  {
+    "query": "the official language of Lausanne is the ",
+    "answer": "French",
+    "sub": "Lausanne"
+  },
+  {
+    "query": "the official language of Botswana is the ",
+    "answer": "English",
+    "sub": "Botswana"
+  },
+  {
+    "query": "the official language of Iitti is the ",
+    "answer": "Finnish",
+    "sub": "Iitti"
+  },
+  {
+    "query": "the official language of Sint Maarten is the ",
+    "answer": "English",
+    "sub": "Sint Maarten"
+  },
+  {
+    "query": "the official language of Moscow Mathematical Society is the ",
+    "answer": "Russian",
+    "sub": "Moscow Mathematical Society"
+  },
+  {
+    "query": "the official language of Stavropol Krai is the ",
+    "answer": "Russian",
+    "sub": "Stavropol Krai"
+  },
+  {
+    "query": "the official language of Central African Republic is the ",
+    "answer": "French",
+    "sub": "Central African Republic"
+  },
+  {
+    "query": "the official language of Kingdom of Asturias is the ",
+    "answer": "Latin",
+    "sub": "Kingdom of Asturias"
+  },
+  {
+    "query": "the official language of Gagauzia is the ",
+    "answer": "Russian",
+    "sub": "Gagauzia"
+  },
+  {
+    "query": "the official language of NATO is the ",
+    "answer": "English",
+    "sub": "NATO"
+  },
+  {
+    "query": "the official language of Tolyatti is the ",
+    "answer": "Russian",
+    "sub": "Tolyatti"
+  },
+  {
+    "query": "the official language of Kingdom of Mercia is the ",
+    "answer": "Latin",
+    "sub": "Kingdom of Mercia"
+  },
+  {
+    "query": "the official language of Utah is the ",
+    "answer": "English",
+    "sub": "Utah"
+  },
+  {
+    "query": "the official language of South African Republic is the ",
+    "answer": "Dutch",
+    "sub": "South African Republic"
+  },
+  {
+    "query": "the official language of Dundee is the ",
+    "answer": "Scots",
+    "sub": "Dundee"
+  },
+  {
+    "query": "the official language of Kouvola is the ",
+    "answer": "Finnish",
+    "sub": "Kouvola"
+  },
+  {
+    "query": "the official language of Mandatory Palestine is the ",
+    "answer": "English",
+    "sub": "Mandatory Palestine"
+  },
+  {
+    "query": "the official language of Janakkala is the ",
+    "answer": "Finnish",
+    "sub": "Janakkala"
+  },
+  {
+    "query": "the official language of Krasnodar Krai is the ",
+    "answer": "Russian",
+    "sub": "Krasnodar Krai"
+  },
+  {
+    "query": "the official language of Shakhunya is the ",
+    "answer": "Russian",
+    "sub": "Shakhunya"
+  },
+  {
+    "query": "the official language of Togo is the ",
+    "answer": "French",
+    "sub": "Togo"
+  },
+  {
+    "query": "the official language of Basel-Landschaft is the ",
+    "answer": "German",
+    "sub": "Basel-Landschaft"
+  },
+  {
+    "query": "the official language of Zambia is the ",
+    "answer": "English",
+    "sub": "Zambia"
+  },
+  {
+    "query": "the official language of Liberia is the ",
+    "answer": "English",
+    "sub": "Liberia"
+  },
+  {
+    "query": "the official language of Prince Edward Island is the ",
+    "answer": "English",
+    "sub": "Prince Edward Island"
+  },
+  {
+    "query": "the official language of Kosovo is the ",
+    "answer": "Serbian",
+    "sub": "Kosovo"
+  },
+  {
+    "query": "the official language of Mykolaiv Oblast is the ",
+    "answer": "Ukrainian",
+    "sub": "Mykolaiv Oblast"
+  },
+  {
+    "query": "the official language of Kingdom of Jerusalem is the ",
+    "answer": "Latin",
+    "sub": "Kingdom of Jerusalem"
+  },
+  {
+    "query": "the official language of Malawi is the ",
+    "answer": "English",
+    "sub": "Malawi"
+  },
+  {
+    "query": "the official language of Palestinian territories is the ",
+    "answer": "Hebrew",
+    "sub": "Palestinian territories"
+  },
+  {
+    "query": "the official language of Haukipudas is the ",
+    "answer": "Finnish",
+    "sub": "Haukipudas"
+  },
+  {
+    "query": "the official language of Stockholm County Council is the ",
+    "answer": "Swedish",
+    "sub": "Stockholm County Council"
+  },
+  {
+    "query": "the official language of Turku is the ",
+    "answer": "Finnish",
+    "sub": "Turku"
+  },
+  {
+    "query": "the official language of International Olympic Committee is the ",
+    "answer": "French",
+    "sub": "International Olympic Committee"
+  },
+  {
+    "query": "the official language of Arvidsjaur Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Arvidsjaur Municipality"
+  },
+  {
+    "query": "the official language of Flemish Community is the ",
+    "answer": "Dutch",
+    "sub": "Flemish Community"
+  },
+  {
+    "query": "the official language of Angola is the ",
+    "answer": "Portuguese",
+    "sub": "Angola"
+  },
+  {
+    "query": "the official language of Turku is the ",
+    "answer": "Swedish",
+    "sub": "Turku"
+  },
+  {
+    "query": "the official language of Jamshedpur is the ",
+    "answer": "English",
+    "sub": "Jamshedpur"
+  },
+  {
+    "query": "the official language of Azad Kashmir is the ",
+    "answer": "English",
+    "sub": "Azad Kashmir"
+  },
+  {
+    "query": "the official language of Suomenniemi is the ",
+    "answer": "Finnish",
+    "sub": "Suomenniemi"
+  },
+  {
+    "query": "the official language of Bermuda is the ",
+    "answer": "English",
+    "sub": "Bermuda"
+  },
+  {
+    "query": "the official language of Bedano is the ",
+    "answer": "Italian",
+    "sub": "Bedano"
+  },
+  {
+    "query": "the official language of Formentera is the ",
+    "answer": "Catalan",
+    "sub": "Formentera"
+  },
+  {
+    "query": "the official language of Bonaire is the ",
+    "answer": "Dutch",
+    "sub": "Bonaire"
+  },
+  {
+    "query": "the official language of Sudan is the ",
+    "answer": "English",
+    "sub": "Sudan"
+  },
+  {
+    "query": "the official language of Soviet Union is the ",
+    "answer": "Russian",
+    "sub": "Soviet Union"
+  },
+  {
+    "query": "the official language of Saskatchewan is the ",
+    "answer": "French",
+    "sub": "Saskatchewan"
+  },
+  {
+    "query": "the official language of Haparanda Municipality is the ",
+    "answer": "Finnish",
+    "sub": "Haparanda Municipality"
+  },
+  {
+    "query": "the official language of Aruba is the ",
+    "answer": "Dutch",
+    "sub": "Aruba"
+  },
+  {
+    "query": "the official language of Montserrat is the ",
+    "answer": "English",
+    "sub": "Montserrat"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Somali",
+    "sub": "Somalia"
+  },
+  {
+    "query": "the official language of Hirvensalmi is the ",
+    "answer": "Finnish",
+    "sub": "Hirvensalmi"
+  },
+  {
+    "query": "the official language of Pajala Municipality is the ",
+    "answer": "Finnish",
+    "sub": "Pajala Municipality"
+  },
+  {
+    "query": "the official language of Organization for Security and Co-operation in Europe is the ",
+    "answer": "Spanish",
+    "sub": "Organization for Security and Co-operation in Europe"
+  },
+  {
+    "query": "the official language of Oulainen is the ",
+    "answer": "Finnish",
+    "sub": "Oulainen"
+  },
+  {
+    "query": "the official language of Autonomous Province of Kosovo and Metohija is the ",
+    "answer": "Serbian",
+    "sub": "Autonomous Province of Kosovo and Metohija"
+  },
+  {
+    "query": "the official language of Karachay-Cherkess Republic is the ",
+    "answer": "Russian",
+    "sub": "Karachay-Cherkess Republic"
+  },
+  {
+    "query": "the official language of Helsinki is the ",
+    "answer": "Swedish",
+    "sub": "Helsinki"
+  },
+  {
+    "query": "the official language of European Space Agency is the ",
+    "answer": "English",
+    "sub": "European Space Agency"
+  },
+  {
+    "query": "the official language of Kokkola is the ",
+    "answer": "Swedish",
+    "sub": "Kokkola"
+  },
+  {
+    "query": "the official language of Morges is the ",
+    "answer": "French",
+    "sub": "Morges"
+  },
+  {
+    "query": "the official language of Arizona is the ",
+    "answer": "English",
+    "sub": "Arizona"
+  },
+  {
+    "query": "the official language of Qazvin Province is the ",
+    "answer": "Azerbaijani",
+    "sub": "Qazvin Province"
+  },
+  {
+    "query": "the official language of Mongolia is the ",
+    "answer": "Mongolian",
+    "sub": "Mongolia"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Latvian",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Sierra Leone is the ",
+    "answer": "English",
+    "sub": "Sierra Leone"
+  },
+  {
+    "query": "the official language of Ibiza is the ",
+    "answer": "Catalan",
+    "sub": "Ibiza"
+  },
+  {
+    "query": "the official language of Paraguay is the ",
+    "answer": "Spanish",
+    "sub": "Paraguay"
+  },
+  {
+    "query": "the official language of Bashkortostan is the ",
+    "answer": "Russian",
+    "sub": "Bashkortostan"
+  },
+  {
+    "query": "the official language of Indonesia is the ",
+    "answer": "Indonesian",
+    "sub": "Indonesia"
+  },
+  {
+    "query": "the official language of Siuntio is the ",
+    "answer": "Swedish",
+    "sub": "Siuntio"
+  },
+  {
+    "query": "the official language of Cebu is the ",
+    "answer": "English",
+    "sub": "Cebu"
+  },
+  {
+    "query": "the official language of Monaco is the ",
+    "answer": "French",
+    "sub": "Monaco"
+  },
+  {
+    "query": "the official language of Zabaykalsky Krai is the ",
+    "answer": "Russian",
+    "sub": "Zabaykalsky Krai"
+  },
+  {
+    "query": "the official language of Northern Mariana Islands is the ",
+    "answer": "English",
+    "sub": "Northern Mariana Islands"
+  },
+  {
+    "query": "the official language of Neklinovsky District is the ",
+    "answer": "Russian",
+    "sub": "Neklinovsky District"
+  },
+  {
+    "query": "the official language of Azerbaijan is the ",
+    "answer": "Azerbaijani",
+    "sub": "Azerbaijan"
+  },
+  {
+    "query": "the official language of Canton of Vaud is the ",
+    "answer": "French",
+    "sub": "Canton of Vaud"
+  },
+  {
+    "query": "the official language of Singapore is the ",
+    "answer": "English",
+    "sub": "Singapore"
+  },
+  {
+    "query": "the official language of Kiruna Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Kiruna Municipality"
+  },
+  {
+    "query": "the official language of Organisation for Economic Cooperation and Development is the ",
+    "answer": "French",
+    "sub": "Organisation for Economic Cooperation and Development"
+  },
+  {
+    "query": "the official language of Keuruu is the ",
+    "answer": "Finnish",
+    "sub": "Keuruu"
+  },
+  {
+    "query": "the official language of Yverdon-les-Bains is the ",
+    "answer": "French",
+    "sub": "Yverdon-les-Bains"
+  },
+  {
+    "query": "the official language of Bern is the ",
+    "answer": "German",
+    "sub": "Bern"
+  },
+  {
+    "query": "the official language of Chennai is the ",
+    "answer": "Tamil",
+    "sub": "Chennai"
+  },
+  {
+    "query": "the official language of Fiji is the ",
+    "answer": "English",
+    "sub": "Fiji"
+  },
+  {
+    "query": "the official language of India is the ",
+    "answer": "Hindi",
+    "sub": "India"
+  },
+  {
+    "query": "the official language of Canada is the ",
+    "answer": "English",
+    "sub": "Canada"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Mongolian",
+    "sub": "Mongolian People's Republic"
+  },
+  {
+    "query": "the official language of United Nations is the ",
+    "answer": "Russian",
+    "sub": "United Nations"
+  },
+  {
+    "query": "the official language of Burundi is the ",
+    "answer": "French",
+    "sub": "Burundi"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Dutch",
+    "sub": "Dutch Language Union"
+  },
+  {
+    "query": "the official language of Dasht-e Azadegan County is the ",
+    "answer": "Persian",
+    "sub": "Dasht-e Azadegan County"
+  },
+  {
+    "query": "the official language of Thiruvananthapuram is the ",
+    "answer": "Malayalam",
+    "sub": "Thiruvananthapuram"
+  },
+  {
+    "query": "the official language of Trosa Municipality is the ",
+    "answer": "Finnish",
+    "sub": "Trosa Municipality"
+  },
+  {
+    "query": "the official language of International Olympic Committee is the ",
+    "answer": "English",
+    "sub": "International Olympic Committee"
+  },
+  {
+    "query": "the official language of Zaire is the ",
+    "answer": "French",
+    "sub": "Zaire"
+  },
+  {
+    "query": "the official language of Northern Ireland is the ",
+    "answer": "English",
+    "sub": "Northern Ireland"
+  },
+  {
+    "query": "the official language of Pajala Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Pajala Municipality"
+  },
+  {
+    "query": "the official language of Mali is the ",
+    "answer": "French",
+    "sub": "Mali"
+  },
+  {
+    "query": "the official language of Saint Kitts and Nevis is the ",
+    "answer": "English",
+    "sub": "Saint Kitts and Nevis"
+  },
+  {
+    "query": "the official language of Vacallo is the ",
+    "answer": "Italian",
+    "sub": "Vacallo"
+  },
+  {
+    "query": "the official language of Formentera is the ",
+    "answer": "Spanish",
+    "sub": "Formentera"
+  },
+  {
+    "query": "the official language of Central Visayas is the ",
+    "answer": "English",
+    "sub": "Central Visayas"
+  },
+  {
+    "query": "the official language of Saba is the ",
+    "answer": "English",
+    "sub": "Saba"
+  },
+  {
+    "query": "the official language of Couto Misto is the ",
+    "answer": "Spanish",
+    "sub": "Couto Misto"
+  },
+  {
+    "query": "the official language of Odessa Oblast is the ",
+    "answer": "Ukrainian",
+    "sub": "Odessa Oblast"
+  },
+  {
+    "query": "the official language of Tuusula is the ",
+    "answer": "Finnish",
+    "sub": "Tuusula"
+  },
+  {
+    "query": "the official language of Luxembourg is the ",
+    "answer": "German",
+    "sub": "Luxembourg"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Danish",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Canton of Jura is the ",
+    "answer": "French",
+    "sub": "Canton of Jura"
+  },
+  {
+    "query": "the official language of Lampung is the ",
+    "answer": "Indonesian",
+    "sub": "Lampung"
+  },
+  {
+    "query": "the official language of Albania is the ",
+    "answer": "Albanian",
+    "sub": "Albania"
+  },
+  {
+    "query": "the official language of Ilomantsi is the ",
+    "answer": "Finnish",
+    "sub": "Ilomantsi"
+  },
+  {
+    "query": "the official language of Iisalmi is the ",
+    "answer": "Finnish",
+    "sub": "Iisalmi"
+  },
+  {
+    "query": "the official language of Lutry is the ",
+    "answer": "French",
+    "sub": "Lutry"
+  },
+  {
+    "query": "the official language of Nokia is the ",
+    "answer": "Finnish",
+    "sub": "Nokia"
+  },
+  {
+    "query": "the official language of Pully is the ",
+    "answer": "French",
+    "sub": "Pully"
+  },
+  {
+    "query": "the official language of Kristinestad is the ",
+    "answer": "Swedish",
+    "sub": "Kristinestad"
+  },
+  {
+    "query": "the official language of Cyprus is the ",
+    "answer": "Turkish",
+    "sub": "Cyprus"
+  },
+  {
+    "query": "the official language of Latvia is the ",
+    "answer": "Latvian",
+    "sub": "Latvia"
+  },
+  {
+    "query": "the official language of Mercosur is the ",
+    "answer": "Portuguese",
+    "sub": "Mercosur"
+  },
+  {
+    "query": "the official language of Republic of Dagestan is the ",
+    "answer": "Russian",
+    "sub": "Republic of Dagestan"
+  },
+  {
+    "query": "the official language of Commonwealth of Independent States is the ",
+    "answer": "Russian",
+    "sub": "Commonwealth of Independent States"
+  },
+  {
+    "query": "the official language of NATO is the ",
+    "answer": "French",
+    "sub": "NATO"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Spanish",
+    "sub": "Spanish Texas"
+  },
+  {
+    "query": "the official language of Kingdom of Jerusalem is the ",
+    "answer": "Greek",
+    "sub": "Kingdom of Jerusalem"
+  },
+  {
+    "query": "the official language of Orbe is the ",
+    "answer": "French",
+    "sub": "Orbe"
+  },
+  {
+    "query": "the official language of Reichskommissariat Moskowien is the ",
+    "answer": "Russian",
+    "sub": "Reichskommissariat Moskowien"
+  },
+  {
+    "query": "the official language of Saint Pierre and Miquelon is the ",
+    "answer": "French",
+    "sub": "Saint Pierre and Miquelon"
+  },
+  {
+    "query": "the official language of Bhopal is the ",
+    "answer": "Hindi",
+    "sub": "Bhopal"
+  },
+  {
+    "query": "the official language of Armenia is the ",
+    "answer": "Armenian",
+    "sub": "Armenia"
+  },
+  {
+    "query": "the official language of Western Cape is the ",
+    "answer": "English",
+    "sub": "Western Cape"
+  },
+  {
+    "query": "the official language of Kingdom of Bulgaria is the ",
+    "answer": "Bulgarian",
+    "sub": "Kingdom of Bulgaria"
+  },
+  {
+    "query": "the official language of Gabon is the ",
+    "answer": "French",
+    "sub": "Gabon"
+  },
+  {
+    "query": "the official language of Puerto Rico is the ",
+    "answer": "Spanish",
+    "sub": "Puerto Rico"
+  },
+  {
+    "query": "the official language of Puerto Rico is the ",
+    "answer": "English",
+    "sub": "Puerto Rico"
+  },
+  {
+    "query": "the official language of Engelberg is the ",
+    "answer": "German",
+    "sub": "Engelberg"
+  },
+  {
+    "query": "the official language of Thrissur is the ",
+    "answer": "Malayalam",
+    "sub": "Thrissur"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Bulgarian",
+    "sub": "Bulgarian Orthodox Church"
+  },
+  {
+    "query": "the official language of Tuvalu is the ",
+    "answer": "English",
+    "sub": "Tuvalu"
+  },
+  {
+    "query": "the official language of Iowa is the ",
+    "answer": "English",
+    "sub": "Iowa"
+  },
+  {
+    "query": "the official language of Sweden is the ",
+    "answer": "Swedish",
+    "sub": "Sweden"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Georgian",
+    "sub": "Georgian Orthodox Church"
+  },
+  {
+    "query": "the official language of Aragon is the ",
+    "answer": "Catalan",
+    "sub": "Aragon"
+  },
+  {
+    "query": "the official language of Guam is the ",
+    "answer": "English",
+    "sub": "Guam"
+  },
+  {
+    "query": "the official language of Autonomous Republic of Crimea is the ",
+    "answer": "Russian",
+    "sub": "Autonomous Republic of Crimea"
+  },
+  {
+    "query": "the official language of Benin is the ",
+    "answer": "French",
+    "sub": "Benin"
+  },
+  {
+    "query": "the official language of Florida is the ",
+    "answer": "English",
+    "sub": "Florida"
+  },
+  {
+    "query": "the official language of Virginia is the ",
+    "answer": "English",
+    "sub": "Virginia"
+  },
+  {
+    "query": "the official language of Joensuu is the ",
+    "answer": "Finnish",
+    "sub": "Joensuu"
+  },
+  {
+    "query": "the official language of Uppsala Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Uppsala Municipality"
+  },
+  {
+    "query": "the official language of Antigua and Barbuda is the ",
+    "answer": "English",
+    "sub": "Antigua and Barbuda"
+  },
+  {
+    "query": "the official language of L'Isle is the ",
+    "answer": "French",
+    "sub": "L'Isle"
+  },
+  {
+    "query": "the official language of ASEAN is the ",
+    "answer": "Chinese",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "the official language of Belgium is the ",
+    "answer": "French",
+    "sub": "Belgium"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Nepali",
+    "sub": "Nepali literature"
+  },
+  {
+    "query": "the official language of Suomussalmi is the ",
+    "answer": "Finnish",
+    "sub": "Suomussalmi"
+  },
+  {
+    "query": "the official language of Independent State of Croatia is the ",
+    "answer": "Croatian",
+    "sub": "Independent State of Croatia"
+  },
+  {
+    "query": "the official language of Catalonia is the ",
+    "answer": "Catalan",
+    "sub": "Catalonia"
+  },
+  {
+    "query": "the official language of Petrozavodsk is the ",
+    "answer": "Russian",
+    "sub": "Petrozavodsk"
+  },
+  {
+    "query": "the official language of Hanko is the ",
+    "answer": "Swedish",
+    "sub": "Hanko"
+  },
+  {
+    "query": "the official language of Chukotka Autonomous Okrug is the ",
+    "answer": "Russian",
+    "sub": "Chukotka Autonomous Okrug"
+  },
+  {
+    "query": "the official language of Pays de la Loire is the ",
+    "answer": "Breton",
+    "sub": "Pays de la Loire"
+  },
+  {
+    "query": "the official language of Ruokolahti is the ",
+    "answer": "Finnish",
+    "sub": "Ruokolahti"
+  },
+  {
+    "query": "the official language of Dundee is the ",
+    "answer": "English",
+    "sub": "Dundee"
+  },
+  {
+    "query": "the official language of Upplands-Bro Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Upplands-Bro Municipality"
+  },
+  {
+    "query": "the official language of Naantali is the ",
+    "answer": "Finnish",
+    "sub": "Naantali"
+  },
+  {
+    "query": "the official language of Kurikka is the ",
+    "answer": "Finnish",
+    "sub": "Kurikka"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Maltese",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Amravati district is the ",
+    "answer": "Marathi",
+    "sub": "Amravati district"
+  },
+  {
+    "query": "the official language of Brugg is the ",
+    "answer": "German",
+    "sub": "Brugg"
+  },
+  {
+    "query": "the official language of Lemi is the ",
+    "answer": "Finnish",
+    "sub": "Lemi"
+  },
+  {
+    "query": "the official language of Azerbaijan Soviet Socialist Republic is the ",
+    "answer": "Russian",
+    "sub": "Azerbaijan Soviet Socialist Republic"
+  },
+  {
+    "query": "the official language of Norfolk Island is the ",
+    "answer": "English",
+    "sub": "Norfolk Island"
+  },
+  {
+    "query": "the official language of Scotland is the ",
+    "answer": "English",
+    "sub": "Scotland"
+  },
+  {
+    "query": "the official language of Cuba is the ",
+    "answer": "Spanish",
+    "sub": "Cuba"
+  },
+  {
+    "query": "the official language of Biel/Bienne is the ",
+    "answer": "German",
+    "sub": "Biel/Bienne"
+  },
+  {
+    "query": "the official language of Federated States of Micronesia is the ",
+    "answer": "English",
+    "sub": "Federated States of Micronesia"
+  },
+  {
+    "query": "the official language of Perm Krai is the ",
+    "answer": "Russian",
+    "sub": "Perm Krai"
+  },
+  {
+    "query": "the official language of Congress Poland is the ",
+    "answer": "Russian",
+    "sub": "Congress Poland"
+  },
+  {
+    "query": "the official language of Pomarkku is the ",
+    "answer": "Finnish",
+    "sub": "Pomarkku"
+  },
+  {
+    "query": "the official language of Bulgaria is the ",
+    "answer": "Bulgarian",
+    "sub": "Bulgaria"
+  },
+  {
+    "query": "the official language of United States of America is the ",
+    "answer": "English",
+    "sub": "United States of America"
+  },
+  {
+    "query": "the official language of Raisio is the ",
+    "answer": "Finnish",
+    "sub": "Raisio"
+  },
+  {
+    "query": "the official language of Payerne is the ",
+    "answer": "French",
+    "sub": "Payerne"
+  },
+  {
+    "query": "the official language of Illinois is the ",
+    "answer": "English",
+    "sub": "Illinois"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Italian",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Perroy is the ",
+    "answer": "French",
+    "sub": "Perroy"
+  },
+  {
+    "query": "the official language of Arjeplog Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Arjeplog Municipality"
+  },
+  {
+    "query": "the official language of North Sumatra is the ",
+    "answer": "Indonesian",
+    "sub": "North Sumatra"
+  },
+  {
+    "query": "the official language of Eurajoki is the ",
+    "answer": "Finnish",
+    "sub": "Eurajoki"
+  },
+  {
+    "query": "the official language of Liminka is the ",
+    "answer": "Finnish",
+    "sub": "Liminka"
+  },
+  {
+    "query": "the official language of ASEAN is the ",
+    "answer": "Thai",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "the official language of British Hong Kong is the ",
+    "answer": "Chinese",
+    "sub": "British Hong Kong"
+  },
+  {
+    "query": "the official language of Republic of Florence is the ",
+    "answer": "Latin",
+    "sub": "Republic of Florence"
+  },
+  {
+    "query": "the official language of Tennessee is the ",
+    "answer": "English",
+    "sub": "Tennessee"
+  },
+  {
+    "query": "the official language of Uusikaupunki is the ",
+    "answer": "Finnish",
+    "sub": "Uusikaupunki"
+  },
+  {
+    "query": "the official language of Russian Empire is the ",
+    "answer": "Swedish",
+    "sub": "Russian Empire"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "Swedish",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of Andhra Pradesh is the ",
+    "answer": "Telugu",
+    "sub": "Andhra Pradesh"
+  },
+  {
+    "query": "the official language of Orange Free State is the ",
+    "answer": "Dutch",
+    "sub": "Orange Free State"
+  },
+  {
+    "query": "the official language of Kaskinen is the ",
+    "answer": "Swedish",
+    "sub": "Kaskinen"
+  },
+  {
+    "query": "the official language of Guernsey is the ",
+    "answer": "French",
+    "sub": "Guernsey"
+  },
+  {
+    "query": "the official language of Imatra is the ",
+    "answer": "Finnish",
+    "sub": "Imatra"
+  },
+  {
+    "query": "the official language of Nakkila is the ",
+    "answer": "Finnish",
+    "sub": "Nakkila"
+  },
+  {
+    "query": "the official language of Canary Islands is the ",
+    "answer": "Spanish",
+    "sub": "Canary Islands"
+  },
+  {
+    "query": "the official language of Republic of Mordovia is the ",
+    "answer": "Russian",
+    "sub": "Republic of Mordovia"
+  },
+  {
+    "query": "the official language of Macau is the ",
+    "answer": "Portuguese",
+    "sub": "Macau"
+  },
+  {
+    "query": "the official language of Altai Republic is the ",
+    "answer": "Russian",
+    "sub": "Altai Republic"
+  },
+  {
+    "query": "the official language of Costa Rica is the ",
+    "answer": "Spanish",
+    "sub": "Costa Rica"
+  },
+  {
+    "query": "the official language of Saint Vincent and the Grenadines is the ",
+    "answer": "Spanish",
+    "sub": "Saint Vincent and the Grenadines"
+  },
+  {
+    "query": "the official language of Paimio is the ",
+    "answer": "Finnish",
+    "sub": "Paimio"
+  },
+  {
+    "query": "the official language of Kitee is the ",
+    "answer": "Finnish",
+    "sub": "Kitee"
+  },
+  {
+    "query": "the official language of European Union is the ",
+    "answer": "German",
+    "sub": "European Union"
+  },
+  {
+    "query": "the official language of International Criminal Court is the ",
+    "answer": "French",
+    "sub": "International Criminal Court"
+  },
+  {
+    "query": "the official language of Pori is the ",
+    "answer": "Finnish",
+    "sub": "Pori"
+  },
+  {
+    "query": "the official language of Menorca is the ",
+    "answer": "Spanish",
+    "sub": "Menorca"
+  },
+  {
+    "query": "the official language of Montenegro is the ",
+    "answer": "Albanian",
+    "sub": "Montenegro"
+  },
+  {
+    "query": "the official language of Zimbabwe is the ",
+    "answer": "Tonga",
+    "sub": "Zimbabwe"
+  },
+  {
+    "query": "the official language of Kashubia is the ",
+    "answer": "Polish",
+    "sub": "Kashubia"
+  },
+  {
+    "query": "the official language of Paris Commune is the ",
+    "answer": "French",
+    "sub": "Paris Commune"
+  },
+  {
+    "query": "the official language of Venezuela is the ",
+    "answer": "Spanish",
+    "sub": "Venezuela"
+  },
+  {
+    "query": "the official language of Siikajoki is the ",
+    "answer": "Finnish",
+    "sub": "Siikajoki"
+  },
+  {
+    "query": "the official language of Marshall Islands is the ",
+    "answer": "English",
+    "sub": "Marshall Islands"
+  },
+  {
+    "query": "the official language of Karelia is the ",
+    "answer": "Russian",
+    "sub": "Karelia"
+  },
+  {
+    "query": "the official language of Kiiminki is the ",
+    "answer": "Finnish",
+    "sub": "Kiiminki"
+  },
+  {
+    "query": "the official language of Hanko is the ",
+    "answer": "Finnish",
+    "sub": "Hanko"
+  },
+  {
+    "query": "the official language of Snezhinsk is the ",
+    "answer": "Russian",
+    "sub": "Snezhinsk"
+  },
+  {
+    "query": "the official language of Community of Valencia is the ",
+    "answer": "Catalan",
+    "sub": "Community of Valencia"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Slovak",
+    "sub": "Slovakia"
+  },
+  {
+    "query": "the official language of Haryana is the ",
+    "answer": "Hindi",
+    "sub": "Haryana"
+  },
+  {
+    "query": "the official language of Humppila is the ",
+    "answer": "Finnish",
+    "sub": "Humppila"
+  },
+  {
+    "query": "the official language of South Korea is the ",
+    "answer": "Korean",
+    "sub": "South Korea"
+  },
+  {
+    "query": "the official language of Cape Verde is the ",
+    "answer": "Portuguese",
+    "sub": "Cape Verde"
+  },
+  {
+    "query": "the official language of Shimla is the ",
+    "answer": "Hindi",
+    "sub": "Shimla"
+  },
+  {
+    "query": "the official language of Outokumpu is the ",
+    "answer": "Finnish",
+    "sub": "Outokumpu"
+  },
+  {
+    "query": "the official language of Khorasan Province is the ",
+    "answer": "Persian",
+    "sub": "Khorasan Province"
+  },
+  {
+    "query": "the official language of First ",
+    "answer": "Czech",
+    "sub": "First Czechoslovak Republic"
+  },
+  {
+    "query": "the official language of Caribbean Netherlands is the ",
+    "answer": "Dutch",
+    "sub": "Caribbean Netherlands"
+  },
+  {
+    "query": "the official language of Kemi is the ",
+    "answer": "Finnish",
+    "sub": "Kemi"
+  },
+  {
+    "query": "the official language of Oklahoma is the ",
+    "answer": "English",
+    "sub": "Oklahoma"
+  },
+  {
+    "query": "the official language of Surahammar Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Surahammar Municipality"
+  },
+  {
+    "query": "the official language of Governor-General of Australia is the ",
+    "answer": "English",
+    "sub": "Governor-General of Australia"
+  },
+  {
+    "query": "the official language of Ukraine is the ",
+    "answer": "Ukrainian",
+    "sub": "Ukraine"
+  },
+  {
+    "query": "the official language of Cook Islands is the ",
+    "answer": "English",
+    "sub": "Cook Islands"
+  },
+  {
+    "query": "the official language of UEFA is the ",
+    "answer": "English",
+    "sub": "UEFA"
+  },
+  {
+    "query": "the official language of Kokkola is the ",
+    "answer": "Finnish",
+    "sub": "Kokkola"
+  },
+  {
+    "query": "the official language of Tanzania is the ",
+    "answer": "English",
+    "sub": "Tanzania"
+  },
+  {
+    "query": "the official language of Turkmenistan is the ",
+    "answer": "Russian",
+    "sub": "Turkmenistan"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Somali",
+    "sub": "Somaliland"
+  },
+  {
+    "query": "the official language of Sipoo is the ",
+    "answer": "Swedish",
+    "sub": "Sipoo"
+  },
+  {
+    "query": "the official language of Switzerland is the ",
+    "answer": "German",
+    "sub": "Switzerland"
+  },
+  {
+    "query": "the official language of Khabarovsk Krai is the ",
+    "answer": "Russian",
+    "sub": "Khabarovsk Krai"
+  },
+  {
+    "query": "the official language of Uddevalla Municipality is the ",
+    "answer": "Swedish",
+    "sub": "Uddevalla Municipality"
+  },
+  {
+    "query": "the official language of Lahti is the ",
+    "answer": "Finnish",
+    "sub": "Lahti"
+  },
+  {
+    "query": "the official language of Alicante is the ",
+    "answer": "Spanish",
+    "sub": "Alicante"
+  },
+  {
+    "query": "the official language of Parkano is the ",
+    "answer": "Finnish",
+    "sub": "Parkano"
+  },
+  {
+    "query": "the official language of Kuhmoinen is the ",
+    "answer": "Finnish",
+    "sub": "Kuhmoinen"
+  },
+  {
+    "query": "the official language of Belarus is the ",
+    "answer": "Belarusian",
+    "sub": "Belarus"
+  },
+  {
+    "query": "the official language of Uttar Pradesh is the ",
+    "answer": "Hindi",
+    "sub": "Uttar Pradesh"
+  },
+  {
+    "query": "the official language of Korsholm is the ",
+    "answer": "Finnish",
+    "sub": "Korsholm"
+  },
+  {
+    "query": "the official language of Luhansk People's Republic is the ",
+    "answer": "Russian",
+    "sub": "Luhansk People's Republic"
+  },
+  {
+    "query": "the official language of ",
+    "answer": "Lao",
+    "sub": "Laos"
+  },
+  {
+    "query": "the official language of Masku is the ",
+    "answer": "Finnish",
+    "sub": "Masku"
+  },
+  {
+    "query": "the official language of Republic of Ingushetia is the ",
+    "answer": "Russian",
+    "sub": "Republic of Ingushetia"
+  }
+]

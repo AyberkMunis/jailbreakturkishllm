@@ -1,0 +1,1807 @@
+[
+  {
+    "query": "Alan Turing çalışma alanı nedir?",
+    "answer": " mantık",
+    "sub": "Alan Turing"
+  },
+  {
+    "query": "John Vincent Atanasoff çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "John Vincent Atanasoff"
+  },
+  {
+    "query": "Edward Burnett Tylor çalışma alanı nedir?",
+    "answer": " antropoloji",
+    "sub": "Edward Burnett Tylor"
+  },
+  {
+    "query": "Anaksagoras çalışma alanı nedir?",
+    "answer": " felsefe",
+    "sub": "Anaksagoras"
+  },
+  {
+    "query": "Robert Bunsen çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Robert Bunsen"
+  },
+  {
+    "query": "Adam Carolla çalışma alanı nedir?",
+    "answer": " komedyen",
+    "sub": "Adam Carolla"
+  },
+  {
+    "query": "Benjamin Lee Whorf çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Benjamin Lee Whorf"
+  },
+  {
+    "query": "Edward Sapir çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Edward Sapir"
+  },
+  {
+    "query": "Bruce Perens çalışma alanı nedir?",
+    "answer": " bilgisayar programcılığı",
+    "sub": "Bruce Perens"
+  },
+  {
+    "query": "Charles Kay Ogden çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Charles Kay Ogden"
+  },
+  {
+    "query": "Mağara bilimi çalışma alanı nedir?",
+    "answer": " Mağara",
+    "sub": "Mağara bilimi"
+  },
+  {
+    "query": "Jean Calvin çalışma alanı nedir?",
+    "answer": " teoloji",
+    "sub": "Jean Calvin"
+  },
+  {
+    "query": "Charles Proteus Steinmetz çalışma alanı nedir?",
+    "answer": " matematikçi",
+    "sub": "Charles Proteus Steinmetz"
+  },
+  {
+    "query": "fiziksel sistem çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "fiziksel sistem"
+  },
+  {
+    "query": "Carl Rogers çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Carl Rogers"
+  },
+  {
+    "query": "Charles F. Hockett çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Charles F. Hockett"
+  },
+  {
+    "query": "David Hilbert çalışma alanı nedir?",
+    "answer": " geometri",
+    "sub": "David Hilbert"
+  },
+  {
+    "query": "Richard Wagner çalışma alanı nedir?",
+    "answer": " Opera",
+    "sub": "Richard Wagner"
+  },
+  {
+    "query": "Öklid çalışma alanı nedir?",
+    "answer": " geometri",
+    "sub": "Öklid"
+  },
+  {
+    "query": "Max Weber çalışma alanı nedir?",
+    "answer": " toplum bilimi",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "Hans Eysenck çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Hans Eysenck"
+  },
+  {
+    "query": "Eugene Wigner çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Eugene Wigner"
+  },
+  {
+    "query": "Felix Hausdorff çalışma alanı nedir?",
+    "answer": " Topoloji",
+    "sub": "Felix Hausdorff"
+  },
+  {
+    "query": "Fred Hoyle çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Fred Hoyle"
+  },
+  {
+    "query": "Galen çalışma alanı nedir?",
+    "answer": " anatomi",
+    "sub": "Galen"
+  },
+  {
+    "query": "William Harvey çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "William Harvey"
+  },
+  {
+    "query": "Joseph Campbell çalışma alanı nedir?",
+    "answer": " mitoloji",
+    "sub": "Joseph Campbell"
+  },
+  {
+    "query": "LGBT sosyal hareketleri çalışma alanı nedir?",
+    "answer": " LGBT",
+    "sub": "LGBT sosyal hareketleri"
+  },
+  {
+    "query": "Howard Carter çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "Howard Carter"
+  },
+  {
+    "query": "Heinrich Schliemann çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "Heinrich Schliemann"
+  },
+  {
+    "query": "Claude Bernard çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "Claude Bernard"
+  },
+  {
+    "query": "Isaac Newton çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "Justus von Liebig çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Justus von Liebig"
+  },
+  {
+    "query": "John James Rickard Macleod çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "John James Rickard Macleod"
+  },
+  {
+    "query": "Frederick Banting çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "Frederick Banting"
+  },
+  {
+    "query": "Karl Marx çalışma alanı nedir?",
+    "answer": " toplum bilimi",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "İstihbarat teşkilatı çalışma alanı nedir?",
+    "answer": " Casusluk",
+    "sub": "İstihbarat teşkilatı"
+  },
+  {
+    "query": "Hans Bethe çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Hans Bethe"
+  },
+  {
+    "query": "Jack Ruby çalışma alanı nedir?",
+    "answer": " Gece kulübü",
+    "sub": "Jack Ruby"
+  },
+  {
+    "query": "Arthur Evans çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "Arthur Evans"
+  },
+  {
+    "query": "Leonard Bloomfield çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Leonard Bloomfield"
+  },
+  {
+    "query": "Uluslararası Virüs Taksonomisi Komitesi çalışma alanı nedir?",
+    "answer": " virüs",
+    "sub": "Uluslararası Virüs Taksonomisi Komitesi"
+  },
+  {
+    "query": "Percy Williams Bridgman çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Percy Williams Bridgman"
+  },
+  {
+    "query": "Gerolamo Cardano çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Gerolamo Cardano"
+  },
+  {
+    "query": "Max Weber çalışma alanı nedir?",
+    "answer": " iktisat",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "Michael Faraday çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Michael Faraday"
+  },
+  {
+    "query": "ornitoloji çalışma alanı nedir?",
+    "answer": " kuş",
+    "sub": "ornitoloji"
+  },
+  {
+    "query": "Bonaventura Cavalieri çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Bonaventura Cavalieri"
+  },
+  {
+    "query": "Galileo Galilei çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "İskenderiyeli Hypatia çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "İskenderiyeli Hypatia"
+  },
+  {
+    "query": "Miguel Servet çalışma alanı nedir?",
+    "answer": " teoloji",
+    "sub": "Miguel Servet"
+  },
+  {
+    "query": "James Mellaart çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "James Mellaart"
+  },
+  {
+    "query": "Johan Vilhelm Snellman çalışma alanı nedir?",
+    "answer": " Fince",
+    "sub": "Johan Vilhelm Snellman"
+  },
+  {
+    "query": "Edwin Hubble çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Edwin Hubble"
+  },
+  {
+    "query": "Otto Struve çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Otto Struve"
+  },
+  {
+    "query": "John Lubbock çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "John Lubbock"
+  },
+  {
+    "query": "Isaac Newton çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "Ilya Prigogine çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Ilya Prigogine"
+  },
+  {
+    "query": "Franz Boas çalışma alanı nedir?",
+    "answer": " antropoloji",
+    "sub": "Franz Boas"
+  },
+  {
+    "query": "Roman Jakobson çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Roman Jakobson"
+  },
+  {
+    "query": "Sapir-Whorf hipotezi çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Sapir-Whorf hipotezi"
+  },
+  {
+    "query": "bilimsel yöntem çalışma alanı nedir?",
+    "answer": " bilim",
+    "sub": "bilimsel yöntem"
+  },
+  {
+    "query": "William Crookes çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "William Crookes"
+  },
+  {
+    "query": "Stephen Jay Gould çalışma alanı nedir?",
+    "answer": " evrim",
+    "sub": "Stephen Jay Gould"
+  },
+  {
+    "query": "Steve Biko çalışma alanı nedir?",
+    "answer": " apartheid",
+    "sub": "Steve Biko"
+  },
+  {
+    "query": "Solomon Schechter çalışma alanı nedir?",
+    "answer": " İbranice",
+    "sub": "Solomon Schechter"
+  },
+  {
+    "query": "Charles Darwin çalışma alanı nedir?",
+    "answer": " biyoloji",
+    "sub": "Charles Darwin"
+  },
+  {
+    "query": "Tycho Brahe çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Tycho Brahe"
+  },
+  {
+    "query": "John Stuart Mill çalışma alanı nedir?",
+    "answer": " felsefe",
+    "sub": "John Stuart Mill"
+  },
+  {
+    "query": "Alan Turing çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Alan Turing"
+  },
+  {
+    "query": "Vilfredo Pareto çalışma alanı nedir?",
+    "answer": " toplum bilimi",
+    "sub": "Vilfredo Pareto"
+  },
+  {
+    "query": "W. Somerset Maugham çalışma alanı nedir?",
+    "answer": " oyun yazarı",
+    "sub": "W. Somerset Maugham"
+  },
+  {
+    "query": "W. Somerset Maugham çalışma alanı nedir?",
+    "answer": " roman yazarı",
+    "sub": "W. Somerset Maugham"
+  },
+  {
+    "query": "Alexandre Darracq çalışma alanı nedir?",
+    "answer": " otomobil",
+    "sub": "Alexandre Darracq"
+  },
+  {
+    "query": "Enrico Fermi çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Enrico Fermi"
+  },
+  {
+    "query": "Giovanni Domenico Cassini çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Giovanni Domenico Cassini"
+  },
+  {
+    "query": "Roger Penrose çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Roger Penrose"
+  },
+  {
+    "query": "Raymond Smullyan çalışma alanı nedir?",
+    "answer": " mantık",
+    "sub": "Raymond Smullyan"
+  },
+  {
+    "query": "Norman McLaren çalışma alanı nedir?",
+    "answer": " animasyon",
+    "sub": "Norman McLaren"
+  },
+  {
+    "query": "Johann Wolfgang von Goethe çalışma alanı nedir?",
+    "answer": " anatomi",
+    "sub": "Johann Wolfgang von Goethe"
+  },
+  {
+    "query": "Paracelsus çalışma alanı nedir?",
+    "answer": " tıp",
+    "sub": "Paracelsus"
+  },
+  {
+    "query": "John Coltrane çalışma alanı nedir?",
+    "answer": " Caz",
+    "sub": "John Coltrane"
+  },
+  {
+    "query": "Hermann von Helmholtz çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "Hava trafik kontrol çalışma alanı nedir?",
+    "answer": " havacılık",
+    "sub": "Hava trafik kontrol"
+  },
+  {
+    "query": "gramer kategorisi çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "gramer kategorisi"
+  },
+  {
+    "query": "Galen çalışma alanı nedir?",
+    "answer": " tıp",
+    "sub": "Galen"
+  },
+  {
+    "query": "Akira Toriyama çalışma alanı nedir?",
+    "answer": " Manga",
+    "sub": "Akira Toriyama"
+  },
+  {
+    "query": "Robert Koldewey çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "Robert Koldewey"
+  },
+  {
+    "query": "Abraham Maslow çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Abraham Maslow"
+  },
+  {
+    "query": "Edward Frankland çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Edward Frankland"
+  },
+  {
+    "query": "Louis Pasteur çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Louis Pasteur"
+  },
+  {
+    "query": "Henry Cavendish çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Henry Cavendish"
+  },
+  {
+    "query": "Edward Thorndike çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Edward Thorndike"
+  },
+  {
+    "query": "Peter von Uslar çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Peter von Uslar"
+  },
+  {
+    "query": "Karl Marx çalışma alanı nedir?",
+    "answer": " iktisat",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "Robert N. Bellah çalışma alanı nedir?",
+    "answer": " toplum bilimi",
+    "sub": "Robert N. Bellah"
+  },
+  {
+    "query": "Ulf von Euler çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "Ulf von Euler"
+  },
+  {
+    "query": "Carl Menger çalışma alanı nedir?",
+    "answer": " iktisat",
+    "sub": "Carl Menger"
+  },
+  {
+    "query": "Alexander Cunningham çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "Alexander Cunningham"
+  },
+  {
+    "query": "Galileo Galilei çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "Pomponius Mela çalışma alanı nedir?",
+    "answer": " coğrafya",
+    "sub": "Pomponius Mela"
+  },
+  {
+    "query": "Nikolay İvanoviç Lobaçevski çalışma alanı nedir?",
+    "answer": " geometri",
+    "sub": "Nikolay İvanoviç Lobaçevski"
+  },
+  {
+    "query": "Christiaan Huygens çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Christiaan Huygens"
+  },
+  {
+    "query": "Abram İoffe çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Abram İoffe"
+  },
+  {
+    "query": "Amerika Birleşik Devletleri Balık ve Vahşi Yaşam Servisi çalışma alanı nedir?",
+    "answer": " habitat",
+    "sub": "Amerika Birleşik Devletleri Balık ve Vahşi Yaşam Servisi"
+  },
+  {
+    "query": "Web uygulaması çalışma alanı nedir?",
+    "answer": " web sitesi",
+    "sub": "Web uygulaması"
+  },
+  {
+    "query": "Nagarjuna çalışma alanı nedir?",
+    "answer": " Budizm",
+    "sub": "Nagarjuna"
+  },
+  {
+    "query": "Ludwig von Mises çalışma alanı nedir?",
+    "answer": " iktisat",
+    "sub": "Ludwig von Mises"
+  },
+  {
+    "query": "William Rowan Hamilton çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "William Rowan Hamilton"
+  },
+  {
+    "query": "Ernest Rutherford çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Ernest Rutherford"
+  },
+  {
+    "query": "William Herschel çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "William Herschel"
+  },
+  {
+    "query": "Nikolay Bogolyubov çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Nikolay Bogolyubov"
+  },
+  {
+    "query": "İvan Pavlov çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "İvan Pavlov"
+  },
+  {
+    "query": "Zahi Hawass çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "Zahi Hawass"
+  },
+  {
+    "query": "Halford John Mackinder çalışma alanı nedir?",
+    "answer": " coğrafya",
+    "sub": "Halford John Mackinder"
+  },
+  {
+    "query": "Chen Shou çalışma alanı nedir?",
+    "answer": " tarih",
+    "sub": "Chen Shou"
+  },
+  {
+    "query": "Hermann Minkowski çalışma alanı nedir?",
+    "answer": " geometri",
+    "sub": "Hermann Minkowski"
+  },
+  {
+    "query": "Johann Weyer çalışma alanı nedir?",
+    "answer": " doktor",
+    "sub": "Johann Weyer"
+  },
+  {
+    "query": "Galileo Galilei çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "Julian Schwinger çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Julian Schwinger"
+  },
+  {
+    "query": "Ulrich Beck çalışma alanı nedir?",
+    "answer": " toplum bilimi",
+    "sub": "Ulrich Beck"
+  },
+  {
+    "query": "Devrimci Rusya Sanatçılar Derneği çalışma alanı nedir?",
+    "answer": " sanat",
+    "sub": "Devrimci Rusya Sanatçılar Derneği"
+  },
+  {
+    "query": "Frederick Ashton çalışma alanı nedir?",
+    "answer": " bale",
+    "sub": "Frederick Ashton"
+  },
+  {
+    "query": "Liutprando di Cremona çalışma alanı nedir?",
+    "answer": " diplomat",
+    "sub": "Liutprando di Cremona"
+  },
+  {
+    "query": "İntihar saldırısı çalışma alanı nedir?",
+    "answer": " terörizm",
+    "sub": "İntihar saldırısı"
+  },
+  {
+    "query": "Albrecht Kossel çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "Albrecht Kossel"
+  },
+  {
+    "query": "Lev Vıgotskiy çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Lev Vıgotskiy"
+  },
+  {
+    "query": "Karl Marx çalışma alanı nedir?",
+    "answer": " felsefe",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "Friedrich Wilhelm Bessel çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Friedrich Wilhelm Bessel"
+  },
+  {
+    "query": "G. Stanley Hall çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "G. Stanley Hall"
+  },
+  {
+    "query": "Herbert A. Hauptman çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Herbert A. Hauptman"
+  },
+  {
+    "query": "Joseph Alois Schumpeter çalışma alanı nedir?",
+    "answer": " iktisat",
+    "sub": "Joseph Alois Schumpeter"
+  },
+  {
+    "query": "Abdullah bin Selam çalışma alanı nedir?",
+    "answer": " Yahudilik",
+    "sub": "Abdullah bin Selam"
+  },
+  {
+    "query": "Max Weber çalışma alanı nedir?",
+    "answer": " tarih",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "Edward Gibbon çalışma alanı nedir?",
+    "answer": " tarih",
+    "sub": "Edward Gibbon"
+  },
+  {
+    "query": "Struga Şiir Akşamları çalışma alanı nedir?",
+    "answer": " şiir",
+    "sub": "Struga Şiir Akşamları"
+  },
+  {
+    "query": "Ernst Emil Herzfeld çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "Ernst Emil Herzfeld"
+  },
+  {
+    "query": "John Archibald Wheeler çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "John Archibald Wheeler"
+  },
+  {
+    "query": "Anita Borg çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Anita Borg"
+  },
+  {
+    "query": "Leonhard Euler çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Leonhard Euler"
+  },
+  {
+    "query": "Kindi çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Kindi"
+  },
+  {
+    "query": "August Krogh çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "August Krogh"
+  },
+  {
+    "query": "Hermann Ebbinghaus çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Hermann Ebbinghaus"
+  },
+  {
+    "query": "James Frazer çalışma alanı nedir?",
+    "answer": " folklor",
+    "sub": "James Frazer"
+  },
+  {
+    "query": "Thomas Bartholin çalışma alanı nedir?",
+    "answer": " tıp",
+    "sub": "Thomas Bartholin"
+  },
+  {
+    "query": "Kazimierz Kuratowski çalışma alanı nedir?",
+    "answer": " Topoloji",
+    "sub": "Kazimierz Kuratowski"
+  },
+  {
+    "query": "Raoul Bott çalışma alanı nedir?",
+    "answer": " geometri",
+    "sub": "Raoul Bott"
+  },
+  {
+    "query": "Samuel Linde çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Samuel Linde"
+  },
+  {
+    "query": "Alfred Kroeber çalışma alanı nedir?",
+    "answer": " antropoloji",
+    "sub": "Alfred Kroeber"
+  },
+  {
+    "query": "Felix Bloch çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Felix Bloch"
+  },
+  {
+    "query": "Frederic Bartlett çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Frederic Bartlett"
+  },
+  {
+    "query": "Pierre Janet çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Pierre Janet"
+  },
+  {
+    "query": "Harrie Massey çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Harrie Massey"
+  },
+  {
+    "query": "Akaki Şanidze çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Akaki Şanidze"
+  },
+  {
+    "query": "Frederica De Laguna çalışma alanı nedir?",
+    "answer": " antropoloji",
+    "sub": "Frederica De Laguna"
+  },
+  {
+    "query": "Anders Celsius çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Anders Celsius"
+  },
+  {
+    "query": "David Crystal çalışma alanı nedir?",
+    "answer": " İngilizce",
+    "sub": "David Crystal"
+  },
+  {
+    "query": "Bert Sakmann çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "Bert Sakmann"
+  },
+  {
+    "query": "Marston Morse çalışma alanı nedir?",
+    "answer": " Topoloji",
+    "sub": "Marston Morse"
+  },
+  {
+    "query": "Michio Kaku çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Michio Kaku"
+  },
+  {
+    "query": "Willem Einthoven çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "Willem Einthoven"
+  },
+  {
+    "query": "Joseph von Fraunhofer çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Joseph von Fraunhofer"
+  },
+  {
+    "query": "Siniçiro Tomonaga çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Siniçiro Tomonaga"
+  },
+  {
+    "query": "Jean-Martin Charcot çalışma alanı nedir?",
+    "answer": " tıp",
+    "sub": "Jean-Martin Charcot"
+  },
+  {
+    "query": "Sydney Brenner çalışma alanı nedir?",
+    "answer": " biyoloji",
+    "sub": "Sydney Brenner"
+  },
+  {
+    "query": "Hermann Schwarz çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Hermann Schwarz"
+  },
+  {
+    "query": "Johannes de Sacrobosco çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Johannes de Sacrobosco"
+  },
+  {
+    "query": "Erasmus Darwin çalışma alanı nedir?",
+    "answer": " tıp",
+    "sub": "Erasmus Darwin"
+  },
+  {
+    "query": "Jean le Rond d'Alembert çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Jean le Rond d'Alembert"
+  },
+  {
+    "query": "Luca Pacioli çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Luca Pacioli"
+  },
+  {
+    "query": "Stephen Hales çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "Stephen Hales"
+  },
+  {
+    "query": "Vitaly L. Ginzburg çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Vitaly L. Ginzburg"
+  },
+  {
+    "query": "Arthur Leonard Schawlow çalışma alanı nedir?",
+    "answer": " fizikçi",
+    "sub": "Arthur Leonard Schawlow"
+  },
+  {
+    "query": "Sima Qian çalışma alanı nedir?",
+    "answer": " tarih",
+    "sub": "Sima Qian"
+  },
+  {
+    "query": "Av köpeği çalışma alanı nedir?",
+    "answer": " avcılık",
+    "sub": "Av köpeği"
+  },
+  {
+    "query": "Paul Broca çalışma alanı nedir?",
+    "answer": " anatomi",
+    "sub": "Paul Broca"
+  },
+  {
+    "query": "Ulisse Dini çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Ulisse Dini"
+  },
+  {
+    "query": "Marcel Mauss çalışma alanı nedir?",
+    "answer": " toplum bilimi",
+    "sub": "Marcel Mauss"
+  },
+  {
+    "query": "Batlamyus çalışma alanı nedir?",
+    "answer": " matematikçi",
+    "sub": "Batlamyus"
+  },
+  {
+    "query": "Isaac Barrow çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Isaac Barrow"
+  },
+  {
+    "query": "Sean M. Carroll çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Sean M. Carroll"
+  },
+  {
+    "query": "Jean Piaget çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Jean Piaget"
+  },
+  {
+    "query": "Stefan Banach çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Stefan Banach"
+  },
+  {
+    "query": "Henry Corbin çalışma alanı nedir?",
+    "answer": " felsefe",
+    "sub": "Henry Corbin"
+  },
+  {
+    "query": "Thomas J. Watson çalışma alanı nedir?",
+    "answer": " IBM",
+    "sub": "Thomas J. Watson"
+  },
+  {
+    "query": "Joseph Priestley çalışma alanı nedir?",
+    "answer": " felsefe",
+    "sub": "Joseph Priestley"
+  },
+  {
+    "query": "Nikolaus Joseph von Jacquin çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Nikolaus Joseph von Jacquin"
+  },
+  {
+    "query": "Julius Lothar Meyer çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Julius Lothar Meyer"
+  },
+  {
+    "query": "Kurt Lewin çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Kurt Lewin"
+  },
+  {
+    "query": "Arnold Çikobava çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Arnold Çikobava"
+  },
+  {
+    "query": "James Clerk Maxwell çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "James Clerk Maxwell"
+  },
+  {
+    "query": "Elias James Corey çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Elias James Corey"
+  },
+  {
+    "query": "Alfred Marshall çalışma alanı nedir?",
+    "answer": " iktisat",
+    "sub": "Alfred Marshall"
+  },
+  {
+    "query": "Nicolaus Copernicus çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Nicolaus Copernicus"
+  },
+  {
+    "query": "Eric Maskin çalışma alanı nedir?",
+    "answer": " ekonomist",
+    "sub": "Eric Maskin"
+  },
+  {
+    "query": "Helen Fisher çalışma alanı nedir?",
+    "answer": " antropoloji",
+    "sub": "Helen Fisher"
+  },
+  {
+    "query": "Jared Diamond çalışma alanı nedir?",
+    "answer": " ekoloji",
+    "sub": "Jared Diamond"
+  },
+  {
+    "query": "Jeremiah Horrocks çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Jeremiah Horrocks"
+  },
+  {
+    "query": "Andrey Kolmogorov çalışma alanı nedir?",
+    "answer": " geometri",
+    "sub": "Andrey Kolmogorov"
+  },
+  {
+    "query": "Joseph Louis Gay-Lussac çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Joseph Louis Gay-Lussac"
+  },
+  {
+    "query": "Oktan çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Oktan"
+  },
+  {
+    "query": "Spacewatch çalışma alanı nedir?",
+    "answer": " Asteroit",
+    "sub": "Spacewatch"
+  },
+  {
+    "query": "Henri Brocard çalışma alanı nedir?",
+    "answer": " geometri",
+    "sub": "Henri Brocard"
+  },
+  {
+    "query": "Daniel Bernoulli çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Daniel Bernoulli"
+  },
+  {
+    "query": "Physics-Uspekhi çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Physics-Uspekhi"
+  },
+  {
+    "query": "Julian Huxley çalışma alanı nedir?",
+    "answer": " biyoloji",
+    "sub": "Julian Huxley"
+  },
+  {
+    "query": "Edward Bradford Titchener çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Edward Bradford Titchener"
+  },
+  {
+    "query": "Michael Faraday çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Michael Faraday"
+  },
+  {
+    "query": "Werner Sombart çalışma alanı nedir?",
+    "answer": " toplum bilimi",
+    "sub": "Werner Sombart"
+  },
+  {
+    "query": "Otto Neurath çalışma alanı nedir?",
+    "answer": " toplum bilimi",
+    "sub": "Otto Neurath"
+  },
+  {
+    "query": "Stephen Wolfram çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Stephen Wolfram"
+  },
+  {
+    "query": "Humphry Davy çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Humphry Davy"
+  },
+  {
+    "query": "El-Mesûdî çalışma alanı nedir?",
+    "answer": " tarih",
+    "sub": "El-Mesûdî"
+  },
+  {
+    "query": "Henri Moissan çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Henri Moissan"
+  },
+  {
+    "query": "Heinz Hopf çalışma alanı nedir?",
+    "answer": " Topoloji",
+    "sub": "Heinz Hopf"
+  },
+  {
+    "query": "Heinz Hopf çalışma alanı nedir?",
+    "answer": " geometri",
+    "sub": "Heinz Hopf"
+  },
+  {
+    "query": "Pierre Curie çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Pierre Curie"
+  },
+  {
+    "query": "Isaac Barrow çalışma alanı nedir?",
+    "answer": " teoloji",
+    "sub": "Isaac Barrow"
+  },
+  {
+    "query": "Gustav Robert Kirchoff çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Gustav Robert Kirchoff"
+  },
+  {
+    "query": "Norbert Wiener çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Norbert Wiener"
+  },
+  {
+    "query": "Steven Weinberg çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Steven Weinberg"
+  },
+  {
+    "query": "Hıraçya Acaryan çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Hıraçya Acaryan"
+  },
+  {
+    "query": "Carl Ritter çalışma alanı nedir?",
+    "answer": " coğrafya",
+    "sub": "Carl Ritter"
+  },
+  {
+    "query": "Urbain Le Verrier çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Urbain Le Verrier"
+  },
+  {
+    "query": "Ian Hodder çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "Ian Hodder"
+  },
+  {
+    "query": "Johan Huizinga çalışma alanı nedir?",
+    "answer": " tarih",
+    "sub": "Johan Huizinga"
+  },
+  {
+    "query": "Eugenius Warming çalışma alanı nedir?",
+    "answer": " biyoloji",
+    "sub": "Eugenius Warming"
+  },
+  {
+    "query": "İlk Dönem Flaman Resmi çalışma alanı nedir?",
+    "answer": " Çizim",
+    "sub": "İlk Dönem Flaman Resmi"
+  },
+  {
+    "query": "Science çalışma alanı nedir?",
+    "answer": " bilim",
+    "sub": "Science"
+  },
+  {
+    "query": "vücut bölgeleri çalışma alanı nedir?",
+    "answer": " anatomi",
+    "sub": "vücut bölgeleri"
+  },
+  {
+    "query": "Edward Teller çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Edward Teller"
+  },
+  {
+    "query": "Led Zeppelin çalışma alanı nedir?",
+    "answer": " müzisyen",
+    "sub": "Led Zeppelin"
+  },
+  {
+    "query": "Bithyinialı Asclepiades çalışma alanı nedir?",
+    "answer": " tıp",
+    "sub": "Bithyinialı Asclepiades"
+  },
+  {
+    "query": "Stefan Mazurkiewicz çalışma alanı nedir?",
+    "answer": " Topoloji",
+    "sub": "Stefan Mazurkiewicz"
+  },
+  {
+    "query": "Urania çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Urania"
+  },
+  {
+    "query": "James Frazer çalışma alanı nedir?",
+    "answer": " antropoloji",
+    "sub": "James Frazer"
+  },
+  {
+    "query": "Anatoli Fomenko çalışma alanı nedir?",
+    "answer": " Topoloji",
+    "sub": "Anatoli Fomenko"
+  },
+  {
+    "query": "Immanuel Wallerstein çalışma alanı nedir?",
+    "answer": " toplum bilimi",
+    "sub": "Immanuel Wallerstein"
+  },
+  {
+    "query": "Regiomontanus çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Regiomontanus"
+  },
+  {
+    "query": "Ernest Orlando Lawrence çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Ernest Orlando Lawrence"
+  },
+  {
+    "query": "Marie Curie çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Marie Curie"
+  },
+  {
+    "query": "John Anthony Walker çalışma alanı nedir?",
+    "answer": " Casusluk",
+    "sub": "John Anthony Walker"
+  },
+  {
+    "query": "John Napier çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "John Napier"
+  },
+  {
+    "query": "Isaac Newton çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "Olin J. Eggen çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Olin J. Eggen"
+  },
+  {
+    "query": "Üniversite Lille 2 çalışma alanı nedir?",
+    "answer": " Eczacılık",
+    "sub": "Üniversite Lille 2"
+  },
+  {
+    "query": "Yeoryos Metallinos çalışma alanı nedir?",
+    "answer": " teoloji",
+    "sub": "Yeoryos Metallinos"
+  },
+  {
+    "query": "Larry Sanger çalışma alanı nedir?",
+    "answer": " felsefe",
+    "sub": "Larry Sanger"
+  },
+  {
+    "query": "Philipp Lenard çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Philipp Lenard"
+  },
+  {
+    "query": "Hermann von Helmholtz çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "Friedrich Wilhelm Bessel çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Friedrich Wilhelm Bessel"
+  },
+  {
+    "query": "N. F. S. Grundtvig çalışma alanı nedir?",
+    "answer": " felsefe",
+    "sub": "N. F. S. Grundtvig"
+  },
+  {
+    "query": "Otto E. Neugebauer çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Otto E. Neugebauer"
+  },
+  {
+    "query": "Fritjof Capra çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Fritjof Capra"
+  },
+  {
+    "query": "Saskia Sassen çalışma alanı nedir?",
+    "answer": " toplum bilimi",
+    "sub": "Saskia Sassen"
+  },
+  {
+    "query": "Zhou Youguang çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Zhou Youguang"
+  },
+  {
+    "query": "Alfred Kinsey çalışma alanı nedir?",
+    "answer": " biyoloji",
+    "sub": "Alfred Kinsey"
+  },
+  {
+    "query": "Mesrop Maştots çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Mesrop Maştots"
+  },
+  {
+    "query": "Kazimierz Ajdukiewicz çalışma alanı nedir?",
+    "answer": " mantık",
+    "sub": "Kazimierz Ajdukiewicz"
+  },
+  {
+    "query": "James Franck çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "James Franck"
+  },
+  {
+    "query": "David Harvey çalışma alanı nedir?",
+    "answer": " coğrafya",
+    "sub": "David Harvey"
+  },
+  {
+    "query": "Hantaro Nagaoka çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Hantaro Nagaoka"
+  },
+  {
+    "query": "Elinor Ostrom çalışma alanı nedir?",
+    "answer": " iktisat",
+    "sub": "Elinor Ostrom"
+  },
+  {
+    "query": "Arthur Schoenflies çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Arthur Schoenflies"
+  },
+  {
+    "query": "Torbern Olof Bergman çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Torbern Olof Bergman"
+  },
+  {
+    "query": "Wallace Carothers çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Wallace Carothers"
+  },
+  {
+    "query": "Edward V. Appleton çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Edward V. Appleton"
+  },
+  {
+    "query": "John Dalton çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "John Dalton"
+  },
+  {
+    "query": "John Dalton çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "John Dalton"
+  },
+  {
+    "query": "Nicolas Steno çalışma alanı nedir?",
+    "answer": " anatomi",
+    "sub": "Nicolas Steno"
+  },
+  {
+    "query": "Archibald Hill çalışma alanı nedir?",
+    "answer": " Fizyoloji",
+    "sub": "Archibald Hill"
+  },
+  {
+    "query": "Akteon çalışma alanı nedir?",
+    "answer": " avcılık",
+    "sub": "Akteon"
+  },
+  {
+    "query": "Alfred Tarski çalışma alanı nedir?",
+    "answer": " mantık",
+    "sub": "Alfred Tarski"
+  },
+  {
+    "query": "Dimitri Mendeleyev çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Dimitri Mendeleyev"
+  },
+  {
+    "query": "Dimitri Mendeleyev çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Dimitri Mendeleyev"
+  },
+  {
+    "query": "Nureddin Batruci çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Nureddin Batruci"
+  },
+  {
+    "query": "Paul McCartney çalışma alanı nedir?",
+    "answer": " müzisyen",
+    "sub": "Paul McCartney"
+  },
+  {
+    "query": "Jonathan Haidt çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Jonathan Haidt"
+  },
+  {
+    "query": "Charles Babbage çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Charles Babbage"
+  },
+  {
+    "query": "Vladimir Voevodsky çalışma alanı nedir?",
+    "answer": " Topoloji",
+    "sub": "Vladimir Voevodsky"
+  },
+  {
+    "query": "Nicolaus Copernicus çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Nicolaus Copernicus"
+  },
+  {
+    "query": "Marian Rejewski çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Marian Rejewski"
+  },
+  {
+    "query": "Aryabhata çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Aryabhata"
+  },
+  {
+    "query": "Paul Broca çalışma alanı nedir?",
+    "answer": " antropoloji",
+    "sub": "Paul Broca"
+  },
+  {
+    "query": "Halit Hüseyni çalışma alanı nedir?",
+    "answer": " Afganistan",
+    "sub": "Halit Hüseyni"
+  },
+  {
+    "query": "Clyde Tombaugh çalışma alanı nedir?",
+    "answer": " astronom",
+    "sub": "Clyde Tombaugh"
+  },
+  {
+    "query": "Boris Rıbakov çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "Boris Rıbakov"
+  },
+  {
+    "query": "Willis Eugene Lamb çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Willis Eugene Lamb"
+  },
+  {
+    "query": "Arşimet çalışma alanı nedir?",
+    "answer": " geometri",
+    "sub": "Arşimet"
+  },
+  {
+    "query": "Anaksagoras çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Anaksagoras"
+  },
+  {
+    "query": "İbni Hişam çalışma alanı nedir?",
+    "answer": " tarih",
+    "sub": "İbni Hişam"
+  },
+  {
+    "query": "Christiaan Huygens çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Christiaan Huygens"
+  },
+  {
+    "query": "Theodor Billroth çalışma alanı nedir?",
+    "answer": " cerrahi",
+    "sub": "Theodor Billroth"
+  },
+  {
+    "query": "Michael Jackson çalışma alanı nedir?",
+    "answer": " müzisyen",
+    "sub": "Michael Jackson"
+  },
+  {
+    "query": "David Bohm çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "David Bohm"
+  },
+  {
+    "query": "Hertha Ayrton çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Hertha Ayrton"
+  },
+  {
+    "query": "Homi J. Bhabha çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Homi J. Bhabha"
+  },
+  {
+    "query": "Karl Schwarzschild çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Karl Schwarzschild"
+  },
+  {
+    "query": "Adam Smith çalışma alanı nedir?",
+    "answer": " iktisat",
+    "sub": "Adam Smith"
+  },
+  {
+    "query": "Adonis çalışma alanı nedir?",
+    "answer": " avcılık",
+    "sub": "Adonis"
+  },
+  {
+    "query": "Robert A. Millikan çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Robert A. Millikan"
+  },
+  {
+    "query": "İnsan anatomik terimleri çalışma alanı nedir?",
+    "answer": " anatomi",
+    "sub": "İnsan anatomik terimleri"
+  },
+  {
+    "query": "Mildred Dresselhaus çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Mildred Dresselhaus"
+  },
+  {
+    "query": "George Dantzig çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "George Dantzig"
+  },
+  {
+    "query": "Max Dehn çalışma alanı nedir?",
+    "answer": " Topoloji",
+    "sub": "Max Dehn"
+  },
+  {
+    "query": "Gerardus Mercator çalışma alanı nedir?",
+    "answer": " coğrafya",
+    "sub": "Gerardus Mercator"
+  },
+  {
+    "query": "Carl Linnaeus çalışma alanı nedir?",
+    "answer": " tıp",
+    "sub": "Carl Linnaeus"
+  },
+  {
+    "query": "Karl Polanyi çalışma alanı nedir?",
+    "answer": " toplum bilimi",
+    "sub": "Karl Polanyi"
+  },
+  {
+    "query": "Charles Darwin çalışma alanı nedir?",
+    "answer": " jeoloji",
+    "sub": "Charles Darwin"
+  },
+  {
+    "query": "Frank Wilczek çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Frank Wilczek"
+  },
+  {
+    "query": "Guo Moruo çalışma alanı nedir?",
+    "answer": " tarih",
+    "sub": "Guo Moruo"
+  },
+  {
+    "query": "Germaine Greer çalışma alanı nedir?",
+    "answer": " feminizm",
+    "sub": "Germaine Greer"
+  },
+  {
+    "query": "Hellmuth Kneser çalışma alanı nedir?",
+    "answer": " Topoloji",
+    "sub": "Hellmuth Kneser"
+  },
+  {
+    "query": "Andrey Kolmogorov çalışma alanı nedir?",
+    "answer": " Topoloji",
+    "sub": "Andrey Kolmogorov"
+  },
+  {
+    "query": "Johann Heinrich Lambert çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Johann Heinrich Lambert"
+  },
+  {
+    "query": "Alexander Bogdanov çalışma alanı nedir?",
+    "answer": " tıp",
+    "sub": "Alexander Bogdanov"
+  },
+  {
+    "query": "Brahmagupta çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Brahmagupta"
+  },
+  {
+    "query": "Spacewatch çalışma alanı nedir?",
+    "answer": " kuyruklu yıldız",
+    "sub": "Spacewatch"
+  },
+  {
+    "query": "Ludwig Klages çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Ludwig Klages"
+  },
+  {
+    "query": "Wilhelm Wien çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Wilhelm Wien"
+  },
+  {
+    "query": "Ali Ekber Dihhoda çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Ali Ekber Dihhoda"
+  },
+  {
+    "query": "Edinburgh Matematik Derneği çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Edinburgh Matematik Derneği"
+  },
+  {
+    "query": "Hermann von Helmholtz çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "Leonhard Euler çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Leonhard Euler"
+  },
+  {
+    "query": "NOTAM çalışma alanı nedir?",
+    "answer": " havacılık",
+    "sub": "NOTAM"
+  },
+  {
+    "query": "Galileo Galilei çalışma alanı nedir?",
+    "answer": " felsefe",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "Gregor Mendel çalışma alanı nedir?",
+    "answer": " genetik",
+    "sub": "Gregor Mendel"
+  },
+  {
+    "query": "Ahmed Kesrevi çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Ahmed Kesrevi"
+  },
+  {
+    "query": "Bruce Springsteen çalışma alanı nedir?",
+    "answer": " müzisyen",
+    "sub": "Bruce Springsteen"
+  },
+  {
+    "query": "William Lipscomb çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "William Lipscomb"
+  },
+  {
+    "query": "Sofya Kovalevskaya çalışma alanı nedir?",
+    "answer": " matematik",
+    "sub": "Sofya Kovalevskaya"
+  },
+  {
+    "query": "Giordano Bruno çalışma alanı nedir?",
+    "answer": " felsefe",
+    "sub": "Giordano Bruno"
+  },
+  {
+    "query": "Callippus çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Callippus"
+  },
+  {
+    "query": "Vilhelm Thomsen çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Vilhelm Thomsen"
+  },
+  {
+    "query": "Edward Condon çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Edward Condon"
+  },
+  {
+    "query": "Menaechmus çalışma alanı nedir?",
+    "answer": " geometri",
+    "sub": "Menaechmus"
+  },
+  {
+    "query": "Henri Becquerel çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Henri Becquerel"
+  },
+  {
+    "query": "Bin Yayla çalışma alanı nedir?",
+    "answer": " felsefe",
+    "sub": "Bin Yayla"
+  },
+  {
+    "query": "Lazarus Geiger çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Lazarus Geiger"
+  },
+  {
+    "query": "İstatistiksel model çalışma alanı nedir?",
+    "answer": " istatistik",
+    "sub": "İstatistiksel model"
+  },
+  {
+    "query": "Kip Thorne çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Kip Thorne"
+  },
+  {
+    "query": "Alexis Bouvard çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Alexis Bouvard"
+  },
+  {
+    "query": "Carl Djerassi çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Carl Djerassi"
+  },
+  {
+    "query": "Borsacı çalışma alanı nedir?",
+    "answer": " Stok",
+    "sub": "Borsacı"
+  },
+  {
+    "query": "Antonio Vallisneri çalışma alanı nedir?",
+    "answer": " tıp",
+    "sub": "Antonio Vallisneri"
+  },
+  {
+    "query": "İbn Ebî Useybia çalışma alanı nedir?",
+    "answer": " tıp",
+    "sub": "İbn Ebî Useybia"
+  },
+  {
+    "query": "August Weismann çalışma alanı nedir?",
+    "answer": " biyoloji",
+    "sub": "August Weismann"
+  },
+  {
+    "query": "Giovanni Riccioli çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Giovanni Riccioli"
+  },
+  {
+    "query": "James Hillman çalışma alanı nedir?",
+    "answer": " psikoloji",
+    "sub": "James Hillman"
+  },
+  {
+    "query": "Paul Langevin çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Paul Langevin"
+  },
+  {
+    "query": "Ekrem Akurgal çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "Ekrem Akurgal"
+  },
+  {
+    "query": "Robert J. Braidwood çalışma alanı nedir?",
+    "answer": " arkeoloji",
+    "sub": "Robert J. Braidwood"
+  },
+  {
+    "query": "Johannes Hevelius çalışma alanı nedir?",
+    "answer": " astronomi",
+    "sub": "Johannes Hevelius"
+  },
+  {
+    "query": "John Cockcroft çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "John Cockcroft"
+  },
+  {
+    "query": "Brian De Palma çalışma alanı nedir?",
+    "answer": " film",
+    "sub": "Brian De Palma"
+  },
+  {
+    "query": "Domingo de Soto çalışma alanı nedir?",
+    "answer": " teoloji",
+    "sub": "Domingo de Soto"
+  },
+  {
+    "query": "Tamaz Gamkrelidze çalışma alanı nedir?",
+    "answer": " dilbilim",
+    "sub": "Tamaz Gamkrelidze"
+  },
+  {
+    "query": "Pyotr Nikolaevich Lebedev çalışma alanı nedir?",
+    "answer": " fizik",
+    "sub": "Pyotr Nikolaevich Lebedev"
+  },
+  {
+    "query": "Svante Arrhenius çalışma alanı nedir?",
+    "answer": " kimya",
+    "sub": "Svante Arrhenius"
+  },
+  {
+    "query": "rokoko çalışma alanı nedir?",
+    "answer": " mimarlık",
+    "sub": "rokoko"
+  },
+  {
+    "query": "Eberhard Hopf çalışma alanı nedir?",
+    "answer": " Topoloji",
+    "sub": "Eberhard Hopf"
+  }
+]

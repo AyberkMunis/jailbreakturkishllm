@@ -1,0 +1,3482 @@
+[
+  {
+    "query": "Alan Turing's domain of work is ",
+    "answer": "logic",
+    "sub": "Alan Turing"
+  },
+  {
+    "query": "John Vincent Atanasoff's domain of work is ",
+    "answer": "mathematics",
+    "sub": "John Vincent Atanasoff"
+  },
+  {
+    "query": "Edward Burnett Tylor's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Edward Burnett Tylor"
+  },
+  {
+    "query": "Anaxagoras's domain of work is ",
+    "answer": "philosophy",
+    "sub": "Anaxagoras"
+  },
+  {
+    "query": "Robert Bunsen's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Robert Bunsen"
+  },
+  {
+    "query": "Adam Carolla's domain of work is ",
+    "answer": "comedian",
+    "sub": "Adam Carolla"
+  },
+  {
+    "query": "Al Capp's domain of work is ",
+    "answer": "cartoonist",
+    "sub": "Al Capp"
+  },
+  {
+    "query": "Benjamin Lee Whorf's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Benjamin Lee Whorf"
+  },
+  {
+    "query": "Edward Sapir's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Edward Sapir"
+  },
+  {
+    "query": "Bruce Perens's domain of work is ",
+    "answer": "programmer",
+    "sub": "Bruce Perens"
+  },
+  {
+    "query": "Luitzen Egbertus Jan Brouwer's domain of work is ",
+    "answer": "topology",
+    "sub": "Luitzen Egbertus Jan Brouwer"
+  },
+  {
+    "query": "Charles Kay Ogden's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Charles Kay Ogden"
+  },
+  {
+    "query": "speleology's domain of work is ",
+    "answer": "cave",
+    "sub": "speleology"
+  },
+  {
+    "query": "Bill Watterson's domain of work is ",
+    "answer": "cartoonist",
+    "sub": "Bill Watterson"
+  },
+  {
+    "query": "John Calvin's domain of work is ",
+    "answer": "theology",
+    "sub": "John Calvin"
+  },
+  {
+    "query": "Charles Proteus Steinmetz's domain of work is ",
+    "answer": "mathematician",
+    "sub": "Charles Proteus Steinmetz"
+  },
+  {
+    "query": "physical system's domain of work is ",
+    "answer": "physics",
+    "sub": "physical system"
+  },
+  {
+    "query": "Carl Rogers's domain of work is ",
+    "answer": "psychology",
+    "sub": "Carl Rogers"
+  },
+  {
+    "query": "Charles F. Hockett's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Charles F. Hockett"
+  },
+  {
+    "query": "Garry Trudeau's domain of work is ",
+    "answer": "cartoonist",
+    "sub": "Garry Trudeau"
+  },
+  {
+    "query": "David Hilbert's domain of work is ",
+    "answer": "geometry",
+    "sub": "David Hilbert"
+  },
+  {
+    "query": "Richard Wagner's domain of work is ",
+    "answer": "opera",
+    "sub": "Richard Wagner"
+  },
+  {
+    "query": "Euclid's domain of work is ",
+    "answer": "geometry",
+    "sub": "Euclid"
+  },
+  {
+    "query": "Max Weber's domain of work is ",
+    "answer": "sociology",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "Hans Eysenck's domain of work is ",
+    "answer": "psychology",
+    "sub": "Hans Eysenck"
+  },
+  {
+    "query": "Eugene Wigner's domain of work is ",
+    "answer": "physics",
+    "sub": "Eugene Wigner"
+  },
+  {
+    "query": "Felix Hausdorff's domain of work is ",
+    "answer": "topology",
+    "sub": "Felix Hausdorff"
+  },
+  {
+    "query": "Fred Hoyle's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Fred Hoyle"
+  },
+  {
+    "query": "Galen's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Galen"
+  },
+  {
+    "query": "William Harvey's domain of work is ",
+    "answer": "physiology",
+    "sub": "William Harvey"
+  },
+  {
+    "query": "Joseph Campbell's domain of work is ",
+    "answer": "mythology",
+    "sub": "Joseph Campbell"
+  },
+  {
+    "query": "",
+    "answer": "LGBT",
+    "sub": "LGBT social movements"
+  },
+  {
+    "query": "Howard Carter's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Howard Carter"
+  },
+  {
+    "query": "Heinrich Schliemann's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Heinrich Schliemann"
+  },
+  {
+    "query": "Claude Bernard's domain of work is ",
+    "answer": "physiology",
+    "sub": "Claude Bernard"
+  },
+  {
+    "query": "Walter Bradford Cannon's domain of work is ",
+    "answer": "physiology",
+    "sub": "Walter Bradford Cannon"
+  },
+  {
+    "query": "Isaac Newton's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "Justus von Liebig's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Justus von Liebig"
+  },
+  {
+    "query": "John James Rickard Macleod's domain of work is ",
+    "answer": "physiology",
+    "sub": "John James Rickard Macleod"
+  },
+  {
+    "query": "Frederick Banting's domain of work is ",
+    "answer": "physiology",
+    "sub": "Frederick Banting"
+  },
+  {
+    "query": "Karl Marx's domain of work is ",
+    "answer": "sociology",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "Kathleen Kenyon's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Kathleen Kenyon"
+  },
+  {
+    "query": "intelligence agency's domain of work is ",
+    "answer": "espionage",
+    "sub": "intelligence agency"
+  },
+  {
+    "query": "Hans Bethe's domain of work is ",
+    "answer": "physics",
+    "sub": "Hans Bethe"
+  },
+  {
+    "query": "Jack Ruby's domain of work is ",
+    "answer": "nightclub",
+    "sub": "Jack Ruby"
+  },
+  {
+    "query": "Arthur Evans's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Arthur Evans"
+  },
+  {
+    "query": "Leonard Bloomfield's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Leonard Bloomfield"
+  },
+  {
+    "query": "International Committee on Taxonomy of Viruses's domain of work is ",
+    "answer": "virus",
+    "sub": "International Committee on Taxonomy of Viruses"
+  },
+  {
+    "query": "Percy Williams Bridgman's domain of work is ",
+    "answer": "physics",
+    "sub": "Percy Williams Bridgman"
+  },
+  {
+    "query": "Gerolamo Cardano's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Gerolamo Cardano"
+  },
+  {
+    "query": "Max Weber's domain of work is ",
+    "answer": "economics",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "John Chadwick's domain of work is ",
+    "answer": "linguistics",
+    "sub": "John Chadwick"
+  },
+  {
+    "query": "Michael Faraday's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Michael Faraday"
+  },
+  {
+    "query": "ornithology's domain of work is ",
+    "answer": "bird",
+    "sub": "ornithology"
+  },
+  {
+    "query": "Eric Harold Neville's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Eric Harold Neville"
+  },
+  {
+    "query": "Bonaventura Cavalieri's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Bonaventura Cavalieri"
+  },
+  {
+    "query": "Galileo Galilei's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "Hypatia's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Hypatia"
+  },
+  {
+    "query": "Erving Goffman's domain of work is ",
+    "answer": "sociology",
+    "sub": "Erving Goffman"
+  },
+  {
+    "query": "Amos Tversky's domain of work is ",
+    "answer": "psychology",
+    "sub": "Amos Tversky"
+  },
+  {
+    "query": "Michael Servetus's domain of work is ",
+    "answer": "theology",
+    "sub": "Michael Servetus"
+  },
+  {
+    "query": "Sergei Diaghilev's domain of work is ",
+    "answer": "ballet",
+    "sub": "Sergei Diaghilev"
+  },
+  {
+    "query": "James Mellaart's domain of work is ",
+    "answer": "archaeology",
+    "sub": "James Mellaart"
+  },
+  {
+    "query": "Reinhold Niebuhr's domain of work is ",
+    "answer": "theology",
+    "sub": "Reinhold Niebuhr"
+  },
+  {
+    "query": "Lars Roberg's domain of work is ",
+    "answer": "medicine",
+    "sub": "Lars Roberg"
+  },
+  {
+    "query": "Johan Vilhelm Snellman's domain of work is ",
+    "answer": "Finnish",
+    "sub": "Johan Vilhelm Snellman"
+  },
+  {
+    "query": "Edwin Hubble's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Edwin Hubble"
+  },
+  {
+    "query": "Otto Struve's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Otto Struve"
+  },
+  {
+    "query": "Leonard Peikoff's domain of work is ",
+    "answer": "philosophy",
+    "sub": "Leonard Peikoff"
+  },
+  {
+    "query": "John Lubbock, 1st Baron Avebury's domain of work is ",
+    "answer": "archaeology",
+    "sub": "John Lubbock, 1st Baron Avebury"
+  },
+  {
+    "query": "Paul Vixie's domain of work is ",
+    "answer": "Unix",
+    "sub": "Paul Vixie"
+  },
+  {
+    "query": "Isaac Newton's domain of work is ",
+    "answer": "physics",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "Ilya Prigogine's domain of work is ",
+    "answer": "physics",
+    "sub": "Ilya Prigogine"
+  },
+  {
+    "query": "Norman Hackerman's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Norman Hackerman"
+  },
+  {
+    "query": "Franz Boas's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Franz Boas"
+  },
+  {
+    "query": "Roman Jakobson's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Roman Jakobson"
+  },
+  {
+    "query": "Sapir-Whorf hypothesis's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Sapir-Whorf hypothesis"
+  },
+  {
+    "query": "scientific method's domain of work is ",
+    "answer": "science",
+    "sub": "scientific method"
+  },
+  {
+    "query": "William Crookes's domain of work is ",
+    "answer": "chemistry",
+    "sub": "William Crookes"
+  },
+  {
+    "query": "Stephen Jay Gould's domain of work is ",
+    "answer": "evolution",
+    "sub": "Stephen Jay Gould"
+  },
+  {
+    "query": "Steve Biko's domain of work is ",
+    "answer": "apartheid",
+    "sub": "Steve Biko"
+  },
+  {
+    "query": "Solomon Schechter's domain of work is ",
+    "answer": "Hebrew",
+    "sub": "Solomon Schechter"
+  },
+  {
+    "query": "Matt Groening's domain of work is ",
+    "answer": "cartoonist",
+    "sub": "Matt Groening"
+  },
+  {
+    "query": "Johann Benedict Listing's domain of work is ",
+    "answer": "topology",
+    "sub": "Johann Benedict Listing"
+  },
+  {
+    "query": "Charles Darwin's domain of work is ",
+    "answer": "biology",
+    "sub": "Charles Darwin"
+  },
+  {
+    "query": "Tycho Brahe's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Tycho Brahe"
+  },
+  {
+    "query": "John Stuart Mill's domain of work is ",
+    "answer": "philosophy",
+    "sub": "John Stuart Mill"
+  },
+  {
+    "query": "Alan Turing's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Alan Turing"
+  },
+  {
+    "query": "Vilfredo Pareto's domain of work is ",
+    "answer": "sociology",
+    "sub": "Vilfredo Pareto"
+  },
+  {
+    "query": "William Somerset Maugham's domain of work is ",
+    "answer": "playwright",
+    "sub": "William Somerset Maugham"
+  },
+  {
+    "query": "William Somerset Maugham's domain of work is ",
+    "answer": "novelist",
+    "sub": "William Somerset Maugham"
+  },
+  {
+    "query": "Alexandre Darracq's domain of work is ",
+    "answer": "motor car",
+    "sub": "Alexandre Darracq"
+  },
+  {
+    "query": "Enrico Fermi's domain of work is ",
+    "answer": "physics",
+    "sub": "Enrico Fermi"
+  },
+  {
+    "query": "gross profit's domain of work is ",
+    "answer": "accounting",
+    "sub": "gross profit"
+  },
+  {
+    "query": "Giovanni Domenico Cassini's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Giovanni Domenico Cassini"
+  },
+  {
+    "query": "Roger Penrose's domain of work is ",
+    "answer": "physics",
+    "sub": "Roger Penrose"
+  },
+  {
+    "query": "Karol Borsuk's domain of work is ",
+    "answer": "topology",
+    "sub": "Karol Borsuk"
+  },
+  {
+    "query": "Raymond Smullyan's domain of work is ",
+    "answer": "logic",
+    "sub": "Raymond Smullyan"
+  },
+  {
+    "query": "Deane Montgomery's domain of work is ",
+    "answer": "topology",
+    "sub": "Deane Montgomery"
+  },
+  {
+    "query": "Wilhelm Krause's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Wilhelm Krause"
+  },
+  {
+    "query": "Patrick Moore's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Patrick Moore"
+  },
+  {
+    "query": "British School at Athens's domain of work is ",
+    "answer": "archaeology",
+    "sub": "British School at Athens"
+  },
+  {
+    "query": "Norman McLaren's domain of work is ",
+    "answer": "animation",
+    "sub": "Norman McLaren"
+  },
+  {
+    "query": "Mark Mazower's domain of work is ",
+    "answer": "Balkans",
+    "sub": "Mark Mazower"
+  },
+  {
+    "query": "Joseph Barcroft's domain of work is ",
+    "answer": "physiology",
+    "sub": "Joseph Barcroft"
+  },
+  {
+    "query": "Paul Radin's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Paul Radin"
+  },
+  {
+    "query": "Johann Wolfgang von Goethe's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Johann Wolfgang von Goethe"
+  },
+  {
+    "query": "Paracelsus's domain of work is ",
+    "answer": "medicine",
+    "sub": "Paracelsus"
+  },
+  {
+    "query": "Georg Ernst Stahl's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Georg Ernst Stahl"
+  },
+  {
+    "query": "John Coltrane's domain of work is ",
+    "answer": "jazz",
+    "sub": "John Coltrane"
+  },
+  {
+    "query": "Willem Piso's domain of work is ",
+    "answer": "physician",
+    "sub": "Willem Piso"
+  },
+  {
+    "query": "Karl Bogislaus Reichert's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Karl Bogislaus Reichert"
+  },
+  {
+    "query": "Hermann von Helmholtz's domain of work is ",
+    "answer": "physics",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "air traffic control's domain of work is ",
+    "answer": "aviation",
+    "sub": "air traffic control"
+  },
+  {
+    "query": "grammatical category's domain of work is ",
+    "answer": "linguistics",
+    "sub": "grammatical category"
+  },
+  {
+    "query": "Galen's domain of work is ",
+    "answer": "medicine",
+    "sub": "Galen"
+  },
+  {
+    "query": "Akira Toriyama's domain of work is ",
+    "answer": "manga",
+    "sub": "Akira Toriyama"
+  },
+  {
+    "query": "Robert Koldewey's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Robert Koldewey"
+  },
+  {
+    "query": "bariatric surgery's domain of work is ",
+    "answer": "stomach",
+    "sub": "bariatric surgery"
+  },
+  {
+    "query": "Abraham Maslow's domain of work is ",
+    "answer": "psychology",
+    "sub": "Abraham Maslow"
+  },
+  {
+    "query": "Ephraim George Squier's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Ephraim George Squier"
+  },
+  {
+    "query": "Henri Victor Regnault's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Henri Victor Regnault"
+  },
+  {
+    "query": "Edward Frankland's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Edward Frankland"
+  },
+  {
+    "query": "Louis Pasteur's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Louis Pasteur"
+  },
+  {
+    "query": "Max Joseph von Pettenkofer's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Max Joseph von Pettenkofer"
+  },
+  {
+    "query": "Henry Cavendish's domain of work is ",
+    "answer": "physics",
+    "sub": "Henry Cavendish"
+  },
+  {
+    "query": "Laurent Schwartz's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Laurent Schwartz"
+  },
+  {
+    "query": "Edward Thorndike's domain of work is ",
+    "answer": "psychology",
+    "sub": "Edward Thorndike"
+  },
+  {
+    "query": "",
+    "answer": "art",
+    "sub": "art school"
+  },
+  {
+    "query": "Peter von Uslar's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Peter von Uslar"
+  },
+  {
+    "query": "Michel Kervaire's domain of work is ",
+    "answer": "topology",
+    "sub": "Michel Kervaire"
+  },
+  {
+    "query": "John Milnor's domain of work is ",
+    "answer": "topology",
+    "sub": "John Milnor"
+  },
+  {
+    "query": "Karl Marx's domain of work is ",
+    "answer": "economics",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "Robert Neelly Bellah's domain of work is ",
+    "answer": "sociology",
+    "sub": "Robert Neelly Bellah"
+  },
+  {
+    "query": "Ulf von Euler's domain of work is ",
+    "answer": "physiology",
+    "sub": "Ulf von Euler"
+  },
+  {
+    "query": "Carl Menger's domain of work is ",
+    "answer": "economics",
+    "sub": "Carl Menger"
+  },
+  {
+    "query": "Alexander Cunningham's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Alexander Cunningham"
+  },
+  {
+    "query": "Galileo Galilei's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "Granius Licinianus's domain of work is ",
+    "answer": "history",
+    "sub": "Granius Licinianus"
+  },
+  {
+    "query": "Pomponius Mela's domain of work is ",
+    "answer": "geography",
+    "sub": "Pomponius Mela"
+  },
+  {
+    "query": "Nikolai Ivanovich Lobachevsky's domain of work is ",
+    "answer": "geometry",
+    "sub": "Nikolai Ivanovich Lobachevsky"
+  },
+  {
+    "query": "Leopold Vietoris's domain of work is ",
+    "answer": "topology",
+    "sub": "Leopold Vietoris"
+  },
+  {
+    "query": "Christiaan Huygens's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Christiaan Huygens"
+  },
+  {
+    "query": "Johannes de Groot's domain of work is ",
+    "answer": "topology",
+    "sub": "Johannes de Groot"
+  },
+  {
+    "query": "Abram Ioffe's domain of work is ",
+    "answer": "physics",
+    "sub": "Abram Ioffe"
+  },
+  {
+    "query": "United States Fish and Wildlife Service's domain of work is ",
+    "answer": "habitat",
+    "sub": "United States Fish and Wildlife Service"
+  },
+  {
+    "query": "web application's domain of work is ",
+    "answer": "website",
+    "sub": "web application"
+  },
+  {
+    "query": "Nāgārjuna's domain of work is ",
+    "answer": "Buddhism",
+    "sub": "Nāgārjuna"
+  },
+  {
+    "query": "Sergey Chaplygin's domain of work is ",
+    "answer": "physics",
+    "sub": "Sergey Chaplygin"
+  },
+  {
+    "query": "Ludwig von Mises's domain of work is ",
+    "answer": "economics",
+    "sub": "Ludwig von Mises"
+  },
+  {
+    "query": "Henry Thomas Colebrooke's domain of work is ",
+    "answer": "Sanskrit",
+    "sub": "Henry Thomas Colebrooke"
+  },
+  {
+    "query": "William Sharpey's domain of work is ",
+    "answer": "anatomy",
+    "sub": "William Sharpey"
+  },
+  {
+    "query": "Ivan Sechenov's domain of work is ",
+    "answer": "physiology",
+    "sub": "Ivan Sechenov"
+  },
+  {
+    "query": "William Rowan Hamilton's domain of work is ",
+    "answer": "mathematics",
+    "sub": "William Rowan Hamilton"
+  },
+  {
+    "query": "Yefim Karskiy's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Yefim Karskiy"
+  },
+  {
+    "query": "John Newport Langley's domain of work is ",
+    "answer": "physiology",
+    "sub": "John Newport Langley"
+  },
+  {
+    "query": "Ernest Rutherford's domain of work is ",
+    "answer": "physics",
+    "sub": "Ernest Rutherford"
+  },
+  {
+    "query": "William Herschel's domain of work is ",
+    "answer": "astronomy",
+    "sub": "William Herschel"
+  },
+  {
+    "query": "Courant Institute of Mathematical Sciences's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Courant Institute of Mathematical Sciences"
+  },
+  {
+    "query": "Nikolai Bogolyubov's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Nikolai Bogolyubov"
+  },
+  {
+    "query": "The Astronomical Journal's domain of work is ",
+    "answer": "astronomy",
+    "sub": "The Astronomical Journal"
+  },
+  {
+    "query": "Ivan Pavlov's domain of work is ",
+    "answer": "physiology",
+    "sub": "Ivan Pavlov"
+  },
+  {
+    "query": "Zahi Hawass's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Zahi Hawass"
+  },
+  {
+    "query": "Ernest Jones's domain of work is ",
+    "answer": "psychology",
+    "sub": "Ernest Jones"
+  },
+  {
+    "query": "Halford Mackinder's domain of work is ",
+    "answer": "geography",
+    "sub": "Halford Mackinder"
+  },
+  {
+    "query": "Chen Shou's domain of work is ",
+    "answer": "history",
+    "sub": "Chen Shou"
+  },
+  {
+    "query": "Hermann Minkowski's domain of work is ",
+    "answer": "geometry",
+    "sub": "Hermann Minkowski"
+  },
+  {
+    "query": "Johann Weyer's domain of work is ",
+    "answer": "physician",
+    "sub": "Johann Weyer"
+  },
+  {
+    "query": "Galileo Galilei's domain of work is ",
+    "answer": "physics",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "Jakob Steiner's domain of work is ",
+    "answer": "geometry",
+    "sub": "Jakob Steiner"
+  },
+  {
+    "query": "Julian Schwinger's domain of work is ",
+    "answer": "physics",
+    "sub": "Julian Schwinger"
+  },
+  {
+    "query": "Ulrich Beck's domain of work is ",
+    "answer": "sociology",
+    "sub": "Ulrich Beck"
+  },
+  {
+    "query": "AKhRR's domain of work is ",
+    "answer": "art",
+    "sub": "AKhRR"
+  },
+  {
+    "query": "Oswald Veblen's domain of work is ",
+    "answer": "geometry",
+    "sub": "Oswald Veblen"
+  },
+  {
+    "query": "Frederick Ashton's domain of work is ",
+    "answer": "ballet",
+    "sub": "Frederick Ashton"
+  },
+  {
+    "query": "Adriaan de Groot's domain of work is ",
+    "answer": "psychology",
+    "sub": "Adriaan de Groot"
+  },
+  {
+    "query": "Liutprand of Cremona's domain of work is ",
+    "answer": "diplomat",
+    "sub": "Liutprand of Cremona"
+  },
+  {
+    "query": "Andrew Casson's domain of work is ",
+    "answer": "topology",
+    "sub": "Andrew Casson"
+  },
+  {
+    "query": "Oswald Veblen's domain of work is ",
+    "answer": "topology",
+    "sub": "Oswald Veblen"
+  },
+  {
+    "query": "William Thurston's domain of work is ",
+    "answer": "topology",
+    "sub": "William Thurston"
+  },
+  {
+    "query": "millennialism's domain of work is ",
+    "answer": "theology",
+    "sub": "millennialism"
+  },
+  {
+    "query": "Johannes Goropius Becanus's domain of work is ",
+    "answer": "physician",
+    "sub": "Johannes Goropius Becanus"
+  },
+  {
+    "query": "woodburytype's domain of work is ",
+    "answer": "photography",
+    "sub": "woodburytype"
+  },
+  {
+    "query": "",
+    "answer": "pharmacy",
+    "sub": "pharmacy school"
+  },
+  {
+    "query": "suicide attack's domain of work is ",
+    "answer": "terrorism",
+    "sub": "suicide attack"
+  },
+  {
+    "query": "Abba Arika's domain of work is ",
+    "answer": "Talmud",
+    "sub": "Abba Arika"
+  },
+  {
+    "query": "Albrecht Kossel's domain of work is ",
+    "answer": "physiology",
+    "sub": "Albrecht Kossel"
+  },
+  {
+    "query": "overdrafting's domain of work is ",
+    "answer": "groundwater",
+    "sub": "overdrafting"
+  },
+  {
+    "query": "Georg Ludwig Hartig's domain of work is ",
+    "answer": "forestry",
+    "sub": "Georg Ludwig Hartig"
+  },
+  {
+    "query": "Michael Langone's domain of work is ",
+    "answer": "psychology",
+    "sub": "Michael Langone"
+  },
+  {
+    "query": "Lev Vygotsky's domain of work is ",
+    "answer": "psychology",
+    "sub": "Lev Vygotsky"
+  },
+  {
+    "query": "Karl Marx's domain of work is ",
+    "answer": "philosophy",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "Wilhelm Ackermann's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Wilhelm Ackermann"
+  },
+  {
+    "query": "Friedrich Bessel's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Friedrich Bessel"
+  },
+  {
+    "query": "Dennis Sullivan's domain of work is ",
+    "answer": "topology",
+    "sub": "Dennis Sullivan"
+  },
+  {
+    "query": "G. Stanley Hall's domain of work is ",
+    "answer": "psychology",
+    "sub": "G. Stanley Hall"
+  },
+  {
+    "query": "Herbert A. Hauptman's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Herbert A. Hauptman"
+  },
+  {
+    "query": "Bernd Sturmfels's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Bernd Sturmfels"
+  },
+  {
+    "query": "Govert Bidloo's domain of work is ",
+    "answer": "physician",
+    "sub": "Govert Bidloo"
+  },
+  {
+    "query": "Joseph Schumpeter's domain of work is ",
+    "answer": "economics",
+    "sub": "Joseph Schumpeter"
+  },
+  {
+    "query": "Ernest Burgess's domain of work is ",
+    "answer": "sociology",
+    "sub": "Ernest Burgess"
+  },
+  {
+    "query": "Abdullah ibn Salam's domain of work is ",
+    "answer": "Judaism",
+    "sub": "Abdullah ibn Salam"
+  },
+  {
+    "query": "Max Weber's domain of work is ",
+    "answer": "history",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "Edward Gibbon's domain of work is ",
+    "answer": "history",
+    "sub": "Edward Gibbon"
+  },
+  {
+    "query": "Wolfgang Haken's domain of work is ",
+    "answer": "topology",
+    "sub": "Wolfgang Haken"
+  },
+  {
+    "query": "Alfred Wilhelm Volkmann's domain of work is ",
+    "answer": "physiology",
+    "sub": "Alfred Wilhelm Volkmann"
+  },
+  {
+    "query": "Joseph Diez Gergonne's domain of work is ",
+    "answer": "geometry",
+    "sub": "Joseph Diez Gergonne"
+  },
+  {
+    "query": "Hermann Klaatsch's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Hermann Klaatsch"
+  },
+  {
+    "query": "Rudolf Wagner's domain of work is ",
+    "answer": "physiology",
+    "sub": "Rudolf Wagner"
+  },
+  {
+    "query": "Mogens Herman Hansen's domain of work is ",
+    "answer": "classics",
+    "sub": "Mogens Herman Hansen"
+  },
+  {
+    "query": "Derek Lamb's domain of work is ",
+    "answer": "animation",
+    "sub": "Derek Lamb"
+  },
+  {
+    "query": "National Film Board of Canada's domain of work is ",
+    "answer": "animation",
+    "sub": "National Film Board of Canada"
+  },
+  {
+    "query": "Yuna Kagesaki's domain of work is ",
+    "answer": "manga",
+    "sub": "Yuna Kagesaki"
+  },
+  {
+    "query": "Alexander William Williamson's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Alexander William Williamson"
+  },
+  {
+    "query": "Struga Poetry Evenings's domain of work is ",
+    "answer": "poetry",
+    "sub": "Struga Poetry Evenings"
+  },
+  {
+    "query": "Johann Georg Gmelin's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Johann Georg Gmelin"
+  },
+  {
+    "query": "Ernst Herzfeld's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Ernst Herzfeld"
+  },
+  {
+    "query": "Harold Scott MacDonald Coxeter's domain of work is ",
+    "answer": "geometry",
+    "sub": "Harold Scott MacDonald Coxeter"
+  },
+  {
+    "query": "Giuseppe Farinelli's domain of work is ",
+    "answer": "opera",
+    "sub": "Giuseppe Farinelli"
+  },
+  {
+    "query": "John Archibald Wheeler's domain of work is ",
+    "answer": "physics",
+    "sub": "John Archibald Wheeler"
+  },
+  {
+    "query": "Alfred Weber's domain of work is ",
+    "answer": "sociology",
+    "sub": "Alfred Weber"
+  },
+  {
+    "query": "Anita Borg's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Anita Borg"
+  },
+  {
+    "query": "Leonhard Euler's domain of work is ",
+    "answer": "physics",
+    "sub": "Leonhard Euler"
+  },
+  {
+    "query": "Al-Kindi's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Al-Kindi"
+  },
+  {
+    "query": "Pierre Gilliard's domain of work is ",
+    "answer": "French",
+    "sub": "Pierre Gilliard"
+  },
+  {
+    "query": "Joseph von Gerlach's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Joseph von Gerlach"
+  },
+  {
+    "query": "John Henry Poynting's domain of work is ",
+    "answer": "physics",
+    "sub": "John Henry Poynting"
+  },
+  {
+    "query": "August Krogh's domain of work is ",
+    "answer": "physiology",
+    "sub": "August Krogh"
+  },
+  {
+    "query": "Hermann Ebbinghaus's domain of work is ",
+    "answer": "psychology",
+    "sub": "Hermann Ebbinghaus"
+  },
+  {
+    "query": "James George Frazer's domain of work is ",
+    "answer": "folklore",
+    "sub": "James George Frazer"
+  },
+  {
+    "query": "Thomas Bartholin's domain of work is ",
+    "answer": "medicine",
+    "sub": "Thomas Bartholin"
+  },
+  {
+    "query": "Kazimierz Kuratowski's domain of work is ",
+    "answer": "topology",
+    "sub": "Kazimierz Kuratowski"
+  },
+  {
+    "query": "Manolis Andronikos's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Manolis Andronikos"
+  },
+  {
+    "query": "Michael D. Coe's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Michael D. Coe"
+  },
+  {
+    "query": "Raoul Bott's domain of work is ",
+    "answer": "geometry",
+    "sub": "Raoul Bott"
+  },
+  {
+    "query": "Jon Postel's domain of work is ",
+    "answer": "Internet",
+    "sub": "Jon Postel"
+  },
+  {
+    "query": "Samuel Linde's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Samuel Linde"
+  },
+  {
+    "query": "Alfred L. Kroeber's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Alfred L. Kroeber"
+  },
+  {
+    "query": "Karl Christian Friedrich Krause's domain of work is ",
+    "answer": "philosophy",
+    "sub": "Karl Christian Friedrich Krause"
+  },
+  {
+    "query": "Felix Bloch's domain of work is ",
+    "answer": "physics",
+    "sub": "Felix Bloch"
+  },
+  {
+    "query": "Frederic Bartlett's domain of work is ",
+    "answer": "psychology",
+    "sub": "Frederic Bartlett"
+  },
+  {
+    "query": "Theodor Lipps's domain of work is ",
+    "answer": "philosopher",
+    "sub": "Theodor Lipps"
+  },
+  {
+    "query": "Hubert von Luschka's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Hubert von Luschka"
+  },
+  {
+    "query": "Hassler Whitney's domain of work is ",
+    "answer": "topology",
+    "sub": "Hassler Whitney"
+  },
+  {
+    "query": "Pierre Janet's domain of work is ",
+    "answer": "psychology",
+    "sub": "Pierre Janet"
+  },
+  {
+    "query": "Ann Dunham's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Ann Dunham"
+  },
+  {
+    "query": "Harrie Massey's domain of work is ",
+    "answer": "physics",
+    "sub": "Harrie Massey"
+  },
+  {
+    "query": "Akaki Shanidze's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Akaki Shanidze"
+  },
+  {
+    "query": "Pictures of the Year International's domain of work is ",
+    "answer": "photography",
+    "sub": "Pictures of the Year International"
+  },
+  {
+    "query": "Volcher Coiter's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Volcher Coiter"
+  },
+  {
+    "query": "Frederica de Laguna's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Frederica de Laguna"
+  },
+  {
+    "query": "R. H. Bing's domain of work is ",
+    "answer": "topology",
+    "sub": "R. H. Bing"
+  },
+  {
+    "query": "Robert P. Dilworth's domain of work is ",
+    "answer": "lattice",
+    "sub": "Robert P. Dilworth"
+  },
+  {
+    "query": "James Waddell Alexander II's domain of work is ",
+    "answer": "topology",
+    "sub": "James Waddell Alexander II"
+  },
+  {
+    "query": "Jean-Pierre Vernant's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Jean-Pierre Vernant"
+  },
+  {
+    "query": "Anders Celsius's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Anders Celsius"
+  },
+  {
+    "query": "John Polkinghorne's domain of work is ",
+    "answer": "theology",
+    "sub": "John Polkinghorne"
+  },
+  {
+    "query": "David Crystal's domain of work is ",
+    "answer": "English",
+    "sub": "David Crystal"
+  },
+  {
+    "query": "Viktor Zhirmunsky's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Viktor Zhirmunsky"
+  },
+  {
+    "query": "Bert Sakmann's domain of work is ",
+    "answer": "physiology",
+    "sub": "Bert Sakmann"
+  },
+  {
+    "query": "Nello Santi's domain of work is ",
+    "answer": "opera",
+    "sub": "Nello Santi"
+  },
+  {
+    "query": "Marston Morse's domain of work is ",
+    "answer": "topology",
+    "sub": "Marston Morse"
+  },
+  {
+    "query": "Michio Kaku's domain of work is ",
+    "answer": "physics",
+    "sub": "Michio Kaku"
+  },
+  {
+    "query": "Willem Einthoven's domain of work is ",
+    "answer": "physiology",
+    "sub": "Willem Einthoven"
+  },
+  {
+    "query": "Joseph von Fraunhofer's domain of work is ",
+    "answer": "physics",
+    "sub": "Joseph von Fraunhofer"
+  },
+  {
+    "query": "Sin-Itiro Tomonaga's domain of work is ",
+    "answer": "physics",
+    "sub": "Sin-Itiro Tomonaga"
+  },
+  {
+    "query": "Jan Baudouin de Courtenay's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Jan Baudouin de Courtenay"
+  },
+  {
+    "query": "Horace Lamb's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Horace Lamb"
+  },
+  {
+    "query": "Aeronautical Information Service's domain of work is ",
+    "answer": "aviation",
+    "sub": "Aeronautical Information Service"
+  },
+  {
+    "query": "Jean-Martin Charcot's domain of work is ",
+    "answer": "medicine",
+    "sub": "Jean-Martin Charcot"
+  },
+  {
+    "query": "Sydney Brenner's domain of work is ",
+    "answer": "biology",
+    "sub": "Sydney Brenner"
+  },
+  {
+    "query": "Hermann Schwarz's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Hermann Schwarz"
+  },
+  {
+    "query": "Karl Wilhelm von Kupffer's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Karl Wilhelm von Kupffer"
+  },
+  {
+    "query": "Johannes de Sacrobosco's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Johannes de Sacrobosco"
+  },
+  {
+    "query": "Erasmus Darwin's domain of work is ",
+    "answer": "medicine",
+    "sub": "Erasmus Darwin"
+  },
+  {
+    "query": "Jean le Rond d'Alembert's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Jean le Rond d'Alembert"
+  },
+  {
+    "query": "Mick Aston's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Mick Aston"
+  },
+  {
+    "query": "Franciscus Sylvius's domain of work is ",
+    "answer": "medicine",
+    "sub": "Franciscus Sylvius"
+  },
+  {
+    "query": "Friedrich Tiedemann's domain of work is ",
+    "answer": "physiology",
+    "sub": "Friedrich Tiedemann"
+  },
+  {
+    "query": "Luca Pacioli's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Luca Pacioli"
+  },
+  {
+    "query": "straight ",
+    "answer": "photography",
+    "sub": "straight photography"
+  },
+  {
+    "query": "Stephen Hales's domain of work is ",
+    "answer": "physiology",
+    "sub": "Stephen Hales"
+  },
+  {
+    "query": "Vitaly Ginzburg's domain of work is ",
+    "answer": "physics",
+    "sub": "Vitaly Ginzburg"
+  },
+  {
+    "query": "Arthur Leonard Schawlow's domain of work is ",
+    "answer": "physicist",
+    "sub": "Arthur Leonard Schawlow"
+  },
+  {
+    "query": "Carey Price's domain of work is ",
+    "answer": "goaltender",
+    "sub": "Carey Price"
+  },
+  {
+    "query": "Sima Qian's domain of work is ",
+    "answer": "history",
+    "sub": "Sima Qian"
+  },
+  {
+    "query": "",
+    "answer": "hunting",
+    "sub": "hunting dog"
+  },
+  {
+    "query": "Campegius Vitringa's domain of work is ",
+    "answer": "theology",
+    "sub": "Campegius Vitringa"
+  },
+  {
+    "query": "Arnold Hermann Ludwig Heeren's domain of work is ",
+    "answer": "history",
+    "sub": "Arnold Hermann Ludwig Heeren"
+  },
+  {
+    "query": "Paul Ariste's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Paul Ariste"
+  },
+  {
+    "query": "Paul Broca's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Paul Broca"
+  },
+  {
+    "query": "Ulisse Dini's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Ulisse Dini"
+  },
+  {
+    "query": "Marcel Mauss's domain of work is ",
+    "answer": "sociology",
+    "sub": "Marcel Mauss"
+  },
+  {
+    "query": "Kiiti Morita's domain of work is ",
+    "answer": "topology",
+    "sub": "Kiiti Morita"
+  },
+  {
+    "query": "Christoph Wilhelm Hufeland's domain of work is ",
+    "answer": "medicine",
+    "sub": "Christoph Wilhelm Hufeland"
+  },
+  {
+    "query": "Ptolemy's domain of work is ",
+    "answer": "mathematician",
+    "sub": "Ptolemy"
+  },
+  {
+    "query": "Anselme Payen's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Anselme Payen"
+  },
+  {
+    "query": "Isaac Barrow's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Isaac Barrow"
+  },
+  {
+    "query": "Sean M. Carroll's domain of work is ",
+    "answer": "physics",
+    "sub": "Sean M. Carroll"
+  },
+  {
+    "query": "Jean Piaget's domain of work is ",
+    "answer": "psychology",
+    "sub": "Jean Piaget"
+  },
+  {
+    "query": "Jacques de Morgan's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Jacques de Morgan"
+  },
+  {
+    "query": "Charles Bell's domain of work is ",
+    "answer": "physiology",
+    "sub": "Charles Bell"
+  },
+  {
+    "query": "Shinobu Kaitani's domain of work is ",
+    "answer": "manga",
+    "sub": "Shinobu Kaitani"
+  },
+  {
+    "query": "European Physical Society's domain of work is ",
+    "answer": "physics",
+    "sub": "European Physical Society"
+  },
+  {
+    "query": "Stefan Banach's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Stefan Banach"
+  },
+  {
+    "query": "Marshall Harvey Stone's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Marshall Harvey Stone"
+  },
+  {
+    "query": "Henry Corbin's domain of work is ",
+    "answer": "philosophy",
+    "sub": "Henry Corbin"
+  },
+  {
+    "query": "Jernej Kopitar's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Jernej Kopitar"
+  },
+  {
+    "query": "Thomas J. Watson's domain of work is ",
+    "answer": "IBM",
+    "sub": "Thomas J. Watson"
+  },
+  {
+    "query": "George Murdock's domain of work is ",
+    "answer": "anthropology",
+    "sub": "George Murdock"
+  },
+  {
+    "query": "Grammy Award for Best Female Country Vocal Performance's domain of work is ",
+    "answer": "singing",
+    "sub": "Grammy Award for Best Female Country Vocal Performance"
+  },
+  {
+    "query": "medical association's domain of work is ",
+    "answer": "medicine",
+    "sub": "medical association"
+  },
+  {
+    "query": "Joseph Priestley's domain of work is ",
+    "answer": "philosophy",
+    "sub": "Joseph Priestley"
+  },
+  {
+    "query": "Nikolaus Joseph von Jacquin's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Nikolaus Joseph von Jacquin"
+  },
+  {
+    "query": "Julius Lothar Meyer's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Julius Lothar Meyer"
+  },
+  {
+    "query": "Kurt Lewin's domain of work is ",
+    "answer": "psychology",
+    "sub": "Kurt Lewin"
+  },
+  {
+    "query": "Arnold Chikobava's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Arnold Chikobava"
+  },
+  {
+    "query": "Jane Ellen Harrison's domain of work is ",
+    "answer": "classics",
+    "sub": "Jane Ellen Harrison"
+  },
+  {
+    "query": "Mathias Lerch's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Mathias Lerch"
+  },
+  {
+    "query": "James Clerk Maxwell's domain of work is ",
+    "answer": "physics",
+    "sub": "James Clerk Maxwell"
+  },
+  {
+    "query": "Giorgi Melikishvili's domain of work is ",
+    "answer": "history",
+    "sub": "Giorgi Melikishvili"
+  },
+  {
+    "query": "Herman Boerhaave's domain of work is ",
+    "answer": "medicine",
+    "sub": "Herman Boerhaave"
+  },
+  {
+    "query": "Jean-Nicolas Corvisart's domain of work is ",
+    "answer": "medicine",
+    "sub": "Jean-Nicolas Corvisart"
+  },
+  {
+    "query": "ICTP Ramanujan Prize's domain of work is ",
+    "answer": "mathematics",
+    "sub": "ICTP Ramanujan Prize"
+  },
+  {
+    "query": "Akimi Yoshida's domain of work is ",
+    "answer": "manga",
+    "sub": "Akimi Yoshida"
+  },
+  {
+    "query": "Elias James Corey's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Elias James Corey"
+  },
+  {
+    "query": "Ernest Starling's domain of work is ",
+    "answer": "physiology",
+    "sub": "Ernest Starling"
+  },
+  {
+    "query": "Alfred Marshall's domain of work is ",
+    "answer": "economics",
+    "sub": "Alfred Marshall"
+  },
+  {
+    "query": "Brian Bowditch's domain of work is ",
+    "answer": "topology",
+    "sub": "Brian Bowditch"
+  },
+  {
+    "query": "Nathaniel Bowditch's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Nathaniel Bowditch"
+  },
+  {
+    "query": "Nicolaus Copernicus's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Nicolaus Copernicus"
+  },
+  {
+    "query": "Eric Maskin's domain of work is ",
+    "answer": "economist",
+    "sub": "Eric Maskin"
+  },
+  {
+    "query": "Mikio Sato's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Mikio Sato"
+  },
+  {
+    "query": "Helen E. Fisher's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Helen E. Fisher"
+  },
+  {
+    "query": "Jared Diamond's domain of work is ",
+    "answer": "ecology",
+    "sub": "Jared Diamond"
+  },
+  {
+    "query": "Karl Menger's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Karl Menger"
+  },
+  {
+    "query": "Jeremiah Horrocks's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Jeremiah Horrocks"
+  },
+  {
+    "query": "William Crabtree's domain of work is ",
+    "answer": "astronomy",
+    "sub": "William Crabtree"
+  },
+  {
+    "query": "Heymann Steinthal's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Heymann Steinthal"
+  },
+  {
+    "query": "Andrey Kolmogorov's domain of work is ",
+    "answer": "geometry",
+    "sub": "Andrey Kolmogorov"
+  },
+  {
+    "query": "Claude Louis Berthollet's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Claude Louis Berthollet"
+  },
+  {
+    "query": "Joseph Louis Gay-Lussac's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Joseph Louis Gay-Lussac"
+  },
+  {
+    "query": "Vilhelm Bjerknes's domain of work is ",
+    "answer": "physics",
+    "sub": "Vilhelm Bjerknes"
+  },
+  {
+    "query": "Heinrich Roth's domain of work is ",
+    "answer": "Sanskrit",
+    "sub": "Heinrich Roth"
+  },
+  {
+    "query": "Walther Meissner's domain of work is ",
+    "answer": "physics",
+    "sub": "Walther Meissner"
+  },
+  {
+    "query": "octane's domain of work is ",
+    "answer": "chemistry",
+    "sub": "octane"
+  },
+  {
+    "query": "Spacewatch's domain of work is ",
+    "answer": "asteroid",
+    "sub": "Spacewatch"
+  },
+  {
+    "query": "Henri Brocard's domain of work is ",
+    "answer": "geometry",
+    "sub": "Henri Brocard"
+  },
+  {
+    "query": "Vorderasiatisches Museum Berlin's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Vorderasiatisches Museum Berlin"
+  },
+  {
+    "query": "Daniel Bernoulli's domain of work is ",
+    "answer": "physics",
+    "sub": "Daniel Bernoulli"
+  },
+  {
+    "query": "Clark Kimberling's domain of work is ",
+    "answer": "geometry",
+    "sub": "Clark Kimberling"
+  },
+  {
+    "query": "Uspekhi Fizicheskikh Nauk's domain of work is ",
+    "answer": "physics",
+    "sub": "Uspekhi Fizicheskikh Nauk"
+  },
+  {
+    "query": "Ewald Hering's domain of work is ",
+    "answer": "physiology",
+    "sub": "Ewald Hering"
+  },
+  {
+    "query": "Samuel Cooper's domain of work is ",
+    "answer": "portrait miniature",
+    "sub": "Samuel Cooper"
+  },
+  {
+    "query": "Julian Huxley's domain of work is ",
+    "answer": "biology",
+    "sub": "Julian Huxley"
+  },
+  {
+    "query": "Edward B. Titchener's domain of work is ",
+    "answer": "psychology",
+    "sub": "Edward B. Titchener"
+  },
+  {
+    "query": "Johann Georg Gmelin's domain of work is ",
+    "answer": "medicine",
+    "sub": "Johann Georg Gmelin"
+  },
+  {
+    "query": "Michael Faraday's domain of work is ",
+    "answer": "physics",
+    "sub": "Michael Faraday"
+  },
+  {
+    "query": "Werner Sombart's domain of work is ",
+    "answer": "sociology",
+    "sub": "Werner Sombart"
+  },
+  {
+    "query": "Johannes Fabricius's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Johannes Fabricius"
+  },
+  {
+    "query": "Otto Neurath's domain of work is ",
+    "answer": "sociology",
+    "sub": "Otto Neurath"
+  },
+  {
+    "query": "Matthias Jacob Schleiden's domain of work is ",
+    "answer": "biology",
+    "sub": "Matthias Jacob Schleiden"
+  },
+  {
+    "query": "integument's domain of work is ",
+    "answer": "biology",
+    "sub": "integument"
+  },
+  {
+    "query": "Stephen Wolfram's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Stephen Wolfram"
+  },
+  {
+    "query": "Johann Christian Reil's domain of work is ",
+    "answer": "medicine",
+    "sub": "Johann Christian Reil"
+  },
+  {
+    "query": "William Thierry Preyer's domain of work is ",
+    "answer": "physiology",
+    "sub": "William Thierry Preyer"
+  },
+  {
+    "query": "Irving Langmuir Award's domain of work is ",
+    "answer": "physics",
+    "sub": "Irving Langmuir Award"
+  },
+  {
+    "query": "Humphry Davy's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Humphry Davy"
+  },
+  {
+    "query": "Doro Levi's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Doro Levi"
+  },
+  {
+    "query": "Al-Masudi's domain of work is ",
+    "answer": "history",
+    "sub": "Al-Masudi"
+  },
+  {
+    "query": "Henri Moissan's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Henri Moissan"
+  },
+  {
+    "query": "Heinz Hopf's domain of work is ",
+    "answer": "topology",
+    "sub": "Heinz Hopf"
+  },
+  {
+    "query": "Heinz Hopf's domain of work is ",
+    "answer": "geometry",
+    "sub": "Heinz Hopf"
+  },
+  {
+    "query": "Pierre Curie's domain of work is ",
+    "answer": "physics",
+    "sub": "Pierre Curie"
+  },
+  {
+    "query": "Log Cabin Republicans's domain of work is ",
+    "answer": "LGBT",
+    "sub": "Log Cabin Republicans"
+  },
+  {
+    "query": "Isaac Barrow's domain of work is ",
+    "answer": "theology",
+    "sub": "Isaac Barrow"
+  },
+  {
+    "query": "Martin Haspelmath's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Martin Haspelmath"
+  },
+  {
+    "query": "Geometry Festival's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Geometry Festival"
+  },
+  {
+    "query": "Gustav Kirchhoff's domain of work is ",
+    "answer": "physics",
+    "sub": "Gustav Kirchhoff"
+  },
+  {
+    "query": "Jean Pierre Flourens's domain of work is ",
+    "answer": "physiology",
+    "sub": "Jean Pierre Flourens"
+  },
+  {
+    "query": "The Physiological Society's domain of work is ",
+    "answer": "physiology",
+    "sub": "The Physiological Society"
+  },
+  {
+    "query": "Norbert Wiener's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Norbert Wiener"
+  },
+  {
+    "query": "Steven Weinberg's domain of work is ",
+    "answer": "physics",
+    "sub": "Steven Weinberg"
+  },
+  {
+    "query": "Hrachia Adjarian's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Hrachia Adjarian"
+  },
+  {
+    "query": "Petrus Camper's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Petrus Camper"
+  },
+  {
+    "query": "Carl Ritter's domain of work is ",
+    "answer": "geography",
+    "sub": "Carl Ritter"
+  },
+  {
+    "query": "Urbain Le Verrier's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Urbain Le Verrier"
+  },
+  {
+    "query": "Frank Morley's domain of work is ",
+    "answer": "geometry",
+    "sub": "Frank Morley"
+  },
+  {
+    "query": "Ian Hodder's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Ian Hodder"
+  },
+  {
+    "query": "Johan Huizinga's domain of work is ",
+    "answer": "history",
+    "sub": "Johan Huizinga"
+  },
+  {
+    "query": "Johannes Eugenius Bülow Warming's domain of work is ",
+    "answer": "biology",
+    "sub": "Johannes Eugenius Bülow Warming"
+  },
+  {
+    "query": "Alexey Okladnikov's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Alexey Okladnikov"
+  },
+  {
+    "query": "Flemish Primitives's domain of work is ",
+    "answer": "drawing",
+    "sub": "Flemish Primitives"
+  },
+  {
+    "query": "Marcos Moshinsky's domain of work is ",
+    "answer": "physics",
+    "sub": "Marcos Moshinsky"
+  },
+  {
+    "query": "Calyampudi Radhakrishna Rao's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Calyampudi Radhakrishna Rao"
+  },
+  {
+    "query": "Jens Andreas Friis's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Jens Andreas Friis"
+  },
+  {
+    "query": "Science's domain of work is ",
+    "answer": "science",
+    "sub": "Science"
+  },
+  {
+    "query": "anatomical placement's domain of work is ",
+    "answer": "anatomy",
+    "sub": "anatomical placement"
+  },
+  {
+    "query": "Christoph Gerber's domain of work is ",
+    "answer": "physics",
+    "sub": "Christoph Gerber"
+  },
+  {
+    "query": "Leo Wiener's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Leo Wiener"
+  },
+  {
+    "query": "Natalia Shvedova's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Natalia Shvedova"
+  },
+  {
+    "query": "Nicholas Metropolis's domain of work is ",
+    "answer": "physics",
+    "sub": "Nicholas Metropolis"
+  },
+  {
+    "query": "Edward Teller's domain of work is ",
+    "answer": "physics",
+    "sub": "Edward Teller"
+  },
+  {
+    "query": "Armand Trousseau's domain of work is ",
+    "answer": "medicine",
+    "sub": "Armand Trousseau"
+  },
+  {
+    "query": "Led Zeppelin's domain of work is ",
+    "answer": "musician",
+    "sub": "Led Zeppelin"
+  },
+  {
+    "query": "Asclepiades of Bithynia's domain of work is ",
+    "answer": "medicine",
+    "sub": "Asclepiades of Bithynia"
+  },
+  {
+    "query": "John Davies Evans's domain of work is ",
+    "answer": "archaeology",
+    "sub": "John Davies Evans"
+  },
+  {
+    "query": "Andrey Tikhonov's domain of work is ",
+    "answer": "topology",
+    "sub": "Andrey Tikhonov"
+  },
+  {
+    "query": "Abraham bar Hiyya's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Abraham bar Hiyya"
+  },
+  {
+    "query": "Stefan Mazurkiewicz's domain of work is ",
+    "answer": "topology",
+    "sub": "Stefan Mazurkiewicz"
+  },
+  {
+    "query": "Raymond Smith Dugan's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Raymond Smith Dugan"
+  },
+  {
+    "query": "Yana Toboso's domain of work is ",
+    "answer": "manga",
+    "sub": "Yana Toboso"
+  },
+  {
+    "query": "Dyfed Archaeological Trust's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Dyfed Archaeological Trust"
+  },
+  {
+    "query": "Christian Wilhelm Blomstrand's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Christian Wilhelm Blomstrand"
+  },
+  {
+    "query": "Nikolai Bernstein's domain of work is ",
+    "answer": "physiology",
+    "sub": "Nikolai Bernstein"
+  },
+  {
+    "query": "Thomas Gilovich's domain of work is ",
+    "answer": "psychology",
+    "sub": "Thomas Gilovich"
+  },
+  {
+    "query": "Urania's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Urania"
+  },
+  {
+    "query": "James George Frazer's domain of work is ",
+    "answer": "anthropology",
+    "sub": "James George Frazer"
+  },
+  {
+    "query": "Anatoly Fomenko's domain of work is ",
+    "answer": "topology",
+    "sub": "Anatoly Fomenko"
+  },
+  {
+    "query": "William Cheselden's domain of work is ",
+    "answer": "medicine",
+    "sub": "William Cheselden"
+  },
+  {
+    "query": "Immanuel Wallerstein's domain of work is ",
+    "answer": "sociology",
+    "sub": "Immanuel Wallerstein"
+  },
+  {
+    "query": "Regiomontanus's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Regiomontanus"
+  },
+  {
+    "query": "Eugene Odum's domain of work is ",
+    "answer": "ecology",
+    "sub": "Eugene Odum"
+  },
+  {
+    "query": "Lisbon Geographic Society's domain of work is ",
+    "answer": "geography",
+    "sub": "Lisbon Geographic Society"
+  },
+  {
+    "query": "Ernest Lawrence's domain of work is ",
+    "answer": "physics",
+    "sub": "Ernest Lawrence"
+  },
+  {
+    "query": "Marie Curie's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Marie Curie"
+  },
+  {
+    "query": "August Heinrich Petermann's domain of work is ",
+    "answer": "geography",
+    "sub": "August Heinrich Petermann"
+  },
+  {
+    "query": "John Anthony Walker's domain of work is ",
+    "answer": "espionage",
+    "sub": "John Anthony Walker"
+  },
+  {
+    "query": "John Napier's domain of work is ",
+    "answer": "mathematics",
+    "sub": "John Napier"
+  },
+  {
+    "query": "Augustus Pitt Rivers's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Augustus Pitt Rivers"
+  },
+  {
+    "query": "Mark S. Granovetter's domain of work is ",
+    "answer": "sociology",
+    "sub": "Mark S. Granovetter"
+  },
+  {
+    "query": "Enrico Betti's domain of work is ",
+    "answer": "topology",
+    "sub": "Enrico Betti"
+  },
+  {
+    "query": "Isaac Newton's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "Francesco Maurolico's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Francesco Maurolico"
+  },
+  {
+    "query": "Willebrord Snellius's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Willebrord Snellius"
+  },
+  {
+    "query": "Herbert Robbins's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Herbert Robbins"
+  },
+  {
+    "query": "Olin J. Eggen's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Olin J. Eggen"
+  },
+  {
+    "query": "Allan Sandage's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Allan Sandage"
+  },
+  {
+    "query": "Johann Peter Frank's domain of work is ",
+    "answer": "medicine",
+    "sub": "Johann Peter Frank"
+  },
+  {
+    "query": "European Physical Journal's domain of work is ",
+    "answer": "physics",
+    "sub": "European Physical Journal"
+  },
+  {
+    "query": "Lille University of Health and Law's domain of work is ",
+    "answer": "pharmacy",
+    "sub": "Lille University of Health and Law"
+  },
+  {
+    "query": "John Garstang's domain of work is ",
+    "answer": "archaeology",
+    "sub": "John Garstang"
+  },
+  {
+    "query": "William Oughtred's domain of work is ",
+    "answer": "mathematics",
+    "sub": "William Oughtred"
+  },
+  {
+    "query": "Georgios Metallinos's domain of work is ",
+    "answer": "theology",
+    "sub": "Georgios Metallinos"
+  },
+  {
+    "query": "Larry Sanger's domain of work is ",
+    "answer": "philosophy",
+    "sub": "Larry Sanger"
+  },
+  {
+    "query": "Philipp Lenard's domain of work is ",
+    "answer": "physics",
+    "sub": "Philipp Lenard"
+  },
+  {
+    "query": "Hermann von Helmholtz's domain of work is ",
+    "answer": "physiology",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "Robert Bigelow's domain of work is ",
+    "answer": "hotel",
+    "sub": "Robert Bigelow"
+  },
+  {
+    "query": "Friedrich Bessel's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Friedrich Bessel"
+  },
+  {
+    "query": "George Kingsley Zipf's domain of work is ",
+    "answer": "linguistics",
+    "sub": "George Kingsley Zipf"
+  },
+  {
+    "query": "Nikolaj Frederik Severin Grundtvig's domain of work is ",
+    "answer": "philosophy",
+    "sub": "Nikolaj Frederik Severin Grundtvig"
+  },
+  {
+    "query": "Otto E. Neugebauer's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Otto E. Neugebauer"
+  },
+  {
+    "query": "Fritjof Capra's domain of work is ",
+    "answer": "physics",
+    "sub": "Fritjof Capra"
+  },
+  {
+    "query": "PhilPapers's domain of work is ",
+    "answer": "philosophy",
+    "sub": "PhilPapers"
+  },
+  {
+    "query": "Mikhail Mikhaylovich Gerasimov's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Mikhail Mikhaylovich Gerasimov"
+  },
+  {
+    "query": "Saskia Sassen's domain of work is ",
+    "answer": "sociology",
+    "sub": "Saskia Sassen"
+  },
+  {
+    "query": "Frederik Kaiser's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Frederik Kaiser"
+  },
+  {
+    "query": "Leslie Birgit Vosshall's domain of work is ",
+    "answer": "smell",
+    "sub": "Leslie Birgit Vosshall"
+  },
+  {
+    "query": "Zhou Youguang's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Zhou Youguang"
+  },
+  {
+    "query": "Alfred Kinsey's domain of work is ",
+    "answer": "biology",
+    "sub": "Alfred Kinsey"
+  },
+  {
+    "query": "Mesrop Mashtots's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Mesrop Mashtots"
+  },
+  {
+    "query": "Kazimierz Ajdukiewicz's domain of work is ",
+    "answer": "logic",
+    "sub": "Kazimierz Ajdukiewicz"
+  },
+  {
+    "query": "James Franck's domain of work is ",
+    "answer": "physics",
+    "sub": "James Franck"
+  },
+  {
+    "query": "Walter Isard's domain of work is ",
+    "answer": "geography",
+    "sub": "Walter Isard"
+  },
+  {
+    "query": "David Harvey's domain of work is ",
+    "answer": "geography",
+    "sub": "David Harvey"
+  },
+  {
+    "query": "Adolphe Quetelet's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Adolphe Quetelet"
+  },
+  {
+    "query": "Nagaoka Hantarō's domain of work is ",
+    "answer": "physics",
+    "sub": "Nagaoka Hantarō"
+  },
+  {
+    "query": "Johann Christian Polycarp Erxleben's domain of work is ",
+    "answer": "physics",
+    "sub": "Johann Christian Polycarp Erxleben"
+  },
+  {
+    "query": "Giacomo F. Maraldi's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Giacomo F. Maraldi"
+  },
+  {
+    "query": "Christopher Zeeman's domain of work is ",
+    "answer": "topology",
+    "sub": "Christopher Zeeman"
+  },
+  {
+    "query": "Barry Commoner's domain of work is ",
+    "answer": "biology",
+    "sub": "Barry Commoner"
+  },
+  {
+    "query": "SASTRA Ramanujan Prize's domain of work is ",
+    "answer": "mathematics",
+    "sub": "SASTRA Ramanujan Prize"
+  },
+  {
+    "query": "Ernest Archdeacon's domain of work is ",
+    "answer": "aviation",
+    "sub": "Ernest Archdeacon"
+  },
+  {
+    "query": "Elinor Ostrom's domain of work is ",
+    "answer": "economics",
+    "sub": "Elinor Ostrom"
+  },
+  {
+    "query": "SPECTRE's domain of work is ",
+    "answer": "terrorism",
+    "sub": "SPECTRE"
+  },
+  {
+    "query": "Arthur Moritz Schoenflies's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Arthur Moritz Schoenflies"
+  },
+  {
+    "query": "Torbern Bergman's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Torbern Bergman"
+  },
+  {
+    "query": "Australian Mathematical Society's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Australian Mathematical Society"
+  },
+  {
+    "query": "Josias Simmler's domain of work is ",
+    "answer": "theology",
+    "sub": "Josias Simmler"
+  },
+  {
+    "query": "",
+    "answer": "Finnish",
+    "sub": "Finnish Literature Society"
+  },
+  {
+    "query": "Wallace Carothers's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Wallace Carothers"
+  },
+  {
+    "query": "Edward Victor Appleton's domain of work is ",
+    "answer": "physics",
+    "sub": "Edward Victor Appleton"
+  },
+  {
+    "query": "Anton Zeilinger's domain of work is ",
+    "answer": "physics",
+    "sub": "Anton Zeilinger"
+  },
+  {
+    "query": "Macedonio Melloni's domain of work is ",
+    "answer": "physics",
+    "sub": "Macedonio Melloni"
+  },
+  {
+    "query": "William Camden's domain of work is ",
+    "answer": "archaeology",
+    "sub": "William Camden"
+  },
+  {
+    "query": "Anne Caldwell's domain of work is ",
+    "answer": "musical",
+    "sub": "Anne Caldwell"
+  },
+  {
+    "query": "John Dalton's domain of work is ",
+    "answer": "chemistry",
+    "sub": "John Dalton"
+  },
+  {
+    "query": "John Dalton's domain of work is ",
+    "answer": "physics",
+    "sub": "John Dalton"
+  },
+  {
+    "query": "Nicolaus Steno's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Nicolaus Steno"
+  },
+  {
+    "query": "Archibald Hill's domain of work is ",
+    "answer": "physiology",
+    "sub": "Archibald Hill"
+  },
+  {
+    "query": "Actaeon's domain of work is ",
+    "answer": "hunting",
+    "sub": "Actaeon"
+  },
+  {
+    "query": "Alfred Tarski's domain of work is ",
+    "answer": "logic",
+    "sub": "Alfred Tarski"
+  },
+  {
+    "query": "Lev Shcherba's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Lev Shcherba"
+  },
+  {
+    "query": "Georges Reeb's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Georges Reeb"
+  },
+  {
+    "query": "Georgios Babiniotis's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Georgios Babiniotis"
+  },
+  {
+    "query": "Georgios Babiniotis's domain of work is ",
+    "answer": "Greek",
+    "sub": "Georgios Babiniotis"
+  },
+  {
+    "query": "Dmitri Mendeleev's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Dmitri Mendeleev"
+  },
+  {
+    "query": "Dmitri Mendeleev's domain of work is ",
+    "answer": "physics",
+    "sub": "Dmitri Mendeleev"
+  },
+  {
+    "query": "Herman Auerbach's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Herman Auerbach"
+  },
+  {
+    "query": "Nur ad-Din al-Bitruji's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Nur ad-Din al-Bitruji"
+  },
+  {
+    "query": "Charles Sutherland Elton's domain of work is ",
+    "answer": "ecology",
+    "sub": "Charles Sutherland Elton"
+  },
+  {
+    "query": "Bernard Comrie's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Bernard Comrie"
+  },
+  {
+    "query": "Giovanni Battista Amici's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Giovanni Battista Amici"
+  },
+  {
+    "query": "Robert Caldwell's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Robert Caldwell"
+  },
+  {
+    "query": "George Volkoff's domain of work is ",
+    "answer": "physics",
+    "sub": "George Volkoff"
+  },
+  {
+    "query": "Paul McCartney's domain of work is ",
+    "answer": "musician",
+    "sub": "Paul McCartney"
+  },
+  {
+    "query": "Jonathan Haidt's domain of work is ",
+    "answer": "psychology",
+    "sub": "Jonathan Haidt"
+  },
+  {
+    "query": "James Morris Blaut's domain of work is ",
+    "answer": "geography",
+    "sub": "James Morris Blaut"
+  },
+  {
+    "query": "Charles Babbage's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Charles Babbage"
+  },
+  {
+    "query": "Vladimir Voevodsky's domain of work is ",
+    "answer": "topology",
+    "sub": "Vladimir Voevodsky"
+  },
+  {
+    "query": "Women on Waves's domain of work is ",
+    "answer": "abortion",
+    "sub": "Women on Waves"
+  },
+  {
+    "query": "James Ivory's domain of work is ",
+    "answer": "mathematics",
+    "sub": "James Ivory"
+  },
+  {
+    "query": "Nicolaus Copernicus's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Nicolaus Copernicus"
+  },
+  {
+    "query": "Marian Rejewski's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Marian Rejewski"
+  },
+  {
+    "query": "Aryabhata's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Aryabhata"
+  },
+  {
+    "query": "Paul Broca's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Paul Broca"
+  },
+  {
+    "query": "Khaled Hosseini's domain of work is ",
+    "answer": "Afghanistan",
+    "sub": "Khaled Hosseini"
+  },
+  {
+    "query": "Clyde Tombaugh's domain of work is ",
+    "answer": "astronomer",
+    "sub": "Clyde Tombaugh"
+  },
+  {
+    "query": "Boris Rybakov's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Boris Rybakov"
+  },
+  {
+    "query": "Willis Lamb's domain of work is ",
+    "answer": "physics",
+    "sub": "Willis Lamb"
+  },
+  {
+    "query": "John Wallis's domain of work is ",
+    "answer": "mathematics",
+    "sub": "John Wallis"
+  },
+  {
+    "query": "Arcisse de Caumont's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Arcisse de Caumont"
+  },
+  {
+    "query": "Archimedes's domain of work is ",
+    "answer": "geometry",
+    "sub": "Archimedes"
+  },
+  {
+    "query": "Lipman Bers's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Lipman Bers"
+  },
+  {
+    "query": "Anaxagoras's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Anaxagoras"
+  },
+  {
+    "query": "Ibn Hišām's domain of work is ",
+    "answer": "history",
+    "sub": "Ibn Hišām"
+  },
+  {
+    "query": "Georgi Kitov's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Georgi Kitov"
+  },
+  {
+    "query": "Christiaan Huygens's domain of work is ",
+    "answer": "physics",
+    "sub": "Christiaan Huygens"
+  },
+  {
+    "query": "Julius Pokorny's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Julius Pokorny"
+  },
+  {
+    "query": "Leo Klejn's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Leo Klejn"
+  },
+  {
+    "query": "Antoine Augustin Cournot's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Antoine Augustin Cournot"
+  },
+  {
+    "query": "Clarence Zener's domain of work is ",
+    "answer": "physics",
+    "sub": "Clarence Zener"
+  },
+  {
+    "query": "Mikhail Gromov's domain of work is ",
+    "answer": "geometry",
+    "sub": "Mikhail Gromov"
+  },
+  {
+    "query": "Gilbert Blane's domain of work is ",
+    "answer": "medicine",
+    "sub": "Gilbert Blane"
+  },
+  {
+    "query": "Julian Steward's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Julian Steward"
+  },
+  {
+    "query": "Q Center's domain of work is ",
+    "answer": "LGBT",
+    "sub": "Q Center"
+  },
+  {
+    "query": "Franz Reuleaux's domain of work is ",
+    "answer": "mechanics",
+    "sub": "Franz Reuleaux"
+  },
+  {
+    "query": "Ian Agol's domain of work is ",
+    "answer": "topology",
+    "sub": "Ian Agol"
+  },
+  {
+    "query": "Jan Baptist Van Helmont's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Jan Baptist Van Helmont"
+  },
+  {
+    "query": "Theodor Billroth's domain of work is ",
+    "answer": "surgery",
+    "sub": "Theodor Billroth"
+  },
+  {
+    "query": "Michael Jackson's domain of work is ",
+    "answer": "musician",
+    "sub": "Michael Jackson"
+  },
+  {
+    "query": "Laurent Lafforgue's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Laurent Lafforgue"
+  },
+  {
+    "query": "David Bohm's domain of work is ",
+    "answer": "physics",
+    "sub": "David Bohm"
+  },
+  {
+    "query": "Hertha Ayrton's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Hertha Ayrton"
+  },
+  {
+    "query": "Homi Jehangir Bhabha's domain of work is ",
+    "answer": "physics",
+    "sub": "Homi Jehangir Bhabha"
+  },
+  {
+    "query": "David G. Bromley's domain of work is ",
+    "answer": "sociology",
+    "sub": "David G. Bromley"
+  },
+  {
+    "query": "Palestine Exploration Fund's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Palestine Exploration Fund"
+  },
+  {
+    "query": "Friedrich Hirzebruch's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Friedrich Hirzebruch"
+  },
+  {
+    "query": "Arnaud Denjoy's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Arnaud Denjoy"
+  },
+  {
+    "query": "Friedrich Spanheim's domain of work is ",
+    "answer": "theology",
+    "sub": "Friedrich Spanheim"
+  },
+  {
+    "query": "Karl Schwarzschild's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Karl Schwarzschild"
+  },
+  {
+    "query": "Adam Smith's domain of work is ",
+    "answer": "economics",
+    "sub": "Adam Smith"
+  },
+  {
+    "query": "Wilhelm Roux's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Wilhelm Roux"
+  },
+  {
+    "query": "Adonis's domain of work is ",
+    "answer": "hunting",
+    "sub": "Adonis"
+  },
+  {
+    "query": "Robert A. Millikan's domain of work is ",
+    "answer": "physics",
+    "sub": "Robert A. Millikan"
+  },
+  {
+    "query": "anatomical terminology's domain of work is ",
+    "answer": "anatomy",
+    "sub": "anatomical terminology"
+  },
+  {
+    "query": "Mildred Dresselhaus's domain of work is ",
+    "answer": "physics",
+    "sub": "Mildred Dresselhaus"
+  },
+  {
+    "query": "George Bernard Dantzig's domain of work is ",
+    "answer": "mathematics",
+    "sub": "George Bernard Dantzig"
+  },
+  {
+    "query": "Max Dehn's domain of work is ",
+    "answer": "topology",
+    "sub": "Max Dehn"
+  },
+  {
+    "query": "Gerardus Mercator's domain of work is ",
+    "answer": "geography",
+    "sub": "Gerardus Mercator"
+  },
+  {
+    "query": "Jean-Baptiste Boussingault's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Jean-Baptiste Boussingault"
+  },
+  {
+    "query": "Carl Linnaeus's domain of work is ",
+    "answer": "medicine",
+    "sub": "Carl Linnaeus"
+  },
+  {
+    "query": "Boris Delaunay's domain of work is ",
+    "answer": "geometry",
+    "sub": "Boris Delaunay"
+  },
+  {
+    "query": "Ernst Heinrich Weber's domain of work is ",
+    "answer": "physiology",
+    "sub": "Ernst Heinrich Weber"
+  },
+  {
+    "query": "Francisco Varela's domain of work is ",
+    "answer": "biology",
+    "sub": "Francisco Varela"
+  },
+  {
+    "query": "Karl Polanyi's domain of work is ",
+    "answer": "sociology",
+    "sub": "Karl Polanyi"
+  },
+  {
+    "query": "Charles Darwin's domain of work is ",
+    "answer": "geology",
+    "sub": "Charles Darwin"
+  },
+  {
+    "query": "Tim Ingold's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Tim Ingold"
+  },
+  {
+    "query": "Frank Wilczek's domain of work is ",
+    "answer": "physics",
+    "sub": "Frank Wilczek"
+  },
+  {
+    "query": "Guo Moruo's domain of work is ",
+    "answer": "history",
+    "sub": "Guo Moruo"
+  },
+  {
+    "query": "Herbert Seifert's domain of work is ",
+    "answer": "topology",
+    "sub": "Herbert Seifert"
+  },
+  {
+    "query": "Jan Mikulicz-Radecki's domain of work is ",
+    "answer": "surgery",
+    "sub": "Jan Mikulicz-Radecki"
+  },
+  {
+    "query": "Kamil Zvelebil's domain of work is ",
+    "answer": "Tamil",
+    "sub": "Kamil Zvelebil"
+  },
+  {
+    "query": "Jonas Jablonskis's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Jonas Jablonskis"
+  },
+  {
+    "query": "Karl Georg Christian von Staudt's domain of work is ",
+    "answer": "geometry",
+    "sub": "Karl Georg Christian von Staudt"
+  },
+  {
+    "query": "Germaine Greer's domain of work is ",
+    "answer": "feminism",
+    "sub": "Germaine Greer"
+  },
+  {
+    "query": "Hellmuth Kneser's domain of work is ",
+    "answer": "topology",
+    "sub": "Hellmuth Kneser"
+  },
+  {
+    "query": "Andrey Kolmogorov's domain of work is ",
+    "answer": "topology",
+    "sub": "Andrey Kolmogorov"
+  },
+  {
+    "query": "Johann Heinrich Lambert's domain of work is ",
+    "answer": "physics",
+    "sub": "Johann Heinrich Lambert"
+  },
+  {
+    "query": "William Camden's domain of work is ",
+    "answer": "history",
+    "sub": "William Camden"
+  },
+  {
+    "query": "Nicole-Reine Lepaute's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Nicole-Reine Lepaute"
+  },
+  {
+    "query": "Kees Versteegh's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Kees Versteegh"
+  },
+  {
+    "query": "Alexander Bogdanov's domain of work is ",
+    "answer": "medicine",
+    "sub": "Alexander Bogdanov"
+  },
+  {
+    "query": "Brahmagupta's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Brahmagupta"
+  },
+  {
+    "query": "Nicolas Chuquet's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Nicolas Chuquet"
+  },
+  {
+    "query": "Spacewatch's domain of work is ",
+    "answer": "comet",
+    "sub": "Spacewatch"
+  },
+  {
+    "query": "Ludwig Klages's domain of work is ",
+    "answer": "psychology",
+    "sub": "Ludwig Klages"
+  },
+  {
+    "query": "Wilhelm Wien's domain of work is ",
+    "answer": "physics",
+    "sub": "Wilhelm Wien"
+  },
+  {
+    "query": "August Kundt's domain of work is ",
+    "answer": "physics",
+    "sub": "August Kundt"
+  },
+  {
+    "query": "Tanya Reinhart's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Tanya Reinhart"
+  },
+  {
+    "query": "Regnier de Graaf's domain of work is ",
+    "answer": "physician",
+    "sub": "Regnier de Graaf"
+  },
+  {
+    "query": "Louis Cappel's domain of work is ",
+    "answer": "Hebrew",
+    "sub": "Louis Cappel"
+  },
+  {
+    "query": "Ali-Akbar Dehkhoda's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Ali-Akbar Dehkhoda"
+  },
+  {
+    "query": "Edinburgh Mathematical Society's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Edinburgh Mathematical Society"
+  },
+  {
+    "query": "Religious Tract Society's domain of work is ",
+    "answer": "publishing",
+    "sub": "Religious Tract Society"
+  },
+  {
+    "query": "Hermann von Helmholtz's domain of work is ",
+    "answer": "psychology",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "Hjalmar Mellin's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Hjalmar Mellin"
+  },
+  {
+    "query": "Leonhard Euler's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Leonhard Euler"
+  },
+  {
+    "query": "Cesare Emiliani's domain of work is ",
+    "answer": "geology",
+    "sub": "Cesare Emiliani"
+  },
+  {
+    "query": "NOTAM's domain of work is ",
+    "answer": "aviation",
+    "sub": "NOTAM"
+  },
+  {
+    "query": "Paul Cameron's domain of work is ",
+    "answer": "psychology",
+    "sub": "Paul Cameron"
+  },
+  {
+    "query": "Theodor von Oppolzer's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Theodor von Oppolzer"
+  },
+  {
+    "query": "Adrianne Wadewitz's domain of work is ",
+    "answer": "Wikipedia",
+    "sub": "Adrianne Wadewitz"
+  },
+  {
+    "query": "Nan Hoover's domain of work is ",
+    "answer": "photography",
+    "sub": "Nan Hoover"
+  },
+  {
+    "query": "Galileo Galilei's domain of work is ",
+    "answer": "philosophy",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "Joke Smit's domain of work is ",
+    "answer": "feminism",
+    "sub": "Joke Smit"
+  },
+  {
+    "query": "Georg Mohr's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Georg Mohr"
+  },
+  {
+    "query": "chemical test's domain of work is ",
+    "answer": "chemistry",
+    "sub": "chemical test"
+  },
+  {
+    "query": "Gregor Mendel's domain of work is ",
+    "answer": "genetics",
+    "sub": "Gregor Mendel"
+  },
+  {
+    "query": "Ahmad Kasravi's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Ahmad Kasravi"
+  },
+  {
+    "query": "Bruce Springsteen's domain of work is ",
+    "answer": "musician",
+    "sub": "Bruce Springsteen"
+  },
+  {
+    "query": "William Lipscomb's domain of work is ",
+    "answer": "chemistry",
+    "sub": "William Lipscomb"
+  },
+  {
+    "query": "Sofia Kovalevskaya's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Sofia Kovalevskaya"
+  },
+  {
+    "query": "Felix Plater's domain of work is ",
+    "answer": "medicine",
+    "sub": "Felix Plater"
+  },
+  {
+    "query": "Italian Chemical Society's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Italian Chemical Society"
+  },
+  {
+    "query": "Leon Orbeli's domain of work is ",
+    "answer": "physiology",
+    "sub": "Leon Orbeli"
+  },
+  {
+    "query": "Giordano Bruno's domain of work is ",
+    "answer": "philosophy",
+    "sub": "Giordano Bruno"
+  },
+  {
+    "query": "Stanislav Grof's domain of work is ",
+    "answer": "psychology",
+    "sub": "Stanislav Grof"
+  },
+  {
+    "query": "Polymath project's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Polymath project"
+  },
+  {
+    "query": "George Huntington's domain of work is ",
+    "answer": "medicine",
+    "sub": "George Huntington"
+  },
+  {
+    "query": "Callippus of Cyzicus's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Callippus of Cyzicus"
+  },
+  {
+    "query": "Napoleon Chagnon's domain of work is ",
+    "answer": "anthropology",
+    "sub": "Napoleon Chagnon"
+  },
+  {
+    "query": "Vilhelm Thomsen's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Vilhelm Thomsen"
+  },
+  {
+    "query": "Edward Condon's domain of work is ",
+    "answer": "physics",
+    "sub": "Edward Condon"
+  },
+  {
+    "query": "Robert Hanbury Brown's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Robert Hanbury Brown"
+  },
+  {
+    "query": "Carl Ludwig's domain of work is ",
+    "answer": "physiology",
+    "sub": "Carl Ludwig"
+  },
+  {
+    "query": "Menaechmus's domain of work is ",
+    "answer": "geometry",
+    "sub": "Menaechmus"
+  },
+  {
+    "query": "Henri Becquerel's domain of work is ",
+    "answer": "physics",
+    "sub": "Henri Becquerel"
+  },
+  {
+    "query": "Onufri's domain of work is ",
+    "answer": "icon",
+    "sub": "Onufri"
+  },
+  {
+    "query": "A Thousand Plateaus's domain of work is ",
+    "answer": "philosophy",
+    "sub": "A Thousand Plateaus"
+  },
+  {
+    "query": "Johanna Nichols's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Johanna Nichols"
+  },
+  {
+    "query": "William Isaac Thomas's domain of work is ",
+    "answer": "sociology",
+    "sub": "William Isaac Thomas"
+  },
+  {
+    "query": "Kurt Baier's domain of work is ",
+    "answer": "ethics",
+    "sub": "Kurt Baier"
+  },
+  {
+    "query": "Francis Bitter's domain of work is ",
+    "answer": "physics",
+    "sub": "Francis Bitter"
+  },
+  {
+    "query": "John Pendlebury's domain of work is ",
+    "answer": "archaeology",
+    "sub": "John Pendlebury"
+  },
+  {
+    "query": "Piotr Sztompka's domain of work is ",
+    "answer": "sociology",
+    "sub": "Piotr Sztompka"
+  },
+  {
+    "query": "Andreas Floer's domain of work is ",
+    "answer": "topology",
+    "sub": "Andreas Floer"
+  },
+  {
+    "query": "G. Evelyn Hutchinson's domain of work is ",
+    "answer": "ecology",
+    "sub": "G. Evelyn Hutchinson"
+  },
+  {
+    "query": "Lazarus Geiger's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Lazarus Geiger"
+  },
+  {
+    "query": "Robert Moberly's domain of work is ",
+    "answer": "theology",
+    "sub": "Robert Moberly"
+  },
+  {
+    "query": "Yi-Fu Tuan's domain of work is ",
+    "answer": "geography",
+    "sub": "Yi-Fu Tuan"
+  },
+  {
+    "query": "statistical model's domain of work is ",
+    "answer": "statistics",
+    "sub": "statistical model"
+  },
+  {
+    "query": "Nilakantha Somayaji's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Nilakantha Somayaji"
+  },
+  {
+    "query": "Mario Pieri's domain of work is ",
+    "answer": "geometry",
+    "sub": "Mario Pieri"
+  },
+  {
+    "query": "Jean Baptiste Julien d'Omalius d'Halloy's domain of work is ",
+    "answer": "geology",
+    "sub": "Jean Baptiste Julien d'Omalius d'Halloy"
+  },
+  {
+    "query": "Kip S. Thorne's domain of work is ",
+    "answer": "physics",
+    "sub": "Kip S. Thorne"
+  },
+  {
+    "query": "John Preskill's domain of work is ",
+    "answer": "physics",
+    "sub": "John Preskill"
+  },
+  {
+    "query": "Aleksey Krylov's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Aleksey Krylov"
+  },
+  {
+    "query": "Alexis Bouvard's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Alexis Bouvard"
+  },
+  {
+    "query": "Franciscus Sylvius's domain of work is ",
+    "answer": "anatomy",
+    "sub": "Franciscus Sylvius"
+  },
+  {
+    "query": "Petrus Camper's domain of work is ",
+    "answer": "physiology",
+    "sub": "Petrus Camper"
+  },
+  {
+    "query": "Carl Djerassi's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Carl Djerassi"
+  },
+  {
+    "query": "",
+    "answer": "stock",
+    "sub": "stock trader"
+  },
+  {
+    "query": "Antonio Vallisneri's domain of work is ",
+    "answer": "medicine",
+    "sub": "Antonio Vallisneri"
+  },
+  {
+    "query": "Anatoly Maltsev's domain of work is ",
+    "answer": "algebra",
+    "sub": "Anatoly Maltsev"
+  },
+  {
+    "query": "Lee Alvin DuBridge's domain of work is ",
+    "answer": "physics",
+    "sub": "Lee Alvin DuBridge"
+  },
+  {
+    "query": "Stuart Parkin's domain of work is ",
+    "answer": "physics",
+    "sub": "Stuart Parkin"
+  },
+  {
+    "query": "Carl Hovland's domain of work is ",
+    "answer": "psychology",
+    "sub": "Carl Hovland"
+  },
+  {
+    "query": "Anti-Oedipus's domain of work is ",
+    "answer": "philosophy",
+    "sub": "Anti-Oedipus"
+  },
+  {
+    "query": "Ibn Abi Usaibia's domain of work is ",
+    "answer": "medicine",
+    "sub": "Ibn Abi Usaibia"
+  },
+  {
+    "query": "Michel Chasles's domain of work is ",
+    "answer": "geometry",
+    "sub": "Michel Chasles"
+  },
+  {
+    "query": "Mstislav Keldysh's domain of work is ",
+    "answer": "mathematics",
+    "sub": "Mstislav Keldysh"
+  },
+  {
+    "query": "Edoardo Amaldi's domain of work is ",
+    "answer": "physics",
+    "sub": "Edoardo Amaldi"
+  },
+  {
+    "query": "",
+    "answer": "history",
+    "sub": "history journal"
+  },
+  {
+    "query": "August Weismann's domain of work is ",
+    "answer": "biology",
+    "sub": "August Weismann"
+  },
+  {
+    "query": "Cora Diamond's domain of work is ",
+    "answer": "ethics",
+    "sub": "Cora Diamond"
+  },
+  {
+    "query": "Ranuccio Bianchi Bandinelli's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Ranuccio Bianchi Bandinelli"
+  },
+  {
+    "query": "Massimo Pallottino's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Massimo Pallottino"
+  },
+  {
+    "query": "Giovanni Battista Riccioli's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Giovanni Battista Riccioli"
+  },
+  {
+    "query": "Robert Lee Moore's domain of work is ",
+    "answer": "topology",
+    "sub": "Robert Lee Moore"
+  },
+  {
+    "query": "Alexander Zinoviev's domain of work is ",
+    "answer": "sociology",
+    "sub": "Alexander Zinoviev"
+  },
+  {
+    "query": "James Hillman's domain of work is ",
+    "answer": "psychology",
+    "sub": "James Hillman"
+  },
+  {
+    "query": "Paul Langevin's domain of work is ",
+    "answer": "physics",
+    "sub": "Paul Langevin"
+  },
+  {
+    "query": "Ekrem Akurgal's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Ekrem Akurgal"
+  },
+  {
+    "query": "Robert John Braidwood's domain of work is ",
+    "answer": "archaeology",
+    "sub": "Robert John Braidwood"
+  },
+  {
+    "query": "Shmuel Eisenstadt's domain of work is ",
+    "answer": "sociology",
+    "sub": "Shmuel Eisenstadt"
+  },
+  {
+    "query": "Henricus Regius's domain of work is ",
+    "answer": "physician",
+    "sub": "Henricus Regius"
+  },
+  {
+    "query": "Johannes Hevelius's domain of work is ",
+    "answer": "astronomy",
+    "sub": "Johannes Hevelius"
+  },
+  {
+    "query": "Raymond Louis Wilder's domain of work is ",
+    "answer": "topology",
+    "sub": "Raymond Louis Wilder"
+  },
+  {
+    "query": "mathematical folklore's domain of work is ",
+    "answer": "mathematics",
+    "sub": "mathematical folklore"
+  },
+  {
+    "query": "John Cockcroft's domain of work is ",
+    "answer": "physics",
+    "sub": "John Cockcroft"
+  },
+  {
+    "query": "Brian De Palma's domain of work is ",
+    "answer": "film",
+    "sub": "Brian De Palma"
+  },
+  {
+    "query": "Moritz Pasch's domain of work is ",
+    "answer": "geometry",
+    "sub": "Moritz Pasch"
+  },
+  {
+    "query": "Hugo Kronecker's domain of work is ",
+    "answer": "physiology",
+    "sub": "Hugo Kronecker"
+  },
+  {
+    "query": "Otto Brunfels's domain of work is ",
+    "answer": "theology",
+    "sub": "Otto Brunfels"
+  },
+  {
+    "query": "Antoine Augustin Cournot's domain of work is ",
+    "answer": "economics",
+    "sub": "Antoine Augustin Cournot"
+  },
+  {
+    "query": "Domingo de Soto's domain of work is ",
+    "answer": "theology",
+    "sub": "Domingo de Soto"
+  },
+  {
+    "query": "Tamaz Gamkrelidze's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Tamaz Gamkrelidze"
+  },
+  {
+    "query": "Louis Lucien Bonaparte's domain of work is ",
+    "answer": "linguistics",
+    "sub": "Louis Lucien Bonaparte"
+  },
+  {
+    "query": "Pyotr Lebedev's domain of work is ",
+    "answer": "physics",
+    "sub": "Pyotr Lebedev"
+  },
+  {
+    "query": "Svante August Arrhenius's domain of work is ",
+    "answer": "chemistry",
+    "sub": "Svante August Arrhenius"
+  },
+  {
+    "query": "Rococo's domain of work is ",
+    "answer": "architecture",
+    "sub": "Rococo"
+  },
+  {
+    "query": "Werner Fenchel's domain of work is ",
+    "answer": "geometry",
+    "sub": "Werner Fenchel"
+  },
+  {
+    "query": "Macarius of Corinth's domain of work is ",
+    "answer": "priest",
+    "sub": "Macarius of Corinth"
+  },
+  {
+    "query": "Eberhard Hopf's domain of work is ",
+    "answer": "topology",
+    "sub": "Eberhard Hopf"
+  },
+  {
+    "query": "Aleksei N. Leontiev's domain of work is ",
+    "answer": "psychology",
+    "sub": "Aleksei N. Leontiev"
+  }
+]

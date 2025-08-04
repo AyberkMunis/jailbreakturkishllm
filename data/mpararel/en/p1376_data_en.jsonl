@@ -1,0 +1,1172 @@
+[
+  {
+    "query": "Alberta's capital is ",
+    "answer": "Edmonton",
+    "sub": "Alberta"
+  },
+  {
+    "query": "Turkey's capital is ",
+    "answer": "Ankara",
+    "sub": "Turkey"
+  },
+  {
+    "query": "Netherlands's capital is ",
+    "answer": "Amsterdam",
+    "sub": "Netherlands"
+  },
+  {
+    "query": "Azerbaijan's capital is ",
+    "answer": "Baku",
+    "sub": "Azerbaijan"
+  },
+  {
+    "query": "Egypt's capital is ",
+    "answer": "Cairo",
+    "sub": "Egypt"
+  },
+  {
+    "query": "Denmark's capital is ",
+    "answer": "Copenhagen",
+    "sub": "Denmark"
+  },
+  {
+    "query": "Catalonia's capital is ",
+    "answer": "Barcelona",
+    "sub": "Catalonia"
+  },
+  {
+    "query": "Argentina's capital is ",
+    "answer": "Buenos Aires",
+    "sub": "Argentina"
+  },
+  {
+    "query": "Bavaria's capital is ",
+    "answer": "Munich",
+    "sub": "Bavaria"
+  },
+  {
+    "query": "Tuscany's capital is ",
+    "answer": "Florence",
+    "sub": "Tuscany"
+  },
+  {
+    "query": "Italy's capital is ",
+    "answer": "Rome",
+    "sub": "Italy"
+  },
+  {
+    "query": "Algeria's capital is ",
+    "answer": "Algiers",
+    "sub": "Algeria"
+  },
+  {
+    "query": "Libya's capital is ",
+    "answer": "Tripoli",
+    "sub": "Libya"
+  },
+  {
+    "query": "Province of ",
+    "answer": "Antwerp",
+    "sub": "Province of Antwerp"
+  },
+  {
+    "query": "Australia's capital is ",
+    "answer": "Canberra",
+    "sub": "Australia"
+  },
+  {
+    "query": "Namibia's capital is ",
+    "answer": "Windhoek",
+    "sub": "Namibia"
+  },
+  {
+    "query": "Crete's capital is ",
+    "answer": "Heraklion",
+    "sub": "Crete"
+  },
+  {
+    "query": "Iraq's capital is ",
+    "answer": "Baghdad",
+    "sub": "Iraq"
+  },
+  {
+    "query": "Scotland's capital is ",
+    "answer": "Edinburgh",
+    "sub": "Scotland"
+  },
+  {
+    "query": "Afghanistan's capital is ",
+    "answer": "Kabul",
+    "sub": "Afghanistan"
+  },
+  {
+    "query": "Germany's capital is ",
+    "answer": "Bonn",
+    "sub": "Germany"
+  },
+  {
+    "query": "Germany's capital is ",
+    "answer": "Berlin",
+    "sub": "Germany"
+  },
+  {
+    "query": "Benin's capital is ",
+    "answer": "Porto-Novo",
+    "sub": "Benin"
+  },
+  {
+    "query": "Botswana's capital is ",
+    "answer": "Gaborone",
+    "sub": "Botswana"
+  },
+  {
+    "query": "France's capital is ",
+    "answer": "Paris",
+    "sub": "France"
+  },
+  {
+    "query": "Maharashtra's capital is ",
+    "answer": "Mumbai",
+    "sub": "Maharashtra"
+  },
+  {
+    "query": "Norway's capital is ",
+    "answer": "Oslo",
+    "sub": "Norway"
+  },
+  {
+    "query": "Judah's capital is ",
+    "answer": "Jerusalem",
+    "sub": "Judah"
+  },
+  {
+    "query": "Kyrgyzstan's capital is ",
+    "answer": "Bishkek",
+    "sub": "Kyrgyzstan"
+  },
+  {
+    "query": "Romania's capital is ",
+    "answer": "Bucharest",
+    "sub": "Romania"
+  },
+  {
+    "query": "Victoria's capital is ",
+    "answer": "Melbourne",
+    "sub": "Victoria"
+  },
+  {
+    "query": "Taiwan's capital is ",
+    "answer": "Beijing",
+    "sub": "Taiwan"
+  },
+  {
+    "query": "Taiwan's capital is ",
+    "answer": "Chongqing",
+    "sub": "Taiwan"
+  },
+  {
+    "query": "Cuba's capital is ",
+    "answer": "Havana",
+    "sub": "Cuba"
+  },
+  {
+    "query": "Colorado's capital is ",
+    "answer": "Denver",
+    "sub": "Colorado"
+  },
+  {
+    "query": "Somalia's capital is ",
+    "answer": "Mogadishu",
+    "sub": "Somalia"
+  },
+  {
+    "query": "Wales's capital is ",
+    "answer": "Cardiff",
+    "sub": "Wales"
+  },
+  {
+    "query": "Ireland's capital is ",
+    "answer": "Dublin",
+    "sub": "Ireland"
+  },
+  {
+    "query": "",
+    "answer": "Tunis",
+    "sub": "Tunisia"
+  },
+  {
+    "query": "Brazil's capital is ",
+    "answer": "Rio de Janeiro",
+    "sub": "Brazil"
+  },
+  {
+    "query": "Malta's capital is ",
+    "answer": "Valletta",
+    "sub": "Malta"
+  },
+  {
+    "query": "England's capital is ",
+    "answer": "London",
+    "sub": "England"
+  },
+  {
+    "query": "Morocco's capital is ",
+    "answer": "Rabat",
+    "sub": "Morocco"
+  },
+  {
+    "query": "Latvia's capital is ",
+    "answer": "Riga",
+    "sub": "Latvia"
+  },
+  {
+    "query": "Syria's capital is ",
+    "answer": "Damascus",
+    "sub": "Syria"
+  },
+  {
+    "query": "Tanzania's capital is ",
+    "answer": "Dar es Salaam",
+    "sub": "Tanzania"
+  },
+  {
+    "query": "Kingdom of England's capital is ",
+    "answer": "London",
+    "sub": "Kingdom of England"
+  },
+  {
+    "query": "Sweden's capital is ",
+    "answer": "Stockholm",
+    "sub": "Sweden"
+  },
+  {
+    "query": "Finland's capital is ",
+    "answer": "Helsinki",
+    "sub": "Finland"
+  },
+  {
+    "query": "Bohemia's capital is ",
+    "answer": "Prague",
+    "sub": "Bohemia"
+  },
+  {
+    "query": "Indiana's capital is ",
+    "answer": "Indianapolis",
+    "sub": "Indiana"
+  },
+  {
+    "query": "Spain's capital is ",
+    "answer": "Madrid",
+    "sub": "Spain"
+  },
+  {
+    "query": "Guatemala's capital is ",
+    "answer": "Guatemala City",
+    "sub": "Guatemala"
+  },
+  {
+    "query": "Poland's capital is ",
+    "answer": "Warsaw",
+    "sub": "Poland"
+  },
+  {
+    "query": "Guangdong's capital is ",
+    "answer": "Guangzhou",
+    "sub": "Guangdong"
+  },
+  {
+    "query": "Saxony's capital is ",
+    "answer": "Dresden",
+    "sub": "Saxony"
+  },
+  {
+    "query": "Haiti's capital is ",
+    "answer": "Port-au-Prince",
+    "sub": "Haiti"
+  },
+  {
+    "query": "Greece's capital is ",
+    "answer": "Athens",
+    "sub": "Greece"
+  },
+  {
+    "query": "Tasmania's capital is ",
+    "answer": "Hobart",
+    "sub": "Tasmania"
+  },
+  {
+    "query": "Estonia's capital is ",
+    "answer": "Tallinn",
+    "sub": "Estonia"
+  },
+  {
+    "query": "Japan's capital is ",
+    "answer": "Tokyo",
+    "sub": "Japan"
+  },
+  {
+    "query": "Austria's capital is ",
+    "answer": "Vienna",
+    "sub": "Austria"
+  },
+  {
+    "query": "Slovenia's capital is ",
+    "answer": "Ljubljana",
+    "sub": "Slovenia"
+  },
+  {
+    "query": "Israel's capital is ",
+    "answer": "Jerusalem",
+    "sub": "Israel"
+  },
+  {
+    "query": "Indonesia's capital is ",
+    "answer": "Jakarta",
+    "sub": "Indonesia"
+  },
+  {
+    "query": "Piedmont's capital is ",
+    "answer": "Turin",
+    "sub": "Piedmont"
+  },
+  {
+    "query": "Kenya's capital is ",
+    "answer": "Nairobi",
+    "sub": "Kenya"
+  },
+  {
+    "query": "Malaysia's capital is ",
+    "answer": "Kuala Lumpur",
+    "sub": "Malaysia"
+  },
+  {
+    "query": "Pakistan's capital is ",
+    "answer": "Islamabad",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "Nepal's capital is ",
+    "answer": "Kathmandu",
+    "sub": "Nepal"
+  },
+  {
+    "query": "Sudan's capital is ",
+    "answer": "Khartoum",
+    "sub": "Sudan"
+  },
+  {
+    "query": "Lithuania's capital is ",
+    "answer": "Vilnius",
+    "sub": "Lithuania"
+  },
+  {
+    "query": "Lebanon's capital is ",
+    "answer": "Beirut",
+    "sub": "Lebanon"
+  },
+  {
+    "query": "Portugal's capital is ",
+    "answer": "Lisbon",
+    "sub": "Portugal"
+  },
+  {
+    "query": "Angola's capital is ",
+    "answer": "Luanda",
+    "sub": "Angola"
+  },
+  {
+    "query": "Russia's capital is ",
+    "answer": "Moscow",
+    "sub": "Russia"
+  },
+  {
+    "query": "Manitoba's capital is ",
+    "answer": "Winnipeg",
+    "sub": "Manitoba"
+  },
+  {
+    "query": "Malawi's capital is ",
+    "answer": "Lilongwe",
+    "sub": "Malawi"
+  },
+  {
+    "query": "Mexico's capital is ",
+    "answer": "Mexico City",
+    "sub": "Mexico"
+  },
+  {
+    "query": "Mozambique's capital is ",
+    "answer": "Maputo",
+    "sub": "Mozambique"
+  },
+  {
+    "query": "Massachusetts's capital is ",
+    "answer": "Boston",
+    "sub": "Massachusetts"
+  },
+  {
+    "query": "Canada's capital is ",
+    "answer": "Ottawa",
+    "sub": "Canada"
+  },
+  {
+    "query": "Uruguay's capital is ",
+    "answer": "Montevideo",
+    "sub": "Uruguay"
+  },
+  {
+    "query": "Bahrain's capital is ",
+    "answer": "Manama",
+    "sub": "Bahrain"
+  },
+  {
+    "query": "Karnataka's capital is ",
+    "answer": "Bengaluru",
+    "sub": "Karnataka"
+  },
+  {
+    "query": "Hungary's capital is ",
+    "answer": "Budapest",
+    "sub": "Hungary"
+  },
+  {
+    "query": "Honduras's capital is ",
+    "answer": "Tegucigalpa",
+    "sub": "Honduras"
+  },
+  {
+    "query": "Gujarat's capital is ",
+    "answer": "Gandhinagar",
+    "sub": "Gujarat"
+  },
+  {
+    "query": "Montenegro's capital is ",
+    "answer": "Podgorica",
+    "sub": "Montenegro"
+  },
+  {
+    "query": "Ontario's capital is ",
+    "answer": "Toronto",
+    "sub": "Ontario"
+  },
+  {
+    "query": "Panama's capital is ",
+    "answer": "Panama City",
+    "sub": "Panama"
+  },
+  {
+    "query": "Senegal's capital is ",
+    "answer": "Dakar",
+    "sub": "Senegal"
+  },
+  {
+    "query": "Nigeria's capital is ",
+    "answer": "Lagos",
+    "sub": "Nigeria"
+  },
+  {
+    "query": "Thailand's capital is ",
+    "answer": "Bangkok",
+    "sub": "Thailand"
+  },
+  {
+    "query": "Chile's capital is ",
+    "answer": "Santiago",
+    "sub": "Chile"
+  },
+  {
+    "query": "India's capital is ",
+    "answer": "New Delhi",
+    "sub": "India"
+  },
+  {
+    "query": "Serbia's capital is ",
+    "answer": "Belgrade",
+    "sub": "Serbia"
+  },
+  {
+    "query": "Sardinia's capital is ",
+    "answer": "Cagliari",
+    "sub": "Sardinia"
+  },
+  {
+    "query": "Venezuela's capital is ",
+    "answer": "Caracas",
+    "sub": "Venezuela"
+  },
+  {
+    "query": "Cyprus's capital is ",
+    "answer": "Nicosia",
+    "sub": "Cyprus"
+  },
+  {
+    "query": "Ukraine's capital is ",
+    "answer": "Kyiv",
+    "sub": "Ukraine"
+  },
+  {
+    "query": "Taiwan's capital is ",
+    "answer": "Taipei",
+    "sub": "Taiwan"
+  },
+  {
+    "query": "Nigeria's capital is ",
+    "answer": "Abuja",
+    "sub": "Nigeria"
+  },
+  {
+    "query": "Bulgaria's capital is ",
+    "answer": "Sofia",
+    "sub": "Bulgaria"
+  },
+  {
+    "query": "Utah's capital is ",
+    "answer": "Salt Lake City",
+    "sub": "Utah"
+  },
+  {
+    "query": "Sicily's capital is ",
+    "answer": "Palermo",
+    "sub": "Sicily"
+  },
+  {
+    "query": "Iran's capital is ",
+    "answer": "Tehran",
+    "sub": "Iran"
+  },
+  {
+    "query": "Quebec's capital is ",
+    "answer": "Quebec City",
+    "sub": "Quebec"
+  },
+  {
+    "query": "Czechoslovakia's capital is ",
+    "answer": "Prague",
+    "sub": "Czechoslovakia"
+  },
+  {
+    "query": "Bangladesh's capital is ",
+    "answer": "Dhaka",
+    "sub": "Bangladesh"
+  },
+  {
+    "query": "Queensland's capital is ",
+    "answer": "Brisbane",
+    "sub": "Queensland"
+  },
+  {
+    "query": "Zimbabwe's capital is ",
+    "answer": "Harare",
+    "sub": "Zimbabwe"
+  },
+  {
+    "query": "Provence's capital is ",
+    "answer": "Aix-en-Provence",
+    "sub": "Provence"
+  },
+  {
+    "query": "Liberia's capital is ",
+    "answer": "Monrovia",
+    "sub": "Liberia"
+  },
+  {
+    "query": "Switzerland's capital is ",
+    "answer": "Bern",
+    "sub": "Switzerland"
+  },
+  {
+    "query": "Ethiopia's capital is ",
+    "answer": "Addis Ababa",
+    "sub": "Ethiopia"
+  },
+  {
+    "query": "Croatia's capital is ",
+    "answer": "Zagreb",
+    "sub": "Croatia"
+  },
+  {
+    "query": "Cambodia's capital is ",
+    "answer": "Phnom Penh",
+    "sub": "Cambodia"
+  },
+  {
+    "query": "Tajikistan's capital is ",
+    "answer": "Dushanbe",
+    "sub": "Tajikistan"
+  },
+  {
+    "query": "Michigan's capital is ",
+    "answer": "Lansing",
+    "sub": "Michigan"
+  },
+  {
+    "query": "Sarawak's capital is ",
+    "answer": "Kuching",
+    "sub": "Sarawak"
+  },
+  {
+    "query": "Philippines's capital is ",
+    "answer": "Manila",
+    "sub": "Philippines"
+  },
+  {
+    "query": "Kingdom of England's capital is ",
+    "answer": "Westminster",
+    "sub": "Kingdom of England"
+  },
+  {
+    "query": "Ecuador's capital is ",
+    "answer": "Quito",
+    "sub": "Ecuador"
+  },
+  {
+    "query": "",
+    "answer": "Leicester",
+    "sub": "Leicestershire"
+  },
+  {
+    "query": "Yunnan's capital is ",
+    "answer": "Kunming",
+    "sub": "Yunnan"
+  },
+  {
+    "query": "Nicaragua's capital is ",
+    "answer": "Managua",
+    "sub": "Nicaragua"
+  },
+  {
+    "query": "",
+    "answer": "Warwick",
+    "sub": "Warwickshire"
+  },
+  {
+    "query": "Bolivia's capital is ",
+    "answer": "Sucre",
+    "sub": "Bolivia"
+  },
+  {
+    "query": "Hawaii's capital is ",
+    "answer": "Honolulu",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "Laos's capital is ",
+    "answer": "Vientiane",
+    "sub": "Laos"
+  },
+  {
+    "query": "Sichuan's capital is ",
+    "answer": "Chengdu",
+    "sub": "Sichuan"
+  },
+  {
+    "query": "Aragon's capital is ",
+    "answer": "Zaragoza",
+    "sub": "Aragon"
+  },
+  {
+    "query": "Buckinghamshire's capital is ",
+    "answer": "Aylesbury",
+    "sub": "Buckinghamshire"
+  },
+  {
+    "query": "",
+    "answer": "Oxford",
+    "sub": "Oxfordshire"
+  },
+  {
+    "query": "Haryana's capital is ",
+    "answer": "Chandigarh",
+    "sub": "Haryana"
+  },
+  {
+    "query": "Niger's capital is ",
+    "answer": "Niamey",
+    "sub": "Niger"
+  },
+  {
+    "query": "Taiwan's capital is ",
+    "answer": "Nanjing",
+    "sub": "Taiwan"
+  },
+  {
+    "query": "Qatar's capital is ",
+    "answer": "Doha",
+    "sub": "Qatar"
+  },
+  {
+    "query": "Rhodesia's capital is ",
+    "answer": "Harare",
+    "sub": "Rhodesia"
+  },
+  {
+    "query": "Samoa's capital is ",
+    "answer": "Apia",
+    "sub": "Samoa"
+  },
+  {
+    "query": "Slovakia's capital is ",
+    "answer": "Bratislava",
+    "sub": "Slovakia"
+  },
+  {
+    "query": "Sabah's capital is ",
+    "answer": "Kota Kinabalu",
+    "sub": "Sabah"
+  },
+  {
+    "query": "Uzbekistan's capital is ",
+    "answer": "Tashkent",
+    "sub": "Uzbekistan"
+  },
+  {
+    "query": "Tanzania's capital is ",
+    "answer": "Dodoma",
+    "sub": "Tanzania"
+  },
+  {
+    "query": "Albania's capital is ",
+    "answer": "Tirana",
+    "sub": "Albania"
+  },
+  {
+    "query": "Uganda's capital is ",
+    "answer": "Kampala",
+    "sub": "Uganda"
+  },
+  {
+    "query": "Vietnam's capital is ",
+    "answer": "Hanoi",
+    "sub": "Vietnam"
+  },
+  {
+    "query": "Yemen's capital is ",
+    "answer": "Aden",
+    "sub": "Yemen"
+  },
+  {
+    "query": "Zambia's capital is ",
+    "answer": "Lusaka",
+    "sub": "Zambia"
+  },
+  {
+    "query": "Armenia's capital is ",
+    "answer": "Yerevan",
+    "sub": "Armenia"
+  },
+  {
+    "query": "Kuwait's capital is ",
+    "answer": "Kuwait City",
+    "sub": "Kuwait"
+  },
+  {
+    "query": "Mauritius's capital is ",
+    "answer": "Port Louis",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "Ghana's capital is ",
+    "answer": "Accra",
+    "sub": "Ghana"
+  },
+  {
+    "query": "Rajasthan's capital is ",
+    "answer": "Jaipur",
+    "sub": "Rajasthan"
+  },
+  {
+    "query": "Belarus's capital is ",
+    "answer": "Minsk",
+    "sub": "Belarus"
+  },
+  {
+    "query": "Iowa's capital is ",
+    "answer": "Des Moines",
+    "sub": "Iowa"
+  },
+  {
+    "query": "Bihar's capital is ",
+    "answer": "Patna",
+    "sub": "Bihar"
+  },
+  {
+    "query": "Louisiana's capital is ",
+    "answer": "Baton Rouge",
+    "sub": "Louisiana"
+  },
+  {
+    "query": "Indonesia's capital is ",
+    "answer": "Yogyakarta City",
+    "sub": "Indonesia"
+  },
+  {
+    "query": "Kazakhstan's capital is ",
+    "answer": "Nur-Sultan",
+    "sub": "Kazakhstan"
+  },
+  {
+    "query": "Hesse's capital is ",
+    "answer": "Wiesbaden",
+    "sub": "Hesse"
+  },
+  {
+    "query": "Burgundy's capital is ",
+    "answer": "Dijon",
+    "sub": "Burgundy"
+  },
+  {
+    "query": "Normandy's capital is ",
+    "answer": "Rouen",
+    "sub": "Normandy"
+  },
+  {
+    "query": "Oklahoma's capital is ",
+    "answer": "Oklahoma City",
+    "sub": "Oklahoma"
+  },
+  {
+    "query": "Lagos's capital is ",
+    "answer": "Ikeja",
+    "sub": "Lagos"
+  },
+  {
+    "query": "Arkansas's capital is ",
+    "answer": "Little Rock",
+    "sub": "Arkansas"
+  },
+  {
+    "query": "Chad's capital is ",
+    "answer": "N'Djamena",
+    "sub": "Chad"
+  },
+  {
+    "query": "Jordan's capital is ",
+    "answer": "Amman",
+    "sub": "Jordan"
+  },
+  {
+    "query": "Kerala's capital is ",
+    "answer": "Thiruvananthapuram",
+    "sub": "Kerala"
+  },
+  {
+    "query": "Barbados's capital is ",
+    "answer": "Bridgetown",
+    "sub": "Barbados"
+  },
+  {
+    "query": "Emirate of ",
+    "answer": "Dubai",
+    "sub": "Emirate of Dubai"
+  },
+  {
+    "query": "Brandenburg's capital is ",
+    "answer": "Potsdam",
+    "sub": "Brandenburg"
+  },
+  {
+    "query": "Madagascar's capital is ",
+    "answer": "Antananarivo",
+    "sub": "Madagascar"
+  },
+  {
+    "query": "Mali's capital is ",
+    "answer": "Bamako",
+    "sub": "Mali"
+  },
+  {
+    "query": "Maryland's capital is ",
+    "answer": "Annapolis",
+    "sub": "Maryland"
+  },
+  {
+    "query": "Telangana's capital is ",
+    "answer": "Hyderabad",
+    "sub": "Telangana"
+  },
+  {
+    "query": "Punjab's capital is ",
+    "answer": "Chandigarh",
+    "sub": "Punjab"
+  },
+  {
+    "query": "Ain's capital is ",
+    "answer": "Bourg-en-Bresse",
+    "sub": "Ain"
+  },
+  {
+    "query": "Fiji's capital is ",
+    "answer": "Suva",
+    "sub": "Fiji"
+  },
+  {
+    "query": "Pennsylvania's capital is ",
+    "answer": "Harrisburg",
+    "sub": "Pennsylvania"
+  },
+  {
+    "query": "Yemen's capital is ",
+    "answer": "Sanaa",
+    "sub": "Yemen"
+  },
+  {
+    "query": "Goa's capital is ",
+    "answer": "Panaji",
+    "sub": "Goa"
+  },
+  {
+    "query": "Brunei's capital is ",
+    "answer": "Bandar Seri Begawan",
+    "sub": "Brunei"
+  },
+  {
+    "query": "Wyoming's capital is ",
+    "answer": "Cheyenne",
+    "sub": "Wyoming"
+  },
+  {
+    "query": "Navarre's capital is ",
+    "answer": "Pamplona",
+    "sub": "Navarre"
+  },
+  {
+    "query": "Gabon's capital is ",
+    "answer": "Libreville",
+    "sub": "Gabon"
+  },
+  {
+    "query": "Kosovo's capital is ",
+    "answer": "Pristina",
+    "sub": "Kosovo"
+  },
+  {
+    "query": "Greenland's capital is ",
+    "answer": "Nuuk",
+    "sub": "Greenland"
+  },
+  {
+    "query": "Cebu's capital is ",
+    "answer": "Cebu City",
+    "sub": "Cebu"
+  },
+  {
+    "query": "Kingdom of England's capital is ",
+    "answer": "Winchester",
+    "sub": "Kingdom of England"
+  },
+  {
+    "query": "Yugoslavia's capital is ",
+    "answer": "Belgrade",
+    "sub": "Yugoslavia"
+  },
+  {
+    "query": "Connecticut's capital is ",
+    "answer": "Hartford",
+    "sub": "Connecticut"
+  },
+  {
+    "query": "Peru's capital is ",
+    "answer": "Lima",
+    "sub": "Peru"
+  },
+  {
+    "query": "Guinea's capital is ",
+    "answer": "Conakry",
+    "sub": "Guinea"
+  },
+  {
+    "query": "Miranda's capital is ",
+    "answer": "Los Teques",
+    "sub": "Miranda"
+  },
+  {
+    "query": "Alaska's capital is ",
+    "answer": "Juneau",
+    "sub": "Alaska"
+  },
+  {
+    "query": "Belize's capital is ",
+    "answer": "Belmopan",
+    "sub": "Belize"
+  },
+  {
+    "query": "Karachi's capital is ",
+    "answer": "Gulshan Town",
+    "sub": "Karachi"
+  },
+  {
+    "query": "Lima region's capital is ",
+    "answer": "Huacho",
+    "sub": "Lima region"
+  },
+  {
+    "query": "California's capital is ",
+    "answer": "Sacramento",
+    "sub": "California"
+  },
+  {
+    "query": "Kingdom of England's capital is ",
+    "answer": "City of London",
+    "sub": "Kingdom of England"
+  },
+  {
+    "query": "Rwanda's capital is ",
+    "answer": "Kigali",
+    "sub": "Rwanda"
+  },
+  {
+    "query": "Belgium's capital is ",
+    "answer": "City of Brussels",
+    "sub": "Belgium"
+  },
+  {
+    "query": "Bhutan's capital is ",
+    "answer": "Thimphu",
+    "sub": "Bhutan"
+  },
+  {
+    "query": "",
+    "answer": "Munich",
+    "sub": "Munich"
+  },
+  {
+    "query": "Indonesia's capital is ",
+    "answer": "Bukittinggi",
+    "sub": "Indonesia"
+  },
+  {
+    "query": "",
+    "answer": "Kabul",
+    "sub": "Kabul"
+  },
+  {
+    "query": "Greece's capital is ",
+    "answer": "Nauplion",
+    "sub": "Greece"
+  },
+  {
+    "query": "Centre's capital is ",
+    "answer": "Hinche",
+    "sub": "Centre"
+  },
+  {
+    "query": "Alba County's capital is ",
+    "answer": "Alba Iulia",
+    "sub": "Alba County"
+  },
+  {
+    "query": "Idaho's capital is ",
+    "answer": "Boise",
+    "sub": "Idaho"
+  },
+  {
+    "query": "Southwest's capital is ",
+    "answer": "Buea",
+    "sub": "Southwest"
+  },
+  {
+    "query": "Tennessee's capital is ",
+    "answer": "Nashville",
+    "sub": "Tennessee"
+  },
+  {
+    "query": "Luxembourg's capital is ",
+    "answer": "Arlon",
+    "sub": "Luxembourg"
+  },
+  {
+    "query": "",
+    "answer": "Salzburg",
+    "sub": "Salzburg"
+  },
+  {
+    "query": "Papua's capital is ",
+    "answer": "Jayapura",
+    "sub": "Papua"
+  },
+  {
+    "query": "Texas's capital is ",
+    "answer": "Austin",
+    "sub": "Texas"
+  },
+  {
+    "query": "Minnesota's capital is ",
+    "answer": "Saint Paul",
+    "sub": "Minnesota"
+  },
+  {
+    "query": "Oman's capital is ",
+    "answer": "Muscat",
+    "sub": "Oman"
+  },
+  {
+    "query": "East Region's capital is ",
+    "answer": "Bertoua",
+    "sub": "East Region"
+  },
+  {
+    "query": "West Region's capital is ",
+    "answer": "Bafoussam",
+    "sub": "West Region"
+  },
+  {
+    "query": "Florida's capital is ",
+    "answer": "Tallahassee",
+    "sub": "Florida"
+  },
+  {
+    "query": "Georgia's capital is ",
+    "answer": "Tbilisi",
+    "sub": "Georgia"
+  },
+  {
+    "query": "Macedonia's capital is ",
+    "answer": "Vergina",
+    "sub": "Macedonia"
+  },
+  {
+    "query": "Flanders's capital is ",
+    "answer": "City of Brussels",
+    "sub": "Flanders"
+  },
+  {
+    "query": "Malawi's capital is ",
+    "answer": "Zomba",
+    "sub": "Malawi"
+  },
+  {
+    "query": "Unity's capital is ",
+    "answer": "Bentiu",
+    "sub": "Unity"
+  },
+  {
+    "query": "Judah's capital is ",
+    "answer": "Hebron",
+    "sub": "Judah"
+  },
+  {
+    "query": "Nord's capital is ",
+    "answer": "Lille",
+    "sub": "Nord"
+  },
+  {
+    "query": "Kansas's capital is ",
+    "answer": "Topeka",
+    "sub": "Kansas"
+  },
+  {
+    "query": "Lakes's capital is ",
+    "answer": "Rumbek",
+    "sub": "Lakes"
+  },
+  {
+    "query": "Bari's capital is ",
+    "answer": "Bosaso",
+    "sub": "Bari"
+  },
+  {
+    "query": "Galicia's capital is ",
+    "answer": "Santiago de Compostela",
+    "sub": "Galicia"
+  }
+]

@@ -1,0 +1,1142 @@
+[
+  {
+    "query": "Alberta başkenti neresidir?",
+    "answer": " Edmonton",
+    "sub": "Alberta"
+  },
+  {
+    "query": "Türkiye başkenti neresidir?",
+    "answer": " Ankara",
+    "sub": "Türkiye"
+  },
+  {
+    "query": "Hollanda başkenti neresidir?",
+    "answer": " Amsterdam",
+    "sub": "Hollanda"
+  },
+  {
+    "query": "Azerbaycan başkenti neresidir?",
+    "answer": " Bakü",
+    "sub": "Azerbaycan"
+  },
+  {
+    "query": "Mısır başkenti neresidir?",
+    "answer": " Kahire",
+    "sub": "Mısır"
+  },
+  {
+    "query": "Danimarka başkenti neresidir?",
+    "answer": " Kopenhag",
+    "sub": "Danimarka"
+  },
+  {
+    "query": "Katalonya başkenti neresidir?",
+    "answer": " Barselona",
+    "sub": "Katalonya"
+  },
+  {
+    "query": "Arjantin başkenti neresidir?",
+    "answer": " Buenos Aires",
+    "sub": "Arjantin"
+  },
+  {
+    "query": "Bavyera başkenti neresidir?",
+    "answer": " Münih",
+    "sub": "Bavyera"
+  },
+  {
+    "query": "Toskana başkenti neresidir?",
+    "answer": " Floransa",
+    "sub": "Toskana"
+  },
+  {
+    "query": "İtalya başkenti neresidir?",
+    "answer": " Roma",
+    "sub": "İtalya"
+  },
+  {
+    "query": "Cezayir başkenti neresidir?",
+    "answer": " Cezayir",
+    "sub": "Cezayir"
+  },
+  {
+    "query": "Libya başkenti neresidir?",
+    "answer": " Trablus",
+    "sub": "Libya"
+  },
+  {
+    "query": "Anvers başkenti neresidir?",
+    "answer": " Anvers",
+    "sub": "Anvers"
+  },
+  {
+    "query": "Avustralya başkenti neresidir?",
+    "answer": " Canberra",
+    "sub": "Avustralya"
+  },
+  {
+    "query": "Namibya başkenti neresidir?",
+    "answer": " Windhoek",
+    "sub": "Namibya"
+  },
+  {
+    "query": "Girit başkenti neresidir?",
+    "answer": " Kandiye",
+    "sub": "Girit"
+  },
+  {
+    "query": "Irak başkenti neresidir?",
+    "answer": " Bağdat",
+    "sub": "Irak"
+  },
+  {
+    "query": "İskoçya başkenti neresidir?",
+    "answer": " Edinburgh",
+    "sub": "İskoçya"
+  },
+  {
+    "query": "Afganistan başkenti neresidir?",
+    "answer": " Kâbil",
+    "sub": "Afganistan"
+  },
+  {
+    "query": "Almanya başkenti neresidir?",
+    "answer": " Bonn",
+    "sub": "Almanya"
+  },
+  {
+    "query": "Almanya başkenti neresidir?",
+    "answer": " Berlin",
+    "sub": "Almanya"
+  },
+  {
+    "query": "Benin başkenti neresidir?",
+    "answer": " Porto-Novo",
+    "sub": "Benin"
+  },
+  {
+    "query": "Botsvana başkenti neresidir?",
+    "answer": " Gaborone",
+    "sub": "Botsvana"
+  },
+  {
+    "query": "Fransa başkenti neresidir?",
+    "answer": " Paris",
+    "sub": "Fransa"
+  },
+  {
+    "query": "Maharaştra başkenti neresidir?",
+    "answer": " Mumbai",
+    "sub": "Maharaştra"
+  },
+  {
+    "query": "Norveç başkenti neresidir?",
+    "answer": " Oslo",
+    "sub": "Norveç"
+  },
+  {
+    "query": "Yehuda Krallığı başkenti neresidir?",
+    "answer": " Kudüs",
+    "sub": "Yehuda Krallığı"
+  },
+  {
+    "query": "Kırgızistan başkenti neresidir?",
+    "answer": " Bişkek",
+    "sub": "Kırgızistan"
+  },
+  {
+    "query": "Romanya başkenti neresidir?",
+    "answer": " Bükreș",
+    "sub": "Romanya"
+  },
+  {
+    "query": "Victoria başkenti neresidir?",
+    "answer": " Melbourne",
+    "sub": "Victoria"
+  },
+  {
+    "query": "Çin Cumhuriyeti başkenti neresidir?",
+    "answer": " Pekin",
+    "sub": "Çin Cumhuriyeti"
+  },
+  {
+    "query": "Çin Cumhuriyeti başkenti neresidir?",
+    "answer": " Çongçing",
+    "sub": "Çin Cumhuriyeti"
+  },
+  {
+    "query": "Küba başkenti neresidir?",
+    "answer": " Havana",
+    "sub": "Küba"
+  },
+  {
+    "query": "Colorado başkenti neresidir?",
+    "answer": " Denver",
+    "sub": "Colorado"
+  },
+  {
+    "query": "Somali başkenti neresidir?",
+    "answer": " Mogadişu",
+    "sub": "Somali"
+  },
+  {
+    "query": "Galler başkenti neresidir?",
+    "answer": " Cardiff",
+    "sub": "Galler"
+  },
+  {
+    "query": "İrlanda başkenti neresidir?",
+    "answer": " Dublin",
+    "sub": "İrlanda"
+  },
+  {
+    "query": "Tunus başkenti neresidir?",
+    "answer": " Tunus",
+    "sub": "Tunus"
+  },
+  {
+    "query": "Brezilya başkenti neresidir?",
+    "answer": " Rio de Janeiro",
+    "sub": "Brezilya"
+  },
+  {
+    "query": "Malta başkenti neresidir?",
+    "answer": " Valletta",
+    "sub": "Malta"
+  },
+  {
+    "query": "İngiltere başkenti neresidir?",
+    "answer": " Londra",
+    "sub": "İngiltere"
+  },
+  {
+    "query": "Fas başkenti neresidir?",
+    "answer": " Rabat",
+    "sub": "Fas"
+  },
+  {
+    "query": "Letonya başkenti neresidir?",
+    "answer": " Riga",
+    "sub": "Letonya"
+  },
+  {
+    "query": "Suriye başkenti neresidir?",
+    "answer": " Şam",
+    "sub": "Suriye"
+  },
+  {
+    "query": "Tanzanya başkenti neresidir?",
+    "answer": " Darüsselam",
+    "sub": "Tanzanya"
+  },
+  {
+    "query": "İngiltere Krallığı başkenti neresidir?",
+    "answer": " Londra",
+    "sub": "İngiltere Krallığı"
+  },
+  {
+    "query": "İsveç başkenti neresidir?",
+    "answer": " Stockholm",
+    "sub": "İsveç"
+  },
+  {
+    "query": "Finlandiya başkenti neresidir?",
+    "answer": " Helsinki",
+    "sub": "Finlandiya"
+  },
+  {
+    "query": "Bohemya başkenti neresidir?",
+    "answer": " Prag",
+    "sub": "Bohemya"
+  },
+  {
+    "query": "Indiana başkenti neresidir?",
+    "answer": " Indianapolis",
+    "sub": "Indiana"
+  },
+  {
+    "query": "İspanya başkenti neresidir?",
+    "answer": " Madrid",
+    "sub": "İspanya"
+  },
+  {
+    "query": "Guatemala başkenti neresidir?",
+    "answer": " Guatemala",
+    "sub": "Guatemala"
+  },
+  {
+    "query": "Polonya başkenti neresidir?",
+    "answer": " Varşova",
+    "sub": "Polonya"
+  },
+  {
+    "query": "Guangdong başkenti neresidir?",
+    "answer": " Guangzhou",
+    "sub": "Guangdong"
+  },
+  {
+    "query": "Saksonya başkenti neresidir?",
+    "answer": " Dresden",
+    "sub": "Saksonya"
+  },
+  {
+    "query": "Haiti başkenti neresidir?",
+    "answer": " Port-au-Prince",
+    "sub": "Haiti"
+  },
+  {
+    "query": "Yunanistan başkenti neresidir?",
+    "answer": " Atina",
+    "sub": "Yunanistan"
+  },
+  {
+    "query": "Tasmanya başkenti neresidir?",
+    "answer": " Hobart",
+    "sub": "Tasmanya"
+  },
+  {
+    "query": "Estonya başkenti neresidir?",
+    "answer": " Tallinn",
+    "sub": "Estonya"
+  },
+  {
+    "query": "Japonya başkenti neresidir?",
+    "answer": " Tokyo",
+    "sub": "Japonya"
+  },
+  {
+    "query": "Avusturya başkenti neresidir?",
+    "answer": " Viyana",
+    "sub": "Avusturya"
+  },
+  {
+    "query": "Slovenya başkenti neresidir?",
+    "answer": " Ljubljana",
+    "sub": "Slovenya"
+  },
+  {
+    "query": "İsrail başkenti neresidir?",
+    "answer": " Kudüs",
+    "sub": "İsrail"
+  },
+  {
+    "query": "Endonezya başkenti neresidir?",
+    "answer": " Cakarta",
+    "sub": "Endonezya"
+  },
+  {
+    "query": "Piyemonte başkenti neresidir?",
+    "answer": " Torino",
+    "sub": "Piyemonte"
+  },
+  {
+    "query": "Kenya başkenti neresidir?",
+    "answer": " Nairobi",
+    "sub": "Kenya"
+  },
+  {
+    "query": "Malezya başkenti neresidir?",
+    "answer": " Kuala Lumpur",
+    "sub": "Malezya"
+  },
+  {
+    "query": "Pakistan başkenti neresidir?",
+    "answer": " İslamabad",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "Nepal başkenti neresidir?",
+    "answer": " Katmandu",
+    "sub": "Nepal"
+  },
+  {
+    "query": "Sudan başkenti neresidir?",
+    "answer": " Hartum",
+    "sub": "Sudan"
+  },
+  {
+    "query": "Litvanya başkenti neresidir?",
+    "answer": " Vilnius",
+    "sub": "Litvanya"
+  },
+  {
+    "query": "Lübnan başkenti neresidir?",
+    "answer": " Beyrut",
+    "sub": "Lübnan"
+  },
+  {
+    "query": "Portekiz başkenti neresidir?",
+    "answer": " Lizbon",
+    "sub": "Portekiz"
+  },
+  {
+    "query": "Angola başkenti neresidir?",
+    "answer": " Luanda",
+    "sub": "Angola"
+  },
+  {
+    "query": "Rusya başkenti neresidir?",
+    "answer": " Moskova",
+    "sub": "Rusya"
+  },
+  {
+    "query": "Manitoba başkenti neresidir?",
+    "answer": " Winnipeg",
+    "sub": "Manitoba"
+  },
+  {
+    "query": "Malavi başkenti neresidir?",
+    "answer": " Lilongwe",
+    "sub": "Malavi"
+  },
+  {
+    "query": "Meksika başkenti neresidir?",
+    "answer": " Meksiko",
+    "sub": "Meksika"
+  },
+  {
+    "query": "Mozambik başkenti neresidir?",
+    "answer": " Maputo",
+    "sub": "Mozambik"
+  },
+  {
+    "query": "Massachusetts başkenti neresidir?",
+    "answer": " Boston",
+    "sub": "Massachusetts"
+  },
+  {
+    "query": "Kanada başkenti neresidir?",
+    "answer": " Ottawa",
+    "sub": "Kanada"
+  },
+  {
+    "query": "Uruguay başkenti neresidir?",
+    "answer": " Montevideo",
+    "sub": "Uruguay"
+  },
+  {
+    "query": "Bahreyn başkenti neresidir?",
+    "answer": " Manama",
+    "sub": "Bahreyn"
+  },
+  {
+    "query": "Karnataka başkenti neresidir?",
+    "answer": " Bangalore",
+    "sub": "Karnataka"
+  },
+  {
+    "query": "Macaristan başkenti neresidir?",
+    "answer": " Budapeşte",
+    "sub": "Macaristan"
+  },
+  {
+    "query": "Honduras başkenti neresidir?",
+    "answer": " Tegucigalpa",
+    "sub": "Honduras"
+  },
+  {
+    "query": "Gucerat başkenti neresidir?",
+    "answer": " Gandhinagar",
+    "sub": "Gucerat"
+  },
+  {
+    "query": "Karadağ başkenti neresidir?",
+    "answer": " Podgorica",
+    "sub": "Karadağ"
+  },
+  {
+    "query": "Ontario başkenti neresidir?",
+    "answer": " Toronto",
+    "sub": "Ontario"
+  },
+  {
+    "query": "Panama başkenti neresidir?",
+    "answer": " Panama",
+    "sub": "Panama"
+  },
+  {
+    "query": "Senegal başkenti neresidir?",
+    "answer": " Dakar",
+    "sub": "Senegal"
+  },
+  {
+    "query": "Nijerya başkenti neresidir?",
+    "answer": " Lagos",
+    "sub": "Nijerya"
+  },
+  {
+    "query": "Tayland başkenti neresidir?",
+    "answer": " Bangkok",
+    "sub": "Tayland"
+  },
+  {
+    "query": "Şili başkenti neresidir?",
+    "answer": " Santiago",
+    "sub": "Şili"
+  },
+  {
+    "query": "Hindistan başkenti neresidir?",
+    "answer": " Yeni Delhi",
+    "sub": "Hindistan"
+  },
+  {
+    "query": "Sırbistan başkenti neresidir?",
+    "answer": " Belgrad",
+    "sub": "Sırbistan"
+  },
+  {
+    "query": "Sardinya başkenti neresidir?",
+    "answer": " Cagliari",
+    "sub": "Sardinya"
+  },
+  {
+    "query": "Venezuela başkenti neresidir?",
+    "answer": " Caracas",
+    "sub": "Venezuela"
+  },
+  {
+    "query": "Kıbrıs Cumhuriyeti başkenti neresidir?",
+    "answer": " Lefkoşa",
+    "sub": "Kıbrıs Cumhuriyeti"
+  },
+  {
+    "query": "Ukrayna başkenti neresidir?",
+    "answer": " Kiev",
+    "sub": "Ukrayna"
+  },
+  {
+    "query": "Çin Cumhuriyeti başkenti neresidir?",
+    "answer": " Taipei",
+    "sub": "Çin Cumhuriyeti"
+  },
+  {
+    "query": "Nijerya başkenti neresidir?",
+    "answer": " Abuja",
+    "sub": "Nijerya"
+  },
+  {
+    "query": "Bulgaristan başkenti neresidir?",
+    "answer": " Sofya",
+    "sub": "Bulgaristan"
+  },
+  {
+    "query": "Utah başkenti neresidir?",
+    "answer": " Salt Lake City",
+    "sub": "Utah"
+  },
+  {
+    "query": "Sicilya başkenti neresidir?",
+    "answer": " Palermo",
+    "sub": "Sicilya"
+  },
+  {
+    "query": "İran başkenti neresidir?",
+    "answer": " Tahran",
+    "sub": "İran"
+  },
+  {
+    "query": "Québec başkenti neresidir?",
+    "answer": " Québec",
+    "sub": "Québec"
+  },
+  {
+    "query": "Çekoslovakya başkenti neresidir?",
+    "answer": " Prag",
+    "sub": "Çekoslovakya"
+  },
+  {
+    "query": "Bangladeş başkenti neresidir?",
+    "answer": " Dakka",
+    "sub": "Bangladeş"
+  },
+  {
+    "query": "Queensland başkenti neresidir?",
+    "answer": " Brisbane",
+    "sub": "Queensland"
+  },
+  {
+    "query": "Zimbabve başkenti neresidir?",
+    "answer": " Harare",
+    "sub": "Zimbabve"
+  },
+  {
+    "query": "Provence başkenti neresidir?",
+    "answer": " Aix-en-Provence",
+    "sub": "Provence"
+  },
+  {
+    "query": "Liberya başkenti neresidir?",
+    "answer": " Monrovia",
+    "sub": "Liberya"
+  },
+  {
+    "query": "İsviçre başkenti neresidir?",
+    "answer": " Bern",
+    "sub": "İsviçre"
+  },
+  {
+    "query": "Etiyopya başkenti neresidir?",
+    "answer": " Addis Ababa",
+    "sub": "Etiyopya"
+  },
+  {
+    "query": "Hırvatistan başkenti neresidir?",
+    "answer": " Zagreb",
+    "sub": "Hırvatistan"
+  },
+  {
+    "query": "Kamboçya başkenti neresidir?",
+    "answer": " Phnom Penh",
+    "sub": "Kamboçya"
+  },
+  {
+    "query": "Tacikistan başkenti neresidir?",
+    "answer": " Duşanbe",
+    "sub": "Tacikistan"
+  },
+  {
+    "query": "Michigan başkenti neresidir?",
+    "answer": " Lansing",
+    "sub": "Michigan"
+  },
+  {
+    "query": "Saravak başkenti neresidir?",
+    "answer": " Kuching",
+    "sub": "Saravak"
+  },
+  {
+    "query": "Filipinler başkenti neresidir?",
+    "answer": " Manila",
+    "sub": "Filipinler"
+  },
+  {
+    "query": "İngiltere Krallığı başkenti neresidir?",
+    "answer": " Westminster",
+    "sub": "İngiltere Krallığı"
+  },
+  {
+    "query": "Ekvador başkenti neresidir?",
+    "answer": " Quito",
+    "sub": "Ekvador"
+  },
+  {
+    "query": "Leicestershire başkenti neresidir?",
+    "answer": " Leicester",
+    "sub": "Leicestershire"
+  },
+  {
+    "query": "Yünnan başkenti neresidir?",
+    "answer": " Kunming",
+    "sub": "Yünnan"
+  },
+  {
+    "query": "Nikaragua başkenti neresidir?",
+    "answer": " Managua",
+    "sub": "Nikaragua"
+  },
+  {
+    "query": "Bolivya başkenti neresidir?",
+    "answer": " Sucre",
+    "sub": "Bolivya"
+  },
+  {
+    "query": "Hawaii başkenti neresidir?",
+    "answer": " Honolulu",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "Laos başkenti neresidir?",
+    "answer": " Vientiane",
+    "sub": "Laos"
+  },
+  {
+    "query": "Siçuan başkenti neresidir?",
+    "answer": " Çengdu",
+    "sub": "Siçuan"
+  },
+  {
+    "query": "Aragon başkenti neresidir?",
+    "answer": " Zaragoza",
+    "sub": "Aragon"
+  },
+  {
+    "query": "Buckinghamshire başkenti neresidir?",
+    "answer": " Aylesbury",
+    "sub": "Buckinghamshire"
+  },
+  {
+    "query": "Oxfordshire başkenti neresidir?",
+    "answer": " Oxford",
+    "sub": "Oxfordshire"
+  },
+  {
+    "query": "Haryana başkenti neresidir?",
+    "answer": " Çhandigarh",
+    "sub": "Haryana"
+  },
+  {
+    "query": "Nijer başkenti neresidir?",
+    "answer": " Niamey",
+    "sub": "Nijer"
+  },
+  {
+    "query": "Çin Cumhuriyeti başkenti neresidir?",
+    "answer": " Nankin",
+    "sub": "Çin Cumhuriyeti"
+  },
+  {
+    "query": "Katar başkenti neresidir?",
+    "answer": " Doha",
+    "sub": "Katar"
+  },
+  {
+    "query": "Rodezya başkenti neresidir?",
+    "answer": " Harare",
+    "sub": "Rodezya"
+  },
+  {
+    "query": "Samoa başkenti neresidir?",
+    "answer": " Apia",
+    "sub": "Samoa"
+  },
+  {
+    "query": "Slovakya başkenti neresidir?",
+    "answer": " Bratislava",
+    "sub": "Slovakya"
+  },
+  {
+    "query": "Sabah başkenti neresidir?",
+    "answer": " Kota Kinabalu",
+    "sub": "Sabah"
+  },
+  {
+    "query": "Özbekistan başkenti neresidir?",
+    "answer": " Taşkent",
+    "sub": "Özbekistan"
+  },
+  {
+    "query": "Tanzanya başkenti neresidir?",
+    "answer": " Dodoma",
+    "sub": "Tanzanya"
+  },
+  {
+    "query": "Arnavutluk başkenti neresidir?",
+    "answer": " Tiran",
+    "sub": "Arnavutluk"
+  },
+  {
+    "query": "Uganda başkenti neresidir?",
+    "answer": " Kampala",
+    "sub": "Uganda"
+  },
+  {
+    "query": "Vietnam başkenti neresidir?",
+    "answer": " Hanoi",
+    "sub": "Vietnam"
+  },
+  {
+    "query": "Yemen başkenti neresidir?",
+    "answer": " Aden",
+    "sub": "Yemen"
+  },
+  {
+    "query": "Zambiya başkenti neresidir?",
+    "answer": " Lusaka",
+    "sub": "Zambiya"
+  },
+  {
+    "query": "Ermenistan başkenti neresidir?",
+    "answer": " Erivan",
+    "sub": "Ermenistan"
+  },
+  {
+    "query": "Kuveyt başkenti neresidir?",
+    "answer": " Kuveyt",
+    "sub": "Kuveyt"
+  },
+  {
+    "query": "Mauritius başkenti neresidir?",
+    "answer": " Port Louis",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "Gana başkenti neresidir?",
+    "answer": " Akra",
+    "sub": "Gana"
+  },
+  {
+    "query": "Racasthan başkenti neresidir?",
+    "answer": " Jaipur",
+    "sub": "Racasthan"
+  },
+  {
+    "query": "Beyaz Rusya başkenti neresidir?",
+    "answer": " Minsk",
+    "sub": "Beyaz Rusya"
+  },
+  {
+    "query": "Iowa başkenti neresidir?",
+    "answer": " Des Moines",
+    "sub": "Iowa"
+  },
+  {
+    "query": "Bihar başkenti neresidir?",
+    "answer": " Patna",
+    "sub": "Bihar"
+  },
+  {
+    "query": "Louisiana başkenti neresidir?",
+    "answer": " Baton Rouge",
+    "sub": "Louisiana"
+  },
+  {
+    "query": "Endonezya başkenti neresidir?",
+    "answer": " Yogyakarta",
+    "sub": "Endonezya"
+  },
+  {
+    "query": "Kazakistan başkenti neresidir?",
+    "answer": " Nursultan",
+    "sub": "Kazakistan"
+  },
+  {
+    "query": "Hessen başkenti neresidir?",
+    "answer": " Wiesbaden",
+    "sub": "Hessen"
+  },
+  {
+    "query": "Burgonya başkenti neresidir?",
+    "answer": " Dijon",
+    "sub": "Burgonya"
+  },
+  {
+    "query": "Normandiya başkenti neresidir?",
+    "answer": " Rouen",
+    "sub": "Normandiya"
+  },
+  {
+    "query": "Oklahoma başkenti neresidir?",
+    "answer": " Oklahoma City",
+    "sub": "Oklahoma"
+  },
+  {
+    "query": "Arkansas başkenti neresidir?",
+    "answer": " Little Rock, Arkansas",
+    "sub": "Arkansas"
+  },
+  {
+    "query": "Çad başkenti neresidir?",
+    "answer": " N'Djamena",
+    "sub": "Çad"
+  },
+  {
+    "query": "Ürdün başkenti neresidir?",
+    "answer": " Amman",
+    "sub": "Ürdün"
+  },
+  {
+    "query": "Kerala başkenti neresidir?",
+    "answer": " Thiruvananthapuram",
+    "sub": "Kerala"
+  },
+  {
+    "query": "Barbados başkenti neresidir?",
+    "answer": " Bridgetown",
+    "sub": "Barbados"
+  },
+  {
+    "query": "Dubai Emirliği başkenti neresidir?",
+    "answer": " Dubai",
+    "sub": "Dubai Emirliği"
+  },
+  {
+    "query": "Brandenburg başkenti neresidir?",
+    "answer": " Potsdam",
+    "sub": "Brandenburg"
+  },
+  {
+    "query": "Madagaskar başkenti neresidir?",
+    "answer": " Antananarivo",
+    "sub": "Madagaskar"
+  },
+  {
+    "query": "Mali başkenti neresidir?",
+    "answer": " Bamako",
+    "sub": "Mali"
+  },
+  {
+    "query": "Maryland başkenti neresidir?",
+    "answer": " Annapolis",
+    "sub": "Maryland"
+  },
+  {
+    "query": "Telangana başkenti neresidir?",
+    "answer": " Haydarabad, Hindistan",
+    "sub": "Telangana"
+  },
+  {
+    "query": "Pencap başkenti neresidir?",
+    "answer": " Çhandigarh",
+    "sub": "Pencap"
+  },
+  {
+    "query": "Ain başkenti neresidir?",
+    "answer": " Bourg-en-Bresse",
+    "sub": "Ain"
+  },
+  {
+    "query": "Fiji başkenti neresidir?",
+    "answer": " Suva",
+    "sub": "Fiji"
+  },
+  {
+    "query": "Pensilvanya başkenti neresidir?",
+    "answer": " Harrisburg, Pensilvanya",
+    "sub": "Pensilvanya"
+  },
+  {
+    "query": "Yemen başkenti neresidir?",
+    "answer": " San'a",
+    "sub": "Yemen"
+  },
+  {
+    "query": "Goa başkenti neresidir?",
+    "answer": " Panaji",
+    "sub": "Goa"
+  },
+  {
+    "query": "Brunei başkenti neresidir?",
+    "answer": " Bandar Seri Begavan",
+    "sub": "Brunei"
+  },
+  {
+    "query": "Wyoming başkenti neresidir?",
+    "answer": " Cheyenne",
+    "sub": "Wyoming"
+  },
+  {
+    "query": "Navarra başkenti neresidir?",
+    "answer": " Pamplona",
+    "sub": "Navarra"
+  },
+  {
+    "query": "Gabon başkenti neresidir?",
+    "answer": " Libreville",
+    "sub": "Gabon"
+  },
+  {
+    "query": "Kosova başkenti neresidir?",
+    "answer": " Priştine",
+    "sub": "Kosova"
+  },
+  {
+    "query": "Grönland başkenti neresidir?",
+    "answer": " Nuuk",
+    "sub": "Grönland"
+  },
+  {
+    "query": "Cebu başkenti neresidir?",
+    "answer": " Cebu City",
+    "sub": "Cebu"
+  },
+  {
+    "query": "İngiltere Krallığı başkenti neresidir?",
+    "answer": " Winchester",
+    "sub": "İngiltere Krallığı"
+  },
+  {
+    "query": "Yugoslavya başkenti neresidir?",
+    "answer": " Belgrad",
+    "sub": "Yugoslavya"
+  },
+  {
+    "query": "Connecticut başkenti neresidir?",
+    "answer": " Hartford, Connecticut",
+    "sub": "Connecticut"
+  },
+  {
+    "query": "Peru başkenti neresidir?",
+    "answer": " Lima",
+    "sub": "Peru"
+  },
+  {
+    "query": "Gine başkenti neresidir?",
+    "answer": " Konakri",
+    "sub": "Gine"
+  },
+  {
+    "query": "Alaska başkenti neresidir?",
+    "answer": " Juneau, Alaska",
+    "sub": "Alaska"
+  },
+  {
+    "query": "Belize başkenti neresidir?",
+    "answer": " Belmopán",
+    "sub": "Belize"
+  },
+  {
+    "query": "Kaliforniya başkenti neresidir?",
+    "answer": " Sacramento",
+    "sub": "Kaliforniya"
+  },
+  {
+    "query": "İngiltere Krallığı başkenti neresidir?",
+    "answer": " Londra Şehri",
+    "sub": "İngiltere Krallığı"
+  },
+  {
+    "query": "Ruanda başkenti neresidir?",
+    "answer": " Kigali",
+    "sub": "Ruanda"
+  },
+  {
+    "query": "Belçika başkenti neresidir?",
+    "answer": " Brüksel",
+    "sub": "Belçika"
+  },
+  {
+    "query": "Bhutan başkenti neresidir?",
+    "answer": " Thimphu",
+    "sub": "Bhutan"
+  },
+  {
+    "query": "Endonezya başkenti neresidir?",
+    "answer": " Bukittinggi",
+    "sub": "Endonezya"
+  },
+  {
+    "query": "Kâbil Vilayeti başkenti neresidir?",
+    "answer": " Kâbil",
+    "sub": "Kâbil Vilayeti"
+  },
+  {
+    "query": "Yunanistan başkenti neresidir?",
+    "answer": " Nafplion",
+    "sub": "Yunanistan"
+  },
+  {
+    "query": "Centre başkenti neresidir?",
+    "answer": " Hinche",
+    "sub": "Centre"
+  },
+  {
+    "query": "Alba ili başkenti neresidir?",
+    "answer": " Alba Iulia",
+    "sub": "Alba ili"
+  },
+  {
+    "query": "Idaho başkenti neresidir?",
+    "answer": " Boise",
+    "sub": "Idaho"
+  },
+  {
+    "query": "Güneybatı Bölgesi başkenti neresidir?",
+    "answer": " Buea",
+    "sub": "Güneybatı Bölgesi"
+  },
+  {
+    "query": "Tennessee başkenti neresidir?",
+    "answer": " Nashville",
+    "sub": "Tennessee"
+  },
+  {
+    "query": "Lüksemburg, Belçika başkenti neresidir?",
+    "answer": " Arlon",
+    "sub": "Lüksemburg, Belçika"
+  },
+  {
+    "query": "Salzburg başkenti neresidir?",
+    "answer": " Salzburg",
+    "sub": "Salzburg"
+  },
+  {
+    "query": "Papua başkenti neresidir?",
+    "answer": " Jayapura",
+    "sub": "Papua"
+  },
+  {
+    "query": "Teksas başkenti neresidir?",
+    "answer": " Austin",
+    "sub": "Teksas"
+  },
+  {
+    "query": "Minnesota başkenti neresidir?",
+    "answer": " St. Paul",
+    "sub": "Minnesota"
+  },
+  {
+    "query": "Umman başkenti neresidir?",
+    "answer": " Maskat",
+    "sub": "Umman"
+  },
+  {
+    "query": "Doğu Bölgesi başkenti neresidir?",
+    "answer": " Bertoua",
+    "sub": "Doğu Bölgesi"
+  },
+  {
+    "query": "Batı Bölgesi başkenti neresidir?",
+    "answer": " Bafoussam",
+    "sub": "Batı Bölgesi"
+  },
+  {
+    "query": "Florida başkenti neresidir?",
+    "answer": " Tallahassee",
+    "sub": "Florida"
+  },
+  {
+    "query": "Gürcistan başkenti neresidir?",
+    "answer": " Tiflis",
+    "sub": "Gürcistan"
+  },
+  {
+    "query": "Makedonya başkenti neresidir?",
+    "answer": " Vergina",
+    "sub": "Makedonya"
+  },
+  {
+    "query": "Flandre başkenti neresidir?",
+    "answer": " Brüksel",
+    "sub": "Flandre"
+  },
+  {
+    "query": "Malavi başkenti neresidir?",
+    "answer": " Zomba",
+    "sub": "Malavi"
+  },
+  {
+    "query": "Unity başkenti neresidir?",
+    "answer": " Bentiu",
+    "sub": "Unity"
+  },
+  {
+    "query": "Yehuda Krallığı başkenti neresidir?",
+    "answer": " El Halil",
+    "sub": "Yehuda Krallığı"
+  },
+  {
+    "query": "Nord başkenti neresidir?",
+    "answer": " Lille",
+    "sub": "Nord"
+  },
+  {
+    "query": "Kansas başkenti neresidir?",
+    "answer": " Topeka",
+    "sub": "Kansas"
+  },
+  {
+    "query": "Lakes başkenti neresidir?",
+    "answer": " Rumbek",
+    "sub": "Lakes"
+  },
+  {
+    "query": "Bari başkenti neresidir?",
+    "answer": " Bosaso",
+    "sub": "Bari"
+  },
+  {
+    "query": "Galiçya başkenti neresidir?",
+    "answer": " Santiago de Compostela",
+    "sub": "Galiçya"
+  }
+]

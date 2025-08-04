@@ -1,0 +1,4887 @@
+[
+  {
+    "query": "the native language of Louis Jules Trochu is ",
+    "answer": "French",
+    "sub": "Louis Jules Trochu"
+  },
+  {
+    "query": "the native language of Valeria Bruni Tedeschi is ",
+    "answer": "French",
+    "sub": "Valeria Bruni Tedeschi"
+  },
+  {
+    "query": "the native language of Pierre Messmer is ",
+    "answer": "French",
+    "sub": "Pierre Messmer"
+  },
+  {
+    "query": "the native language of Roger Nimier is ",
+    "answer": "French",
+    "sub": "Roger Nimier"
+  },
+  {
+    "query": "the native language of Andrey Malakhov is ",
+    "answer": "Russian",
+    "sub": "Andrey Malakhov"
+  },
+  {
+    "query": "the native language of Emmanuelle Arsan is ",
+    "answer": "French",
+    "sub": "Emmanuelle Arsan"
+  },
+  {
+    "query": "the native language of Georges Mouton is ",
+    "answer": "French",
+    "sub": "Georges Mouton"
+  },
+  {
+    "query": "the native language of Nie Weiping is ",
+    "answer": "Chinese",
+    "sub": "Nie Weiping"
+  },
+  {
+    "query": "the native language of Muppalaneni Shiva is ",
+    "answer": "Telugu",
+    "sub": "Muppalaneni Shiva"
+  },
+  {
+    "query": "the native language of Laurent Lafitte is ",
+    "answer": "French",
+    "sub": "Laurent Lafitte"
+  },
+  {
+    "query": "the native language of Joseph Reinach is ",
+    "answer": "French",
+    "sub": "Joseph Reinach"
+  },
+  {
+    "query": "the native language of ",
+    "answer": "Russian",
+    "sub": "Russians"
+  },
+  {
+    "query": "the native language of Claude Aveline is ",
+    "answer": "French",
+    "sub": "Claude Aveline"
+  },
+  {
+    "query": "the native language of Jan Commelin is ",
+    "answer": "Dutch",
+    "sub": "Jan Commelin"
+  },
+  {
+    "query": "the native language of Jean Rotrou is ",
+    "answer": "French",
+    "sub": "Jean Rotrou"
+  },
+  {
+    "query": "the native language of Laura Smet is ",
+    "answer": "French",
+    "sub": "Laura Smet"
+  },
+  {
+    "query": "the native language of Sara Coleridge is ",
+    "answer": "English",
+    "sub": "Sara Coleridge"
+  },
+  {
+    "query": "the native language of Jean-Antoine Chaptal is ",
+    "answer": "French",
+    "sub": "Jean-Antoine Chaptal"
+  },
+  {
+    "query": "the native language of Raymond Queneau is ",
+    "answer": "French",
+    "sub": "Raymond Queneau"
+  },
+  {
+    "query": "the native language of Fernand David is ",
+    "answer": "French",
+    "sub": "Fernand David"
+  },
+  {
+    "query": "the native language of Guy Sorman is ",
+    "answer": "French",
+    "sub": "Guy Sorman"
+  },
+  {
+    "query": "the native language of Jean-Luc Marion is ",
+    "answer": "French",
+    "sub": "Jean-Luc Marion"
+  },
+  {
+    "query": "the native language of Goncourt brothers is ",
+    "answer": "French",
+    "sub": "Goncourt brothers"
+  },
+  {
+    "query": "the native language of Mahesh Babu is ",
+    "answer": "Telugu",
+    "sub": "Mahesh Babu"
+  },
+  {
+    "query": "the native language of Victor de Riqueti, marquis de Mirabeau is ",
+    "answer": "French",
+    "sub": "Victor de Riqueti, marquis de Mirabeau"
+  },
+  {
+    "query": "the native language of Gustaaf Schlegel is ",
+    "answer": "Dutch",
+    "sub": "Gustaaf Schlegel"
+  },
+  {
+    "query": "the native language of Dmitry Rybolovlev is ",
+    "answer": "Russian",
+    "sub": "Dmitry Rybolovlev"
+  },
+  {
+    "query": "the native language of Sophie Marceau is ",
+    "answer": "French",
+    "sub": "Sophie Marceau"
+  },
+  {
+    "query": "the native language of Louis-Nicolas Davout is ",
+    "answer": "French",
+    "sub": "Louis-Nicolas Davout"
+  },
+  {
+    "query": "the native language of Paul-Jean Toulet is ",
+    "answer": "French",
+    "sub": "Paul-Jean Toulet"
+  },
+  {
+    "query": "the native language of Adrien Duport is ",
+    "answer": "French",
+    "sub": "Adrien Duport"
+  },
+  {
+    "query": "the native language of Lionel Jospin is ",
+    "answer": "French",
+    "sub": "Lionel Jospin"
+  },
+  {
+    "query": "the native language of Dmitry Malikov is ",
+    "answer": "Russian",
+    "sub": "Dmitry Malikov"
+  },
+  {
+    "query": "the native language of Michel Bouquet is ",
+    "answer": "French",
+    "sub": "Michel Bouquet"
+  },
+  {
+    "query": "the native language of William Henry Harrison is ",
+    "answer": "English",
+    "sub": "William Henry Harrison"
+  },
+  {
+    "query": "the native language of Jean Rouch is ",
+    "answer": "French",
+    "sub": "Jean Rouch"
+  },
+  {
+    "query": "the native language of Alain Delon is ",
+    "answer": "French",
+    "sub": "Alain Delon"
+  },
+  {
+    "query": "the native language of Alfred Marie-Jeanne is ",
+    "answer": "French",
+    "sub": "Alfred Marie-Jeanne"
+  },
+  {
+    "query": "the native language of Philippe de Mornay is ",
+    "answer": "French",
+    "sub": "Philippe de Mornay"
+  },
+  {
+    "query": "the native language of Michel de Montaigne is ",
+    "answer": "Latin",
+    "sub": "Michel de Montaigne"
+  },
+  {
+    "query": "the native language of Yevgeny Yevtushenko is ",
+    "answer": "Russian",
+    "sub": "Yevgeny Yevtushenko"
+  },
+  {
+    "query": "the native language of Mukesh is ",
+    "answer": "Malayalam",
+    "sub": "Mukesh"
+  },
+  {
+    "query": "the native language of Pierre Alcover is ",
+    "answer": "French",
+    "sub": "Pierre Alcover"
+  },
+  {
+    "query": "the native language of Pierre-Alexandre-Laurent Forfait is ",
+    "answer": "French",
+    "sub": "Pierre-Alexandre-Laurent Forfait"
+  },
+  {
+    "query": "the native language of Imanol Arias is ",
+    "answer": "Spanish",
+    "sub": "Imanol Arias"
+  },
+  {
+    "query": "the native language of Marthe Mellot is ",
+    "answer": "French",
+    "sub": "Marthe Mellot"
+  },
+  {
+    "query": "the native language of Daniel Ceccaldi is ",
+    "answer": "French",
+    "sub": "Daniel Ceccaldi"
+  },
+  {
+    "query": "the native language of Jean-Pierre Marielle is ",
+    "answer": "French",
+    "sub": "Jean-Pierre Marielle"
+  },
+  {
+    "query": "the native language of Patrick Topaloff is ",
+    "answer": "French",
+    "sub": "Patrick Topaloff"
+  },
+  {
+    "query": "the native language of John Paul II is ",
+    "answer": "Polish",
+    "sub": "John Paul II"
+  },
+  {
+    "query": "the native language of Henry de Montherlant is ",
+    "answer": "French",
+    "sub": "Henry de Montherlant"
+  },
+  {
+    "query": "the native language of Charles Le Goffic is ",
+    "answer": "Breton",
+    "sub": "Charles Le Goffic"
+  },
+  {
+    "query": "the native language of Pingali Nagendrarao is ",
+    "answer": "Telugu",
+    "sub": "Pingali Nagendrarao"
+  },
+  {
+    "query": "the native language of Jacques Laurent is ",
+    "answer": "French",
+    "sub": "Jacques Laurent"
+  },
+  {
+    "query": "the native language of Nikolai Bukharin is ",
+    "answer": "Russian",
+    "sub": "Nikolai Bukharin"
+  },
+  {
+    "query": "the native language of Gerrit Komrij is ",
+    "answer": "Dutch",
+    "sub": "Gerrit Komrij"
+  },
+  {
+    "query": "the native language of Jan Wils is ",
+    "answer": "Dutch",
+    "sub": "Jan Wils"
+  },
+  {
+    "query": "the native language of Maurice Renard is ",
+    "answer": "French",
+    "sub": "Maurice Renard"
+  },
+  {
+    "query": "the native language of Jean Rostand is ",
+    "answer": "French",
+    "sub": "Jean Rostand"
+  },
+  {
+    "query": "the native language of Fernand Gravey is ",
+    "answer": "French",
+    "sub": "Fernand Gravey"
+  },
+  {
+    "query": "the native language of Michael I of Romania is ",
+    "answer": "English",
+    "sub": "Michael I of Romania"
+  },
+  {
+    "query": "the native language of Jules Paul Benjamin Delessert is ",
+    "answer": "French",
+    "sub": "Jules Paul Benjamin Delessert"
+  },
+  {
+    "query": "the native language of Jean Claudio is ",
+    "answer": "French",
+    "sub": "Jean Claudio"
+  },
+  {
+    "query": "the native language of Christophe Hondelatte is ",
+    "answer": "French",
+    "sub": "Christophe Hondelatte"
+  },
+  {
+    "query": "the native language of Bruno Cremer is ",
+    "answer": "French",
+    "sub": "Bruno Cremer"
+  },
+  {
+    "query": "the native language of Henri Vidal is ",
+    "answer": "French",
+    "sub": "Henri Vidal"
+  },
+  {
+    "query": "the native language of Louis Gallet is ",
+    "answer": "French",
+    "sub": "Louis Gallet"
+  },
+  {
+    "query": "the native language of Ville Haapasalo is ",
+    "answer": "Russian",
+    "sub": "Ville Haapasalo"
+  },
+  {
+    "query": "the native language of Claude Gensac is ",
+    "answer": "French",
+    "sub": "Claude Gensac"
+  },
+  {
+    "query": "the native language of Lindsey Davis is ",
+    "answer": "English",
+    "sub": "Lindsey Davis"
+  },
+  {
+    "query": "the native language of Orane Demazis is ",
+    "answer": "French",
+    "sub": "Orane Demazis"
+  },
+  {
+    "query": "the native language of S. V. Ranga Rao is ",
+    "answer": "Telugu",
+    "sub": "S. V. Ranga Rao"
+  },
+  {
+    "query": "the native language of Guy Hocquenghem is ",
+    "answer": "French",
+    "sub": "Guy Hocquenghem"
+  },
+  {
+    "query": "the native language of Gilles Quispel is ",
+    "answer": "Dutch",
+    "sub": "Gilles Quispel"
+  },
+  {
+    "query": "the native language of Stefanos Stratigos is ",
+    "answer": "Greek",
+    "sub": "Stefanos Stratigos"
+  },
+  {
+    "query": "the native language of Michael Albert is ",
+    "answer": "English",
+    "sub": "Michael Albert"
+  },
+  {
+    "query": "the native language of Michele Bartoli is ",
+    "answer": "Italian",
+    "sub": "Michele Bartoli"
+  },
+  {
+    "query": "the native language of Pierre Jolivet is ",
+    "answer": "French",
+    "sub": "Pierre Jolivet"
+  },
+  {
+    "query": "the native language of Roger Duchesne is ",
+    "answer": "French",
+    "sub": "Roger Duchesne"
+  },
+  {
+    "query": "the native language of Alexandra Marinina is ",
+    "answer": "Russian",
+    "sub": "Alexandra Marinina"
+  },
+  {
+    "query": "the native language of Adriaan van Dis is ",
+    "answer": "Dutch",
+    "sub": "Adriaan van Dis"
+  },
+  {
+    "query": "the native language of Andy Lau is ",
+    "answer": "Cantonese",
+    "sub": "Andy Lau"
+  },
+  {
+    "query": "the native language of Ginette Leclerc is ",
+    "answer": "French",
+    "sub": "Ginette Leclerc"
+  },
+  {
+    "query": "the native language of Daniel-Rops is ",
+    "answer": "French",
+    "sub": "Daniel-Rops"
+  },
+  {
+    "query": "the native language of Christophe Moreau is ",
+    "answer": "French",
+    "sub": "Christophe Moreau"
+  },
+  {
+    "query": "the native language of Ann Scott is ",
+    "answer": "French",
+    "sub": "Ann Scott"
+  },
+  {
+    "query": "the native language of Franz-Olivier Giesbert is ",
+    "answer": "French",
+    "sub": "Franz-Olivier Giesbert"
+  },
+  {
+    "query": "the native language of Tonino Benacquista is ",
+    "answer": "French",
+    "sub": "Tonino Benacquista"
+  },
+  {
+    "query": "the native language of Joachim Lebreton is ",
+    "answer": "French",
+    "sub": "Joachim Lebreton"
+  },
+  {
+    "query": "the native language of Nikolay Strakhov is ",
+    "answer": "Russian",
+    "sub": "Nikolay Strakhov"
+  },
+  {
+    "query": "the native language of Twm o'r Nant is ",
+    "answer": "Welsh",
+    "sub": "Twm o'r Nant"
+  },
+  {
+    "query": "the native language of Paul Bonifas is ",
+    "answer": "French",
+    "sub": "Paul Bonifas"
+  },
+  {
+    "query": "the native language of Jacques Charles Dupont de l'Eure is ",
+    "answer": "French",
+    "sub": "Jacques Charles Dupont de l'Eure"
+  },
+  {
+    "query": "the native language of Étienne Jacques Joseph Alexandre Macdonald is ",
+    "answer": "French",
+    "sub": "Étienne Jacques Joseph Alexandre Macdonald"
+  },
+  {
+    "query": "the native language of Lionel Messi is ",
+    "answer": "Spanish",
+    "sub": "Lionel Messi"
+  },
+  {
+    "query": "the native language of Michel-Jean Sedaine is ",
+    "answer": "French",
+    "sub": "Michel-Jean Sedaine"
+  },
+  {
+    "query": "the native language of Franz Kafka is ",
+    "answer": "German",
+    "sub": "Franz Kafka"
+  },
+  {
+    "query": "the native language of Anatole France is ",
+    "answer": "French",
+    "sub": "Anatole France"
+  },
+  {
+    "query": "the native language of Vera Brezhneva is ",
+    "answer": "Russian",
+    "sub": "Vera Brezhneva"
+  },
+  {
+    "query": "the native language of Achille Varzi is ",
+    "answer": "Italian",
+    "sub": "Achille Varzi"
+  },
+  {
+    "query": "the native language of Babu Mohan is ",
+    "answer": "Telugu",
+    "sub": "Babu Mohan"
+  },
+  {
+    "query": "the native language of Marcel Vibert is ",
+    "answer": "French",
+    "sub": "Marcel Vibert"
+  },
+  {
+    "query": "the native language of Rama Prabha is ",
+    "answer": "Telugu",
+    "sub": "Rama Prabha"
+  },
+  {
+    "query": "the native language of Jean Marais is ",
+    "answer": "French",
+    "sub": "Jean Marais"
+  },
+  {
+    "query": "the native language of Jean-Marie Guyau is ",
+    "answer": "French",
+    "sub": "Jean-Marie Guyau"
+  },
+  {
+    "query": "the native language of Michel Delebarre is ",
+    "answer": "French",
+    "sub": "Michel Delebarre"
+  },
+  {
+    "query": "the native language of Victor de Laprade is ",
+    "answer": "French",
+    "sub": "Victor de Laprade"
+  },
+  {
+    "query": "the native language of Firmin Abauzit is ",
+    "answer": "French",
+    "sub": "Firmin Abauzit"
+  },
+  {
+    "query": "the native language of Dasaradhi is ",
+    "answer": "Telugu",
+    "sub": "Dasaradhi"
+  },
+  {
+    "query": "the native language of S. S. Rajamouli is ",
+    "answer": "Telugu",
+    "sub": "S. S. Rajamouli"
+  },
+  {
+    "query": "the native language of Oleg Kotov is ",
+    "answer": "Russian",
+    "sub": "Oleg Kotov"
+  },
+  {
+    "query": "the native language of Jean-Paul Sartre is ",
+    "answer": "French",
+    "sub": "Jean-Paul Sartre"
+  },
+  {
+    "query": "the native language of Louis Jourdan is ",
+    "answer": "French",
+    "sub": "Louis Jourdan"
+  },
+  {
+    "query": "the native language of Evert Willem Beth is ",
+    "answer": "Dutch",
+    "sub": "Evert Willem Beth"
+  },
+  {
+    "query": "the native language of Michel Poniatowski is ",
+    "answer": "French",
+    "sub": "Michel Poniatowski"
+  },
+  {
+    "query": "the native language of Seamus Heaney is ",
+    "answer": "English",
+    "sub": "Seamus Heaney"
+  },
+  {
+    "query": "the native language of Alexander Pushkin is ",
+    "answer": "Russian",
+    "sub": "Alexander Pushkin"
+  },
+  {
+    "query": "the native language of Marc-Philippe Daubresse is ",
+    "answer": "French",
+    "sub": "Marc-Philippe Daubresse"
+  },
+  {
+    "query": "the native language of Myriam Bru is ",
+    "answer": "French",
+    "sub": "Myriam Bru"
+  },
+  {
+    "query": "the native language of Robert Garnier is ",
+    "answer": "French",
+    "sub": "Robert Garnier"
+  },
+  {
+    "query": "the native language of Andy Murray is ",
+    "answer": "English",
+    "sub": "Andy Murray"
+  },
+  {
+    "query": "the native language of Alphonse Pyramus de Candolle is ",
+    "answer": "French",
+    "sub": "Alphonse Pyramus de Candolle"
+  },
+  {
+    "query": "the native language of Georges Courteline is ",
+    "answer": "French",
+    "sub": "Georges Courteline"
+  },
+  {
+    "query": "the native language of Agoston Haraszthy is ",
+    "answer": "Hungarian",
+    "sub": "Agoston Haraszthy"
+  },
+  {
+    "query": "the native language of Pierre Blanchar is ",
+    "answer": "French",
+    "sub": "Pierre Blanchar"
+  },
+  {
+    "query": "the native language of Claude Henri de Rouvroy, comte de Saint-Simon is ",
+    "answer": "French",
+    "sub": "Claude Henri de Rouvroy, comte de Saint-Simon"
+  },
+  {
+    "query": "the native language of Sourou-Migan Apithy is ",
+    "answer": "French",
+    "sub": "Sourou-Migan Apithy"
+  },
+  {
+    "query": "the native language of Christine Boisson is ",
+    "answer": "French",
+    "sub": "Christine Boisson"
+  },
+  {
+    "query": "the native language of Jean Rollin is ",
+    "answer": "French",
+    "sub": "Jean Rollin"
+  },
+  {
+    "query": "the native language of Thierry Lhermitte is ",
+    "answer": "French",
+    "sub": "Thierry Lhermitte"
+  },
+  {
+    "query": "the native language of Miho Mosulishvili is ",
+    "answer": "Georgian",
+    "sub": "Miho Mosulishvili"
+  },
+  {
+    "query": "the native language of John Calvin is ",
+    "answer": "French",
+    "sub": "John Calvin"
+  },
+  {
+    "query": "the native language of Pierre Pelot is ",
+    "answer": "French",
+    "sub": "Pierre Pelot"
+  },
+  {
+    "query": "the native language of Louis Legendre is ",
+    "answer": "French",
+    "sub": "Louis Legendre"
+  },
+  {
+    "query": "the native language of Christian Bouchet is ",
+    "answer": "French",
+    "sub": "Christian Bouchet"
+  },
+  {
+    "query": "the native language of Cees Nooteboom is ",
+    "answer": "Dutch",
+    "sub": "Cees Nooteboom"
+  },
+  {
+    "query": "the native language of Henricus Hondius II is ",
+    "answer": "Dutch",
+    "sub": "Henricus Hondius II"
+  },
+  {
+    "query": "the native language of Fernand Ledoux is ",
+    "answer": "French",
+    "sub": "Fernand Ledoux"
+  },
+  {
+    "query": "the native language of Milly Mathis is ",
+    "answer": "French",
+    "sub": "Milly Mathis"
+  },
+  {
+    "query": "the native language of Boris Kochno is ",
+    "answer": "French",
+    "sub": "Boris Kochno"
+  },
+  {
+    "query": "the native language of Angelica Agurbash is ",
+    "answer": "Russian",
+    "sub": "Angelica Agurbash"
+  },
+  {
+    "query": "the native language of Oleg Skripochka is ",
+    "answer": "Russian",
+    "sub": "Oleg Skripochka"
+  },
+  {
+    "query": "the native language of Fredrika Bremer is ",
+    "answer": "Swedish",
+    "sub": "Fredrika Bremer"
+  },
+  {
+    "query": "the native language of Korney Chukovsky is ",
+    "answer": "Russian",
+    "sub": "Korney Chukovsky"
+  },
+  {
+    "query": "the native language of Peter Kassovitz is ",
+    "answer": "French",
+    "sub": "Peter Kassovitz"
+  },
+  {
+    "query": "the native language of Gaby Morlay is ",
+    "answer": "French",
+    "sub": "Gaby Morlay"
+  },
+  {
+    "query": "the native language of Gabrielle Fontan is ",
+    "answer": "French",
+    "sub": "Gabrielle Fontan"
+  },
+  {
+    "query": "the native language of Dmitry Merezhkovsky is ",
+    "answer": "Russian",
+    "sub": "Dmitry Merezhkovsky"
+  },
+  {
+    "query": "the native language of Mabrouk El Mechri is ",
+    "answer": "French",
+    "sub": "Mabrouk El Mechri"
+  },
+  {
+    "query": "the native language of Claude Victor-Perrin, Duc de Belluno is ",
+    "answer": "French",
+    "sub": "Claude Victor-Perrin, Duc de Belluno"
+  },
+  {
+    "query": "the native language of Roger Hanin is ",
+    "answer": "French",
+    "sub": "Roger Hanin"
+  },
+  {
+    "query": "the native language of Roland Armontel is ",
+    "answer": "French",
+    "sub": "Roland Armontel"
+  },
+  {
+    "query": "the native language of Viacheslav Belavkin is ",
+    "answer": "Russian",
+    "sub": "Viacheslav Belavkin"
+  },
+  {
+    "query": "the native language of Michel Godard is ",
+    "answer": "French",
+    "sub": "Michel Godard"
+  },
+  {
+    "query": "the native language of Edmond Michelet is ",
+    "answer": "French",
+    "sub": "Edmond Michelet"
+  },
+  {
+    "query": "the native language of Adurthi Subba Rao is ",
+    "answer": "Telugu",
+    "sub": "Adurthi Subba Rao"
+  },
+  {
+    "query": "the native language of Jacques Toubon is ",
+    "answer": "French",
+    "sub": "Jacques Toubon"
+  },
+  {
+    "query": "the native language of Maurice Bucaille is ",
+    "answer": "French",
+    "sub": "Maurice Bucaille"
+  },
+  {
+    "query": "the native language of Martine Brochard is ",
+    "answer": "French",
+    "sub": "Martine Brochard"
+  },
+  {
+    "query": "the native language of Marcelin Pleynet is ",
+    "answer": "French",
+    "sub": "Marcelin Pleynet"
+  },
+  {
+    "query": "the native language of Armand Trousseau is ",
+    "answer": "French",
+    "sub": "Armand Trousseau"
+  },
+  {
+    "query": "the native language of Kozma Prutkov is ",
+    "answer": "Russian",
+    "sub": "Kozma Prutkov"
+  },
+  {
+    "query": "the native language of Sylvia Lopez is ",
+    "answer": "French",
+    "sub": "Sylvia Lopez"
+  },
+  {
+    "query": "the native language of Georges Perec is ",
+    "answer": "French",
+    "sub": "Georges Perec"
+  },
+  {
+    "query": "the native language of Lee Chang-dong is ",
+    "answer": "Korean",
+    "sub": "Lee Chang-dong"
+  },
+  {
+    "query": "the native language of Pierre Fresnay is ",
+    "answer": "French",
+    "sub": "Pierre Fresnay"
+  },
+  {
+    "query": "the native language of William-Adolphe Bouguereau is ",
+    "answer": "French",
+    "sub": "William-Adolphe Bouguereau"
+  },
+  {
+    "query": "the native language of Park Bum-shin is ",
+    "answer": "Korean",
+    "sub": "Park Bum-shin"
+  },
+  {
+    "query": "the native language of Ram Gopal Varma is ",
+    "answer": "Telugu",
+    "sub": "Ram Gopal Varma"
+  },
+  {
+    "query": "the native language of Constantijn Huygens is ",
+    "answer": "Dutch",
+    "sub": "Constantijn Huygens"
+  },
+  {
+    "query": "the native language of Lannick Gautry is ",
+    "answer": "French",
+    "sub": "Lannick Gautry"
+  },
+  {
+    "query": "the native language of Jean Reno is ",
+    "answer": "French",
+    "sub": "Jean Reno"
+  },
+  {
+    "query": "the native language of Christine Albanel is ",
+    "answer": "French",
+    "sub": "Christine Albanel"
+  },
+  {
+    "query": "the native language of Pietro Mennea is ",
+    "answer": "Italian",
+    "sub": "Pietro Mennea"
+  },
+  {
+    "query": "the native language of Michel Etcheverry is ",
+    "answer": "French",
+    "sub": "Michel Etcheverry"
+  },
+  {
+    "query": "the native language of Audrey Tautou is ",
+    "answer": "French",
+    "sub": "Audrey Tautou"
+  },
+  {
+    "query": "the native language of Dmitry Muratov is ",
+    "answer": "Russian",
+    "sub": "Dmitry Muratov"
+  },
+  {
+    "query": "the native language of Geoff Dyer is ",
+    "answer": "English",
+    "sub": "Geoff Dyer"
+  },
+  {
+    "query": "the native language of Marcel Ichac is ",
+    "answer": "French",
+    "sub": "Marcel Ichac"
+  },
+  {
+    "query": "the native language of Polina Zherebtsova is ",
+    "answer": "Russian",
+    "sub": "Polina Zherebtsova"
+  },
+  {
+    "query": "the native language of Robert Oppenheimer is ",
+    "answer": "English",
+    "sub": "Robert Oppenheimer"
+  },
+  {
+    "query": "the native language of Alain Robbe-Grillet is ",
+    "answer": "French",
+    "sub": "Alain Robbe-Grillet"
+  },
+  {
+    "query": "the native language of Bernadette Lafont is ",
+    "answer": "French",
+    "sub": "Bernadette Lafont"
+  },
+  {
+    "query": "the native language of Eugene Roshal is ",
+    "answer": "Russian",
+    "sub": "Eugene Roshal"
+  },
+  {
+    "query": "the native language of Louis Edmond Duranty is ",
+    "answer": "French",
+    "sub": "Louis Edmond Duranty"
+  },
+  {
+    "query": "the native language of Viktor Bychkov is ",
+    "answer": "Russian",
+    "sub": "Viktor Bychkov"
+  },
+  {
+    "query": "the native language of Jean-Baptiste Solignac is ",
+    "answer": "French",
+    "sub": "Jean-Baptiste Solignac"
+  },
+  {
+    "query": "the native language of Olivier Marchal is ",
+    "answer": "French",
+    "sub": "Olivier Marchal"
+  },
+  {
+    "query": "the native language of Ingrian Finns is ",
+    "answer": "Finnish",
+    "sub": "Ingrian Finns"
+  },
+  {
+    "query": "the native language of Manuel Blanc is ",
+    "answer": "French",
+    "sub": "Manuel Blanc"
+  },
+  {
+    "query": "the native language of Erick van Egeraat is ",
+    "answer": "Dutch",
+    "sub": "Erick van Egeraat"
+  },
+  {
+    "query": "the native language of Gwen Stefani is ",
+    "answer": "English",
+    "sub": "Gwen Stefani"
+  },
+  {
+    "query": "the native language of Ivan Ivanov-Vano is ",
+    "answer": "Russian",
+    "sub": "Ivan Ivanov-Vano"
+  },
+  {
+    "query": "the native language of Claude Ribbe is ",
+    "answer": "French",
+    "sub": "Claude Ribbe"
+  },
+  {
+    "query": "the native language of Pyotr Vyazemsky is ",
+    "answer": "Russian",
+    "sub": "Pyotr Vyazemsky"
+  },
+  {
+    "query": "the native language of William Habington is ",
+    "answer": "English",
+    "sub": "William Habington"
+  },
+  {
+    "query": "the native language of George Sluizer is ",
+    "answer": "Dutch",
+    "sub": "George Sluizer"
+  },
+  {
+    "query": "the native language of Olympe de Gouges is ",
+    "answer": "French",
+    "sub": "Olympe de Gouges"
+  },
+  {
+    "query": "the native language of Christopher Smart is ",
+    "answer": "English",
+    "sub": "Christopher Smart"
+  },
+  {
+    "query": "the native language of David Beckham is ",
+    "answer": "English",
+    "sub": "David Beckham"
+  },
+  {
+    "query": "the native language of Blaise Pascal is ",
+    "answer": "French",
+    "sub": "Blaise Pascal"
+  },
+  {
+    "query": "the native language of Pierre Magnier is ",
+    "answer": "French",
+    "sub": "Pierre Magnier"
+  },
+  {
+    "query": "the native language of Odette Joyeux is ",
+    "answer": "French",
+    "sub": "Odette Joyeux"
+  },
+  {
+    "query": "the native language of Kad Merad is ",
+    "answer": "French",
+    "sub": "Kad Merad"
+  },
+  {
+    "query": "the native language of Maurice Schutz is ",
+    "answer": "French",
+    "sub": "Maurice Schutz"
+  },
+  {
+    "query": "the native language of Bernard Giraudeau is ",
+    "answer": "French",
+    "sub": "Bernard Giraudeau"
+  },
+  {
+    "query": "the native language of Pierre Trabaud is ",
+    "answer": "French",
+    "sub": "Pierre Trabaud"
+  },
+  {
+    "query": "the native language of Georges Leygues is ",
+    "answer": "French",
+    "sub": "Georges Leygues"
+  },
+  {
+    "query": "the native language of Vladimir Bekhterev is ",
+    "answer": "Russian",
+    "sub": "Vladimir Bekhterev"
+  },
+  {
+    "query": "the native language of Jenson Button is ",
+    "answer": "English",
+    "sub": "Jenson Button"
+  },
+  {
+    "query": "the native language of Pierre Louis Prieur is ",
+    "answer": "French",
+    "sub": "Pierre Louis Prieur"
+  },
+  {
+    "query": "the native language of Isaac Massa is ",
+    "answer": "Dutch",
+    "sub": "Isaac Massa"
+  },
+  {
+    "query": "the native language of Jean Giraudoux is ",
+    "answer": "French",
+    "sub": "Jean Giraudoux"
+  },
+  {
+    "query": "the native language of Aleksei Dikiy is ",
+    "answer": "Russian",
+    "sub": "Aleksei Dikiy"
+  },
+  {
+    "query": "the native language of Clovis Cornillac is ",
+    "answer": "French",
+    "sub": "Clovis Cornillac"
+  },
+  {
+    "query": "the native language of Antonietta Di Martino is ",
+    "answer": "Italian",
+    "sub": "Antonietta Di Martino"
+  },
+  {
+    "query": "the native language of Anna Bijns is ",
+    "answer": "Dutch",
+    "sub": "Anna Bijns"
+  },
+  {
+    "query": "the native language of Bernard Menez is ",
+    "answer": "French",
+    "sub": "Bernard Menez"
+  },
+  {
+    "query": "the native language of Danielle Darrieux is ",
+    "answer": "French",
+    "sub": "Danielle Darrieux"
+  },
+  {
+    "query": "the native language of Pauline Lafont is ",
+    "answer": "French",
+    "sub": "Pauline Lafont"
+  },
+  {
+    "query": "the native language of Roman Karmen is ",
+    "answer": "Russian",
+    "sub": "Roman Karmen"
+  },
+  {
+    "query": "the native language of Pierre Reverdy is ",
+    "answer": "French",
+    "sub": "Pierre Reverdy"
+  },
+  {
+    "query": "the native language of Venu Thottempudi is ",
+    "answer": "Telugu",
+    "sub": "Venu Thottempudi"
+  },
+  {
+    "query": "the native language of Fyodor Pavlovich Reshetnikov is ",
+    "answer": "Russian",
+    "sub": "Fyodor Pavlovich Reshetnikov"
+  },
+  {
+    "query": "the native language of Ewa Farna is ",
+    "answer": "Polish",
+    "sub": "Ewa Farna"
+  },
+  {
+    "query": "the native language of Ercole Baldini is ",
+    "answer": "Italian",
+    "sub": "Ercole Baldini"
+  },
+  {
+    "query": "the native language of Pierre Bayle is ",
+    "answer": "French",
+    "sub": "Pierre Bayle"
+  },
+  {
+    "query": "the native language of Nikolay Akimov is ",
+    "answer": "Russian",
+    "sub": "Nikolay Akimov"
+  },
+  {
+    "query": "the native language of Gennady Zyuganov is ",
+    "answer": "Russian",
+    "sub": "Gennady Zyuganov"
+  },
+  {
+    "query": "the native language of Jean Gaven is ",
+    "answer": "French",
+    "sub": "Jean Gaven"
+  },
+  {
+    "query": "the native language of Kool Shen is ",
+    "answer": "French",
+    "sub": "Kool Shen"
+  },
+  {
+    "query": "the native language of Pierre Bec is ",
+    "answer": "French",
+    "sub": "Pierre Bec"
+  },
+  {
+    "query": "the native language of Dominique Besnehard is ",
+    "answer": "French",
+    "sub": "Dominique Besnehard"
+  },
+  {
+    "query": "the native language of Gerard Bilders is ",
+    "answer": "Dutch",
+    "sub": "Gerard Bilders"
+  },
+  {
+    "query": "the native language of Joseph Laniel is ",
+    "answer": "French",
+    "sub": "Joseph Laniel"
+  },
+  {
+    "query": "the native language of Hamidou Benmassoud is ",
+    "answer": "French",
+    "sub": "Hamidou Benmassoud"
+  },
+  {
+    "query": "the native language of Henri Gault is ",
+    "answer": "French",
+    "sub": "Henri Gault"
+  },
+  {
+    "query": "the native language of Olivier Messiaen is ",
+    "answer": "French",
+    "sub": "Olivier Messiaen"
+  },
+  {
+    "query": "the native language of Leo Klejn is ",
+    "answer": "Russian",
+    "sub": "Leo Klejn"
+  },
+  {
+    "query": "the native language of Victor Horta is ",
+    "answer": "Dutch",
+    "sub": "Victor Horta"
+  },
+  {
+    "query": "the native language of Miguel de Cervantes is ",
+    "answer": "Spanish",
+    "sub": "Miguel de Cervantes"
+  },
+  {
+    "query": "the native language of Woodrow Wilson is ",
+    "answer": "English",
+    "sub": "Woodrow Wilson"
+  },
+  {
+    "query": "the native language of Alexander Butlerov is ",
+    "answer": "Russian",
+    "sub": "Alexander Butlerov"
+  },
+  {
+    "query": "the native language of Oleg Novitskiy is ",
+    "answer": "Russian",
+    "sub": "Oleg Novitskiy"
+  },
+  {
+    "query": "the native language of Marc Caro is ",
+    "answer": "French",
+    "sub": "Marc Caro"
+  },
+  {
+    "query": "the native language of Robert Jan van Pelt is ",
+    "answer": "Dutch",
+    "sub": "Robert Jan van Pelt"
+  },
+  {
+    "query": "the native language of Alexander Lebedev is ",
+    "answer": "Russian",
+    "sub": "Alexander Lebedev"
+  },
+  {
+    "query": "the native language of Augustin Barruel is ",
+    "answer": "French",
+    "sub": "Augustin Barruel"
+  },
+  {
+    "query": "the native language of Maurice Poli is ",
+    "answer": "French",
+    "sub": "Maurice Poli"
+  },
+  {
+    "query": "the native language of Nikolai Luzin is ",
+    "answer": "Russian",
+    "sub": "Nikolai Luzin"
+  },
+  {
+    "query": "the native language of Patrick Devedjian is ",
+    "answer": "French",
+    "sub": "Patrick Devedjian"
+  },
+  {
+    "query": "the native language of Jean Paulhan is ",
+    "answer": "French",
+    "sub": "Jean Paulhan"
+  },
+  {
+    "query": "the native language of Romain Duris is ",
+    "answer": "French",
+    "sub": "Romain Duris"
+  },
+  {
+    "query": "the native language of Thom Hoffman is ",
+    "answer": "Dutch",
+    "sub": "Thom Hoffman"
+  },
+  {
+    "query": "the native language of Anna Kournikova is ",
+    "answer": "Russian",
+    "sub": "Anna Kournikova"
+  },
+  {
+    "query": "the native language of Alice Delysia is ",
+    "answer": "French",
+    "sub": "Alice Delysia"
+  },
+  {
+    "query": "the native language of Coralie Trinh Thi is ",
+    "answer": "French",
+    "sub": "Coralie Trinh Thi"
+  },
+  {
+    "query": "the native language of Catherine Rouvel is ",
+    "answer": "French",
+    "sub": "Catherine Rouvel"
+  },
+  {
+    "query": "the native language of Isabelle Caro is ",
+    "answer": "French",
+    "sub": "Isabelle Caro"
+  },
+  {
+    "query": "the native language of Nagendra Babu is ",
+    "answer": "Telugu",
+    "sub": "Nagendra Babu"
+  },
+  {
+    "query": "the native language of Francis Jammes is ",
+    "answer": "French",
+    "sub": "Francis Jammes"
+  },
+  {
+    "query": "the native language of Bam Mangera is ",
+    "answer": "English",
+    "sub": "Bam Mangera"
+  },
+  {
+    "query": "the native language of Jean-Marie Cavada is ",
+    "answer": "French",
+    "sub": "Jean-Marie Cavada"
+  },
+  {
+    "query": "the native language of Henri Garat is ",
+    "answer": "French",
+    "sub": "Henri Garat"
+  },
+  {
+    "query": "the native language of Jacques Attali is ",
+    "answer": "French",
+    "sub": "Jacques Attali"
+  },
+  {
+    "query": "the native language of Camille de Casabianca is ",
+    "answer": "French",
+    "sub": "Camille de Casabianca"
+  },
+  {
+    "query": "the native language of Daniel Ivernel is ",
+    "answer": "French",
+    "sub": "Daniel Ivernel"
+  },
+  {
+    "query": "the native language of Frans G. Bengtsson is ",
+    "answer": "Swedish",
+    "sub": "Frans G. Bengtsson"
+  },
+  {
+    "query": "the native language of Tina Turner is ",
+    "answer": "English",
+    "sub": "Tina Turner"
+  },
+  {
+    "query": "the native language of Jan van Riebeeck is ",
+    "answer": "Dutch",
+    "sub": "Jan van Riebeeck"
+  },
+  {
+    "query": "the native language of Fred Vargas is ",
+    "answer": "French",
+    "sub": "Fred Vargas"
+  },
+  {
+    "query": "the native language of Mithat Bayrak is ",
+    "answer": "Turkish",
+    "sub": "Mithat Bayrak"
+  },
+  {
+    "query": "the native language of Marcel Schwob is ",
+    "answer": "French",
+    "sub": "Marcel Schwob"
+  },
+  {
+    "query": "the native language of Zelimkhan Yandarbiyev is ",
+    "answer": "Russian",
+    "sub": "Zelimkhan Yandarbiyev"
+  },
+  {
+    "query": "the native language of Louis Joxe is ",
+    "answer": "French",
+    "sub": "Louis Joxe"
+  },
+  {
+    "query": "the native language of Raghu Babu is ",
+    "answer": "Telugu",
+    "sub": "Raghu Babu"
+  },
+  {
+    "query": "the native language of Odette Barencey is ",
+    "answer": "French",
+    "sub": "Odette Barencey"
+  },
+  {
+    "query": "the native language of Irma Boom is ",
+    "answer": "Dutch",
+    "sub": "Irma Boom"
+  },
+  {
+    "query": "the native language of Nyusha is ",
+    "answer": "Russian",
+    "sub": "Nyusha"
+  },
+  {
+    "query": "the native language of Henriette-Julie de Murat is ",
+    "answer": "French",
+    "sub": "Henriette-Julie de Murat"
+  },
+  {
+    "query": "the native language of Rainer Maria Rilke is ",
+    "answer": "German",
+    "sub": "Rainer Maria Rilke"
+  },
+  {
+    "query": "the native language of Lev Landau is ",
+    "answer": "Russian",
+    "sub": "Lev Landau"
+  },
+  {
+    "query": "the native language of Alex Ferguson is ",
+    "answer": "English",
+    "sub": "Alex Ferguson"
+  },
+  {
+    "query": "the native language of Louis-Jean-Marie Daubenton is ",
+    "answer": "French",
+    "sub": "Louis-Jean-Marie Daubenton"
+  },
+  {
+    "query": "the native language of Ferdinand-Alphonse Hamelin is ",
+    "answer": "French",
+    "sub": "Ferdinand-Alphonse Hamelin"
+  },
+  {
+    "query": "the native language of Lydie Denier is ",
+    "answer": "French",
+    "sub": "Lydie Denier"
+  },
+  {
+    "query": "the native language of Dominique Bouhours is ",
+    "answer": "French",
+    "sub": "Dominique Bouhours"
+  },
+  {
+    "query": "the native language of Frederick Marryat is ",
+    "answer": "English",
+    "sub": "Frederick Marryat"
+  },
+  {
+    "query": "the native language of Elsa Zylberstein is ",
+    "answer": "French",
+    "sub": "Elsa Zylberstein"
+  },
+  {
+    "query": "the native language of Nicolaas Pierson is ",
+    "answer": "Dutch",
+    "sub": "Nicolaas Pierson"
+  },
+  {
+    "query": "the native language of Adolphe Schneider is ",
+    "answer": "French",
+    "sub": "Adolphe Schneider"
+  },
+  {
+    "query": "the native language of Julie Myerson is ",
+    "answer": "English",
+    "sub": "Julie Myerson"
+  },
+  {
+    "query": "the native language of Juan de Espinosa Medrano is ",
+    "answer": "Spanish",
+    "sub": "Juan de Espinosa Medrano"
+  },
+  {
+    "query": "the native language of Paolo Tiralongo is ",
+    "answer": "Italian",
+    "sub": "Paolo Tiralongo"
+  },
+  {
+    "query": "the native language of Isabelle Nanty is ",
+    "answer": "French",
+    "sub": "Isabelle Nanty"
+  },
+  {
+    "query": "the native language of Marcel Mouloudji is ",
+    "answer": "French",
+    "sub": "Marcel Mouloudji"
+  },
+  {
+    "query": "the native language of Jean-Pierre Andrevon is ",
+    "answer": "French",
+    "sub": "Jean-Pierre Andrevon"
+  },
+  {
+    "query": "the native language of Joannes de Laet is ",
+    "answer": "Dutch",
+    "sub": "Joannes de Laet"
+  },
+  {
+    "query": "the native language of Charles Augustin Sainte-Beuve is ",
+    "answer": "French",
+    "sub": "Charles Augustin Sainte-Beuve"
+  },
+  {
+    "query": "the native language of Gilles Lellouche is ",
+    "answer": "French",
+    "sub": "Gilles Lellouche"
+  },
+  {
+    "query": "the native language of Marguerite Audoux is ",
+    "answer": "French",
+    "sub": "Marguerite Audoux"
+  },
+  {
+    "query": "the native language of Shy'm is ",
+    "answer": "French",
+    "sub": "Shy'm"
+  },
+  {
+    "query": "the native language of Colette Darfeuil is ",
+    "answer": "French",
+    "sub": "Colette Darfeuil"
+  },
+  {
+    "query": "the native language of Mohammad-Reza Sharifinia is ",
+    "answer": "Persian",
+    "sub": "Mohammad-Reza Sharifinia"
+  },
+  {
+    "query": "the native language of Blanchette Brunoy is ",
+    "answer": "French",
+    "sub": "Blanchette Brunoy"
+  },
+  {
+    "query": "the native language of Patrick Chamoiseau is ",
+    "answer": "French",
+    "sub": "Patrick Chamoiseau"
+  },
+  {
+    "query": "the native language of Wil Huygen is ",
+    "answer": "Dutch",
+    "sub": "Wil Huygen"
+  },
+  {
+    "query": "the native language of Jacques Ellul is ",
+    "answer": "French",
+    "sub": "Jacques Ellul"
+  },
+  {
+    "query": "the native language of Edward Bulwer-Lytton is ",
+    "answer": "English",
+    "sub": "Edward Bulwer-Lytton"
+  },
+  {
+    "query": "the native language of Glenmor is ",
+    "answer": "Breton",
+    "sub": "Glenmor"
+  },
+  {
+    "query": "the native language of Geetu Mohandas is ",
+    "answer": "Malayalam",
+    "sub": "Geetu Mohandas"
+  },
+  {
+    "query": "the native language of Guy Debord is ",
+    "answer": "French",
+    "sub": "Guy Debord"
+  },
+  {
+    "query": "the native language of Christopher Frank is ",
+    "answer": "French",
+    "sub": "Christopher Frank"
+  },
+  {
+    "query": "the native language of Simon Dubnow is ",
+    "answer": "Russian",
+    "sub": "Simon Dubnow"
+  },
+  {
+    "query": "the native language of Gautier de Metz is ",
+    "answer": "French",
+    "sub": "Gautier de Metz"
+  },
+  {
+    "query": "the native language of Cyril Collard is ",
+    "answer": "French",
+    "sub": "Cyril Collard"
+  },
+  {
+    "query": "the native language of Henri Desgrange is ",
+    "answer": "French",
+    "sub": "Henri Desgrange"
+  },
+  {
+    "query": "the native language of Silvia Monfort is ",
+    "answer": "French",
+    "sub": "Silvia Monfort"
+  },
+  {
+    "query": "the native language of Joseph Bonaparte is ",
+    "answer": "French",
+    "sub": "Joseph Bonaparte"
+  },
+  {
+    "query": "the native language of Michel Saint-Denis is ",
+    "answer": "French",
+    "sub": "Michel Saint-Denis"
+  },
+  {
+    "query": "the native language of Pierre Brice is ",
+    "answer": "French",
+    "sub": "Pierre Brice"
+  },
+  {
+    "query": "the native language of Maurice Teynac is ",
+    "answer": "French",
+    "sub": "Maurice Teynac"
+  },
+  {
+    "query": "the native language of Boris Vian is ",
+    "answer": "French",
+    "sub": "Boris Vian"
+  },
+  {
+    "query": "the native language of Brahmaji is ",
+    "answer": "Telugu",
+    "sub": "Brahmaji"
+  },
+  {
+    "query": "the native language of Michel Robin is ",
+    "answer": "French",
+    "sub": "Michel Robin"
+  },
+  {
+    "query": "the native language of Jean-Marie Le Pen is ",
+    "answer": "French",
+    "sub": "Jean-Marie Le Pen"
+  },
+  {
+    "query": "the native language of Farid Chopel is ",
+    "answer": "French",
+    "sub": "Farid Chopel"
+  },
+  {
+    "query": "the native language of Novak Djokovic is ",
+    "answer": "Serbian",
+    "sub": "Novak Djokovic"
+  },
+  {
+    "query": "the native language of Muriel Barbery is ",
+    "answer": "French",
+    "sub": "Muriel Barbery"
+  },
+  {
+    "query": "the native language of Jean Piat is ",
+    "answer": "French",
+    "sub": "Jean Piat"
+  },
+  {
+    "query": "the native language of Alain Mabanckou is ",
+    "answer": "French",
+    "sub": "Alain Mabanckou"
+  },
+  {
+    "query": "the native language of Lipke Holthuis is ",
+    "answer": "Dutch",
+    "sub": "Lipke Holthuis"
+  },
+  {
+    "query": "the native language of Chaya Devi is ",
+    "answer": "Bengali",
+    "sub": "Chaya Devi"
+  },
+  {
+    "query": "the native language of Anne Fontaine is ",
+    "answer": "French",
+    "sub": "Anne Fontaine"
+  },
+  {
+    "query": "the native language of Maximilian Voloshin is ",
+    "answer": "Russian",
+    "sub": "Maximilian Voloshin"
+  },
+  {
+    "query": "the native language of Maarten Tromp is ",
+    "answer": "Dutch",
+    "sub": "Maarten Tromp"
+  },
+  {
+    "query": "the native language of Paul Guimard is ",
+    "answer": "French",
+    "sub": "Paul Guimard"
+  },
+  {
+    "query": "the native language of Jacques Frantz is ",
+    "answer": "French",
+    "sub": "Jacques Frantz"
+  },
+  {
+    "query": "the native language of Vera Zvonareva is ",
+    "answer": "Russian",
+    "sub": "Vera Zvonareva"
+  },
+  {
+    "query": "the native language of Irina Shayk is ",
+    "answer": "Russian",
+    "sub": "Irina Shayk"
+  },
+  {
+    "query": "the native language of Ludivine Sagnier is ",
+    "answer": "French",
+    "sub": "Ludivine Sagnier"
+  },
+  {
+    "query": "the native language of John Dalton is ",
+    "answer": "English",
+    "sub": "John Dalton"
+  },
+  {
+    "query": "the native language of Claude Rich is ",
+    "answer": "French",
+    "sub": "Claude Rich"
+  },
+  {
+    "query": "the native language of Marcelle Auclair is ",
+    "answer": "French",
+    "sub": "Marcelle Auclair"
+  },
+  {
+    "query": "the native language of Theodore Roosevelt is ",
+    "answer": "English",
+    "sub": "Theodore Roosevelt"
+  },
+  {
+    "query": "the native language of Bas Jan Ader is ",
+    "answer": "Dutch",
+    "sub": "Bas Jan Ader"
+  },
+  {
+    "query": "the native language of Xavier Beauvois is ",
+    "answer": "French",
+    "sub": "Xavier Beauvois"
+  },
+  {
+    "query": "the native language of Olga Medvedtseva is ",
+    "answer": "Russian",
+    "sub": "Olga Medvedtseva"
+  },
+  {
+    "query": "the native language of Jaak Aaviksoo is ",
+    "answer": "Estonian",
+    "sub": "Jaak Aaviksoo"
+  },
+  {
+    "query": "the native language of Aleksandr Lyapunov is ",
+    "answer": "Russian",
+    "sub": "Aleksandr Lyapunov"
+  },
+  {
+    "query": "the native language of Didier Van Cauwelaert is ",
+    "answer": "French",
+    "sub": "Didier Van Cauwelaert"
+  },
+  {
+    "query": "the native language of Guy Drut is ",
+    "answer": "French",
+    "sub": "Guy Drut"
+  },
+  {
+    "query": "the native language of Boris Asafyev is ",
+    "answer": "Russian",
+    "sub": "Boris Asafyev"
+  },
+  {
+    "query": "the native language of Samuel Benchetrit is ",
+    "answer": "French",
+    "sub": "Samuel Benchetrit"
+  },
+  {
+    "query": "the native language of Julie Delpy is ",
+    "answer": "French",
+    "sub": "Julie Delpy"
+  },
+  {
+    "query": "the native language of Almeida Garrett is ",
+    "answer": "Portuguese",
+    "sub": "Almeida Garrett"
+  },
+  {
+    "query": "the native language of Henri Barbusse is ",
+    "answer": "French",
+    "sub": "Henri Barbusse"
+  },
+  {
+    "query": "the native language of Aleksandr Ptushko is ",
+    "answer": "Russian",
+    "sub": "Aleksandr Ptushko"
+  },
+  {
+    "query": "the native language of Robin Renucci is ",
+    "answer": "French",
+    "sub": "Robin Renucci"
+  },
+  {
+    "query": "the native language of Manuel Valls is ",
+    "answer": "Spanish",
+    "sub": "Manuel Valls"
+  },
+  {
+    "query": "the native language of Jean Foyer is ",
+    "answer": "French",
+    "sub": "Jean Foyer"
+  },
+  {
+    "query": "the native language of Octave Uzanne is ",
+    "answer": "French",
+    "sub": "Octave Uzanne"
+  },
+  {
+    "query": "the native language of George Sand is ",
+    "answer": "French",
+    "sub": "George Sand"
+  },
+  {
+    "query": "the native language of Jeroen Willems is ",
+    "answer": "Dutch",
+    "sub": "Jeroen Willems"
+  },
+  {
+    "query": "the native language of Jiang Qinqin is ",
+    "answer": "Chinese",
+    "sub": "Jiang Qinqin"
+  },
+  {
+    "query": "the native language of Betha Sudhakar is ",
+    "answer": "Telugu",
+    "sub": "Betha Sudhakar"
+  },
+  {
+    "query": "the native language of Artyom Borovik is ",
+    "answer": "Russian",
+    "sub": "Artyom Borovik"
+  },
+  {
+    "query": "the native language of Fabrice Luchini is ",
+    "answer": "French",
+    "sub": "Fabrice Luchini"
+  },
+  {
+    "query": "the native language of Fanny Ardant is ",
+    "answer": "French",
+    "sub": "Fanny Ardant"
+  },
+  {
+    "query": "the native language of Annick Alane is ",
+    "answer": "French",
+    "sub": "Annick Alane"
+  },
+  {
+    "query": "the native language of Pierre Brasseur is ",
+    "answer": "French",
+    "sub": "Pierre Brasseur"
+  },
+  {
+    "query": "the native language of Jean-Antoine Roucher is ",
+    "answer": "French",
+    "sub": "Jean-Antoine Roucher"
+  },
+  {
+    "query": "the native language of Hendrik Petrus Berlage is ",
+    "answer": "Dutch",
+    "sub": "Hendrik Petrus Berlage"
+  },
+  {
+    "query": "the native language of Louis de Rouvroy, duc de Saint-Simon is ",
+    "answer": "French",
+    "sub": "Louis de Rouvroy, duc de Saint-Simon"
+  },
+  {
+    "query": "the native language of Walter Pater is ",
+    "answer": "English",
+    "sub": "Walter Pater"
+  },
+  {
+    "query": "the native language of Roger Dumas is ",
+    "answer": "French",
+    "sub": "Roger Dumas"
+  },
+  {
+    "query": "the native language of Jean-Baptiste Henri Lacordaire is ",
+    "answer": "French",
+    "sub": "Jean-Baptiste Henri Lacordaire"
+  },
+  {
+    "query": "the native language of Leo Tolstoy is ",
+    "answer": "Russian",
+    "sub": "Leo Tolstoy"
+  },
+  {
+    "query": "the native language of Al Gore is ",
+    "answer": "English",
+    "sub": "Al Gore"
+  },
+  {
+    "query": "the native language of Jean Bruller is ",
+    "answer": "French",
+    "sub": "Jean Bruller"
+  },
+  {
+    "query": "the native language of Nicola Sirkis is ",
+    "answer": "French",
+    "sub": "Nicola Sirkis"
+  },
+  {
+    "query": "the native language of Ilya Ehrenburg is ",
+    "answer": "Russian",
+    "sub": "Ilya Ehrenburg"
+  },
+  {
+    "query": "the native language of Kannadasan is ",
+    "answer": "Tamil",
+    "sub": "Kannadasan"
+  },
+  {
+    "query": "the native language of Jacques Dufilho is ",
+    "answer": "French",
+    "sub": "Jacques Dufilho"
+  },
+  {
+    "query": "the native language of Jean Le Poulain is ",
+    "answer": "French",
+    "sub": "Jean Le Poulain"
+  },
+  {
+    "query": "the native language of Julien Carette is ",
+    "answer": "French",
+    "sub": "Julien Carette"
+  },
+  {
+    "query": "the native language of Joop Zoetemelk is ",
+    "answer": "Dutch",
+    "sub": "Joop Zoetemelk"
+  },
+  {
+    "query": "the native language of Jean-Christophe Bouvet is ",
+    "answer": "French",
+    "sub": "Jean-Christophe Bouvet"
+  },
+  {
+    "query": "the native language of Xavier Saint-Macary is ",
+    "answer": "French",
+    "sub": "Xavier Saint-Macary"
+  },
+  {
+    "query": "the native language of Johan van Heemskerk is ",
+    "answer": "Dutch",
+    "sub": "Johan van Heemskerk"
+  },
+  {
+    "query": "the native language of Emmanuel Hocquard is ",
+    "answer": "French",
+    "sub": "Emmanuel Hocquard"
+  },
+  {
+    "query": "the native language of Louis Gabriel Michaud is ",
+    "answer": "French",
+    "sub": "Louis Gabriel Michaud"
+  },
+  {
+    "query": "the native language of Jean-Baptiste de Boyer, Marquis d'Argens is ",
+    "answer": "French",
+    "sub": "Jean-Baptiste de Boyer, Marquis d'Argens"
+  },
+  {
+    "query": "the native language of Maurice Thorez is ",
+    "answer": "French",
+    "sub": "Maurice Thorez"
+  },
+  {
+    "query": "the native language of Thoppil Bhasi is ",
+    "answer": "Malayalam",
+    "sub": "Thoppil Bhasi"
+  },
+  {
+    "query": "the native language of Claude Cerval is ",
+    "answer": "French",
+    "sub": "Claude Cerval"
+  },
+  {
+    "query": "the native language of Hendrikus Colijn is ",
+    "answer": "Dutch",
+    "sub": "Hendrikus Colijn"
+  },
+  {
+    "query": "the native language of Edsger W. Dijkstra is ",
+    "answer": "Dutch",
+    "sub": "Edsger W. Dijkstra"
+  },
+  {
+    "query": "the native language of Dominique Sanda is ",
+    "answer": "French",
+    "sub": "Dominique Sanda"
+  },
+  {
+    "query": "the native language of Vincent Rottiers is ",
+    "answer": "French",
+    "sub": "Vincent Rottiers"
+  },
+  {
+    "query": "the native language of Jean-Louis Curtis is ",
+    "answer": "French",
+    "sub": "Jean-Louis Curtis"
+  },
+  {
+    "query": "the native language of Edward Burnett Tylor is ",
+    "answer": "English",
+    "sub": "Edward Burnett Tylor"
+  },
+  {
+    "query": "the native language of Vincent Lacoste is ",
+    "answer": "French",
+    "sub": "Vincent Lacoste"
+  },
+  {
+    "query": "the native language of Paul Capellani is ",
+    "answer": "French",
+    "sub": "Paul Capellani"
+  },
+  {
+    "query": "the native language of Charles de Rochefort is ",
+    "answer": "French",
+    "sub": "Charles de Rochefort"
+  },
+  {
+    "query": "the native language of Maurice Risch is ",
+    "answer": "French",
+    "sub": "Maurice Risch"
+  },
+  {
+    "query": "the native language of Raymond Abellio is ",
+    "answer": "French",
+    "sub": "Raymond Abellio"
+  },
+  {
+    "query": "the native language of Paul Pellisson is ",
+    "answer": "French",
+    "sub": "Paul Pellisson"
+  },
+  {
+    "query": "the native language of Daniel Tammet is ",
+    "answer": "English",
+    "sub": "Daniel Tammet"
+  },
+  {
+    "query": "the native language of Pierre Bourdieu is ",
+    "answer": "French",
+    "sub": "Pierre Bourdieu"
+  },
+  {
+    "query": "the native language of Vitruvius is ",
+    "answer": "Latin",
+    "sub": "Vitruvius"
+  },
+  {
+    "query": "the native language of Hans Peter Anvin is ",
+    "answer": "Swedish",
+    "sub": "Hans Peter Anvin"
+  },
+  {
+    "query": "the native language of Raymond Triboulet is ",
+    "answer": "French",
+    "sub": "Raymond Triboulet"
+  },
+  {
+    "query": "the native language of Josiane Balasko is ",
+    "answer": "French",
+    "sub": "Josiane Balasko"
+  },
+  {
+    "query": "the native language of Paul Frankeur is ",
+    "answer": "French",
+    "sub": "Paul Frankeur"
+  },
+  {
+    "query": "the native language of Symeon of Polotsk is ",
+    "answer": "Russian",
+    "sub": "Symeon of Polotsk"
+  },
+  {
+    "query": "the native language of Isabelle Autissier is ",
+    "answer": "French",
+    "sub": "Isabelle Autissier"
+  },
+  {
+    "query": "the native language of Jean-Hilaire Aubame is ",
+    "answer": "French",
+    "sub": "Jean-Hilaire Aubame"
+  },
+  {
+    "query": "the native language of Laurent Casanova is ",
+    "answer": "French",
+    "sub": "Laurent Casanova"
+  },
+  {
+    "query": "the native language of Pierre Schneiter is ",
+    "answer": "French",
+    "sub": "Pierre Schneiter"
+  },
+  {
+    "query": "the native language of Louis Florencie is ",
+    "answer": "French",
+    "sub": "Louis Florencie"
+  },
+  {
+    "query": "the native language of Charlotte-Rose de Caumont de La Force is ",
+    "answer": "French",
+    "sub": "Charlotte-Rose de Caumont de La Force"
+  },
+  {
+    "query": "the native language of Jayabharathi is ",
+    "answer": "Malayalam",
+    "sub": "Jayabharathi"
+  },
+  {
+    "query": "the native language of Willem Johan Kolff is ",
+    "answer": "Dutch",
+    "sub": "Willem Johan Kolff"
+  },
+  {
+    "query": "the native language of Arthur Dupont is ",
+    "answer": "French",
+    "sub": "Arthur Dupont"
+  },
+  {
+    "query": "the native language of Devulapalli Krishnasastri is ",
+    "answer": "Telugu",
+    "sub": "Devulapalli Krishnasastri"
+  },
+  {
+    "query": "the native language of Louis Dutens is ",
+    "answer": "French",
+    "sub": "Louis Dutens"
+  },
+  {
+    "query": "the native language of Hugo von Hofmannsthal is ",
+    "answer": "German",
+    "sub": "Hugo von Hofmannsthal"
+  },
+  {
+    "query": "the native language of Anastasy Vonsyatsky is ",
+    "answer": "Russian",
+    "sub": "Anastasy Vonsyatsky"
+  },
+  {
+    "query": "the native language of Kondavalasa Lakshmana Rao is ",
+    "answer": "Telugu",
+    "sub": "Kondavalasa Lakshmana Rao"
+  },
+  {
+    "query": "the native language of Yuri Knorozov is ",
+    "answer": "Russian",
+    "sub": "Yuri Knorozov"
+  },
+  {
+    "query": "the native language of Johnny Hallyday is ",
+    "answer": "French",
+    "sub": "Johnny Hallyday"
+  },
+  {
+    "query": "the native language of Marie-Arlette Carlotti is ",
+    "answer": "French",
+    "sub": "Marie-Arlette Carlotti"
+  },
+  {
+    "query": "the native language of Ida Dalser is ",
+    "answer": "Italian",
+    "sub": "Ida Dalser"
+  },
+  {
+    "query": "the native language of Ger van Elk is ",
+    "answer": "Dutch",
+    "sub": "Ger van Elk"
+  },
+  {
+    "query": "the native language of Tylman van Gameren is ",
+    "answer": "Dutch",
+    "sub": "Tylman van Gameren"
+  },
+  {
+    "query": "the native language of Nazi Boni is ",
+    "answer": "French",
+    "sub": "Nazi Boni"
+  },
+  {
+    "query": "the native language of Roger Caillois is ",
+    "answer": "French",
+    "sub": "Roger Caillois"
+  },
+  {
+    "query": "the native language of Roger Garaudy is ",
+    "answer": "French",
+    "sub": "Roger Garaudy"
+  },
+  {
+    "query": "the native language of Paul Louis Courier is ",
+    "answer": "French",
+    "sub": "Paul Louis Courier"
+  },
+  {
+    "query": "the native language of Jalil Lespert is ",
+    "answer": "French",
+    "sub": "Jalil Lespert"
+  },
+  {
+    "query": "the native language of Alfred Capus is ",
+    "answer": "French",
+    "sub": "Alfred Capus"
+  },
+  {
+    "query": "the native language of Daniel Darc is ",
+    "answer": "French",
+    "sub": "Daniel Darc"
+  },
+  {
+    "query": "the native language of Jules Favre is ",
+    "answer": "French",
+    "sub": "Jules Favre"
+  },
+  {
+    "query": "the native language of Anton Nilson is ",
+    "answer": "Swedish",
+    "sub": "Anton Nilson"
+  },
+  {
+    "query": "the native language of Nicolas Giraud is ",
+    "answer": "French",
+    "sub": "Nicolas Giraud"
+  },
+  {
+    "query": "the native language of Marcel Pagnol is ",
+    "answer": "French",
+    "sub": "Marcel Pagnol"
+  },
+  {
+    "query": "the native language of Zachris Topelius is ",
+    "answer": "Swedish",
+    "sub": "Zachris Topelius"
+  },
+  {
+    "query": "the native language of Aluri Chakrapani is ",
+    "answer": "Telugu",
+    "sub": "Aluri Chakrapani"
+  },
+  {
+    "query": "the native language of Panagiotis Lafazanis is ",
+    "answer": "Greek",
+    "sub": "Panagiotis Lafazanis"
+  },
+  {
+    "query": "the native language of Amira Casar is ",
+    "answer": "French",
+    "sub": "Amira Casar"
+  },
+  {
+    "query": "the native language of Shakira is ",
+    "answer": "Spanish",
+    "sub": "Shakira"
+  },
+  {
+    "query": "the native language of Joseph Brodsky is ",
+    "answer": "Russian",
+    "sub": "Joseph Brodsky"
+  },
+  {
+    "query": "the native language of Master Venu is ",
+    "answer": "Telugu",
+    "sub": "Master Venu"
+  },
+  {
+    "query": "the native language of Louis Friant is ",
+    "answer": "French",
+    "sub": "Louis Friant"
+  },
+  {
+    "query": "the native language of Henri-Joseph Paixhans is ",
+    "answer": "French",
+    "sub": "Henri-Joseph Paixhans"
+  },
+  {
+    "query": "the native language of Maurice Biraud is ",
+    "answer": "French",
+    "sub": "Maurice Biraud"
+  },
+  {
+    "query": "the native language of Pierre Daniel Huet is ",
+    "answer": "French",
+    "sub": "Pierre Daniel Huet"
+  },
+  {
+    "query": "the native language of Michel d'Ornano is ",
+    "answer": "French",
+    "sub": "Michel d'Ornano"
+  },
+  {
+    "query": "the native language of Jacques Mauclair is ",
+    "answer": "French",
+    "sub": "Jacques Mauclair"
+  },
+  {
+    "query": "the native language of Alberto Giacometti is ",
+    "answer": "Italian",
+    "sub": "Alberto Giacometti"
+  },
+  {
+    "query": "the native language of Jean Marot is ",
+    "answer": "French",
+    "sub": "Jean Marot"
+  },
+  {
+    "query": "the native language of Gollapudi Maruti Rao is ",
+    "answer": "Telugu",
+    "sub": "Gollapudi Maruti Rao"
+  },
+  {
+    "query": "the native language of Christiane Taubira is ",
+    "answer": "French",
+    "sub": "Christiane Taubira"
+  },
+  {
+    "query": "the native language of Vlada Roslyakova is ",
+    "answer": "Russian",
+    "sub": "Vlada Roslyakova"
+  },
+  {
+    "query": "the native language of Marie Curie is ",
+    "answer": "Polish",
+    "sub": "Marie Curie"
+  },
+  {
+    "query": "the native language of Joost Swarte is ",
+    "answer": "Dutch",
+    "sub": "Joost Swarte"
+  },
+  {
+    "query": "the native language of Akkineni Nagarjuna is ",
+    "answer": "Telugu",
+    "sub": "Akkineni Nagarjuna"
+  },
+  {
+    "query": "the native language of Louis Nicolas Vauquelin is ",
+    "answer": "French",
+    "sub": "Louis Nicolas Vauquelin"
+  },
+  {
+    "query": "the native language of Robert Lecourt is ",
+    "answer": "French",
+    "sub": "Robert Lecourt"
+  },
+  {
+    "query": "the native language of Marguerite Yourcenar is ",
+    "answer": "French",
+    "sub": "Marguerite Yourcenar"
+  },
+  {
+    "query": "the native language of Aleksey Khomyakov is ",
+    "answer": "Russian",
+    "sub": "Aleksey Khomyakov"
+  },
+  {
+    "query": "the native language of F. Springer is ",
+    "answer": "Dutch",
+    "sub": "F. Springer"
+  },
+  {
+    "query": "the native language of Chveneburi is ",
+    "answer": "Georgian",
+    "sub": "Chveneburi"
+  },
+  {
+    "query": "the native language of Hans Christian Andersen is ",
+    "answer": "Danish",
+    "sub": "Hans Christian Andersen"
+  },
+  {
+    "query": "the native language of Aleksandr Kaleri is ",
+    "answer": "Russian",
+    "sub": "Aleksandr Kaleri"
+  },
+  {
+    "query": "the native language of Jean Lefebvre is ",
+    "answer": "French",
+    "sub": "Jean Lefebvre"
+  },
+  {
+    "query": "the native language of Jacques Cazotte is ",
+    "answer": "French",
+    "sub": "Jacques Cazotte"
+  },
+  {
+    "query": "the native language of Gough Whitlam is ",
+    "answer": "English",
+    "sub": "Gough Whitlam"
+  },
+  {
+    "query": "the native language of Swedes is ",
+    "answer": "Swedish",
+    "sub": "Swedes"
+  },
+  {
+    "query": "the native language of Jonathan Littell is ",
+    "answer": "French",
+    "sub": "Jonathan Littell"
+  },
+  {
+    "query": "the native language of Bertrand Tavernier is ",
+    "answer": "French",
+    "sub": "Bertrand Tavernier"
+  },
+  {
+    "query": "the native language of Dominique Rocheteau is ",
+    "answer": "French",
+    "sub": "Dominique Rocheteau"
+  },
+  {
+    "query": "the native language of Jean Schopfer is ",
+    "answer": "French",
+    "sub": "Jean Schopfer"
+  },
+  {
+    "query": "the native language of Jacques Roubaud is ",
+    "answer": "French",
+    "sub": "Jacques Roubaud"
+  },
+  {
+    "query": "the native language of Cherusseri Namboothiri is ",
+    "answer": "Malayalam",
+    "sub": "Cherusseri Namboothiri"
+  },
+  {
+    "query": "the native language of Antoine Augustin Calmet is ",
+    "answer": "French",
+    "sub": "Antoine Augustin Calmet"
+  },
+  {
+    "query": "the native language of Maurice Clavel is ",
+    "answer": "French",
+    "sub": "Maurice Clavel"
+  },
+  {
+    "query": "the native language of Alexandros Rizos Rangavis is ",
+    "answer": "Greek",
+    "sub": "Alexandros Rizos Rangavis"
+  },
+  {
+    "query": "the native language of Christian Clavier is ",
+    "answer": "French",
+    "sub": "Christian Clavier"
+  },
+  {
+    "query": "the native language of Michel Modo is ",
+    "answer": "French",
+    "sub": "Michel Modo"
+  },
+  {
+    "query": "the native language of Jacques Werup is ",
+    "answer": "Swedish",
+    "sub": "Jacques Werup"
+  },
+  {
+    "query": "the native language of Jean-Christophe Rufin is ",
+    "answer": "French",
+    "sub": "Jean-Christophe Rufin"
+  },
+  {
+    "query": "the native language of Vasil Kiryienka is ",
+    "answer": "Belarusian",
+    "sub": "Vasil Kiryienka"
+  },
+  {
+    "query": "the native language of Jean Desailly is ",
+    "answer": "French",
+    "sub": "Jean Desailly"
+  },
+  {
+    "query": "the native language of Valentin Rasputin is ",
+    "answer": "Russian",
+    "sub": "Valentin Rasputin"
+  },
+  {
+    "query": "the native language of Auguste Villiers de l'Isle-Adam is ",
+    "answer": "French",
+    "sub": "Auguste Villiers de l'Isle-Adam"
+  },
+  {
+    "query": "the native language of Jules de Goncourt is ",
+    "answer": "French",
+    "sub": "Jules de Goncourt"
+  },
+  {
+    "query": "the native language of Mathieu de Montmorency is ",
+    "answer": "French",
+    "sub": "Mathieu de Montmorency"
+  },
+  {
+    "query": "the native language of Andreas Karkavitsas is ",
+    "answer": "Greek",
+    "sub": "Andreas Karkavitsas"
+  },
+  {
+    "query": "the native language of Louis Barthou is ",
+    "answer": "French",
+    "sub": "Louis Barthou"
+  },
+  {
+    "query": "the native language of Andrew Jackson is ",
+    "answer": "English",
+    "sub": "Andrew Jackson"
+  },
+  {
+    "query": "the native language of Antoine Isaac Silvestre de Sacy is ",
+    "answer": "French",
+    "sub": "Antoine Isaac Silvestre de Sacy"
+  },
+  {
+    "query": "the native language of Sophie Calle is ",
+    "answer": "French",
+    "sub": "Sophie Calle"
+  },
+  {
+    "query": "the native language of Pierre Guyotat is ",
+    "answer": "French",
+    "sub": "Pierre Guyotat"
+  },
+  {
+    "query": "the native language of Georges Pompidou is ",
+    "answer": "French",
+    "sub": "Georges Pompidou"
+  },
+  {
+    "query": "the native language of Jean-Baptiste Say is ",
+    "answer": "French",
+    "sub": "Jean-Baptiste Say"
+  },
+  {
+    "query": "the native language of Ivan Kireyevsky is ",
+    "answer": "Russian",
+    "sub": "Ivan Kireyevsky"
+  },
+  {
+    "query": "the native language of Gad Elmaleh is ",
+    "answer": "French",
+    "sub": "Gad Elmaleh"
+  },
+  {
+    "query": "the native language of Thomas Joannes Stieltjes is ",
+    "answer": "Dutch",
+    "sub": "Thomas Joannes Stieltjes"
+  },
+  {
+    "query": "the native language of Joseph Conombo is ",
+    "answer": "French",
+    "sub": "Joseph Conombo"
+  },
+  {
+    "query": "the native language of Isaac Vossius is ",
+    "answer": "Dutch",
+    "sub": "Isaac Vossius"
+  },
+  {
+    "query": "the native language of Anna Prucnal is ",
+    "answer": "French",
+    "sub": "Anna Prucnal"
+  },
+  {
+    "query": "the native language of Sergey Aksyonov is ",
+    "answer": "Russian",
+    "sub": "Sergey Aksyonov"
+  },
+  {
+    "query": "the native language of Aagje Deken is ",
+    "answer": "Dutch",
+    "sub": "Aagje Deken"
+  },
+  {
+    "query": "the native language of Jean-Bernard Raimond is ",
+    "answer": "French",
+    "sub": "Jean-Bernard Raimond"
+  },
+  {
+    "query": "the native language of Christian Millau is ",
+    "answer": "French",
+    "sub": "Christian Millau"
+  },
+  {
+    "query": "the native language of Louis Aragon is ",
+    "answer": "French",
+    "sub": "Louis Aragon"
+  },
+  {
+    "query": "the native language of Mathieu Amalric is ",
+    "answer": "French",
+    "sub": "Mathieu Amalric"
+  },
+  {
+    "query": "the native language of Ruslan Khasbulatov is ",
+    "answer": "Russian",
+    "sub": "Ruslan Khasbulatov"
+  },
+  {
+    "query": "the native language of Porfiry Ivanov is ",
+    "answer": "Russian",
+    "sub": "Porfiry Ivanov"
+  },
+  {
+    "query": "the native language of Raimu is ",
+    "answer": "French",
+    "sub": "Raimu"
+  },
+  {
+    "query": "the native language of Franz Roubaud is ",
+    "answer": "Russian",
+    "sub": "Franz Roubaud"
+  },
+  {
+    "query": "the native language of Joseph Joubert is ",
+    "answer": "French",
+    "sub": "Joseph Joubert"
+  },
+  {
+    "query": "the native language of Paul Collin is ",
+    "answer": "French",
+    "sub": "Paul Collin"
+  },
+  {
+    "query": "the native language of Jean Sorel is ",
+    "answer": "French",
+    "sub": "Jean Sorel"
+  },
+  {
+    "query": "the native language of Didier Daeninckx is ",
+    "answer": "French",
+    "sub": "Didier Daeninckx"
+  },
+  {
+    "query": "the native language of Alexander Osmerkin is ",
+    "answer": "Russian",
+    "sub": "Alexander Osmerkin"
+  },
+  {
+    "query": "the native language of Francis Blanche is ",
+    "answer": "French",
+    "sub": "Francis Blanche"
+  },
+  {
+    "query": "the native language of Nadezhda Krupskaya is ",
+    "answer": "Russian",
+    "sub": "Nadezhda Krupskaya"
+  },
+  {
+    "query": "the native language of Jean Davy is ",
+    "answer": "French",
+    "sub": "Jean Davy"
+  },
+  {
+    "query": "the native language of Charles Marie René Leconte de Lisle is ",
+    "answer": "French",
+    "sub": "Charles Marie René Leconte de Lisle"
+  },
+  {
+    "query": "the native language of Ariane Labed is ",
+    "answer": "French",
+    "sub": "Ariane Labed"
+  },
+  {
+    "query": "the native language of Marc Alyn is ",
+    "answer": "French",
+    "sub": "Marc Alyn"
+  },
+  {
+    "query": "the native language of Michel Sardou is ",
+    "answer": "French",
+    "sub": "Michel Sardou"
+  },
+  {
+    "query": "the native language of Paul Citroen is ",
+    "answer": "Dutch",
+    "sub": "Paul Citroen"
+  },
+  {
+    "query": "the native language of Jean Raspail is ",
+    "answer": "French",
+    "sub": "Jean Raspail"
+  },
+  {
+    "query": "the native language of Skolts is ",
+    "answer": "Finnish",
+    "sub": "Skolts"
+  },
+  {
+    "query": "the native language of Louis-Pierre Baltard is ",
+    "answer": "French",
+    "sub": "Louis-Pierre Baltard"
+  },
+  {
+    "query": "the native language of Claude Simon is ",
+    "answer": "French",
+    "sub": "Claude Simon"
+  },
+  {
+    "query": "the native language of Slava Zaitsev is ",
+    "answer": "Russian",
+    "sub": "Slava Zaitsev"
+  },
+  {
+    "query": "the native language of Felix Dzerzhinsky is ",
+    "answer": "Russian",
+    "sub": "Felix Dzerzhinsky"
+  },
+  {
+    "query": "the native language of Julien Boisselier is ",
+    "answer": "French",
+    "sub": "Julien Boisselier"
+  },
+  {
+    "query": "the native language of Yvonne de Bray is ",
+    "answer": "French",
+    "sub": "Yvonne de Bray"
+  },
+  {
+    "query": "the native language of Chrisye is ",
+    "answer": "Indonesian",
+    "sub": "Chrisye"
+  },
+  {
+    "query": "the native language of Guy Patin is ",
+    "answer": "French",
+    "sub": "Guy Patin"
+  },
+  {
+    "query": "the native language of Jacques Dumesnil is ",
+    "answer": "French",
+    "sub": "Jacques Dumesnil"
+  },
+  {
+    "query": "the native language of Sarath Babu is ",
+    "answer": "Telugu",
+    "sub": "Sarath Babu"
+  },
+  {
+    "query": "the native language of Jean Allemane is ",
+    "answer": "French",
+    "sub": "Jean Allemane"
+  },
+  {
+    "query": "the native language of Hendrik Nicolaas Werkman is ",
+    "answer": "Dutch",
+    "sub": "Hendrik Nicolaas Werkman"
+  },
+  {
+    "query": "the native language of Paul Doumer is ",
+    "answer": "French",
+    "sub": "Paul Doumer"
+  },
+  {
+    "query": "the native language of Beatrix of the Netherlands is ",
+    "answer": "Dutch",
+    "sub": "Beatrix of the Netherlands"
+  },
+  {
+    "query": "the native language of William Howitt is ",
+    "answer": "English",
+    "sub": "William Howitt"
+  },
+  {
+    "query": "the native language of Paule Andral is ",
+    "answer": "French",
+    "sub": "Paule Andral"
+  },
+  {
+    "query": "the native language of Jean Baptiste Antoine Auget de Montyon is ",
+    "answer": "French",
+    "sub": "Jean Baptiste Antoine Auget de Montyon"
+  },
+  {
+    "query": "the native language of Nikolay Dobrolyubov is ",
+    "answer": "Russian",
+    "sub": "Nikolay Dobrolyubov"
+  },
+  {
+    "query": "the native language of Pierre Assouline is ",
+    "answer": "French",
+    "sub": "Pierre Assouline"
+  },
+  {
+    "query": "the native language of Mohanlal is ",
+    "answer": "Malayalam",
+    "sub": "Mohanlal"
+  },
+  {
+    "query": "the native language of Georges Hugnet is ",
+    "answer": "French",
+    "sub": "Georges Hugnet"
+  },
+  {
+    "query": "the native language of Paul Coste-Floret is ",
+    "answer": "French",
+    "sub": "Paul Coste-Floret"
+  },
+  {
+    "query": "the native language of Lisa Ekdahl is ",
+    "answer": "Swedish",
+    "sub": "Lisa Ekdahl"
+  },
+  {
+    "query": "the native language of Jandhyala Subramanya Sastry is ",
+    "answer": "Telugu",
+    "sub": "Jandhyala Subramanya Sastry"
+  },
+  {
+    "query": "the native language of Anthony Delon is ",
+    "answer": "French",
+    "sub": "Anthony Delon"
+  },
+  {
+    "query": "the native language of Michel Brault is ",
+    "answer": "French",
+    "sub": "Michel Brault"
+  },
+  {
+    "query": "the native language of Gunasekhar is ",
+    "answer": "Telugu",
+    "sub": "Gunasekhar"
+  },
+  {
+    "query": "the native language of Caroline Ducey is ",
+    "answer": "French",
+    "sub": "Caroline Ducey"
+  },
+  {
+    "query": "the native language of Aletta Jacobs is ",
+    "answer": "Dutch",
+    "sub": "Aletta Jacobs"
+  },
+  {
+    "query": "the native language of Vladimir Mayakovsky is ",
+    "answer": "Russian",
+    "sub": "Vladimir Mayakovsky"
+  },
+  {
+    "query": "the native language of Arnould Galopin is ",
+    "answer": "French",
+    "sub": "Arnould Galopin"
+  },
+  {
+    "query": "the native language of Bernard Tapie is ",
+    "answer": "French",
+    "sub": "Bernard Tapie"
+  },
+  {
+    "query": "the native language of Charles Hernu is ",
+    "answer": "French",
+    "sub": "Charles Hernu"
+  },
+  {
+    "query": "the native language of Kamala Surayya is ",
+    "answer": "Malayalam",
+    "sub": "Kamala Surayya"
+  },
+  {
+    "query": "the native language of Anastasia Myskina is ",
+    "answer": "Russian",
+    "sub": "Anastasia Myskina"
+  },
+  {
+    "query": "the native language of Pierre Braunberger is ",
+    "answer": "French",
+    "sub": "Pierre Braunberger"
+  },
+  {
+    "query": "the native language of Vaikom Muhammad Basheer is ",
+    "answer": "Malayalam",
+    "sub": "Vaikom Muhammad Basheer"
+  },
+  {
+    "query": "the native language of Claude-Joseph Dorat is ",
+    "answer": "French",
+    "sub": "Claude-Joseph Dorat"
+  },
+  {
+    "query": "the native language of Michel Ordener is ",
+    "answer": "French",
+    "sub": "Michel Ordener"
+  },
+  {
+    "query": "the native language of Sridevi is ",
+    "answer": "Tamil",
+    "sub": "Sridevi"
+  },
+  {
+    "query": "the native language of Dominique Joseph Garat is ",
+    "answer": "French",
+    "sub": "Dominique Joseph Garat"
+  },
+  {
+    "query": "the native language of Luc Besson is ",
+    "answer": "French",
+    "sub": "Luc Besson"
+  },
+  {
+    "query": "the native language of Anne-Marie Idrac is ",
+    "answer": "French",
+    "sub": "Anne-Marie Idrac"
+  },
+  {
+    "query": "the native language of Mario Vargas Llosa is ",
+    "answer": "Spanish",
+    "sub": "Mario Vargas Llosa"
+  },
+  {
+    "query": "the native language of Jean-Claude Brisseau is ",
+    "answer": "French",
+    "sub": "Jean-Claude Brisseau"
+  },
+  {
+    "query": "the native language of Paul Guth is ",
+    "answer": "French",
+    "sub": "Paul Guth"
+  },
+  {
+    "query": "the native language of Paul Crauchet is ",
+    "answer": "French",
+    "sub": "Paul Crauchet"
+  },
+  {
+    "query": "the native language of Henri Decoin is ",
+    "answer": "French",
+    "sub": "Henri Decoin"
+  },
+  {
+    "query": "the native language of Balthasar Bekker is ",
+    "answer": "Dutch",
+    "sub": "Balthasar Bekker"
+  },
+  {
+    "query": "the native language of Roland Topor is ",
+    "answer": "French",
+    "sub": "Roland Topor"
+  },
+  {
+    "query": "the native language of Bernard Blancan is ",
+    "answer": "French",
+    "sub": "Bernard Blancan"
+  },
+  {
+    "query": "the native language of Toine Manders is ",
+    "answer": "Dutch",
+    "sub": "Toine Manders"
+  },
+  {
+    "query": "the native language of Maria Tesselschade Visscher is ",
+    "answer": "Dutch",
+    "sub": "Maria Tesselschade Visscher"
+  },
+  {
+    "query": "the native language of Nedurumalli Janardhana Reddy is ",
+    "answer": "Telugu",
+    "sub": "Nedurumalli Janardhana Reddy"
+  },
+  {
+    "query": "the native language of Thieleman J. van Braght is ",
+    "answer": "Dutch",
+    "sub": "Thieleman J. van Braght"
+  },
+  {
+    "query": "the native language of Francis de Croisset is ",
+    "answer": "French",
+    "sub": "Francis de Croisset"
+  },
+  {
+    "query": "the native language of Georges Chamarat is ",
+    "answer": "French",
+    "sub": "Georges Chamarat"
+  },
+  {
+    "query": "the native language of Adel Bencherif is ",
+    "answer": "French",
+    "sub": "Adel Bencherif"
+  },
+  {
+    "query": "the native language of Marie Anne de Vichy-Chamrond, marquise du Deffand is ",
+    "answer": "French",
+    "sub": "Marie Anne de Vichy-Chamrond, marquise du Deffand"
+  },
+  {
+    "query": "the native language of Gil J Wolman is ",
+    "answer": "French",
+    "sub": "Gil J Wolman"
+  },
+  {
+    "query": "the native language of Jacques Legras is ",
+    "answer": "French",
+    "sub": "Jacques Legras"
+  },
+  {
+    "query": "the native language of Jean-Sifrein Maury is ",
+    "answer": "French",
+    "sub": "Jean-Sifrein Maury"
+  },
+  {
+    "query": "the native language of Georges Sadoul is ",
+    "answer": "French",
+    "sub": "Georges Sadoul"
+  },
+  {
+    "query": "the native language of Eduardo Duhalde is ",
+    "answer": "Spanish",
+    "sub": "Eduardo Duhalde"
+  },
+  {
+    "query": "the native language of Joseph Roumanille is ",
+    "answer": "French",
+    "sub": "Joseph Roumanille"
+  },
+  {
+    "query": "the native language of Louis Bonaparte is ",
+    "answer": "French",
+    "sub": "Louis Bonaparte"
+  },
+  {
+    "query": "the native language of Chris Marker is ",
+    "answer": "French",
+    "sub": "Chris Marker"
+  },
+  {
+    "query": "the native language of Yvan Goll is ",
+    "answer": "French",
+    "sub": "Yvan Goll"
+  },
+  {
+    "query": "the native language of Georgy Shpagin is ",
+    "answer": "Russian",
+    "sub": "Georgy Shpagin"
+  },
+  {
+    "query": "the native language of Antoine Bourdelle is ",
+    "answer": "French",
+    "sub": "Antoine Bourdelle"
+  },
+  {
+    "query": "the native language of Jean Petitot is ",
+    "answer": "French",
+    "sub": "Jean Petitot"
+  },
+  {
+    "query": "the native language of Maurice Herzog is ",
+    "answer": "French",
+    "sub": "Maurice Herzog"
+  },
+  {
+    "query": "the native language of ",
+    "answer": "Russian",
+    "sub": "Russians in Ukraine"
+  },
+  {
+    "query": "the native language of Victorien Sardou is ",
+    "answer": "French",
+    "sub": "Victorien Sardou"
+  },
+  {
+    "query": "the native language of Louane is ",
+    "answer": "French",
+    "sub": "Louane"
+  },
+  {
+    "query": "the native language of Chen Xiaoxu is ",
+    "answer": "Chinese",
+    "sub": "Chen Xiaoxu"
+  },
+  {
+    "query": "the native language of Eduard Uspensky is ",
+    "answer": "Russian",
+    "sub": "Eduard Uspensky"
+  },
+  {
+    "query": "the native language of John Quincy Adams is ",
+    "answer": "English",
+    "sub": "John Quincy Adams"
+  },
+  {
+    "query": "the native language of Theo van Doesburg is ",
+    "answer": "Dutch",
+    "sub": "Theo van Doesburg"
+  },
+  {
+    "query": "the native language of Hannah Szenes is ",
+    "answer": "Hungarian",
+    "sub": "Hannah Szenes"
+  },
+  {
+    "query": "the native language of Roger Karoutchi is ",
+    "answer": "French",
+    "sub": "Roger Karoutchi"
+  },
+  {
+    "query": "the native language of Lili Damita is ",
+    "answer": "French",
+    "sub": "Lili Damita"
+  },
+  {
+    "query": "the native language of Marc Dolez is ",
+    "answer": "French",
+    "sub": "Marc Dolez"
+  },
+  {
+    "query": "the native language of Michel Vinaver is ",
+    "answer": "French",
+    "sub": "Michel Vinaver"
+  },
+  {
+    "query": "the native language of Ernest Picard is ",
+    "answer": "French",
+    "sub": "Ernest Picard"
+  },
+  {
+    "query": "the native language of Mikhail Evstafiev is ",
+    "answer": "Russian",
+    "sub": "Mikhail Evstafiev"
+  },
+  {
+    "query": "the native language of Bernard Cerquiglini is ",
+    "answer": "French",
+    "sub": "Bernard Cerquiglini"
+  },
+  {
+    "query": "the native language of Bertrand Russell is ",
+    "answer": "English",
+    "sub": "Bertrand Russell"
+  },
+  {
+    "query": "the native language of Bhimrao Ramji Ambedkar is ",
+    "answer": "Marathi",
+    "sub": "Bhimrao Ramji Ambedkar"
+  },
+  {
+    "query": "the native language of Alfred Savoir is ",
+    "answer": "French",
+    "sub": "Alfred Savoir"
+  },
+  {
+    "query": "the native language of Jean Follain is ",
+    "answer": "French",
+    "sub": "Jean Follain"
+  },
+  {
+    "query": "the native language of Louis-Paul Aujoulat is ",
+    "answer": "French",
+    "sub": "Louis-Paul Aujoulat"
+  },
+  {
+    "query": "the native language of Jacques Doriot is ",
+    "answer": "French",
+    "sub": "Jacques Doriot"
+  },
+  {
+    "query": "the native language of Adrienne Monnier is ",
+    "answer": "French",
+    "sub": "Adrienne Monnier"
+  },
+  {
+    "query": "the native language of Victor Prosper Considerant is ",
+    "answer": "French",
+    "sub": "Victor Prosper Considerant"
+  },
+  {
+    "query": "the native language of Herman Dooyeweerd is ",
+    "answer": "Dutch",
+    "sub": "Herman Dooyeweerd"
+  },
+  {
+    "query": "the native language of Akira Kurosawa is ",
+    "answer": "Japanese",
+    "sub": "Akira Kurosawa"
+  },
+  {
+    "query": "the native language of Suman Pokhrel is ",
+    "answer": "Nepali",
+    "sub": "Suman Pokhrel"
+  },
+  {
+    "query": "the native language of Sully Prudhomme is ",
+    "answer": "French",
+    "sub": "Sully Prudhomme"
+  },
+  {
+    "query": "the native language of Allan Kardec is ",
+    "answer": "French",
+    "sub": "Allan Kardec"
+  },
+  {
+    "query": "the native language of Michel Aumont is ",
+    "answer": "French",
+    "sub": "Michel Aumont"
+  },
+  {
+    "query": "the native language of Frantz Fanon is ",
+    "answer": "French",
+    "sub": "Frantz Fanon"
+  },
+  {
+    "query": "the native language of Irina Khakamada is ",
+    "answer": "Russian",
+    "sub": "Irina Khakamada"
+  },
+  {
+    "query": "the native language of Jean-Baptiste Maunier is ",
+    "answer": "French",
+    "sub": "Jean-Baptiste Maunier"
+  },
+  {
+    "query": "the native language of Dmitry Pisarev is ",
+    "answer": "Russian",
+    "sub": "Dmitry Pisarev"
+  },
+  {
+    "query": "the native language of Eva Ionesco is ",
+    "answer": "French",
+    "sub": "Eva Ionesco"
+  },
+  {
+    "query": "the native language of Jules Berry is ",
+    "answer": "French",
+    "sub": "Jules Berry"
+  },
+  {
+    "query": "the native language of Georges Altman is ",
+    "answer": "French",
+    "sub": "Georges Altman"
+  },
+  {
+    "query": "the native language of Don Cossacks is ",
+    "answer": "Russian",
+    "sub": "Don Cossacks"
+  },
+  {
+    "query": "the native language of Wim Crouwel is ",
+    "answer": "Dutch",
+    "sub": "Wim Crouwel"
+  },
+  {
+    "query": "the native language of Coluche is ",
+    "answer": "French",
+    "sub": "Coluche"
+  },
+  {
+    "query": "the native language of Virginia Woolf is ",
+    "answer": "English",
+    "sub": "Virginia Woolf"
+  },
+  {
+    "query": "the native language of Daniel Pennacchioni is ",
+    "answer": "French",
+    "sub": "Daniel Pennacchioni"
+  },
+  {
+    "query": "the native language of Catherine Deneuve is ",
+    "answer": "French",
+    "sub": "Catherine Deneuve"
+  },
+  {
+    "query": "the native language of John Stuart Mill is ",
+    "answer": "English",
+    "sub": "John Stuart Mill"
+  },
+  {
+    "query": "the native language of Emil Cioran is ",
+    "answer": "Romanian",
+    "sub": "Emil Cioran"
+  },
+  {
+    "query": "the native language of Dominique Perben is ",
+    "answer": "French",
+    "sub": "Dominique Perben"
+  },
+  {
+    "query": "the native language of Freek de Jonge is ",
+    "answer": "Dutch",
+    "sub": "Freek de Jonge"
+  },
+  {
+    "query": "the native language of Vladimir Bukovsky is ",
+    "answer": "Russian",
+    "sub": "Vladimir Bukovsky"
+  },
+  {
+    "query": "the native language of Nathalie Kosciusko-Morizet is ",
+    "answer": "French",
+    "sub": "Nathalie Kosciusko-Morizet"
+  },
+  {
+    "query": "the native language of Georges Marchal is ",
+    "answer": "French",
+    "sub": "Georges Marchal"
+  },
+  {
+    "query": "the native language of Laurent Fabius is ",
+    "answer": "French",
+    "sub": "Laurent Fabius"
+  },
+  {
+    "query": "the native language of Pablo Picasso is ",
+    "answer": "Spanish",
+    "sub": "Pablo Picasso"
+  },
+  {
+    "query": "the native language of Robert Merle is ",
+    "answer": "French",
+    "sub": "Robert Merle"
+  },
+  {
+    "query": "the native language of Klaas Schilder is ",
+    "answer": "Dutch",
+    "sub": "Klaas Schilder"
+  },
+  {
+    "query": "the native language of Shi Yongxin is ",
+    "answer": "Chinese",
+    "sub": "Shi Yongxin"
+  },
+  {
+    "query": "the native language of Grigoris Lambrakis is ",
+    "answer": "Greek",
+    "sub": "Grigoris Lambrakis"
+  },
+  {
+    "query": "the native language of Suzy Vernon is ",
+    "answer": "French",
+    "sub": "Suzy Vernon"
+  },
+  {
+    "query": "the native language of Moses Amyraut is ",
+    "answer": "French",
+    "sub": "Moses Amyraut"
+  },
+  {
+    "query": "the native language of Jean Yanne is ",
+    "answer": "French",
+    "sub": "Jean Yanne"
+  },
+  {
+    "query": "the native language of Joseph-Marie, comte Portalis is ",
+    "answer": "French",
+    "sub": "Joseph-Marie, comte Portalis"
+  },
+  {
+    "query": "the native language of Valentin Conrart is ",
+    "answer": "French",
+    "sub": "Valentin Conrart"
+  },
+  {
+    "query": "the native language of Christiaan Snouck Hurgronje is ",
+    "answer": "Dutch",
+    "sub": "Christiaan Snouck Hurgronje"
+  },
+  {
+    "query": "the native language of Georges Ernest Boulanger is ",
+    "answer": "French",
+    "sub": "Georges Ernest Boulanger"
+  },
+  {
+    "query": "the native language of Alice Isaaz is ",
+    "answer": "French",
+    "sub": "Alice Isaaz"
+  },
+  {
+    "query": "the native language of Darry Cowl is ",
+    "answer": "French",
+    "sub": "Darry Cowl"
+  },
+  {
+    "query": "the native language of Bernard Musson is ",
+    "answer": "French",
+    "sub": "Bernard Musson"
+  },
+  {
+    "query": "the native language of Marcel Dassault is ",
+    "answer": "French",
+    "sub": "Marcel Dassault"
+  },
+  {
+    "query": "the native language of Alphonse Daudet is ",
+    "answer": "French",
+    "sub": "Alphonse Daudet"
+  },
+  {
+    "query": "the native language of Jean-Pierre Thiollet is ",
+    "answer": "French",
+    "sub": "Jean-Pierre Thiollet"
+  },
+  {
+    "query": "the native language of John Ruskin is ",
+    "answer": "English",
+    "sub": "John Ruskin"
+  },
+  {
+    "query": "the native language of Edurne is ",
+    "answer": "Spanish",
+    "sub": "Edurne"
+  },
+  {
+    "query": "the native language of Alexandre Dumas fils is ",
+    "answer": "French",
+    "sub": "Alexandre Dumas fils"
+  },
+  {
+    "query": "the native language of Hendrick de Keyser is ",
+    "answer": "Dutch",
+    "sub": "Hendrick de Keyser"
+  },
+  {
+    "query": "the native language of Vincent de Moro-Giafferi is ",
+    "answer": "French",
+    "sub": "Vincent de Moro-Giafferi"
+  },
+  {
+    "query": "the native language of Pedro de la Rosa is ",
+    "answer": "Spanish",
+    "sub": "Pedro de la Rosa"
+  },
+  {
+    "query": "the native language of Andries Cornelis Dirk de Graeff is ",
+    "answer": "Dutch",
+    "sub": "Andries Cornelis Dirk de Graeff"
+  },
+  {
+    "query": "the native language of Grigore Moisil is ",
+    "answer": "Romanian",
+    "sub": "Grigore Moisil"
+  },
+  {
+    "query": "the native language of Brian May is ",
+    "answer": "English",
+    "sub": "Brian May"
+  },
+  {
+    "query": "the native language of Georges Gorse is ",
+    "answer": "French",
+    "sub": "Georges Gorse"
+  },
+  {
+    "query": "the native language of Charles Maurras is ",
+    "answer": "French",
+    "sub": "Charles Maurras"
+  },
+  {
+    "query": "the native language of Georges-Louis Leclerc, Comte de Buffon is ",
+    "answer": "French",
+    "sub": "Georges-Louis Leclerc, Comte de Buffon"
+  },
+  {
+    "query": "the native language of Stieg Larsson is ",
+    "answer": "Swedish",
+    "sub": "Stieg Larsson"
+  },
+  {
+    "query": "the native language of Jean-Claude Izzo is ",
+    "answer": "French",
+    "sub": "Jean-Claude Izzo"
+  },
+  {
+    "query": "the native language of Herman Gorter is ",
+    "answer": "Dutch",
+    "sub": "Herman Gorter"
+  },
+  {
+    "query": "the native language of Casimir Delavigne is ",
+    "answer": "French",
+    "sub": "Casimir Delavigne"
+  },
+  {
+    "query": "the native language of Rafael Alberti Merollo is ",
+    "answer": "Spanish",
+    "sub": "Rafael Alberti Merollo"
+  },
+  {
+    "query": "the native language of Alain Cuny is ",
+    "answer": "French",
+    "sub": "Alain Cuny"
+  },
+  {
+    "query": "the native language of Paul Le Person is ",
+    "answer": "French",
+    "sub": "Paul Le Person"
+  },
+  {
+    "query": "the native language of Pascal Quignard is ",
+    "answer": "French",
+    "sub": "Pascal Quignard"
+  },
+  {
+    "query": "the native language of Brigitte Fontaine is ",
+    "answer": "French",
+    "sub": "Brigitte Fontaine"
+  },
+  {
+    "query": "the native language of Bhuvanachandra is ",
+    "answer": "Telugu",
+    "sub": "Bhuvanachandra"
+  },
+  {
+    "query": "the native language of Yves Bonnefoy is ",
+    "answer": "French",
+    "sub": "Yves Bonnefoy"
+  },
+  {
+    "query": "the native language of Hafsia Herzi is ",
+    "answer": "French",
+    "sub": "Hafsia Herzi"
+  },
+  {
+    "query": "the native language of Wang Shu is ",
+    "answer": "Chinese",
+    "sub": "Wang Shu"
+  },
+  {
+    "query": "the native language of Jacques Sadoul is ",
+    "answer": "French",
+    "sub": "Jacques Sadoul"
+  },
+  {
+    "query": "the native language of Ilya Nikolaevich Ulyanov is ",
+    "answer": "Russian",
+    "sub": "Ilya Nikolaevich Ulyanov"
+  },
+  {
+    "query": "the native language of Nikolay Nekrasov is ",
+    "answer": "Russian",
+    "sub": "Nikolay Nekrasov"
+  },
+  {
+    "query": "the native language of Eva Rivas is ",
+    "answer": "Armenian",
+    "sub": "Eva Rivas"
+  },
+  {
+    "query": "the native language of Dominique Cabrera is ",
+    "answer": "French",
+    "sub": "Dominique Cabrera"
+  },
+  {
+    "query": "the native language of Patrick Rambaud is ",
+    "answer": "French",
+    "sub": "Patrick Rambaud"
+  },
+  {
+    "query": "the native language of Raja Ravi Varma is ",
+    "answer": "Malayalam",
+    "sub": "Raja Ravi Varma"
+  },
+  {
+    "query": "the native language of Paul Biegel is ",
+    "answer": "Dutch",
+    "sub": "Paul Biegel"
+  },
+  {
+    "query": "the native language of Jean-Baptiste Alphonse Karr is ",
+    "answer": "French",
+    "sub": "Jean-Baptiste Alphonse Karr"
+  },
+  {
+    "query": "the native language of Laurent Stocker is ",
+    "answer": "French",
+    "sub": "Laurent Stocker"
+  },
+  {
+    "query": "the native language of Sergey Platonov is ",
+    "answer": "Russian",
+    "sub": "Sergey Platonov"
+  },
+  {
+    "query": "the native language of Dominique Zardi is ",
+    "answer": "French",
+    "sub": "Dominique Zardi"
+  },
+  {
+    "query": "the native language of Delphine de Girardin is ",
+    "answer": "French",
+    "sub": "Delphine de Girardin"
+  },
+  {
+    "query": "the native language of Zachary Taylor is ",
+    "answer": "English",
+    "sub": "Zachary Taylor"
+  },
+  {
+    "query": "the native language of Margot Anand is ",
+    "answer": "French",
+    "sub": "Margot Anand"
+  },
+  {
+    "query": "the native language of John Webster is ",
+    "answer": "English",
+    "sub": "John Webster"
+  },
+  {
+    "query": "the native language of Jean-Claude Brialy is ",
+    "answer": "French",
+    "sub": "Jean-Claude Brialy"
+  },
+  {
+    "query": "the native language of Adam Sandler is ",
+    "answer": "English",
+    "sub": "Adam Sandler"
+  },
+  {
+    "query": "the native language of Denis Robert is ",
+    "answer": "French",
+    "sub": "Denis Robert"
+  },
+  {
+    "query": "the native language of Michel Zevaco is ",
+    "answer": "French",
+    "sub": "Michel Zevaco"
+  },
+  {
+    "query": "the native language of Vera Lynn is ",
+    "answer": "English",
+    "sub": "Vera Lynn"
+  },
+  {
+    "query": "the native language of Mimie Mathy is ",
+    "answer": "French",
+    "sub": "Mimie Mathy"
+  },
+  {
+    "query": "the native language of Jean-Baptiste Philibert Willaumez is ",
+    "answer": "French",
+    "sub": "Jean-Baptiste Philibert Willaumez"
+  },
+  {
+    "query": "the native language of Alexey Miller is ",
+    "answer": "Russian",
+    "sub": "Alexey Miller"
+  },
+  {
+    "query": "the native language of Mathieu Demy is ",
+    "answer": "French",
+    "sub": "Mathieu Demy"
+  },
+  {
+    "query": "the native language of Benjamin Constant is ",
+    "answer": "French",
+    "sub": "Benjamin Constant"
+  },
+  {
+    "query": "the native language of Clio Goldsmith is ",
+    "answer": "French",
+    "sub": "Clio Goldsmith"
+  },
+  {
+    "query": "the native language of Learco Guerra is ",
+    "answer": "Italian",
+    "sub": "Learco Guerra"
+  },
+  {
+    "query": "the native language of James A. Garfield is ",
+    "answer": "English",
+    "sub": "James A. Garfield"
+  },
+  {
+    "query": "the native language of Olga Georges-Picot is ",
+    "answer": "French",
+    "sub": "Olga Georges-Picot"
+  },
+  {
+    "query": "the native language of Jacques Dupin is ",
+    "answer": "French",
+    "sub": "Jacques Dupin"
+  },
+  {
+    "query": "the native language of Charles Vanel is ",
+    "answer": "French",
+    "sub": "Charles Vanel"
+  },
+  {
+    "query": "the native language of Jan van Krimpen is ",
+    "answer": "Dutch",
+    "sub": "Jan van Krimpen"
+  },
+  {
+    "query": "the native language of Vasily Kamensky is ",
+    "answer": "Russian",
+    "sub": "Vasily Kamensky"
+  },
+  {
+    "query": "the native language of Jules Barbier is ",
+    "answer": "French",
+    "sub": "Jules Barbier"
+  },
+  {
+    "query": "the native language of Irina Arkhipova is ",
+    "answer": "Russian",
+    "sub": "Irina Arkhipova"
+  },
+  {
+    "query": "the native language of Paul Verhoeven is ",
+    "answer": "Dutch",
+    "sub": "Paul Verhoeven"
+  },
+  {
+    "query": "the native language of Claude Bartolone is ",
+    "answer": "French",
+    "sub": "Claude Bartolone"
+  },
+  {
+    "query": "the native language of Joseph Paul-Boncour is ",
+    "answer": "French",
+    "sub": "Joseph Paul-Boncour"
+  },
+  {
+    "query": "the native language of Jean Anouilh is ",
+    "answer": "French",
+    "sub": "Jean Anouilh"
+  },
+  {
+    "query": "the native language of Armand Lunel is ",
+    "answer": "French",
+    "sub": "Armand Lunel"
+  },
+  {
+    "query": "the native language of Brigitte Bardot is ",
+    "answer": "French",
+    "sub": "Brigitte Bardot"
+  },
+  {
+    "query": "the native language of Posani Krishna Murali is ",
+    "answer": "Telugu",
+    "sub": "Posani Krishna Murali"
+  },
+  {
+    "query": "the native language of Tatiana Sorokko is ",
+    "answer": "Russian",
+    "sub": "Tatiana Sorokko"
+  },
+  {
+    "query": "the native language of Edmond Gondinet is ",
+    "answer": "French",
+    "sub": "Edmond Gondinet"
+  },
+  {
+    "query": "the native language of Michel Ciment is ",
+    "answer": "French",
+    "sub": "Michel Ciment"
+  },
+  {
+    "query": "the native language of Jean-Marie Pardessus is ",
+    "answer": "French",
+    "sub": "Jean-Marie Pardessus"
+  },
+  {
+    "query": "the native language of Jacobus Henricus van 't Hoff is ",
+    "answer": "Dutch",
+    "sub": "Jacobus Henricus van 't Hoff"
+  },
+  {
+    "query": "the native language of Alain Marleix is ",
+    "answer": "French",
+    "sub": "Alain Marleix"
+  },
+  {
+    "query": "the native language of Christian Jacq is ",
+    "answer": "French",
+    "sub": "Christian Jacq"
+  },
+  {
+    "query": "the native language of Leslie Caron is ",
+    "answer": "French",
+    "sub": "Leslie Caron"
+  },
+  {
+    "query": "the native language of Jean-Marie Colombani is ",
+    "answer": "French",
+    "sub": "Jean-Marie Colombani"
+  },
+  {
+    "query": "the native language of Jan Davidsz. de Heem is ",
+    "answer": "Dutch",
+    "sub": "Jan Davidsz. de Heem"
+  },
+  {
+    "query": "the native language of Judith Chemla is ",
+    "answer": "French",
+    "sub": "Judith Chemla"
+  },
+  {
+    "query": "the native language of Pierre Laval is ",
+    "answer": "French",
+    "sub": "Pierre Laval"
+  },
+  {
+    "query": "the native language of Ernest Monis is ",
+    "answer": "French",
+    "sub": "Ernest Monis"
+  },
+  {
+    "query": "the native language of Roger Coggio is ",
+    "answer": "French",
+    "sub": "Roger Coggio"
+  },
+  {
+    "query": "the native language of JoeyStarr is ",
+    "answer": "French",
+    "sub": "JoeyStarr"
+  },
+  {
+    "query": "the native language of Jean-Michel Dupuis is ",
+    "answer": "French",
+    "sub": "Jean-Michel Dupuis"
+  },
+  {
+    "query": "the native language of Corinne Calvet is ",
+    "answer": "French",
+    "sub": "Corinne Calvet"
+  },
+  {
+    "query": "the native language of Giuseppe Saronni is ",
+    "answer": "Italian",
+    "sub": "Giuseppe Saronni"
+  },
+  {
+    "query": "the native language of Lo Hartog van Banda is ",
+    "answer": "Dutch",
+    "sub": "Lo Hartog van Banda"
+  },
+  {
+    "query": "the native language of Armand de Kersaint is ",
+    "answer": "French",
+    "sub": "Armand de Kersaint"
+  },
+  {
+    "query": "the native language of Alain Savary is ",
+    "answer": "French",
+    "sub": "Alain Savary"
+  },
+  {
+    "query": "the native language of Jan Peter Balkenende is ",
+    "answer": "Dutch",
+    "sub": "Jan Peter Balkenende"
+  },
+  {
+    "query": "the native language of Giovanni Boccaccio is ",
+    "answer": "Italian",
+    "sub": "Giovanni Boccaccio"
+  },
+  {
+    "query": "the native language of Sacha Briquet is ",
+    "answer": "French",
+    "sub": "Sacha Briquet"
+  },
+  {
+    "query": "the native language of Junie Astor is ",
+    "answer": "French",
+    "sub": "Junie Astor"
+  },
+  {
+    "query": "the native language of Valentin Glushko is ",
+    "answer": "Russian",
+    "sub": "Valentin Glushko"
+  },
+  {
+    "query": "the native language of Michel Subor is ",
+    "answer": "French",
+    "sub": "Michel Subor"
+  },
+  {
+    "query": "the native language of Nathalie Baye is ",
+    "answer": "French",
+    "sub": "Nathalie Baye"
+  },
+  {
+    "query": "the native language of Jeanna Friske is ",
+    "answer": "Russian",
+    "sub": "Jeanna Friske"
+  },
+  {
+    "query": "the native language of Jean Vautrin is ",
+    "answer": "French",
+    "sub": "Jean Vautrin"
+  },
+  {
+    "query": "the native language of Vladimir Vinogradov is ",
+    "answer": "Russian",
+    "sub": "Vladimir Vinogradov"
+  },
+  {
+    "query": "the native language of Maurice Faure is ",
+    "answer": "French",
+    "sub": "Maurice Faure"
+  },
+  {
+    "query": "the native language of Nicolas Chamfort is ",
+    "answer": "French",
+    "sub": "Nicolas Chamfort"
+  },
+  {
+    "query": "the native language of Pierre Lescure is ",
+    "answer": "French",
+    "sub": "Pierre Lescure"
+  },
+  {
+    "query": "the native language of Anton Reinhard Falck is ",
+    "answer": "Dutch",
+    "sub": "Anton Reinhard Falck"
+  },
+  {
+    "query": "the native language of Sergey Lavrov is ",
+    "answer": "Russian",
+    "sub": "Sergey Lavrov"
+  },
+  {
+    "query": "the native language of Toon Hermans is ",
+    "answer": "Dutch",
+    "sub": "Toon Hermans"
+  },
+  {
+    "query": "the native language of Menno ter Braak is ",
+    "answer": "Dutch",
+    "sub": "Menno ter Braak"
+  },
+  {
+    "query": "the native language of Suzy Prim is ",
+    "answer": "French",
+    "sub": "Suzy Prim"
+  },
+  {
+    "query": "the native language of Marina Hands is ",
+    "answer": "French",
+    "sub": "Marina Hands"
+  },
+  {
+    "query": "the native language of John Abraham Heraud is ",
+    "answer": "English",
+    "sub": "John Abraham Heraud"
+  },
+  {
+    "query": "the native language of Jacobus Revius is ",
+    "answer": "Dutch",
+    "sub": "Jacobus Revius"
+  },
+  {
+    "query": "the native language of Ginette Garcin is ",
+    "answer": "French",
+    "sub": "Ginette Garcin"
+  },
+  {
+    "query": "the native language of Olivier Rabourdin is ",
+    "answer": "French",
+    "sub": "Olivier Rabourdin"
+  },
+  {
+    "query": "the native language of Peter Kropotkin is ",
+    "answer": "Russian",
+    "sub": "Peter Kropotkin"
+  },
+  {
+    "query": "the native language of Nicholas Marr is ",
+    "answer": "Russian",
+    "sub": "Nicholas Marr"
+  },
+  {
+    "query": "the native language of Jean de La Fontaine is ",
+    "answer": "French",
+    "sub": "Jean de La Fontaine"
+  },
+  {
+    "query": "the native language of Pieter Cornelis Boutens is ",
+    "answer": "Dutch",
+    "sub": "Pieter Cornelis Boutens"
+  },
+  {
+    "query": "the native language of Alfonso V of Aragon is ",
+    "answer": "Spanish",
+    "sub": "Alfonso V of Aragon"
+  },
+  {
+    "query": "the native language of Zabou Breitman is ",
+    "answer": "French",
+    "sub": "Zabou Breitman"
+  },
+  {
+    "query": "the native language of Germaine Dieterlen is ",
+    "answer": "French",
+    "sub": "Germaine Dieterlen"
+  },
+  {
+    "query": "the native language of Herbert Edward Read is ",
+    "answer": "English",
+    "sub": "Herbert Edward Read"
+  },
+  {
+    "query": "the native language of Jean-Pierre Pernaut is ",
+    "answer": "French",
+    "sub": "Jean-Pierre Pernaut"
+  },
+  {
+    "query": "the native language of Xavier de Maistre is ",
+    "answer": "French",
+    "sub": "Xavier de Maistre"
+  },
+  {
+    "query": "the native language of Jean-Jacques Pauvert is ",
+    "answer": "French",
+    "sub": "Jean-Jacques Pauvert"
+  },
+  {
+    "query": "the native language of Hendrik Marsman is ",
+    "answer": "Dutch",
+    "sub": "Hendrik Marsman"
+  },
+  {
+    "query": "the native language of Pino Caruso is ",
+    "answer": "Italian",
+    "sub": "Pino Caruso"
+  },
+  {
+    "query": "the native language of Dino Dvornik is ",
+    "answer": "Croatian",
+    "sub": "Dino Dvornik"
+  },
+  {
+    "query": "the native language of Aruna Mucherla is ",
+    "answer": "Telugu",
+    "sub": "Aruna Mucherla"
+  },
+  {
+    "query": "the native language of Jean Galland is ",
+    "answer": "French",
+    "sub": "Jean Galland"
+  },
+  {
+    "query": "the native language of Patrice Leconte is ",
+    "answer": "French",
+    "sub": "Patrice Leconte"
+  },
+  {
+    "query": "the native language of Yvonne Monlaur is ",
+    "answer": "French",
+    "sub": "Yvonne Monlaur"
+  },
+  {
+    "query": "the native language of Gustave Geffroy is ",
+    "answer": "French",
+    "sub": "Gustave Geffroy"
+  },
+  {
+    "query": "the native language of Roger Holeindre is ",
+    "answer": "French",
+    "sub": "Roger Holeindre"
+  },
+  {
+    "query": "the native language of Coenraad Jacob Temminck is ",
+    "answer": "Dutch",
+    "sub": "Coenraad Jacob Temminck"
+  },
+  {
+    "query": "the native language of Min Gyu-dong is ",
+    "answer": "Korean",
+    "sub": "Min Gyu-dong"
+  },
+  {
+    "query": "the native language of Bernard Alane is ",
+    "answer": "French",
+    "sub": "Bernard Alane"
+  },
+  {
+    "query": "the native language of Edwy Plenel is ",
+    "answer": "French",
+    "sub": "Edwy Plenel"
+  },
+  {
+    "query": "the native language of Reinhart Dozy is ",
+    "answer": "Dutch",
+    "sub": "Reinhart Dozy"
+  },
+  {
+    "query": "the native language of L. V. Prasad is ",
+    "answer": "Telugu",
+    "sub": "L. V. Prasad"
+  },
+  {
+    "query": "the native language of Dmitry Puchkov is ",
+    "answer": "Russian",
+    "sub": "Dmitry Puchkov"
+  },
+  {
+    "query": "the native language of Marie-Anne Chazel is ",
+    "answer": "French",
+    "sub": "Marie-Anne Chazel"
+  },
+  {
+    "query": "the native language of Jean Martinelli is ",
+    "answer": "French",
+    "sub": "Jean Martinelli"
+  },
+  {
+    "query": "the native language of Bruno Racine is ",
+    "answer": "French",
+    "sub": "Bruno Racine"
+  },
+  {
+    "query": "the native language of Yuliya Snigir is ",
+    "answer": "Russian",
+    "sub": "Yuliya Snigir"
+  },
+  {
+    "query": "the native language of Paulette Dubost is ",
+    "answer": "French",
+    "sub": "Paulette Dubost"
+  },
+  {
+    "query": "the native language of Dmitry Medvedev is ",
+    "answer": "Russian",
+    "sub": "Dmitry Medvedev"
+  },
+  {
+    "query": "the native language of Michel Boujenah is ",
+    "answer": "French",
+    "sub": "Michel Boujenah"
+  },
+  {
+    "query": "the native language of Jo Coenen is ",
+    "answer": "Dutch",
+    "sub": "Jo Coenen"
+  },
+  {
+    "query": "the native language of Go Hyeon-jeong is ",
+    "answer": "Korean",
+    "sub": "Go Hyeon-jeong"
+  },
+  {
+    "query": "the native language of Lev Kulidzhanov is ",
+    "answer": "Russian",
+    "sub": "Lev Kulidzhanov"
+  },
+  {
+    "query": "the native language of Eustache-Hyacinthe Langlois is ",
+    "answer": "French",
+    "sub": "Eustache-Hyacinthe Langlois"
+  },
+  {
+    "query": "the native language of Andrew Lang is ",
+    "answer": "English",
+    "sub": "Andrew Lang"
+  },
+  {
+    "query": "the native language of Lydia Chukovskaya is ",
+    "answer": "Russian",
+    "sub": "Lydia Chukovskaya"
+  },
+  {
+    "query": "the native language of Camille Flammarion is ",
+    "answer": "French",
+    "sub": "Camille Flammarion"
+  },
+  {
+    "query": "the native language of Gautier de Coincy is ",
+    "answer": "French",
+    "sub": "Gautier de Coincy"
+  },
+  {
+    "query": "the native language of John Banville is ",
+    "answer": "English",
+    "sub": "John Banville"
+  },
+  {
+    "query": "the native language of Robert de Flers is ",
+    "answer": "French",
+    "sub": "Robert de Flers"
+  },
+  {
+    "query": "the native language of Louis Carrogis Carmontelle is ",
+    "answer": "French",
+    "sub": "Louis Carrogis Carmontelle"
+  },
+  {
+    "query": "the native language of Gabriel Hanotaux is ",
+    "answer": "French",
+    "sub": "Gabriel Hanotaux"
+  },
+  {
+    "query": "the native language of Michel Denisot is ",
+    "answer": "French",
+    "sub": "Michel Denisot"
+  },
+  {
+    "query": "the native language of Ivan Puni is ",
+    "answer": "Russian",
+    "sub": "Ivan Puni"
+  },
+  {
+    "query": "the native language of Jean Rouaud is ",
+    "answer": "French",
+    "sub": "Jean Rouaud"
+  },
+  {
+    "query": "the native language of Marie NDiaye is ",
+    "answer": "French",
+    "sub": "Marie NDiaye"
+  },
+  {
+    "query": "the native language of Donald Keene is ",
+    "answer": "English",
+    "sub": "Donald Keene"
+  },
+  {
+    "query": "the native language of Prabhas is ",
+    "answer": "Telugu",
+    "sub": "Prabhas"
+  },
+  {
+    "query": "the native language of Yevgenia Albats is ",
+    "answer": "Russian",
+    "sub": "Yevgenia Albats"
+  },
+  {
+    "query": "the native language of Raymond Depardon is ",
+    "answer": "French",
+    "sub": "Raymond Depardon"
+  },
+  {
+    "query": "the native language of Pierre Brossolette is ",
+    "answer": "French",
+    "sub": "Pierre Brossolette"
+  },
+  {
+    "query": "the native language of Julien Dray is ",
+    "answer": "French",
+    "sub": "Julien Dray"
+  },
+  {
+    "query": "the native language of Jean Lacouture is ",
+    "answer": "French",
+    "sub": "Jean Lacouture"
+  },
+  {
+    "query": "the native language of Hendrik Lorentz is ",
+    "answer": "Dutch",
+    "sub": "Hendrik Lorentz"
+  },
+  {
+    "query": "the native language of Mikhail Khodorkovsky is ",
+    "answer": "Russian",
+    "sub": "Mikhail Khodorkovsky"
+  },
+  {
+    "query": "the native language of Nina Companéez is ",
+    "answer": "French",
+    "sub": "Nina Companéez"
+  },
+  {
+    "query": "the native language of Alexandre Rignault is ",
+    "answer": "French",
+    "sub": "Alexandre Rignault"
+  },
+  {
+    "query": "the native language of Charles-Joseph Panckoucke is ",
+    "answer": "French",
+    "sub": "Charles-Joseph Panckoucke"
+  },
+  {
+    "query": "the native language of Lalithambika Antharjanam is ",
+    "answer": "Malayalam",
+    "sub": "Lalithambika Antharjanam"
+  },
+  {
+    "query": "the native language of Dominique Lapierre is ",
+    "answer": "French",
+    "sub": "Dominique Lapierre"
+  },
+  {
+    "query": "the native language of Paul Morand is ",
+    "answer": "French",
+    "sub": "Paul Morand"
+  },
+  {
+    "query": "the native language of Ovid is ",
+    "answer": "Latin",
+    "sub": "Ovid"
+  },
+  {
+    "query": "the native language of Akkitham Achuthan Namboothiri is ",
+    "answer": "Malayalam",
+    "sub": "Akkitham Achuthan Namboothiri"
+  },
+  {
+    "query": "the native language of Huguette Duflos is ",
+    "answer": "French",
+    "sub": "Huguette Duflos"
+  },
+  {
+    "query": "the native language of Jacques Laffitte is ",
+    "answer": "French",
+    "sub": "Jacques Laffitte"
+  },
+  {
+    "query": "the native language of Christiane Martel is ",
+    "answer": "French",
+    "sub": "Christiane Martel"
+  },
+  {
+    "query": "the native language of Goswin de Stassart is ",
+    "answer": "French",
+    "sub": "Goswin de Stassart"
+  },
+  {
+    "query": "the native language of C. N. Annadurai is ",
+    "answer": "Tamil",
+    "sub": "C. N. Annadurai"
+  },
+  {
+    "query": "the native language of Michel Camdessus is ",
+    "answer": "French",
+    "sub": "Michel Camdessus"
+  },
+  {
+    "query": "the native language of Leonard Knijff is ",
+    "answer": "Dutch",
+    "sub": "Leonard Knijff"
+  },
+  {
+    "query": "the native language of Nadine Morano is ",
+    "answer": "French",
+    "sub": "Nadine Morano"
+  },
+  {
+    "query": "the native language of Martin Lamotte is ",
+    "answer": "French",
+    "sub": "Martin Lamotte"
+  },
+  {
+    "query": "the native language of Julien Courbet is ",
+    "answer": "French",
+    "sub": "Julien Courbet"
+  },
+  {
+    "query": "the native language of Florent Chrestien is ",
+    "answer": "French",
+    "sub": "Florent Chrestien"
+  },
+  {
+    "query": "the native language of Thomas Horsfield is ",
+    "answer": "English",
+    "sub": "Thomas Horsfield"
+  },
+  {
+    "query": "the native language of Adriaan Roland Holst is ",
+    "answer": "Dutch",
+    "sub": "Adriaan Roland Holst"
+  },
+  {
+    "query": "the native language of Jacques Jouanneau is ",
+    "answer": "French",
+    "sub": "Jacques Jouanneau"
+  },
+  {
+    "query": "the native language of Pascal Gentil is ",
+    "answer": "French",
+    "sub": "Pascal Gentil"
+  },
+  {
+    "query": "the native language of Andrei Soldatov is ",
+    "answer": "Russian",
+    "sub": "Andrei Soldatov"
+  },
+  {
+    "query": "the native language of Indrajith Sukumaran is ",
+    "answer": "Malayalam",
+    "sub": "Indrajith Sukumaran"
+  },
+  {
+    "query": "the native language of Adolphe Pinard is ",
+    "answer": "French",
+    "sub": "Adolphe Pinard"
+  },
+  {
+    "query": "the native language of Vladimir Putin is ",
+    "answer": "Russian",
+    "sub": "Vladimir Putin"
+  },
+  {
+    "query": "the native language of Roger Vitrac is ",
+    "answer": "French",
+    "sub": "Roger Vitrac"
+  },
+  {
+    "query": "the native language of Gustave Flaubert is ",
+    "answer": "French",
+    "sub": "Gustave Flaubert"
+  },
+  {
+    "query": "the native language of Alain Soral is ",
+    "answer": "French",
+    "sub": "Alain Soral"
+  },
+  {
+    "query": "the native language of Anatoly Kudryavitsky is ",
+    "answer": "Russian",
+    "sub": "Anatoly Kudryavitsky"
+  },
+  {
+    "query": "the native language of Dany Robin is ",
+    "answer": "French",
+    "sub": "Dany Robin"
+  },
+  {
+    "query": "the native language of Gleb Kotelnikov is ",
+    "answer": "Russian",
+    "sub": "Gleb Kotelnikov"
+  },
+  {
+    "query": "the native language of Georgios Rallis is ",
+    "answer": "Greek",
+    "sub": "Georgios Rallis"
+  },
+  {
+    "query": "the native language of Eduard Khil is ",
+    "answer": "Russian",
+    "sub": "Eduard Khil"
+  },
+  {
+    "query": "the native language of Jean-Paul Belmondo is ",
+    "answer": "French",
+    "sub": "Jean-Paul Belmondo"
+  },
+  {
+    "query": "the native language of Hendrik Wagenvoort is ",
+    "answer": "Dutch",
+    "sub": "Hendrik Wagenvoort"
+  },
+  {
+    "query": "the native language of Norman Rockwell is ",
+    "answer": "English",
+    "sub": "Norman Rockwell"
+  },
+  {
+    "query": "the native language of Pothana is ",
+    "answer": "Telugu",
+    "sub": "Pothana"
+  },
+  {
+    "query": "the native language of Jeanne Balibar is ",
+    "answer": "French",
+    "sub": "Jeanne Balibar"
+  },
+  {
+    "query": "the native language of Victor Margueritte is ",
+    "answer": "French",
+    "sub": "Victor Margueritte"
+  },
+  {
+    "query": "the native language of Dominique Pinon is ",
+    "answer": "French",
+    "sub": "Dominique Pinon"
+  },
+  {
+    "query": "the native language of Michel Onfray is ",
+    "answer": "French",
+    "sub": "Michel Onfray"
+  },
+  {
+    "query": "the native language of Jean-Roger Milo is ",
+    "answer": "French",
+    "sub": "Jean-Roger Milo"
+  },
+  {
+    "query": "the native language of Bernard Blier is ",
+    "answer": "French",
+    "sub": "Bernard Blier"
+  },
+  {
+    "query": "the native language of Emmanuel Mouret is ",
+    "answer": "French",
+    "sub": "Emmanuel Mouret"
+  },
+  {
+    "query": "the native language of Tanikella Bharani is ",
+    "answer": "Telugu",
+    "sub": "Tanikella Bharani"
+  },
+  {
+    "query": "the native language of Sivaji Raja is ",
+    "answer": "Telugu",
+    "sub": "Sivaji Raja"
+  },
+  {
+    "query": "the native language of Louis Darquier de Pellepoix is ",
+    "answer": "French",
+    "sub": "Louis Darquier de Pellepoix"
+  },
+  {
+    "query": "the native language of Marc Chagall is ",
+    "answer": "Russian",
+    "sub": "Marc Chagall"
+  },
+  {
+    "query": "the native language of Narsing Yadav is ",
+    "answer": "Telugu",
+    "sub": "Narsing Yadav"
+  },
+  {
+    "query": "the native language of Catherine Picard is ",
+    "answer": "French",
+    "sub": "Catherine Picard"
+  },
+  {
+    "query": "the native language of Robert Buron is ",
+    "answer": "French",
+    "sub": "Robert Buron"
+  },
+  {
+    "query": "the native language of Claude Bernard is ",
+    "answer": "French",
+    "sub": "Claude Bernard"
+  },
+  {
+    "query": "the native language of Denys Corbet is ",
+    "answer": "French",
+    "sub": "Denys Corbet"
+  },
+  {
+    "query": "the native language of Zakhar Prilepin is ",
+    "answer": "Russian",
+    "sub": "Zakhar Prilepin"
+  },
+  {
+    "query": "the native language of Alexandre de Laborde is ",
+    "answer": "French",
+    "sub": "Alexandre de Laborde"
+  },
+  {
+    "query": "the native language of Barend Cornelis Koekkoek is ",
+    "answer": "Dutch",
+    "sub": "Barend Cornelis Koekkoek"
+  },
+  {
+    "query": "the native language of Michel Braudeau is ",
+    "answer": "French",
+    "sub": "Michel Braudeau"
+  },
+  {
+    "query": "the native language of Pascale Ogier is ",
+    "answer": "French",
+    "sub": "Pascale Ogier"
+  },
+  {
+    "query": "the native language of Pierre-Joseph Cambon is ",
+    "answer": "French",
+    "sub": "Pierre-Joseph Cambon"
+  },
+  {
+    "query": "the native language of Louis Pergaud is ",
+    "answer": "French",
+    "sub": "Louis Pergaud"
+  },
+  {
+    "query": "the native language of Yves Beneyton is ",
+    "answer": "French",
+    "sub": "Yves Beneyton"
+  },
+  {
+    "query": "the native language of Virginie Ledoyen is ",
+    "answer": "French",
+    "sub": "Virginie Ledoyen"
+  },
+  {
+    "query": "the native language of Pierre Emmanuel is ",
+    "answer": "French",
+    "sub": "Pierre Emmanuel"
+  },
+  {
+    "query": "the native language of Nelly Kaplan is ",
+    "answer": "French",
+    "sub": "Nelly Kaplan"
+  },
+  {
+    "query": "the native language of Alexandre Auguste Ledru-Rollin is ",
+    "answer": "French",
+    "sub": "Alexandre Auguste Ledru-Rollin"
+  },
+  {
+    "query": "the native language of Douglas Adams is ",
+    "answer": "English",
+    "sub": "Douglas Adams"
+  },
+  {
+    "query": "the native language of Giunta Pisano is ",
+    "answer": "Italian",
+    "sub": "Giunta Pisano"
+  },
+  {
+    "query": "the native language of Kim Philby is ",
+    "answer": "English",
+    "sub": "Kim Philby"
+  },
+  {
+    "query": "the native language of Cornelis Tiele is ",
+    "answer": "Dutch",
+    "sub": "Cornelis Tiele"
+  },
+  {
+    "query": "the native language of Polaire is ",
+    "answer": "French",
+    "sub": "Polaire"
+  },
+  {
+    "query": "the native language of Mehdi Nebbou is ",
+    "answer": "French",
+    "sub": "Mehdi Nebbou"
+  },
+  {
+    "query": "the native language of Ehud Olmert is ",
+    "answer": "Hebrew",
+    "sub": "Ehud Olmert"
+  },
+  {
+    "query": "the native language of Charles Perrault is ",
+    "answer": "French",
+    "sub": "Charles Perrault"
+  },
+  {
+    "query": "the native language of Francis Carco is ",
+    "answer": "French",
+    "sub": "Francis Carco"
+  },
+  {
+    "query": "the native language of Gustave de Beaumont is ",
+    "answer": "French",
+    "sub": "Gustave de Beaumont"
+  },
+  {
+    "query": "the native language of Mani Sharma is ",
+    "answer": "Telugu",
+    "sub": "Mani Sharma"
+  },
+  {
+    "query": "the native language of Marie Dorval is ",
+    "answer": "French",
+    "sub": "Marie Dorval"
+  },
+  {
+    "query": "the native language of Jean-Claude Grumberg is ",
+    "answer": "French",
+    "sub": "Jean-Claude Grumberg"
+  },
+  {
+    "query": "the native language of Yuri Vizbor is ",
+    "answer": "Russian",
+    "sub": "Yuri Vizbor"
+  },
+  {
+    "query": "the native language of Eugene Kaspersky is ",
+    "answer": "Russian",
+    "sub": "Eugene Kaspersky"
+  },
+  {
+    "query": "the native language of Maurice Viollette is ",
+    "answer": "French",
+    "sub": "Maurice Viollette"
+  },
+  {
+    "query": "the native language of Georges Bernier is ",
+    "answer": "French",
+    "sub": "Georges Bernier"
+  },
+  {
+    "query": "the native language of Saluri Koteswara Rao is ",
+    "answer": "Telugu",
+    "sub": "Saluri Koteswara Rao"
+  },
+  {
+    "query": "the native language of Marcel Marceau is ",
+    "answer": "French",
+    "sub": "Marcel Marceau"
+  },
+  {
+    "query": "the native language of Marie Glory is ",
+    "answer": "French",
+    "sub": "Marie Glory"
+  },
+  {
+    "query": "the native language of Virgil is ",
+    "answer": "Latin",
+    "sub": "Virgil"
+  },
+  {
+    "query": "the native language of Edita Piekha is ",
+    "answer": "French",
+    "sub": "Edita Piekha"
+  },
+  {
+    "query": "the native language of Paschal Grousset is ",
+    "answer": "French",
+    "sub": "Paschal Grousset"
+  },
+  {
+    "query": "the native language of Jeanne Moreau is ",
+    "answer": "French",
+    "sub": "Jeanne Moreau"
+  },
+  {
+    "query": "the native language of Skolts is ",
+    "answer": "Russian",
+    "sub": "Skolts"
+  },
+  {
+    "query": "the native language of Jean Debucourt is ",
+    "answer": "French",
+    "sub": "Jean Debucourt"
+  },
+  {
+    "query": "the native language of Jean Dujardin is ",
+    "answer": "French",
+    "sub": "Jean Dujardin"
+  },
+  {
+    "query": "the native language of Elsa Lunghini is ",
+    "answer": "French",
+    "sub": "Elsa Lunghini"
+  },
+  {
+    "query": "the native language of Jean Chiappe is ",
+    "answer": "French",
+    "sub": "Jean Chiappe"
+  },
+  {
+    "query": "the native language of Jacques Leroy de Saint Arnaud is ",
+    "answer": "French",
+    "sub": "Jacques Leroy de Saint Arnaud"
+  },
+  {
+    "query": "the native language of Relangi Venkata Ramaiah is ",
+    "answer": "Telugu",
+    "sub": "Relangi Venkata Ramaiah"
+  },
+  {
+    "query": "the native language of Emmanuel Macron is ",
+    "answer": "French",
+    "sub": "Emmanuel Macron"
+  },
+  {
+    "query": "the native language of Charles Chamberland is ",
+    "answer": "French",
+    "sub": "Charles Chamberland"
+  },
+  {
+    "query": "the native language of A. P. J. Abdul Kalam is ",
+    "answer": "Tamil",
+    "sub": "A. P. J. Abdul Kalam"
+  },
+  {
+    "query": "the native language of Henri Diamant-Berger is ",
+    "answer": "French",
+    "sub": "Henri Diamant-Berger"
+  },
+  {
+    "query": "the native language of Jules Roy is ",
+    "answer": "French",
+    "sub": "Jules Roy"
+  },
+  {
+    "query": "the native language of Jean Gabriel Marchand is ",
+    "answer": "French",
+    "sub": "Jean Gabriel Marchand"
+  },
+  {
+    "query": "the native language of Alexander Penn is ",
+    "answer": "Russian",
+    "sub": "Alexander Penn"
+  },
+  {
+    "query": "the native language of Jean-Louis Barrault is ",
+    "answer": "French",
+    "sub": "Jean-Louis Barrault"
+  },
+  {
+    "query": "the native language of Rajesh Khanna is ",
+    "answer": "Hindi",
+    "sub": "Rajesh Khanna"
+  },
+  {
+    "query": "the native language of William Craft Brumfield is ",
+    "answer": "Russian",
+    "sub": "William Craft Brumfield"
+  },
+  {
+    "query": "the native language of Joseph Luns is ",
+    "answer": "Dutch",
+    "sub": "Joseph Luns"
+  },
+  {
+    "query": "the native language of Christopher Lambert is ",
+    "answer": "French",
+    "sub": "Christopher Lambert"
+  },
+  {
+    "query": "the native language of Lucien Bonaparte is ",
+    "answer": "French",
+    "sub": "Lucien Bonaparte"
+  },
+  {
+    "query": "the native language of Basavaraju Venkata Padmanabha Rao is ",
+    "answer": "Telugu",
+    "sub": "Basavaraju Venkata Padmanabha Rao"
+  },
+  {
+    "query": "the native language of Brigitte Catillon is ",
+    "answer": "French",
+    "sub": "Brigitte Catillon"
+  },
+  {
+    "query": "the native language of Jacques Dynam is ",
+    "answer": "French",
+    "sub": "Jacques Dynam"
+  },
+  {
+    "query": "the native language of Jean-Claude Gaudin is ",
+    "answer": "French",
+    "sub": "Jean-Claude Gaudin"
+  },
+  {
+    "query": "the native language of Vincent Moscato is ",
+    "answer": "French",
+    "sub": "Vincent Moscato"
+  },
+  {
+    "query": "the native language of Barack Obama is ",
+    "answer": "English",
+    "sub": "Barack Obama"
+  },
+  {
+    "query": "the native language of Basshunter is ",
+    "answer": "Swedish",
+    "sub": "Basshunter"
+  },
+  {
+    "query": "the native language of Albert Sarraut is ",
+    "answer": "French",
+    "sub": "Albert Sarraut"
+  },
+  {
+    "query": "the native language of Paul Klebnikov is ",
+    "answer": "Russian",
+    "sub": "Paul Klebnikov"
+  },
+  {
+    "query": "the native language of William Butler Yeats is ",
+    "answer": "English",
+    "sub": "William Butler Yeats"
+  },
+  {
+    "query": "the native language of Tommy Nilsson is ",
+    "answer": "Swedish",
+    "sub": "Tommy Nilsson"
+  },
+  {
+    "query": "the native language of Arthur Conan Doyle is ",
+    "answer": "English",
+    "sub": "Arthur Conan Doyle"
+  },
+  {
+    "query": "the native language of Tanya Lopert is ",
+    "answer": "French",
+    "sub": "Tanya Lopert"
+  },
+  {
+    "query": "the native language of Olaus Rudbeck is ",
+    "answer": "Swedish",
+    "sub": "Olaus Rudbeck"
+  },
+  {
+    "query": "the native language of Max Jacob is ",
+    "answer": "French",
+    "sub": "Max Jacob"
+  },
+  {
+    "query": "the native language of Omar Sy is ",
+    "answer": "French",
+    "sub": "Omar Sy"
+  },
+  {
+    "query": "the native language of Francis Ponge is ",
+    "answer": "French",
+    "sub": "Francis Ponge"
+  }
+]

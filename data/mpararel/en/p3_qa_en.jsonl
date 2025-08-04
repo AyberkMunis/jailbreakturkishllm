@@ -1,0 +1,4887 @@
+[
+  {
+    "query": "What is the native language of Louis Jules Trochu?",
+    "answer": " French",
+    "sub": "Louis Jules Trochu"
+  },
+  {
+    "query": "What is the native language of Valeria Bruni Tedeschi?",
+    "answer": " French",
+    "sub": "Valeria Bruni Tedeschi"
+  },
+  {
+    "query": "What is the native language of Pierre Messmer?",
+    "answer": " French",
+    "sub": "Pierre Messmer"
+  },
+  {
+    "query": "What is the native language of Roger Nimier?",
+    "answer": " French",
+    "sub": "Roger Nimier"
+  },
+  {
+    "query": "What is the native language of Andrey Malakhov?",
+    "answer": " Russian",
+    "sub": "Andrey Malakhov"
+  },
+  {
+    "query": "What is the native language of Emmanuelle Arsan?",
+    "answer": " French",
+    "sub": "Emmanuelle Arsan"
+  },
+  {
+    "query": "What is the native language of Georges Mouton?",
+    "answer": " French",
+    "sub": "Georges Mouton"
+  },
+  {
+    "query": "What is the native language of Nie Weiping?",
+    "answer": " Chinese",
+    "sub": "Nie Weiping"
+  },
+  {
+    "query": "What is the native language of Muppalaneni Shiva?",
+    "answer": " Telugu",
+    "sub": "Muppalaneni Shiva"
+  },
+  {
+    "query": "What is the native language of Laurent Lafitte?",
+    "answer": " French",
+    "sub": "Laurent Lafitte"
+  },
+  {
+    "query": "What is the native language of Joseph Reinach?",
+    "answer": " French",
+    "sub": "Joseph Reinach"
+  },
+  {
+    "query": "What is the native language of Russians?",
+    "answer": " Russian",
+    "sub": "Russians"
+  },
+  {
+    "query": "What is the native language of Claude Aveline?",
+    "answer": " French",
+    "sub": "Claude Aveline"
+  },
+  {
+    "query": "What is the native language of Jan Commelin?",
+    "answer": " Dutch",
+    "sub": "Jan Commelin"
+  },
+  {
+    "query": "What is the native language of Jean Rotrou?",
+    "answer": " French",
+    "sub": "Jean Rotrou"
+  },
+  {
+    "query": "What is the native language of Laura Smet?",
+    "answer": " French",
+    "sub": "Laura Smet"
+  },
+  {
+    "query": "What is the native language of Sara Coleridge?",
+    "answer": " English",
+    "sub": "Sara Coleridge"
+  },
+  {
+    "query": "What is the native language of Jean-Antoine Chaptal?",
+    "answer": " French",
+    "sub": "Jean-Antoine Chaptal"
+  },
+  {
+    "query": "What is the native language of Raymond Queneau?",
+    "answer": " French",
+    "sub": "Raymond Queneau"
+  },
+  {
+    "query": "What is the native language of Fernand David?",
+    "answer": " French",
+    "sub": "Fernand David"
+  },
+  {
+    "query": "What is the native language of Guy Sorman?",
+    "answer": " French",
+    "sub": "Guy Sorman"
+  },
+  {
+    "query": "What is the native language of Jean-Luc Marion?",
+    "answer": " French",
+    "sub": "Jean-Luc Marion"
+  },
+  {
+    "query": "What is the native language of Goncourt brothers?",
+    "answer": " French",
+    "sub": "Goncourt brothers"
+  },
+  {
+    "query": "What is the native language of Mahesh Babu?",
+    "answer": " Telugu",
+    "sub": "Mahesh Babu"
+  },
+  {
+    "query": "What is the native language of Victor de Riqueti, marquis de Mirabeau?",
+    "answer": " French",
+    "sub": "Victor de Riqueti, marquis de Mirabeau"
+  },
+  {
+    "query": "What is the native language of Gustaaf Schlegel?",
+    "answer": " Dutch",
+    "sub": "Gustaaf Schlegel"
+  },
+  {
+    "query": "What is the native language of Dmitry Rybolovlev?",
+    "answer": " Russian",
+    "sub": "Dmitry Rybolovlev"
+  },
+  {
+    "query": "What is the native language of Sophie Marceau?",
+    "answer": " French",
+    "sub": "Sophie Marceau"
+  },
+  {
+    "query": "What is the native language of Louis-Nicolas Davout?",
+    "answer": " French",
+    "sub": "Louis-Nicolas Davout"
+  },
+  {
+    "query": "What is the native language of Paul-Jean Toulet?",
+    "answer": " French",
+    "sub": "Paul-Jean Toulet"
+  },
+  {
+    "query": "What is the native language of Adrien Duport?",
+    "answer": " French",
+    "sub": "Adrien Duport"
+  },
+  {
+    "query": "What is the native language of Lionel Jospin?",
+    "answer": " French",
+    "sub": "Lionel Jospin"
+  },
+  {
+    "query": "What is the native language of Dmitry Malikov?",
+    "answer": " Russian",
+    "sub": "Dmitry Malikov"
+  },
+  {
+    "query": "What is the native language of Michel Bouquet?",
+    "answer": " French",
+    "sub": "Michel Bouquet"
+  },
+  {
+    "query": "What is the native language of William Henry Harrison?",
+    "answer": " English",
+    "sub": "William Henry Harrison"
+  },
+  {
+    "query": "What is the native language of Jean Rouch?",
+    "answer": " French",
+    "sub": "Jean Rouch"
+  },
+  {
+    "query": "What is the native language of Alain Delon?",
+    "answer": " French",
+    "sub": "Alain Delon"
+  },
+  {
+    "query": "What is the native language of Alfred Marie-Jeanne?",
+    "answer": " French",
+    "sub": "Alfred Marie-Jeanne"
+  },
+  {
+    "query": "What is the native language of Philippe de Mornay?",
+    "answer": " French",
+    "sub": "Philippe de Mornay"
+  },
+  {
+    "query": "What is the native language of Michel de Montaigne?",
+    "answer": " Latin",
+    "sub": "Michel de Montaigne"
+  },
+  {
+    "query": "What is the native language of Yevgeny Yevtushenko?",
+    "answer": " Russian",
+    "sub": "Yevgeny Yevtushenko"
+  },
+  {
+    "query": "What is the native language of Mukesh?",
+    "answer": " Malayalam",
+    "sub": "Mukesh"
+  },
+  {
+    "query": "What is the native language of Pierre Alcover?",
+    "answer": " French",
+    "sub": "Pierre Alcover"
+  },
+  {
+    "query": "What is the native language of Pierre-Alexandre-Laurent Forfait?",
+    "answer": " French",
+    "sub": "Pierre-Alexandre-Laurent Forfait"
+  },
+  {
+    "query": "What is the native language of Imanol Arias?",
+    "answer": " Spanish",
+    "sub": "Imanol Arias"
+  },
+  {
+    "query": "What is the native language of Marthe Mellot?",
+    "answer": " French",
+    "sub": "Marthe Mellot"
+  },
+  {
+    "query": "What is the native language of Daniel Ceccaldi?",
+    "answer": " French",
+    "sub": "Daniel Ceccaldi"
+  },
+  {
+    "query": "What is the native language of Jean-Pierre Marielle?",
+    "answer": " French",
+    "sub": "Jean-Pierre Marielle"
+  },
+  {
+    "query": "What is the native language of Patrick Topaloff?",
+    "answer": " French",
+    "sub": "Patrick Topaloff"
+  },
+  {
+    "query": "What is the native language of John Paul II?",
+    "answer": " Polish",
+    "sub": "John Paul II"
+  },
+  {
+    "query": "What is the native language of Henry de Montherlant?",
+    "answer": " French",
+    "sub": "Henry de Montherlant"
+  },
+  {
+    "query": "What is the native language of Charles Le Goffic?",
+    "answer": " Breton",
+    "sub": "Charles Le Goffic"
+  },
+  {
+    "query": "What is the native language of Pingali Nagendrarao?",
+    "answer": " Telugu",
+    "sub": "Pingali Nagendrarao"
+  },
+  {
+    "query": "What is the native language of Jacques Laurent?",
+    "answer": " French",
+    "sub": "Jacques Laurent"
+  },
+  {
+    "query": "What is the native language of Nikolai Bukharin?",
+    "answer": " Russian",
+    "sub": "Nikolai Bukharin"
+  },
+  {
+    "query": "What is the native language of Gerrit Komrij?",
+    "answer": " Dutch",
+    "sub": "Gerrit Komrij"
+  },
+  {
+    "query": "What is the native language of Jan Wils?",
+    "answer": " Dutch",
+    "sub": "Jan Wils"
+  },
+  {
+    "query": "What is the native language of Maurice Renard?",
+    "answer": " French",
+    "sub": "Maurice Renard"
+  },
+  {
+    "query": "What is the native language of Jean Rostand?",
+    "answer": " French",
+    "sub": "Jean Rostand"
+  },
+  {
+    "query": "What is the native language of Fernand Gravey?",
+    "answer": " French",
+    "sub": "Fernand Gravey"
+  },
+  {
+    "query": "What is the native language of Michael I of Romania?",
+    "answer": " English",
+    "sub": "Michael I of Romania"
+  },
+  {
+    "query": "What is the native language of Jules Paul Benjamin Delessert?",
+    "answer": " French",
+    "sub": "Jules Paul Benjamin Delessert"
+  },
+  {
+    "query": "What is the native language of Jean Claudio?",
+    "answer": " French",
+    "sub": "Jean Claudio"
+  },
+  {
+    "query": "What is the native language of Christophe Hondelatte?",
+    "answer": " French",
+    "sub": "Christophe Hondelatte"
+  },
+  {
+    "query": "What is the native language of Bruno Cremer?",
+    "answer": " French",
+    "sub": "Bruno Cremer"
+  },
+  {
+    "query": "What is the native language of Henri Vidal?",
+    "answer": " French",
+    "sub": "Henri Vidal"
+  },
+  {
+    "query": "What is the native language of Louis Gallet?",
+    "answer": " French",
+    "sub": "Louis Gallet"
+  },
+  {
+    "query": "What is the native language of Ville Haapasalo?",
+    "answer": " Russian",
+    "sub": "Ville Haapasalo"
+  },
+  {
+    "query": "What is the native language of Claude Gensac?",
+    "answer": " French",
+    "sub": "Claude Gensac"
+  },
+  {
+    "query": "What is the native language of Lindsey Davis?",
+    "answer": " English",
+    "sub": "Lindsey Davis"
+  },
+  {
+    "query": "What is the native language of Orane Demazis?",
+    "answer": " French",
+    "sub": "Orane Demazis"
+  },
+  {
+    "query": "What is the native language of S. V. Ranga Rao?",
+    "answer": " Telugu",
+    "sub": "S. V. Ranga Rao"
+  },
+  {
+    "query": "What is the native language of Guy Hocquenghem?",
+    "answer": " French",
+    "sub": "Guy Hocquenghem"
+  },
+  {
+    "query": "What is the native language of Gilles Quispel?",
+    "answer": " Dutch",
+    "sub": "Gilles Quispel"
+  },
+  {
+    "query": "What is the native language of Stefanos Stratigos?",
+    "answer": " Greek",
+    "sub": "Stefanos Stratigos"
+  },
+  {
+    "query": "What is the native language of Michael Albert?",
+    "answer": " English",
+    "sub": "Michael Albert"
+  },
+  {
+    "query": "What is the native language of Michele Bartoli?",
+    "answer": " Italian",
+    "sub": "Michele Bartoli"
+  },
+  {
+    "query": "What is the native language of Pierre Jolivet?",
+    "answer": " French",
+    "sub": "Pierre Jolivet"
+  },
+  {
+    "query": "What is the native language of Roger Duchesne?",
+    "answer": " French",
+    "sub": "Roger Duchesne"
+  },
+  {
+    "query": "What is the native language of Alexandra Marinina?",
+    "answer": " Russian",
+    "sub": "Alexandra Marinina"
+  },
+  {
+    "query": "What is the native language of Adriaan van Dis?",
+    "answer": " Dutch",
+    "sub": "Adriaan van Dis"
+  },
+  {
+    "query": "What is the native language of Andy Lau?",
+    "answer": " Cantonese",
+    "sub": "Andy Lau"
+  },
+  {
+    "query": "What is the native language of Ginette Leclerc?",
+    "answer": " French",
+    "sub": "Ginette Leclerc"
+  },
+  {
+    "query": "What is the native language of Daniel-Rops?",
+    "answer": " French",
+    "sub": "Daniel-Rops"
+  },
+  {
+    "query": "What is the native language of Christophe Moreau?",
+    "answer": " French",
+    "sub": "Christophe Moreau"
+  },
+  {
+    "query": "What is the native language of Ann Scott?",
+    "answer": " French",
+    "sub": "Ann Scott"
+  },
+  {
+    "query": "What is the native language of Franz-Olivier Giesbert?",
+    "answer": " French",
+    "sub": "Franz-Olivier Giesbert"
+  },
+  {
+    "query": "What is the native language of Tonino Benacquista?",
+    "answer": " French",
+    "sub": "Tonino Benacquista"
+  },
+  {
+    "query": "What is the native language of Joachim Lebreton?",
+    "answer": " French",
+    "sub": "Joachim Lebreton"
+  },
+  {
+    "query": "What is the native language of Nikolay Strakhov?",
+    "answer": " Russian",
+    "sub": "Nikolay Strakhov"
+  },
+  {
+    "query": "What is the native language of Twm o'r Nant?",
+    "answer": " Welsh",
+    "sub": "Twm o'r Nant"
+  },
+  {
+    "query": "What is the native language of Paul Bonifas?",
+    "answer": " French",
+    "sub": "Paul Bonifas"
+  },
+  {
+    "query": "What is the native language of Jacques Charles Dupont de l'Eure?",
+    "answer": " French",
+    "sub": "Jacques Charles Dupont de l'Eure"
+  },
+  {
+    "query": "What is the native language of Étienne Jacques Joseph Alexandre Macdonald?",
+    "answer": " French",
+    "sub": "Étienne Jacques Joseph Alexandre Macdonald"
+  },
+  {
+    "query": "What is the native language of Lionel Messi?",
+    "answer": " Spanish",
+    "sub": "Lionel Messi"
+  },
+  {
+    "query": "What is the native language of Michel-Jean Sedaine?",
+    "answer": " French",
+    "sub": "Michel-Jean Sedaine"
+  },
+  {
+    "query": "What is the native language of Franz Kafka?",
+    "answer": " German",
+    "sub": "Franz Kafka"
+  },
+  {
+    "query": "What is the native language of Anatole France?",
+    "answer": " French",
+    "sub": "Anatole France"
+  },
+  {
+    "query": "What is the native language of Vera Brezhneva?",
+    "answer": " Russian",
+    "sub": "Vera Brezhneva"
+  },
+  {
+    "query": "What is the native language of Achille Varzi?",
+    "answer": " Italian",
+    "sub": "Achille Varzi"
+  },
+  {
+    "query": "What is the native language of Babu Mohan?",
+    "answer": " Telugu",
+    "sub": "Babu Mohan"
+  },
+  {
+    "query": "What is the native language of Marcel Vibert?",
+    "answer": " French",
+    "sub": "Marcel Vibert"
+  },
+  {
+    "query": "What is the native language of Rama Prabha?",
+    "answer": " Telugu",
+    "sub": "Rama Prabha"
+  },
+  {
+    "query": "What is the native language of Jean Marais?",
+    "answer": " French",
+    "sub": "Jean Marais"
+  },
+  {
+    "query": "What is the native language of Jean-Marie Guyau?",
+    "answer": " French",
+    "sub": "Jean-Marie Guyau"
+  },
+  {
+    "query": "What is the native language of Michel Delebarre?",
+    "answer": " French",
+    "sub": "Michel Delebarre"
+  },
+  {
+    "query": "What is the native language of Victor de Laprade?",
+    "answer": " French",
+    "sub": "Victor de Laprade"
+  },
+  {
+    "query": "What is the native language of Firmin Abauzit?",
+    "answer": " French",
+    "sub": "Firmin Abauzit"
+  },
+  {
+    "query": "What is the native language of Dasaradhi?",
+    "answer": " Telugu",
+    "sub": "Dasaradhi"
+  },
+  {
+    "query": "What is the native language of S. S. Rajamouli?",
+    "answer": " Telugu",
+    "sub": "S. S. Rajamouli"
+  },
+  {
+    "query": "What is the native language of Oleg Kotov?",
+    "answer": " Russian",
+    "sub": "Oleg Kotov"
+  },
+  {
+    "query": "What is the native language of Jean-Paul Sartre?",
+    "answer": " French",
+    "sub": "Jean-Paul Sartre"
+  },
+  {
+    "query": "What is the native language of Louis Jourdan?",
+    "answer": " French",
+    "sub": "Louis Jourdan"
+  },
+  {
+    "query": "What is the native language of Evert Willem Beth?",
+    "answer": " Dutch",
+    "sub": "Evert Willem Beth"
+  },
+  {
+    "query": "What is the native language of Michel Poniatowski?",
+    "answer": " French",
+    "sub": "Michel Poniatowski"
+  },
+  {
+    "query": "What is the native language of Seamus Heaney?",
+    "answer": " English",
+    "sub": "Seamus Heaney"
+  },
+  {
+    "query": "What is the native language of Alexander Pushkin?",
+    "answer": " Russian",
+    "sub": "Alexander Pushkin"
+  },
+  {
+    "query": "What is the native language of Marc-Philippe Daubresse?",
+    "answer": " French",
+    "sub": "Marc-Philippe Daubresse"
+  },
+  {
+    "query": "What is the native language of Myriam Bru?",
+    "answer": " French",
+    "sub": "Myriam Bru"
+  },
+  {
+    "query": "What is the native language of Robert Garnier?",
+    "answer": " French",
+    "sub": "Robert Garnier"
+  },
+  {
+    "query": "What is the native language of Andy Murray?",
+    "answer": " English",
+    "sub": "Andy Murray"
+  },
+  {
+    "query": "What is the native language of Alphonse Pyramus de Candolle?",
+    "answer": " French",
+    "sub": "Alphonse Pyramus de Candolle"
+  },
+  {
+    "query": "What is the native language of Georges Courteline?",
+    "answer": " French",
+    "sub": "Georges Courteline"
+  },
+  {
+    "query": "What is the native language of Agoston Haraszthy?",
+    "answer": " Hungarian",
+    "sub": "Agoston Haraszthy"
+  },
+  {
+    "query": "What is the native language of Pierre Blanchar?",
+    "answer": " French",
+    "sub": "Pierre Blanchar"
+  },
+  {
+    "query": "What is the native language of Claude Henri de Rouvroy, comte de Saint-Simon?",
+    "answer": " French",
+    "sub": "Claude Henri de Rouvroy, comte de Saint-Simon"
+  },
+  {
+    "query": "What is the native language of Sourou-Migan Apithy?",
+    "answer": " French",
+    "sub": "Sourou-Migan Apithy"
+  },
+  {
+    "query": "What is the native language of Christine Boisson?",
+    "answer": " French",
+    "sub": "Christine Boisson"
+  },
+  {
+    "query": "What is the native language of Jean Rollin?",
+    "answer": " French",
+    "sub": "Jean Rollin"
+  },
+  {
+    "query": "What is the native language of Thierry Lhermitte?",
+    "answer": " French",
+    "sub": "Thierry Lhermitte"
+  },
+  {
+    "query": "What is the native language of Miho Mosulishvili?",
+    "answer": " Georgian",
+    "sub": "Miho Mosulishvili"
+  },
+  {
+    "query": "What is the native language of John Calvin?",
+    "answer": " French",
+    "sub": "John Calvin"
+  },
+  {
+    "query": "What is the native language of Pierre Pelot?",
+    "answer": " French",
+    "sub": "Pierre Pelot"
+  },
+  {
+    "query": "What is the native language of Louis Legendre?",
+    "answer": " French",
+    "sub": "Louis Legendre"
+  },
+  {
+    "query": "What is the native language of Christian Bouchet?",
+    "answer": " French",
+    "sub": "Christian Bouchet"
+  },
+  {
+    "query": "What is the native language of Cees Nooteboom?",
+    "answer": " Dutch",
+    "sub": "Cees Nooteboom"
+  },
+  {
+    "query": "What is the native language of Henricus Hondius II?",
+    "answer": " Dutch",
+    "sub": "Henricus Hondius II"
+  },
+  {
+    "query": "What is the native language of Fernand Ledoux?",
+    "answer": " French",
+    "sub": "Fernand Ledoux"
+  },
+  {
+    "query": "What is the native language of Milly Mathis?",
+    "answer": " French",
+    "sub": "Milly Mathis"
+  },
+  {
+    "query": "What is the native language of Boris Kochno?",
+    "answer": " French",
+    "sub": "Boris Kochno"
+  },
+  {
+    "query": "What is the native language of Angelica Agurbash?",
+    "answer": " Russian",
+    "sub": "Angelica Agurbash"
+  },
+  {
+    "query": "What is the native language of Oleg Skripochka?",
+    "answer": " Russian",
+    "sub": "Oleg Skripochka"
+  },
+  {
+    "query": "What is the native language of Fredrika Bremer?",
+    "answer": " Swedish",
+    "sub": "Fredrika Bremer"
+  },
+  {
+    "query": "What is the native language of Korney Chukovsky?",
+    "answer": " Russian",
+    "sub": "Korney Chukovsky"
+  },
+  {
+    "query": "What is the native language of Peter Kassovitz?",
+    "answer": " French",
+    "sub": "Peter Kassovitz"
+  },
+  {
+    "query": "What is the native language of Gaby Morlay?",
+    "answer": " French",
+    "sub": "Gaby Morlay"
+  },
+  {
+    "query": "What is the native language of Gabrielle Fontan?",
+    "answer": " French",
+    "sub": "Gabrielle Fontan"
+  },
+  {
+    "query": "What is the native language of Dmitry Merezhkovsky?",
+    "answer": " Russian",
+    "sub": "Dmitry Merezhkovsky"
+  },
+  {
+    "query": "What is the native language of Mabrouk El Mechri?",
+    "answer": " French",
+    "sub": "Mabrouk El Mechri"
+  },
+  {
+    "query": "What is the native language of Claude Victor-Perrin, Duc de Belluno?",
+    "answer": " French",
+    "sub": "Claude Victor-Perrin, Duc de Belluno"
+  },
+  {
+    "query": "What is the native language of Roger Hanin?",
+    "answer": " French",
+    "sub": "Roger Hanin"
+  },
+  {
+    "query": "What is the native language of Roland Armontel?",
+    "answer": " French",
+    "sub": "Roland Armontel"
+  },
+  {
+    "query": "What is the native language of Viacheslav Belavkin?",
+    "answer": " Russian",
+    "sub": "Viacheslav Belavkin"
+  },
+  {
+    "query": "What is the native language of Michel Godard?",
+    "answer": " French",
+    "sub": "Michel Godard"
+  },
+  {
+    "query": "What is the native language of Edmond Michelet?",
+    "answer": " French",
+    "sub": "Edmond Michelet"
+  },
+  {
+    "query": "What is the native language of Adurthi Subba Rao?",
+    "answer": " Telugu",
+    "sub": "Adurthi Subba Rao"
+  },
+  {
+    "query": "What is the native language of Jacques Toubon?",
+    "answer": " French",
+    "sub": "Jacques Toubon"
+  },
+  {
+    "query": "What is the native language of Maurice Bucaille?",
+    "answer": " French",
+    "sub": "Maurice Bucaille"
+  },
+  {
+    "query": "What is the native language of Martine Brochard?",
+    "answer": " French",
+    "sub": "Martine Brochard"
+  },
+  {
+    "query": "What is the native language of Marcelin Pleynet?",
+    "answer": " French",
+    "sub": "Marcelin Pleynet"
+  },
+  {
+    "query": "What is the native language of Armand Trousseau?",
+    "answer": " French",
+    "sub": "Armand Trousseau"
+  },
+  {
+    "query": "What is the native language of Kozma Prutkov?",
+    "answer": " Russian",
+    "sub": "Kozma Prutkov"
+  },
+  {
+    "query": "What is the native language of Sylvia Lopez?",
+    "answer": " French",
+    "sub": "Sylvia Lopez"
+  },
+  {
+    "query": "What is the native language of Georges Perec?",
+    "answer": " French",
+    "sub": "Georges Perec"
+  },
+  {
+    "query": "What is the native language of Lee Chang-dong?",
+    "answer": " Korean",
+    "sub": "Lee Chang-dong"
+  },
+  {
+    "query": "What is the native language of Pierre Fresnay?",
+    "answer": " French",
+    "sub": "Pierre Fresnay"
+  },
+  {
+    "query": "What is the native language of William-Adolphe Bouguereau?",
+    "answer": " French",
+    "sub": "William-Adolphe Bouguereau"
+  },
+  {
+    "query": "What is the native language of Park Bum-shin?",
+    "answer": " Korean",
+    "sub": "Park Bum-shin"
+  },
+  {
+    "query": "What is the native language of Ram Gopal Varma?",
+    "answer": " Telugu",
+    "sub": "Ram Gopal Varma"
+  },
+  {
+    "query": "What is the native language of Constantijn Huygens?",
+    "answer": " Dutch",
+    "sub": "Constantijn Huygens"
+  },
+  {
+    "query": "What is the native language of Lannick Gautry?",
+    "answer": " French",
+    "sub": "Lannick Gautry"
+  },
+  {
+    "query": "What is the native language of Jean Reno?",
+    "answer": " French",
+    "sub": "Jean Reno"
+  },
+  {
+    "query": "What is the native language of Christine Albanel?",
+    "answer": " French",
+    "sub": "Christine Albanel"
+  },
+  {
+    "query": "What is the native language of Pietro Mennea?",
+    "answer": " Italian",
+    "sub": "Pietro Mennea"
+  },
+  {
+    "query": "What is the native language of Michel Etcheverry?",
+    "answer": " French",
+    "sub": "Michel Etcheverry"
+  },
+  {
+    "query": "What is the native language of Audrey Tautou?",
+    "answer": " French",
+    "sub": "Audrey Tautou"
+  },
+  {
+    "query": "What is the native language of Dmitry Muratov?",
+    "answer": " Russian",
+    "sub": "Dmitry Muratov"
+  },
+  {
+    "query": "What is the native language of Geoff Dyer?",
+    "answer": " English",
+    "sub": "Geoff Dyer"
+  },
+  {
+    "query": "What is the native language of Marcel Ichac?",
+    "answer": " French",
+    "sub": "Marcel Ichac"
+  },
+  {
+    "query": "What is the native language of Polina Zherebtsova?",
+    "answer": " Russian",
+    "sub": "Polina Zherebtsova"
+  },
+  {
+    "query": "What is the native language of Robert Oppenheimer?",
+    "answer": " English",
+    "sub": "Robert Oppenheimer"
+  },
+  {
+    "query": "What is the native language of Alain Robbe-Grillet?",
+    "answer": " French",
+    "sub": "Alain Robbe-Grillet"
+  },
+  {
+    "query": "What is the native language of Bernadette Lafont?",
+    "answer": " French",
+    "sub": "Bernadette Lafont"
+  },
+  {
+    "query": "What is the native language of Eugene Roshal?",
+    "answer": " Russian",
+    "sub": "Eugene Roshal"
+  },
+  {
+    "query": "What is the native language of Louis Edmond Duranty?",
+    "answer": " French",
+    "sub": "Louis Edmond Duranty"
+  },
+  {
+    "query": "What is the native language of Viktor Bychkov?",
+    "answer": " Russian",
+    "sub": "Viktor Bychkov"
+  },
+  {
+    "query": "What is the native language of Jean-Baptiste Solignac?",
+    "answer": " French",
+    "sub": "Jean-Baptiste Solignac"
+  },
+  {
+    "query": "What is the native language of Olivier Marchal?",
+    "answer": " French",
+    "sub": "Olivier Marchal"
+  },
+  {
+    "query": "What is the native language of Ingrian Finns?",
+    "answer": " Finnish",
+    "sub": "Ingrian Finns"
+  },
+  {
+    "query": "What is the native language of Manuel Blanc?",
+    "answer": " French",
+    "sub": "Manuel Blanc"
+  },
+  {
+    "query": "What is the native language of Erick van Egeraat?",
+    "answer": " Dutch",
+    "sub": "Erick van Egeraat"
+  },
+  {
+    "query": "What is the native language of Gwen Stefani?",
+    "answer": " English",
+    "sub": "Gwen Stefani"
+  },
+  {
+    "query": "What is the native language of Ivan Ivanov-Vano?",
+    "answer": " Russian",
+    "sub": "Ivan Ivanov-Vano"
+  },
+  {
+    "query": "What is the native language of Claude Ribbe?",
+    "answer": " French",
+    "sub": "Claude Ribbe"
+  },
+  {
+    "query": "What is the native language of Pyotr Vyazemsky?",
+    "answer": " Russian",
+    "sub": "Pyotr Vyazemsky"
+  },
+  {
+    "query": "What is the native language of William Habington?",
+    "answer": " English",
+    "sub": "William Habington"
+  },
+  {
+    "query": "What is the native language of George Sluizer?",
+    "answer": " Dutch",
+    "sub": "George Sluizer"
+  },
+  {
+    "query": "What is the native language of Olympe de Gouges?",
+    "answer": " French",
+    "sub": "Olympe de Gouges"
+  },
+  {
+    "query": "What is the native language of Christopher Smart?",
+    "answer": " English",
+    "sub": "Christopher Smart"
+  },
+  {
+    "query": "What is the native language of David Beckham?",
+    "answer": " English",
+    "sub": "David Beckham"
+  },
+  {
+    "query": "What is the native language of Blaise Pascal?",
+    "answer": " French",
+    "sub": "Blaise Pascal"
+  },
+  {
+    "query": "What is the native language of Pierre Magnier?",
+    "answer": " French",
+    "sub": "Pierre Magnier"
+  },
+  {
+    "query": "What is the native language of Odette Joyeux?",
+    "answer": " French",
+    "sub": "Odette Joyeux"
+  },
+  {
+    "query": "What is the native language of Kad Merad?",
+    "answer": " French",
+    "sub": "Kad Merad"
+  },
+  {
+    "query": "What is the native language of Maurice Schutz?",
+    "answer": " French",
+    "sub": "Maurice Schutz"
+  },
+  {
+    "query": "What is the native language of Bernard Giraudeau?",
+    "answer": " French",
+    "sub": "Bernard Giraudeau"
+  },
+  {
+    "query": "What is the native language of Pierre Trabaud?",
+    "answer": " French",
+    "sub": "Pierre Trabaud"
+  },
+  {
+    "query": "What is the native language of Georges Leygues?",
+    "answer": " French",
+    "sub": "Georges Leygues"
+  },
+  {
+    "query": "What is the native language of Vladimir Bekhterev?",
+    "answer": " Russian",
+    "sub": "Vladimir Bekhterev"
+  },
+  {
+    "query": "What is the native language of Jenson Button?",
+    "answer": " English",
+    "sub": "Jenson Button"
+  },
+  {
+    "query": "What is the native language of Pierre Louis Prieur?",
+    "answer": " French",
+    "sub": "Pierre Louis Prieur"
+  },
+  {
+    "query": "What is the native language of Isaac Massa?",
+    "answer": " Dutch",
+    "sub": "Isaac Massa"
+  },
+  {
+    "query": "What is the native language of Jean Giraudoux?",
+    "answer": " French",
+    "sub": "Jean Giraudoux"
+  },
+  {
+    "query": "What is the native language of Aleksei Dikiy?",
+    "answer": " Russian",
+    "sub": "Aleksei Dikiy"
+  },
+  {
+    "query": "What is the native language of Clovis Cornillac?",
+    "answer": " French",
+    "sub": "Clovis Cornillac"
+  },
+  {
+    "query": "What is the native language of Antonietta Di Martino?",
+    "answer": " Italian",
+    "sub": "Antonietta Di Martino"
+  },
+  {
+    "query": "What is the native language of Anna Bijns?",
+    "answer": " Dutch",
+    "sub": "Anna Bijns"
+  },
+  {
+    "query": "What is the native language of Bernard Menez?",
+    "answer": " French",
+    "sub": "Bernard Menez"
+  },
+  {
+    "query": "What is the native language of Danielle Darrieux?",
+    "answer": " French",
+    "sub": "Danielle Darrieux"
+  },
+  {
+    "query": "What is the native language of Pauline Lafont?",
+    "answer": " French",
+    "sub": "Pauline Lafont"
+  },
+  {
+    "query": "What is the native language of Roman Karmen?",
+    "answer": " Russian",
+    "sub": "Roman Karmen"
+  },
+  {
+    "query": "What is the native language of Pierre Reverdy?",
+    "answer": " French",
+    "sub": "Pierre Reverdy"
+  },
+  {
+    "query": "What is the native language of Venu Thottempudi?",
+    "answer": " Telugu",
+    "sub": "Venu Thottempudi"
+  },
+  {
+    "query": "What is the native language of Fyodor Pavlovich Reshetnikov?",
+    "answer": " Russian",
+    "sub": "Fyodor Pavlovich Reshetnikov"
+  },
+  {
+    "query": "What is the native language of Ewa Farna?",
+    "answer": " Polish",
+    "sub": "Ewa Farna"
+  },
+  {
+    "query": "What is the native language of Ercole Baldini?",
+    "answer": " Italian",
+    "sub": "Ercole Baldini"
+  },
+  {
+    "query": "What is the native language of Pierre Bayle?",
+    "answer": " French",
+    "sub": "Pierre Bayle"
+  },
+  {
+    "query": "What is the native language of Nikolay Akimov?",
+    "answer": " Russian",
+    "sub": "Nikolay Akimov"
+  },
+  {
+    "query": "What is the native language of Gennady Zyuganov?",
+    "answer": " Russian",
+    "sub": "Gennady Zyuganov"
+  },
+  {
+    "query": "What is the native language of Jean Gaven?",
+    "answer": " French",
+    "sub": "Jean Gaven"
+  },
+  {
+    "query": "What is the native language of Kool Shen?",
+    "answer": " French",
+    "sub": "Kool Shen"
+  },
+  {
+    "query": "What is the native language of Pierre Bec?",
+    "answer": " French",
+    "sub": "Pierre Bec"
+  },
+  {
+    "query": "What is the native language of Dominique Besnehard?",
+    "answer": " French",
+    "sub": "Dominique Besnehard"
+  },
+  {
+    "query": "What is the native language of Gerard Bilders?",
+    "answer": " Dutch",
+    "sub": "Gerard Bilders"
+  },
+  {
+    "query": "What is the native language of Joseph Laniel?",
+    "answer": " French",
+    "sub": "Joseph Laniel"
+  },
+  {
+    "query": "What is the native language of Hamidou Benmassoud?",
+    "answer": " French",
+    "sub": "Hamidou Benmassoud"
+  },
+  {
+    "query": "What is the native language of Henri Gault?",
+    "answer": " French",
+    "sub": "Henri Gault"
+  },
+  {
+    "query": "What is the native language of Olivier Messiaen?",
+    "answer": " French",
+    "sub": "Olivier Messiaen"
+  },
+  {
+    "query": "What is the native language of Leo Klejn?",
+    "answer": " Russian",
+    "sub": "Leo Klejn"
+  },
+  {
+    "query": "What is the native language of Victor Horta?",
+    "answer": " Dutch",
+    "sub": "Victor Horta"
+  },
+  {
+    "query": "What is the native language of Miguel de Cervantes?",
+    "answer": " Spanish",
+    "sub": "Miguel de Cervantes"
+  },
+  {
+    "query": "What is the native language of Woodrow Wilson?",
+    "answer": " English",
+    "sub": "Woodrow Wilson"
+  },
+  {
+    "query": "What is the native language of Alexander Butlerov?",
+    "answer": " Russian",
+    "sub": "Alexander Butlerov"
+  },
+  {
+    "query": "What is the native language of Oleg Novitskiy?",
+    "answer": " Russian",
+    "sub": "Oleg Novitskiy"
+  },
+  {
+    "query": "What is the native language of Marc Caro?",
+    "answer": " French",
+    "sub": "Marc Caro"
+  },
+  {
+    "query": "What is the native language of Robert Jan van Pelt?",
+    "answer": " Dutch",
+    "sub": "Robert Jan van Pelt"
+  },
+  {
+    "query": "What is the native language of Alexander Lebedev?",
+    "answer": " Russian",
+    "sub": "Alexander Lebedev"
+  },
+  {
+    "query": "What is the native language of Augustin Barruel?",
+    "answer": " French",
+    "sub": "Augustin Barruel"
+  },
+  {
+    "query": "What is the native language of Maurice Poli?",
+    "answer": " French",
+    "sub": "Maurice Poli"
+  },
+  {
+    "query": "What is the native language of Nikolai Luzin?",
+    "answer": " Russian",
+    "sub": "Nikolai Luzin"
+  },
+  {
+    "query": "What is the native language of Patrick Devedjian?",
+    "answer": " French",
+    "sub": "Patrick Devedjian"
+  },
+  {
+    "query": "What is the native language of Jean Paulhan?",
+    "answer": " French",
+    "sub": "Jean Paulhan"
+  },
+  {
+    "query": "What is the native language of Romain Duris?",
+    "answer": " French",
+    "sub": "Romain Duris"
+  },
+  {
+    "query": "What is the native language of Thom Hoffman?",
+    "answer": " Dutch",
+    "sub": "Thom Hoffman"
+  },
+  {
+    "query": "What is the native language of Anna Kournikova?",
+    "answer": " Russian",
+    "sub": "Anna Kournikova"
+  },
+  {
+    "query": "What is the native language of Alice Delysia?",
+    "answer": " French",
+    "sub": "Alice Delysia"
+  },
+  {
+    "query": "What is the native language of Coralie Trinh Thi?",
+    "answer": " French",
+    "sub": "Coralie Trinh Thi"
+  },
+  {
+    "query": "What is the native language of Catherine Rouvel?",
+    "answer": " French",
+    "sub": "Catherine Rouvel"
+  },
+  {
+    "query": "What is the native language of Isabelle Caro?",
+    "answer": " French",
+    "sub": "Isabelle Caro"
+  },
+  {
+    "query": "What is the native language of Nagendra Babu?",
+    "answer": " Telugu",
+    "sub": "Nagendra Babu"
+  },
+  {
+    "query": "What is the native language of Francis Jammes?",
+    "answer": " French",
+    "sub": "Francis Jammes"
+  },
+  {
+    "query": "What is the native language of Bam Mangera?",
+    "answer": " English",
+    "sub": "Bam Mangera"
+  },
+  {
+    "query": "What is the native language of Jean-Marie Cavada?",
+    "answer": " French",
+    "sub": "Jean-Marie Cavada"
+  },
+  {
+    "query": "What is the native language of Henri Garat?",
+    "answer": " French",
+    "sub": "Henri Garat"
+  },
+  {
+    "query": "What is the native language of Jacques Attali?",
+    "answer": " French",
+    "sub": "Jacques Attali"
+  },
+  {
+    "query": "What is the native language of Camille de Casabianca?",
+    "answer": " French",
+    "sub": "Camille de Casabianca"
+  },
+  {
+    "query": "What is the native language of Daniel Ivernel?",
+    "answer": " French",
+    "sub": "Daniel Ivernel"
+  },
+  {
+    "query": "What is the native language of Frans G. Bengtsson?",
+    "answer": " Swedish",
+    "sub": "Frans G. Bengtsson"
+  },
+  {
+    "query": "What is the native language of Tina Turner?",
+    "answer": " English",
+    "sub": "Tina Turner"
+  },
+  {
+    "query": "What is the native language of Jan van Riebeeck?",
+    "answer": " Dutch",
+    "sub": "Jan van Riebeeck"
+  },
+  {
+    "query": "What is the native language of Fred Vargas?",
+    "answer": " French",
+    "sub": "Fred Vargas"
+  },
+  {
+    "query": "What is the native language of Mithat Bayrak?",
+    "answer": " Turkish",
+    "sub": "Mithat Bayrak"
+  },
+  {
+    "query": "What is the native language of Marcel Schwob?",
+    "answer": " French",
+    "sub": "Marcel Schwob"
+  },
+  {
+    "query": "What is the native language of Zelimkhan Yandarbiyev?",
+    "answer": " Russian",
+    "sub": "Zelimkhan Yandarbiyev"
+  },
+  {
+    "query": "What is the native language of Louis Joxe?",
+    "answer": " French",
+    "sub": "Louis Joxe"
+  },
+  {
+    "query": "What is the native language of Raghu Babu?",
+    "answer": " Telugu",
+    "sub": "Raghu Babu"
+  },
+  {
+    "query": "What is the native language of Odette Barencey?",
+    "answer": " French",
+    "sub": "Odette Barencey"
+  },
+  {
+    "query": "What is the native language of Irma Boom?",
+    "answer": " Dutch",
+    "sub": "Irma Boom"
+  },
+  {
+    "query": "What is the native language of Nyusha?",
+    "answer": " Russian",
+    "sub": "Nyusha"
+  },
+  {
+    "query": "What is the native language of Henriette-Julie de Murat?",
+    "answer": " French",
+    "sub": "Henriette-Julie de Murat"
+  },
+  {
+    "query": "What is the native language of Rainer Maria Rilke?",
+    "answer": " German",
+    "sub": "Rainer Maria Rilke"
+  },
+  {
+    "query": "What is the native language of Lev Landau?",
+    "answer": " Russian",
+    "sub": "Lev Landau"
+  },
+  {
+    "query": "What is the native language of Alex Ferguson?",
+    "answer": " English",
+    "sub": "Alex Ferguson"
+  },
+  {
+    "query": "What is the native language of Louis-Jean-Marie Daubenton?",
+    "answer": " French",
+    "sub": "Louis-Jean-Marie Daubenton"
+  },
+  {
+    "query": "What is the native language of Ferdinand-Alphonse Hamelin?",
+    "answer": " French",
+    "sub": "Ferdinand-Alphonse Hamelin"
+  },
+  {
+    "query": "What is the native language of Lydie Denier?",
+    "answer": " French",
+    "sub": "Lydie Denier"
+  },
+  {
+    "query": "What is the native language of Dominique Bouhours?",
+    "answer": " French",
+    "sub": "Dominique Bouhours"
+  },
+  {
+    "query": "What is the native language of Frederick Marryat?",
+    "answer": " English",
+    "sub": "Frederick Marryat"
+  },
+  {
+    "query": "What is the native language of Elsa Zylberstein?",
+    "answer": " French",
+    "sub": "Elsa Zylberstein"
+  },
+  {
+    "query": "What is the native language of Nicolaas Pierson?",
+    "answer": " Dutch",
+    "sub": "Nicolaas Pierson"
+  },
+  {
+    "query": "What is the native language of Adolphe Schneider?",
+    "answer": " French",
+    "sub": "Adolphe Schneider"
+  },
+  {
+    "query": "What is the native language of Julie Myerson?",
+    "answer": " English",
+    "sub": "Julie Myerson"
+  },
+  {
+    "query": "What is the native language of Juan de Espinosa Medrano?",
+    "answer": " Spanish",
+    "sub": "Juan de Espinosa Medrano"
+  },
+  {
+    "query": "What is the native language of Paolo Tiralongo?",
+    "answer": " Italian",
+    "sub": "Paolo Tiralongo"
+  },
+  {
+    "query": "What is the native language of Isabelle Nanty?",
+    "answer": " French",
+    "sub": "Isabelle Nanty"
+  },
+  {
+    "query": "What is the native language of Marcel Mouloudji?",
+    "answer": " French",
+    "sub": "Marcel Mouloudji"
+  },
+  {
+    "query": "What is the native language of Jean-Pierre Andrevon?",
+    "answer": " French",
+    "sub": "Jean-Pierre Andrevon"
+  },
+  {
+    "query": "What is the native language of Joannes de Laet?",
+    "answer": " Dutch",
+    "sub": "Joannes de Laet"
+  },
+  {
+    "query": "What is the native language of Charles Augustin Sainte-Beuve?",
+    "answer": " French",
+    "sub": "Charles Augustin Sainte-Beuve"
+  },
+  {
+    "query": "What is the native language of Gilles Lellouche?",
+    "answer": " French",
+    "sub": "Gilles Lellouche"
+  },
+  {
+    "query": "What is the native language of Marguerite Audoux?",
+    "answer": " French",
+    "sub": "Marguerite Audoux"
+  },
+  {
+    "query": "What is the native language of Shy'm?",
+    "answer": " French",
+    "sub": "Shy'm"
+  },
+  {
+    "query": "What is the native language of Colette Darfeuil?",
+    "answer": " French",
+    "sub": "Colette Darfeuil"
+  },
+  {
+    "query": "What is the native language of Mohammad-Reza Sharifinia?",
+    "answer": " Persian",
+    "sub": "Mohammad-Reza Sharifinia"
+  },
+  {
+    "query": "What is the native language of Blanchette Brunoy?",
+    "answer": " French",
+    "sub": "Blanchette Brunoy"
+  },
+  {
+    "query": "What is the native language of Patrick Chamoiseau?",
+    "answer": " French",
+    "sub": "Patrick Chamoiseau"
+  },
+  {
+    "query": "What is the native language of Wil Huygen?",
+    "answer": " Dutch",
+    "sub": "Wil Huygen"
+  },
+  {
+    "query": "What is the native language of Jacques Ellul?",
+    "answer": " French",
+    "sub": "Jacques Ellul"
+  },
+  {
+    "query": "What is the native language of Edward Bulwer-Lytton?",
+    "answer": " English",
+    "sub": "Edward Bulwer-Lytton"
+  },
+  {
+    "query": "What is the native language of Glenmor?",
+    "answer": " Breton",
+    "sub": "Glenmor"
+  },
+  {
+    "query": "What is the native language of Geetu Mohandas?",
+    "answer": " Malayalam",
+    "sub": "Geetu Mohandas"
+  },
+  {
+    "query": "What is the native language of Guy Debord?",
+    "answer": " French",
+    "sub": "Guy Debord"
+  },
+  {
+    "query": "What is the native language of Christopher Frank?",
+    "answer": " French",
+    "sub": "Christopher Frank"
+  },
+  {
+    "query": "What is the native language of Simon Dubnow?",
+    "answer": " Russian",
+    "sub": "Simon Dubnow"
+  },
+  {
+    "query": "What is the native language of Gautier de Metz?",
+    "answer": " French",
+    "sub": "Gautier de Metz"
+  },
+  {
+    "query": "What is the native language of Cyril Collard?",
+    "answer": " French",
+    "sub": "Cyril Collard"
+  },
+  {
+    "query": "What is the native language of Henri Desgrange?",
+    "answer": " French",
+    "sub": "Henri Desgrange"
+  },
+  {
+    "query": "What is the native language of Silvia Monfort?",
+    "answer": " French",
+    "sub": "Silvia Monfort"
+  },
+  {
+    "query": "What is the native language of Joseph Bonaparte?",
+    "answer": " French",
+    "sub": "Joseph Bonaparte"
+  },
+  {
+    "query": "What is the native language of Michel Saint-Denis?",
+    "answer": " French",
+    "sub": "Michel Saint-Denis"
+  },
+  {
+    "query": "What is the native language of Pierre Brice?",
+    "answer": " French",
+    "sub": "Pierre Brice"
+  },
+  {
+    "query": "What is the native language of Maurice Teynac?",
+    "answer": " French",
+    "sub": "Maurice Teynac"
+  },
+  {
+    "query": "What is the native language of Boris Vian?",
+    "answer": " French",
+    "sub": "Boris Vian"
+  },
+  {
+    "query": "What is the native language of Brahmaji?",
+    "answer": " Telugu",
+    "sub": "Brahmaji"
+  },
+  {
+    "query": "What is the native language of Michel Robin?",
+    "answer": " French",
+    "sub": "Michel Robin"
+  },
+  {
+    "query": "What is the native language of Jean-Marie Le Pen?",
+    "answer": " French",
+    "sub": "Jean-Marie Le Pen"
+  },
+  {
+    "query": "What is the native language of Farid Chopel?",
+    "answer": " French",
+    "sub": "Farid Chopel"
+  },
+  {
+    "query": "What is the native language of Novak Djokovic?",
+    "answer": " Serbian",
+    "sub": "Novak Djokovic"
+  },
+  {
+    "query": "What is the native language of Muriel Barbery?",
+    "answer": " French",
+    "sub": "Muriel Barbery"
+  },
+  {
+    "query": "What is the native language of Jean Piat?",
+    "answer": " French",
+    "sub": "Jean Piat"
+  },
+  {
+    "query": "What is the native language of Alain Mabanckou?",
+    "answer": " French",
+    "sub": "Alain Mabanckou"
+  },
+  {
+    "query": "What is the native language of Lipke Holthuis?",
+    "answer": " Dutch",
+    "sub": "Lipke Holthuis"
+  },
+  {
+    "query": "What is the native language of Chaya Devi?",
+    "answer": " Bengali",
+    "sub": "Chaya Devi"
+  },
+  {
+    "query": "What is the native language of Anne Fontaine?",
+    "answer": " French",
+    "sub": "Anne Fontaine"
+  },
+  {
+    "query": "What is the native language of Maximilian Voloshin?",
+    "answer": " Russian",
+    "sub": "Maximilian Voloshin"
+  },
+  {
+    "query": "What is the native language of Maarten Tromp?",
+    "answer": " Dutch",
+    "sub": "Maarten Tromp"
+  },
+  {
+    "query": "What is the native language of Paul Guimard?",
+    "answer": " French",
+    "sub": "Paul Guimard"
+  },
+  {
+    "query": "What is the native language of Jacques Frantz?",
+    "answer": " French",
+    "sub": "Jacques Frantz"
+  },
+  {
+    "query": "What is the native language of Vera Zvonareva?",
+    "answer": " Russian",
+    "sub": "Vera Zvonareva"
+  },
+  {
+    "query": "What is the native language of Irina Shayk?",
+    "answer": " Russian",
+    "sub": "Irina Shayk"
+  },
+  {
+    "query": "What is the native language of Ludivine Sagnier?",
+    "answer": " French",
+    "sub": "Ludivine Sagnier"
+  },
+  {
+    "query": "What is the native language of John Dalton?",
+    "answer": " English",
+    "sub": "John Dalton"
+  },
+  {
+    "query": "What is the native language of Claude Rich?",
+    "answer": " French",
+    "sub": "Claude Rich"
+  },
+  {
+    "query": "What is the native language of Marcelle Auclair?",
+    "answer": " French",
+    "sub": "Marcelle Auclair"
+  },
+  {
+    "query": "What is the native language of Theodore Roosevelt?",
+    "answer": " English",
+    "sub": "Theodore Roosevelt"
+  },
+  {
+    "query": "What is the native language of Bas Jan Ader?",
+    "answer": " Dutch",
+    "sub": "Bas Jan Ader"
+  },
+  {
+    "query": "What is the native language of Xavier Beauvois?",
+    "answer": " French",
+    "sub": "Xavier Beauvois"
+  },
+  {
+    "query": "What is the native language of Olga Medvedtseva?",
+    "answer": " Russian",
+    "sub": "Olga Medvedtseva"
+  },
+  {
+    "query": "What is the native language of Jaak Aaviksoo?",
+    "answer": " Estonian",
+    "sub": "Jaak Aaviksoo"
+  },
+  {
+    "query": "What is the native language of Aleksandr Lyapunov?",
+    "answer": " Russian",
+    "sub": "Aleksandr Lyapunov"
+  },
+  {
+    "query": "What is the native language of Didier Van Cauwelaert?",
+    "answer": " French",
+    "sub": "Didier Van Cauwelaert"
+  },
+  {
+    "query": "What is the native language of Guy Drut?",
+    "answer": " French",
+    "sub": "Guy Drut"
+  },
+  {
+    "query": "What is the native language of Boris Asafyev?",
+    "answer": " Russian",
+    "sub": "Boris Asafyev"
+  },
+  {
+    "query": "What is the native language of Samuel Benchetrit?",
+    "answer": " French",
+    "sub": "Samuel Benchetrit"
+  },
+  {
+    "query": "What is the native language of Julie Delpy?",
+    "answer": " French",
+    "sub": "Julie Delpy"
+  },
+  {
+    "query": "What is the native language of Almeida Garrett?",
+    "answer": " Portuguese",
+    "sub": "Almeida Garrett"
+  },
+  {
+    "query": "What is the native language of Henri Barbusse?",
+    "answer": " French",
+    "sub": "Henri Barbusse"
+  },
+  {
+    "query": "What is the native language of Aleksandr Ptushko?",
+    "answer": " Russian",
+    "sub": "Aleksandr Ptushko"
+  },
+  {
+    "query": "What is the native language of Robin Renucci?",
+    "answer": " French",
+    "sub": "Robin Renucci"
+  },
+  {
+    "query": "What is the native language of Manuel Valls?",
+    "answer": " Spanish",
+    "sub": "Manuel Valls"
+  },
+  {
+    "query": "What is the native language of Jean Foyer?",
+    "answer": " French",
+    "sub": "Jean Foyer"
+  },
+  {
+    "query": "What is the native language of Octave Uzanne?",
+    "answer": " French",
+    "sub": "Octave Uzanne"
+  },
+  {
+    "query": "What is the native language of George Sand?",
+    "answer": " French",
+    "sub": "George Sand"
+  },
+  {
+    "query": "What is the native language of Jeroen Willems?",
+    "answer": " Dutch",
+    "sub": "Jeroen Willems"
+  },
+  {
+    "query": "What is the native language of Jiang Qinqin?",
+    "answer": " Chinese",
+    "sub": "Jiang Qinqin"
+  },
+  {
+    "query": "What is the native language of Betha Sudhakar?",
+    "answer": " Telugu",
+    "sub": "Betha Sudhakar"
+  },
+  {
+    "query": "What is the native language of Artyom Borovik?",
+    "answer": " Russian",
+    "sub": "Artyom Borovik"
+  },
+  {
+    "query": "What is the native language of Fabrice Luchini?",
+    "answer": " French",
+    "sub": "Fabrice Luchini"
+  },
+  {
+    "query": "What is the native language of Fanny Ardant?",
+    "answer": " French",
+    "sub": "Fanny Ardant"
+  },
+  {
+    "query": "What is the native language of Annick Alane?",
+    "answer": " French",
+    "sub": "Annick Alane"
+  },
+  {
+    "query": "What is the native language of Pierre Brasseur?",
+    "answer": " French",
+    "sub": "Pierre Brasseur"
+  },
+  {
+    "query": "What is the native language of Jean-Antoine Roucher?",
+    "answer": " French",
+    "sub": "Jean-Antoine Roucher"
+  },
+  {
+    "query": "What is the native language of Hendrik Petrus Berlage?",
+    "answer": " Dutch",
+    "sub": "Hendrik Petrus Berlage"
+  },
+  {
+    "query": "What is the native language of Louis de Rouvroy, duc de Saint-Simon?",
+    "answer": " French",
+    "sub": "Louis de Rouvroy, duc de Saint-Simon"
+  },
+  {
+    "query": "What is the native language of Walter Pater?",
+    "answer": " English",
+    "sub": "Walter Pater"
+  },
+  {
+    "query": "What is the native language of Roger Dumas?",
+    "answer": " French",
+    "sub": "Roger Dumas"
+  },
+  {
+    "query": "What is the native language of Jean-Baptiste Henri Lacordaire?",
+    "answer": " French",
+    "sub": "Jean-Baptiste Henri Lacordaire"
+  },
+  {
+    "query": "What is the native language of Leo Tolstoy?",
+    "answer": " Russian",
+    "sub": "Leo Tolstoy"
+  },
+  {
+    "query": "What is the native language of Al Gore?",
+    "answer": " English",
+    "sub": "Al Gore"
+  },
+  {
+    "query": "What is the native language of Jean Bruller?",
+    "answer": " French",
+    "sub": "Jean Bruller"
+  },
+  {
+    "query": "What is the native language of Nicola Sirkis?",
+    "answer": " French",
+    "sub": "Nicola Sirkis"
+  },
+  {
+    "query": "What is the native language of Ilya Ehrenburg?",
+    "answer": " Russian",
+    "sub": "Ilya Ehrenburg"
+  },
+  {
+    "query": "What is the native language of Kannadasan?",
+    "answer": " Tamil",
+    "sub": "Kannadasan"
+  },
+  {
+    "query": "What is the native language of Jacques Dufilho?",
+    "answer": " French",
+    "sub": "Jacques Dufilho"
+  },
+  {
+    "query": "What is the native language of Jean Le Poulain?",
+    "answer": " French",
+    "sub": "Jean Le Poulain"
+  },
+  {
+    "query": "What is the native language of Julien Carette?",
+    "answer": " French",
+    "sub": "Julien Carette"
+  },
+  {
+    "query": "What is the native language of Joop Zoetemelk?",
+    "answer": " Dutch",
+    "sub": "Joop Zoetemelk"
+  },
+  {
+    "query": "What is the native language of Jean-Christophe Bouvet?",
+    "answer": " French",
+    "sub": "Jean-Christophe Bouvet"
+  },
+  {
+    "query": "What is the native language of Xavier Saint-Macary?",
+    "answer": " French",
+    "sub": "Xavier Saint-Macary"
+  },
+  {
+    "query": "What is the native language of Johan van Heemskerk?",
+    "answer": " Dutch",
+    "sub": "Johan van Heemskerk"
+  },
+  {
+    "query": "What is the native language of Emmanuel Hocquard?",
+    "answer": " French",
+    "sub": "Emmanuel Hocquard"
+  },
+  {
+    "query": "What is the native language of Louis Gabriel Michaud?",
+    "answer": " French",
+    "sub": "Louis Gabriel Michaud"
+  },
+  {
+    "query": "What is the native language of Jean-Baptiste de Boyer, Marquis d'Argens?",
+    "answer": " French",
+    "sub": "Jean-Baptiste de Boyer, Marquis d'Argens"
+  },
+  {
+    "query": "What is the native language of Maurice Thorez?",
+    "answer": " French",
+    "sub": "Maurice Thorez"
+  },
+  {
+    "query": "What is the native language of Thoppil Bhasi?",
+    "answer": " Malayalam",
+    "sub": "Thoppil Bhasi"
+  },
+  {
+    "query": "What is the native language of Claude Cerval?",
+    "answer": " French",
+    "sub": "Claude Cerval"
+  },
+  {
+    "query": "What is the native language of Hendrikus Colijn?",
+    "answer": " Dutch",
+    "sub": "Hendrikus Colijn"
+  },
+  {
+    "query": "What is the native language of Edsger W. Dijkstra?",
+    "answer": " Dutch",
+    "sub": "Edsger W. Dijkstra"
+  },
+  {
+    "query": "What is the native language of Dominique Sanda?",
+    "answer": " French",
+    "sub": "Dominique Sanda"
+  },
+  {
+    "query": "What is the native language of Vincent Rottiers?",
+    "answer": " French",
+    "sub": "Vincent Rottiers"
+  },
+  {
+    "query": "What is the native language of Jean-Louis Curtis?",
+    "answer": " French",
+    "sub": "Jean-Louis Curtis"
+  },
+  {
+    "query": "What is the native language of Edward Burnett Tylor?",
+    "answer": " English",
+    "sub": "Edward Burnett Tylor"
+  },
+  {
+    "query": "What is the native language of Vincent Lacoste?",
+    "answer": " French",
+    "sub": "Vincent Lacoste"
+  },
+  {
+    "query": "What is the native language of Paul Capellani?",
+    "answer": " French",
+    "sub": "Paul Capellani"
+  },
+  {
+    "query": "What is the native language of Charles de Rochefort?",
+    "answer": " French",
+    "sub": "Charles de Rochefort"
+  },
+  {
+    "query": "What is the native language of Maurice Risch?",
+    "answer": " French",
+    "sub": "Maurice Risch"
+  },
+  {
+    "query": "What is the native language of Raymond Abellio?",
+    "answer": " French",
+    "sub": "Raymond Abellio"
+  },
+  {
+    "query": "What is the native language of Paul Pellisson?",
+    "answer": " French",
+    "sub": "Paul Pellisson"
+  },
+  {
+    "query": "What is the native language of Daniel Tammet?",
+    "answer": " English",
+    "sub": "Daniel Tammet"
+  },
+  {
+    "query": "What is the native language of Pierre Bourdieu?",
+    "answer": " French",
+    "sub": "Pierre Bourdieu"
+  },
+  {
+    "query": "What is the native language of Vitruvius?",
+    "answer": " Latin",
+    "sub": "Vitruvius"
+  },
+  {
+    "query": "What is the native language of Hans Peter Anvin?",
+    "answer": " Swedish",
+    "sub": "Hans Peter Anvin"
+  },
+  {
+    "query": "What is the native language of Raymond Triboulet?",
+    "answer": " French",
+    "sub": "Raymond Triboulet"
+  },
+  {
+    "query": "What is the native language of Josiane Balasko?",
+    "answer": " French",
+    "sub": "Josiane Balasko"
+  },
+  {
+    "query": "What is the native language of Paul Frankeur?",
+    "answer": " French",
+    "sub": "Paul Frankeur"
+  },
+  {
+    "query": "What is the native language of Symeon of Polotsk?",
+    "answer": " Russian",
+    "sub": "Symeon of Polotsk"
+  },
+  {
+    "query": "What is the native language of Isabelle Autissier?",
+    "answer": " French",
+    "sub": "Isabelle Autissier"
+  },
+  {
+    "query": "What is the native language of Jean-Hilaire Aubame?",
+    "answer": " French",
+    "sub": "Jean-Hilaire Aubame"
+  },
+  {
+    "query": "What is the native language of Laurent Casanova?",
+    "answer": " French",
+    "sub": "Laurent Casanova"
+  },
+  {
+    "query": "What is the native language of Pierre Schneiter?",
+    "answer": " French",
+    "sub": "Pierre Schneiter"
+  },
+  {
+    "query": "What is the native language of Louis Florencie?",
+    "answer": " French",
+    "sub": "Louis Florencie"
+  },
+  {
+    "query": "What is the native language of Charlotte-Rose de Caumont de La Force?",
+    "answer": " French",
+    "sub": "Charlotte-Rose de Caumont de La Force"
+  },
+  {
+    "query": "What is the native language of Jayabharathi?",
+    "answer": " Malayalam",
+    "sub": "Jayabharathi"
+  },
+  {
+    "query": "What is the native language of Willem Johan Kolff?",
+    "answer": " Dutch",
+    "sub": "Willem Johan Kolff"
+  },
+  {
+    "query": "What is the native language of Arthur Dupont?",
+    "answer": " French",
+    "sub": "Arthur Dupont"
+  },
+  {
+    "query": "What is the native language of Devulapalli Krishnasastri?",
+    "answer": " Telugu",
+    "sub": "Devulapalli Krishnasastri"
+  },
+  {
+    "query": "What is the native language of Louis Dutens?",
+    "answer": " French",
+    "sub": "Louis Dutens"
+  },
+  {
+    "query": "What is the native language of Hugo von Hofmannsthal?",
+    "answer": " German",
+    "sub": "Hugo von Hofmannsthal"
+  },
+  {
+    "query": "What is the native language of Anastasy Vonsyatsky?",
+    "answer": " Russian",
+    "sub": "Anastasy Vonsyatsky"
+  },
+  {
+    "query": "What is the native language of Kondavalasa Lakshmana Rao?",
+    "answer": " Telugu",
+    "sub": "Kondavalasa Lakshmana Rao"
+  },
+  {
+    "query": "What is the native language of Yuri Knorozov?",
+    "answer": " Russian",
+    "sub": "Yuri Knorozov"
+  },
+  {
+    "query": "What is the native language of Johnny Hallyday?",
+    "answer": " French",
+    "sub": "Johnny Hallyday"
+  },
+  {
+    "query": "What is the native language of Marie-Arlette Carlotti?",
+    "answer": " French",
+    "sub": "Marie-Arlette Carlotti"
+  },
+  {
+    "query": "What is the native language of Ida Dalser?",
+    "answer": " Italian",
+    "sub": "Ida Dalser"
+  },
+  {
+    "query": "What is the native language of Ger van Elk?",
+    "answer": " Dutch",
+    "sub": "Ger van Elk"
+  },
+  {
+    "query": "What is the native language of Tylman van Gameren?",
+    "answer": " Dutch",
+    "sub": "Tylman van Gameren"
+  },
+  {
+    "query": "What is the native language of Nazi Boni?",
+    "answer": " French",
+    "sub": "Nazi Boni"
+  },
+  {
+    "query": "What is the native language of Roger Caillois?",
+    "answer": " French",
+    "sub": "Roger Caillois"
+  },
+  {
+    "query": "What is the native language of Roger Garaudy?",
+    "answer": " French",
+    "sub": "Roger Garaudy"
+  },
+  {
+    "query": "What is the native language of Paul Louis Courier?",
+    "answer": " French",
+    "sub": "Paul Louis Courier"
+  },
+  {
+    "query": "What is the native language of Jalil Lespert?",
+    "answer": " French",
+    "sub": "Jalil Lespert"
+  },
+  {
+    "query": "What is the native language of Alfred Capus?",
+    "answer": " French",
+    "sub": "Alfred Capus"
+  },
+  {
+    "query": "What is the native language of Daniel Darc?",
+    "answer": " French",
+    "sub": "Daniel Darc"
+  },
+  {
+    "query": "What is the native language of Jules Favre?",
+    "answer": " French",
+    "sub": "Jules Favre"
+  },
+  {
+    "query": "What is the native language of Anton Nilson?",
+    "answer": " Swedish",
+    "sub": "Anton Nilson"
+  },
+  {
+    "query": "What is the native language of Nicolas Giraud?",
+    "answer": " French",
+    "sub": "Nicolas Giraud"
+  },
+  {
+    "query": "What is the native language of Marcel Pagnol?",
+    "answer": " French",
+    "sub": "Marcel Pagnol"
+  },
+  {
+    "query": "What is the native language of Zachris Topelius?",
+    "answer": " Swedish",
+    "sub": "Zachris Topelius"
+  },
+  {
+    "query": "What is the native language of Aluri Chakrapani?",
+    "answer": " Telugu",
+    "sub": "Aluri Chakrapani"
+  },
+  {
+    "query": "What is the native language of Panagiotis Lafazanis?",
+    "answer": " Greek",
+    "sub": "Panagiotis Lafazanis"
+  },
+  {
+    "query": "What is the native language of Amira Casar?",
+    "answer": " French",
+    "sub": "Amira Casar"
+  },
+  {
+    "query": "What is the native language of Shakira?",
+    "answer": " Spanish",
+    "sub": "Shakira"
+  },
+  {
+    "query": "What is the native language of Joseph Brodsky?",
+    "answer": " Russian",
+    "sub": "Joseph Brodsky"
+  },
+  {
+    "query": "What is the native language of Master Venu?",
+    "answer": " Telugu",
+    "sub": "Master Venu"
+  },
+  {
+    "query": "What is the native language of Louis Friant?",
+    "answer": " French",
+    "sub": "Louis Friant"
+  },
+  {
+    "query": "What is the native language of Henri-Joseph Paixhans?",
+    "answer": " French",
+    "sub": "Henri-Joseph Paixhans"
+  },
+  {
+    "query": "What is the native language of Maurice Biraud?",
+    "answer": " French",
+    "sub": "Maurice Biraud"
+  },
+  {
+    "query": "What is the native language of Pierre Daniel Huet?",
+    "answer": " French",
+    "sub": "Pierre Daniel Huet"
+  },
+  {
+    "query": "What is the native language of Michel d'Ornano?",
+    "answer": " French",
+    "sub": "Michel d'Ornano"
+  },
+  {
+    "query": "What is the native language of Jacques Mauclair?",
+    "answer": " French",
+    "sub": "Jacques Mauclair"
+  },
+  {
+    "query": "What is the native language of Alberto Giacometti?",
+    "answer": " Italian",
+    "sub": "Alberto Giacometti"
+  },
+  {
+    "query": "What is the native language of Jean Marot?",
+    "answer": " French",
+    "sub": "Jean Marot"
+  },
+  {
+    "query": "What is the native language of Gollapudi Maruti Rao?",
+    "answer": " Telugu",
+    "sub": "Gollapudi Maruti Rao"
+  },
+  {
+    "query": "What is the native language of Christiane Taubira?",
+    "answer": " French",
+    "sub": "Christiane Taubira"
+  },
+  {
+    "query": "What is the native language of Vlada Roslyakova?",
+    "answer": " Russian",
+    "sub": "Vlada Roslyakova"
+  },
+  {
+    "query": "What is the native language of Marie Curie?",
+    "answer": " Polish",
+    "sub": "Marie Curie"
+  },
+  {
+    "query": "What is the native language of Joost Swarte?",
+    "answer": " Dutch",
+    "sub": "Joost Swarte"
+  },
+  {
+    "query": "What is the native language of Akkineni Nagarjuna?",
+    "answer": " Telugu",
+    "sub": "Akkineni Nagarjuna"
+  },
+  {
+    "query": "What is the native language of Louis Nicolas Vauquelin?",
+    "answer": " French",
+    "sub": "Louis Nicolas Vauquelin"
+  },
+  {
+    "query": "What is the native language of Robert Lecourt?",
+    "answer": " French",
+    "sub": "Robert Lecourt"
+  },
+  {
+    "query": "What is the native language of Marguerite Yourcenar?",
+    "answer": " French",
+    "sub": "Marguerite Yourcenar"
+  },
+  {
+    "query": "What is the native language of Aleksey Khomyakov?",
+    "answer": " Russian",
+    "sub": "Aleksey Khomyakov"
+  },
+  {
+    "query": "What is the native language of F. Springer?",
+    "answer": " Dutch",
+    "sub": "F. Springer"
+  },
+  {
+    "query": "What is the native language of Chveneburi?",
+    "answer": " Georgian",
+    "sub": "Chveneburi"
+  },
+  {
+    "query": "What is the native language of Hans Christian Andersen?",
+    "answer": " Danish",
+    "sub": "Hans Christian Andersen"
+  },
+  {
+    "query": "What is the native language of Aleksandr Kaleri?",
+    "answer": " Russian",
+    "sub": "Aleksandr Kaleri"
+  },
+  {
+    "query": "What is the native language of Jean Lefebvre?",
+    "answer": " French",
+    "sub": "Jean Lefebvre"
+  },
+  {
+    "query": "What is the native language of Jacques Cazotte?",
+    "answer": " French",
+    "sub": "Jacques Cazotte"
+  },
+  {
+    "query": "What is the native language of Gough Whitlam?",
+    "answer": " English",
+    "sub": "Gough Whitlam"
+  },
+  {
+    "query": "What is the native language of Swedes?",
+    "answer": " Swedish",
+    "sub": "Swedes"
+  },
+  {
+    "query": "What is the native language of Jonathan Littell?",
+    "answer": " French",
+    "sub": "Jonathan Littell"
+  },
+  {
+    "query": "What is the native language of Bertrand Tavernier?",
+    "answer": " French",
+    "sub": "Bertrand Tavernier"
+  },
+  {
+    "query": "What is the native language of Dominique Rocheteau?",
+    "answer": " French",
+    "sub": "Dominique Rocheteau"
+  },
+  {
+    "query": "What is the native language of Jean Schopfer?",
+    "answer": " French",
+    "sub": "Jean Schopfer"
+  },
+  {
+    "query": "What is the native language of Jacques Roubaud?",
+    "answer": " French",
+    "sub": "Jacques Roubaud"
+  },
+  {
+    "query": "What is the native language of Cherusseri Namboothiri?",
+    "answer": " Malayalam",
+    "sub": "Cherusseri Namboothiri"
+  },
+  {
+    "query": "What is the native language of Antoine Augustin Calmet?",
+    "answer": " French",
+    "sub": "Antoine Augustin Calmet"
+  },
+  {
+    "query": "What is the native language of Maurice Clavel?",
+    "answer": " French",
+    "sub": "Maurice Clavel"
+  },
+  {
+    "query": "What is the native language of Alexandros Rizos Rangavis?",
+    "answer": " Greek",
+    "sub": "Alexandros Rizos Rangavis"
+  },
+  {
+    "query": "What is the native language of Christian Clavier?",
+    "answer": " French",
+    "sub": "Christian Clavier"
+  },
+  {
+    "query": "What is the native language of Michel Modo?",
+    "answer": " French",
+    "sub": "Michel Modo"
+  },
+  {
+    "query": "What is the native language of Jacques Werup?",
+    "answer": " Swedish",
+    "sub": "Jacques Werup"
+  },
+  {
+    "query": "What is the native language of Jean-Christophe Rufin?",
+    "answer": " French",
+    "sub": "Jean-Christophe Rufin"
+  },
+  {
+    "query": "What is the native language of Vasil Kiryienka?",
+    "answer": " Belarusian",
+    "sub": "Vasil Kiryienka"
+  },
+  {
+    "query": "What is the native language of Jean Desailly?",
+    "answer": " French",
+    "sub": "Jean Desailly"
+  },
+  {
+    "query": "What is the native language of Valentin Rasputin?",
+    "answer": " Russian",
+    "sub": "Valentin Rasputin"
+  },
+  {
+    "query": "What is the native language of Auguste Villiers de l'Isle-Adam?",
+    "answer": " French",
+    "sub": "Auguste Villiers de l'Isle-Adam"
+  },
+  {
+    "query": "What is the native language of Jules de Goncourt?",
+    "answer": " French",
+    "sub": "Jules de Goncourt"
+  },
+  {
+    "query": "What is the native language of Mathieu de Montmorency?",
+    "answer": " French",
+    "sub": "Mathieu de Montmorency"
+  },
+  {
+    "query": "What is the native language of Andreas Karkavitsas?",
+    "answer": " Greek",
+    "sub": "Andreas Karkavitsas"
+  },
+  {
+    "query": "What is the native language of Louis Barthou?",
+    "answer": " French",
+    "sub": "Louis Barthou"
+  },
+  {
+    "query": "What is the native language of Andrew Jackson?",
+    "answer": " English",
+    "sub": "Andrew Jackson"
+  },
+  {
+    "query": "What is the native language of Antoine Isaac Silvestre de Sacy?",
+    "answer": " French",
+    "sub": "Antoine Isaac Silvestre de Sacy"
+  },
+  {
+    "query": "What is the native language of Sophie Calle?",
+    "answer": " French",
+    "sub": "Sophie Calle"
+  },
+  {
+    "query": "What is the native language of Pierre Guyotat?",
+    "answer": " French",
+    "sub": "Pierre Guyotat"
+  },
+  {
+    "query": "What is the native language of Georges Pompidou?",
+    "answer": " French",
+    "sub": "Georges Pompidou"
+  },
+  {
+    "query": "What is the native language of Jean-Baptiste Say?",
+    "answer": " French",
+    "sub": "Jean-Baptiste Say"
+  },
+  {
+    "query": "What is the native language of Ivan Kireyevsky?",
+    "answer": " Russian",
+    "sub": "Ivan Kireyevsky"
+  },
+  {
+    "query": "What is the native language of Gad Elmaleh?",
+    "answer": " French",
+    "sub": "Gad Elmaleh"
+  },
+  {
+    "query": "What is the native language of Thomas Joannes Stieltjes?",
+    "answer": " Dutch",
+    "sub": "Thomas Joannes Stieltjes"
+  },
+  {
+    "query": "What is the native language of Joseph Conombo?",
+    "answer": " French",
+    "sub": "Joseph Conombo"
+  },
+  {
+    "query": "What is the native language of Isaac Vossius?",
+    "answer": " Dutch",
+    "sub": "Isaac Vossius"
+  },
+  {
+    "query": "What is the native language of Anna Prucnal?",
+    "answer": " French",
+    "sub": "Anna Prucnal"
+  },
+  {
+    "query": "What is the native language of Sergey Aksyonov?",
+    "answer": " Russian",
+    "sub": "Sergey Aksyonov"
+  },
+  {
+    "query": "What is the native language of Aagje Deken?",
+    "answer": " Dutch",
+    "sub": "Aagje Deken"
+  },
+  {
+    "query": "What is the native language of Jean-Bernard Raimond?",
+    "answer": " French",
+    "sub": "Jean-Bernard Raimond"
+  },
+  {
+    "query": "What is the native language of Christian Millau?",
+    "answer": " French",
+    "sub": "Christian Millau"
+  },
+  {
+    "query": "What is the native language of Louis Aragon?",
+    "answer": " French",
+    "sub": "Louis Aragon"
+  },
+  {
+    "query": "What is the native language of Mathieu Amalric?",
+    "answer": " French",
+    "sub": "Mathieu Amalric"
+  },
+  {
+    "query": "What is the native language of Ruslan Khasbulatov?",
+    "answer": " Russian",
+    "sub": "Ruslan Khasbulatov"
+  },
+  {
+    "query": "What is the native language of Porfiry Ivanov?",
+    "answer": " Russian",
+    "sub": "Porfiry Ivanov"
+  },
+  {
+    "query": "What is the native language of Raimu?",
+    "answer": " French",
+    "sub": "Raimu"
+  },
+  {
+    "query": "What is the native language of Franz Roubaud?",
+    "answer": " Russian",
+    "sub": "Franz Roubaud"
+  },
+  {
+    "query": "What is the native language of Joseph Joubert?",
+    "answer": " French",
+    "sub": "Joseph Joubert"
+  },
+  {
+    "query": "What is the native language of Paul Collin?",
+    "answer": " French",
+    "sub": "Paul Collin"
+  },
+  {
+    "query": "What is the native language of Jean Sorel?",
+    "answer": " French",
+    "sub": "Jean Sorel"
+  },
+  {
+    "query": "What is the native language of Didier Daeninckx?",
+    "answer": " French",
+    "sub": "Didier Daeninckx"
+  },
+  {
+    "query": "What is the native language of Alexander Osmerkin?",
+    "answer": " Russian",
+    "sub": "Alexander Osmerkin"
+  },
+  {
+    "query": "What is the native language of Francis Blanche?",
+    "answer": " French",
+    "sub": "Francis Blanche"
+  },
+  {
+    "query": "What is the native language of Nadezhda Krupskaya?",
+    "answer": " Russian",
+    "sub": "Nadezhda Krupskaya"
+  },
+  {
+    "query": "What is the native language of Jean Davy?",
+    "answer": " French",
+    "sub": "Jean Davy"
+  },
+  {
+    "query": "What is the native language of Charles Marie René Leconte de Lisle?",
+    "answer": " French",
+    "sub": "Charles Marie René Leconte de Lisle"
+  },
+  {
+    "query": "What is the native language of Ariane Labed?",
+    "answer": " French",
+    "sub": "Ariane Labed"
+  },
+  {
+    "query": "What is the native language of Marc Alyn?",
+    "answer": " French",
+    "sub": "Marc Alyn"
+  },
+  {
+    "query": "What is the native language of Michel Sardou?",
+    "answer": " French",
+    "sub": "Michel Sardou"
+  },
+  {
+    "query": "What is the native language of Paul Citroen?",
+    "answer": " Dutch",
+    "sub": "Paul Citroen"
+  },
+  {
+    "query": "What is the native language of Jean Raspail?",
+    "answer": " French",
+    "sub": "Jean Raspail"
+  },
+  {
+    "query": "What is the native language of Skolts?",
+    "answer": " Finnish",
+    "sub": "Skolts"
+  },
+  {
+    "query": "What is the native language of Louis-Pierre Baltard?",
+    "answer": " French",
+    "sub": "Louis-Pierre Baltard"
+  },
+  {
+    "query": "What is the native language of Claude Simon?",
+    "answer": " French",
+    "sub": "Claude Simon"
+  },
+  {
+    "query": "What is the native language of Slava Zaitsev?",
+    "answer": " Russian",
+    "sub": "Slava Zaitsev"
+  },
+  {
+    "query": "What is the native language of Felix Dzerzhinsky?",
+    "answer": " Russian",
+    "sub": "Felix Dzerzhinsky"
+  },
+  {
+    "query": "What is the native language of Julien Boisselier?",
+    "answer": " French",
+    "sub": "Julien Boisselier"
+  },
+  {
+    "query": "What is the native language of Yvonne de Bray?",
+    "answer": " French",
+    "sub": "Yvonne de Bray"
+  },
+  {
+    "query": "What is the native language of Chrisye?",
+    "answer": " Indonesian",
+    "sub": "Chrisye"
+  },
+  {
+    "query": "What is the native language of Guy Patin?",
+    "answer": " French",
+    "sub": "Guy Patin"
+  },
+  {
+    "query": "What is the native language of Jacques Dumesnil?",
+    "answer": " French",
+    "sub": "Jacques Dumesnil"
+  },
+  {
+    "query": "What is the native language of Sarath Babu?",
+    "answer": " Telugu",
+    "sub": "Sarath Babu"
+  },
+  {
+    "query": "What is the native language of Jean Allemane?",
+    "answer": " French",
+    "sub": "Jean Allemane"
+  },
+  {
+    "query": "What is the native language of Hendrik Nicolaas Werkman?",
+    "answer": " Dutch",
+    "sub": "Hendrik Nicolaas Werkman"
+  },
+  {
+    "query": "What is the native language of Paul Doumer?",
+    "answer": " French",
+    "sub": "Paul Doumer"
+  },
+  {
+    "query": "What is the native language of Beatrix of the Netherlands?",
+    "answer": " Dutch",
+    "sub": "Beatrix of the Netherlands"
+  },
+  {
+    "query": "What is the native language of William Howitt?",
+    "answer": " English",
+    "sub": "William Howitt"
+  },
+  {
+    "query": "What is the native language of Paule Andral?",
+    "answer": " French",
+    "sub": "Paule Andral"
+  },
+  {
+    "query": "What is the native language of Jean Baptiste Antoine Auget de Montyon?",
+    "answer": " French",
+    "sub": "Jean Baptiste Antoine Auget de Montyon"
+  },
+  {
+    "query": "What is the native language of Nikolay Dobrolyubov?",
+    "answer": " Russian",
+    "sub": "Nikolay Dobrolyubov"
+  },
+  {
+    "query": "What is the native language of Pierre Assouline?",
+    "answer": " French",
+    "sub": "Pierre Assouline"
+  },
+  {
+    "query": "What is the native language of Mohanlal?",
+    "answer": " Malayalam",
+    "sub": "Mohanlal"
+  },
+  {
+    "query": "What is the native language of Georges Hugnet?",
+    "answer": " French",
+    "sub": "Georges Hugnet"
+  },
+  {
+    "query": "What is the native language of Paul Coste-Floret?",
+    "answer": " French",
+    "sub": "Paul Coste-Floret"
+  },
+  {
+    "query": "What is the native language of Lisa Ekdahl?",
+    "answer": " Swedish",
+    "sub": "Lisa Ekdahl"
+  },
+  {
+    "query": "What is the native language of Jandhyala Subramanya Sastry?",
+    "answer": " Telugu",
+    "sub": "Jandhyala Subramanya Sastry"
+  },
+  {
+    "query": "What is the native language of Anthony Delon?",
+    "answer": " French",
+    "sub": "Anthony Delon"
+  },
+  {
+    "query": "What is the native language of Michel Brault?",
+    "answer": " French",
+    "sub": "Michel Brault"
+  },
+  {
+    "query": "What is the native language of Gunasekhar?",
+    "answer": " Telugu",
+    "sub": "Gunasekhar"
+  },
+  {
+    "query": "What is the native language of Caroline Ducey?",
+    "answer": " French",
+    "sub": "Caroline Ducey"
+  },
+  {
+    "query": "What is the native language of Aletta Jacobs?",
+    "answer": " Dutch",
+    "sub": "Aletta Jacobs"
+  },
+  {
+    "query": "What is the native language of Vladimir Mayakovsky?",
+    "answer": " Russian",
+    "sub": "Vladimir Mayakovsky"
+  },
+  {
+    "query": "What is the native language of Arnould Galopin?",
+    "answer": " French",
+    "sub": "Arnould Galopin"
+  },
+  {
+    "query": "What is the native language of Bernard Tapie?",
+    "answer": " French",
+    "sub": "Bernard Tapie"
+  },
+  {
+    "query": "What is the native language of Charles Hernu?",
+    "answer": " French",
+    "sub": "Charles Hernu"
+  },
+  {
+    "query": "What is the native language of Kamala Surayya?",
+    "answer": " Malayalam",
+    "sub": "Kamala Surayya"
+  },
+  {
+    "query": "What is the native language of Anastasia Myskina?",
+    "answer": " Russian",
+    "sub": "Anastasia Myskina"
+  },
+  {
+    "query": "What is the native language of Pierre Braunberger?",
+    "answer": " French",
+    "sub": "Pierre Braunberger"
+  },
+  {
+    "query": "What is the native language of Vaikom Muhammad Basheer?",
+    "answer": " Malayalam",
+    "sub": "Vaikom Muhammad Basheer"
+  },
+  {
+    "query": "What is the native language of Claude-Joseph Dorat?",
+    "answer": " French",
+    "sub": "Claude-Joseph Dorat"
+  },
+  {
+    "query": "What is the native language of Michel Ordener?",
+    "answer": " French",
+    "sub": "Michel Ordener"
+  },
+  {
+    "query": "What is the native language of Sridevi?",
+    "answer": " Tamil",
+    "sub": "Sridevi"
+  },
+  {
+    "query": "What is the native language of Dominique Joseph Garat?",
+    "answer": " French",
+    "sub": "Dominique Joseph Garat"
+  },
+  {
+    "query": "What is the native language of Luc Besson?",
+    "answer": " French",
+    "sub": "Luc Besson"
+  },
+  {
+    "query": "What is the native language of Anne-Marie Idrac?",
+    "answer": " French",
+    "sub": "Anne-Marie Idrac"
+  },
+  {
+    "query": "What is the native language of Mario Vargas Llosa?",
+    "answer": " Spanish",
+    "sub": "Mario Vargas Llosa"
+  },
+  {
+    "query": "What is the native language of Jean-Claude Brisseau?",
+    "answer": " French",
+    "sub": "Jean-Claude Brisseau"
+  },
+  {
+    "query": "What is the native language of Paul Guth?",
+    "answer": " French",
+    "sub": "Paul Guth"
+  },
+  {
+    "query": "What is the native language of Paul Crauchet?",
+    "answer": " French",
+    "sub": "Paul Crauchet"
+  },
+  {
+    "query": "What is the native language of Henri Decoin?",
+    "answer": " French",
+    "sub": "Henri Decoin"
+  },
+  {
+    "query": "What is the native language of Balthasar Bekker?",
+    "answer": " Dutch",
+    "sub": "Balthasar Bekker"
+  },
+  {
+    "query": "What is the native language of Roland Topor?",
+    "answer": " French",
+    "sub": "Roland Topor"
+  },
+  {
+    "query": "What is the native language of Bernard Blancan?",
+    "answer": " French",
+    "sub": "Bernard Blancan"
+  },
+  {
+    "query": "What is the native language of Toine Manders?",
+    "answer": " Dutch",
+    "sub": "Toine Manders"
+  },
+  {
+    "query": "What is the native language of Maria Tesselschade Visscher?",
+    "answer": " Dutch",
+    "sub": "Maria Tesselschade Visscher"
+  },
+  {
+    "query": "What is the native language of Nedurumalli Janardhana Reddy?",
+    "answer": " Telugu",
+    "sub": "Nedurumalli Janardhana Reddy"
+  },
+  {
+    "query": "What is the native language of Thieleman J. van Braght?",
+    "answer": " Dutch",
+    "sub": "Thieleman J. van Braght"
+  },
+  {
+    "query": "What is the native language of Francis de Croisset?",
+    "answer": " French",
+    "sub": "Francis de Croisset"
+  },
+  {
+    "query": "What is the native language of Georges Chamarat?",
+    "answer": " French",
+    "sub": "Georges Chamarat"
+  },
+  {
+    "query": "What is the native language of Adel Bencherif?",
+    "answer": " French",
+    "sub": "Adel Bencherif"
+  },
+  {
+    "query": "What is the native language of Marie Anne de Vichy-Chamrond, marquise du Deffand?",
+    "answer": " French",
+    "sub": "Marie Anne de Vichy-Chamrond, marquise du Deffand"
+  },
+  {
+    "query": "What is the native language of Gil J Wolman?",
+    "answer": " French",
+    "sub": "Gil J Wolman"
+  },
+  {
+    "query": "What is the native language of Jacques Legras?",
+    "answer": " French",
+    "sub": "Jacques Legras"
+  },
+  {
+    "query": "What is the native language of Jean-Sifrein Maury?",
+    "answer": " French",
+    "sub": "Jean-Sifrein Maury"
+  },
+  {
+    "query": "What is the native language of Georges Sadoul?",
+    "answer": " French",
+    "sub": "Georges Sadoul"
+  },
+  {
+    "query": "What is the native language of Eduardo Duhalde?",
+    "answer": " Spanish",
+    "sub": "Eduardo Duhalde"
+  },
+  {
+    "query": "What is the native language of Joseph Roumanille?",
+    "answer": " French",
+    "sub": "Joseph Roumanille"
+  },
+  {
+    "query": "What is the native language of Louis Bonaparte?",
+    "answer": " French",
+    "sub": "Louis Bonaparte"
+  },
+  {
+    "query": "What is the native language of Chris Marker?",
+    "answer": " French",
+    "sub": "Chris Marker"
+  },
+  {
+    "query": "What is the native language of Yvan Goll?",
+    "answer": " French",
+    "sub": "Yvan Goll"
+  },
+  {
+    "query": "What is the native language of Georgy Shpagin?",
+    "answer": " Russian",
+    "sub": "Georgy Shpagin"
+  },
+  {
+    "query": "What is the native language of Antoine Bourdelle?",
+    "answer": " French",
+    "sub": "Antoine Bourdelle"
+  },
+  {
+    "query": "What is the native language of Jean Petitot?",
+    "answer": " French",
+    "sub": "Jean Petitot"
+  },
+  {
+    "query": "What is the native language of Maurice Herzog?",
+    "answer": " French",
+    "sub": "Maurice Herzog"
+  },
+  {
+    "query": "What is the native language of Russians in Ukraine?",
+    "answer": " Russian",
+    "sub": "Russians in Ukraine"
+  },
+  {
+    "query": "What is the native language of Victorien Sardou?",
+    "answer": " French",
+    "sub": "Victorien Sardou"
+  },
+  {
+    "query": "What is the native language of Louane?",
+    "answer": " French",
+    "sub": "Louane"
+  },
+  {
+    "query": "What is the native language of Chen Xiaoxu?",
+    "answer": " Chinese",
+    "sub": "Chen Xiaoxu"
+  },
+  {
+    "query": "What is the native language of Eduard Uspensky?",
+    "answer": " Russian",
+    "sub": "Eduard Uspensky"
+  },
+  {
+    "query": "What is the native language of John Quincy Adams?",
+    "answer": " English",
+    "sub": "John Quincy Adams"
+  },
+  {
+    "query": "What is the native language of Theo van Doesburg?",
+    "answer": " Dutch",
+    "sub": "Theo van Doesburg"
+  },
+  {
+    "query": "What is the native language of Hannah Szenes?",
+    "answer": " Hungarian",
+    "sub": "Hannah Szenes"
+  },
+  {
+    "query": "What is the native language of Roger Karoutchi?",
+    "answer": " French",
+    "sub": "Roger Karoutchi"
+  },
+  {
+    "query": "What is the native language of Lili Damita?",
+    "answer": " French",
+    "sub": "Lili Damita"
+  },
+  {
+    "query": "What is the native language of Marc Dolez?",
+    "answer": " French",
+    "sub": "Marc Dolez"
+  },
+  {
+    "query": "What is the native language of Michel Vinaver?",
+    "answer": " French",
+    "sub": "Michel Vinaver"
+  },
+  {
+    "query": "What is the native language of Ernest Picard?",
+    "answer": " French",
+    "sub": "Ernest Picard"
+  },
+  {
+    "query": "What is the native language of Mikhail Evstafiev?",
+    "answer": " Russian",
+    "sub": "Mikhail Evstafiev"
+  },
+  {
+    "query": "What is the native language of Bernard Cerquiglini?",
+    "answer": " French",
+    "sub": "Bernard Cerquiglini"
+  },
+  {
+    "query": "What is the native language of Bertrand Russell?",
+    "answer": " English",
+    "sub": "Bertrand Russell"
+  },
+  {
+    "query": "What is the native language of Bhimrao Ramji Ambedkar?",
+    "answer": " Marathi",
+    "sub": "Bhimrao Ramji Ambedkar"
+  },
+  {
+    "query": "What is the native language of Alfred Savoir?",
+    "answer": " French",
+    "sub": "Alfred Savoir"
+  },
+  {
+    "query": "What is the native language of Jean Follain?",
+    "answer": " French",
+    "sub": "Jean Follain"
+  },
+  {
+    "query": "What is the native language of Louis-Paul Aujoulat?",
+    "answer": " French",
+    "sub": "Louis-Paul Aujoulat"
+  },
+  {
+    "query": "What is the native language of Jacques Doriot?",
+    "answer": " French",
+    "sub": "Jacques Doriot"
+  },
+  {
+    "query": "What is the native language of Adrienne Monnier?",
+    "answer": " French",
+    "sub": "Adrienne Monnier"
+  },
+  {
+    "query": "What is the native language of Victor Prosper Considerant?",
+    "answer": " French",
+    "sub": "Victor Prosper Considerant"
+  },
+  {
+    "query": "What is the native language of Herman Dooyeweerd?",
+    "answer": " Dutch",
+    "sub": "Herman Dooyeweerd"
+  },
+  {
+    "query": "What is the native language of Akira Kurosawa?",
+    "answer": " Japanese",
+    "sub": "Akira Kurosawa"
+  },
+  {
+    "query": "What is the native language of Suman Pokhrel?",
+    "answer": " Nepali",
+    "sub": "Suman Pokhrel"
+  },
+  {
+    "query": "What is the native language of Sully Prudhomme?",
+    "answer": " French",
+    "sub": "Sully Prudhomme"
+  },
+  {
+    "query": "What is the native language of Allan Kardec?",
+    "answer": " French",
+    "sub": "Allan Kardec"
+  },
+  {
+    "query": "What is the native language of Michel Aumont?",
+    "answer": " French",
+    "sub": "Michel Aumont"
+  },
+  {
+    "query": "What is the native language of Frantz Fanon?",
+    "answer": " French",
+    "sub": "Frantz Fanon"
+  },
+  {
+    "query": "What is the native language of Irina Khakamada?",
+    "answer": " Russian",
+    "sub": "Irina Khakamada"
+  },
+  {
+    "query": "What is the native language of Jean-Baptiste Maunier?",
+    "answer": " French",
+    "sub": "Jean-Baptiste Maunier"
+  },
+  {
+    "query": "What is the native language of Dmitry Pisarev?",
+    "answer": " Russian",
+    "sub": "Dmitry Pisarev"
+  },
+  {
+    "query": "What is the native language of Eva Ionesco?",
+    "answer": " French",
+    "sub": "Eva Ionesco"
+  },
+  {
+    "query": "What is the native language of Jules Berry?",
+    "answer": " French",
+    "sub": "Jules Berry"
+  },
+  {
+    "query": "What is the native language of Georges Altman?",
+    "answer": " French",
+    "sub": "Georges Altman"
+  },
+  {
+    "query": "What is the native language of Don Cossacks?",
+    "answer": " Russian",
+    "sub": "Don Cossacks"
+  },
+  {
+    "query": "What is the native language of Wim Crouwel?",
+    "answer": " Dutch",
+    "sub": "Wim Crouwel"
+  },
+  {
+    "query": "What is the native language of Coluche?",
+    "answer": " French",
+    "sub": "Coluche"
+  },
+  {
+    "query": "What is the native language of Virginia Woolf?",
+    "answer": " English",
+    "sub": "Virginia Woolf"
+  },
+  {
+    "query": "What is the native language of Daniel Pennacchioni?",
+    "answer": " French",
+    "sub": "Daniel Pennacchioni"
+  },
+  {
+    "query": "What is the native language of Catherine Deneuve?",
+    "answer": " French",
+    "sub": "Catherine Deneuve"
+  },
+  {
+    "query": "What is the native language of John Stuart Mill?",
+    "answer": " English",
+    "sub": "John Stuart Mill"
+  },
+  {
+    "query": "What is the native language of Emil Cioran?",
+    "answer": " Romanian",
+    "sub": "Emil Cioran"
+  },
+  {
+    "query": "What is the native language of Dominique Perben?",
+    "answer": " French",
+    "sub": "Dominique Perben"
+  },
+  {
+    "query": "What is the native language of Freek de Jonge?",
+    "answer": " Dutch",
+    "sub": "Freek de Jonge"
+  },
+  {
+    "query": "What is the native language of Vladimir Bukovsky?",
+    "answer": " Russian",
+    "sub": "Vladimir Bukovsky"
+  },
+  {
+    "query": "What is the native language of Nathalie Kosciusko-Morizet?",
+    "answer": " French",
+    "sub": "Nathalie Kosciusko-Morizet"
+  },
+  {
+    "query": "What is the native language of Georges Marchal?",
+    "answer": " French",
+    "sub": "Georges Marchal"
+  },
+  {
+    "query": "What is the native language of Laurent Fabius?",
+    "answer": " French",
+    "sub": "Laurent Fabius"
+  },
+  {
+    "query": "What is the native language of Pablo Picasso?",
+    "answer": " Spanish",
+    "sub": "Pablo Picasso"
+  },
+  {
+    "query": "What is the native language of Robert Merle?",
+    "answer": " French",
+    "sub": "Robert Merle"
+  },
+  {
+    "query": "What is the native language of Klaas Schilder?",
+    "answer": " Dutch",
+    "sub": "Klaas Schilder"
+  },
+  {
+    "query": "What is the native language of Shi Yongxin?",
+    "answer": " Chinese",
+    "sub": "Shi Yongxin"
+  },
+  {
+    "query": "What is the native language of Grigoris Lambrakis?",
+    "answer": " Greek",
+    "sub": "Grigoris Lambrakis"
+  },
+  {
+    "query": "What is the native language of Suzy Vernon?",
+    "answer": " French",
+    "sub": "Suzy Vernon"
+  },
+  {
+    "query": "What is the native language of Moses Amyraut?",
+    "answer": " French",
+    "sub": "Moses Amyraut"
+  },
+  {
+    "query": "What is the native language of Jean Yanne?",
+    "answer": " French",
+    "sub": "Jean Yanne"
+  },
+  {
+    "query": "What is the native language of Joseph-Marie, comte Portalis?",
+    "answer": " French",
+    "sub": "Joseph-Marie, comte Portalis"
+  },
+  {
+    "query": "What is the native language of Valentin Conrart?",
+    "answer": " French",
+    "sub": "Valentin Conrart"
+  },
+  {
+    "query": "What is the native language of Christiaan Snouck Hurgronje?",
+    "answer": " Dutch",
+    "sub": "Christiaan Snouck Hurgronje"
+  },
+  {
+    "query": "What is the native language of Georges Ernest Boulanger?",
+    "answer": " French",
+    "sub": "Georges Ernest Boulanger"
+  },
+  {
+    "query": "What is the native language of Alice Isaaz?",
+    "answer": " French",
+    "sub": "Alice Isaaz"
+  },
+  {
+    "query": "What is the native language of Darry Cowl?",
+    "answer": " French",
+    "sub": "Darry Cowl"
+  },
+  {
+    "query": "What is the native language of Bernard Musson?",
+    "answer": " French",
+    "sub": "Bernard Musson"
+  },
+  {
+    "query": "What is the native language of Marcel Dassault?",
+    "answer": " French",
+    "sub": "Marcel Dassault"
+  },
+  {
+    "query": "What is the native language of Alphonse Daudet?",
+    "answer": " French",
+    "sub": "Alphonse Daudet"
+  },
+  {
+    "query": "What is the native language of Jean-Pierre Thiollet?",
+    "answer": " French",
+    "sub": "Jean-Pierre Thiollet"
+  },
+  {
+    "query": "What is the native language of John Ruskin?",
+    "answer": " English",
+    "sub": "John Ruskin"
+  },
+  {
+    "query": "What is the native language of Edurne?",
+    "answer": " Spanish",
+    "sub": "Edurne"
+  },
+  {
+    "query": "What is the native language of Alexandre Dumas fils?",
+    "answer": " French",
+    "sub": "Alexandre Dumas fils"
+  },
+  {
+    "query": "What is the native language of Hendrick de Keyser?",
+    "answer": " Dutch",
+    "sub": "Hendrick de Keyser"
+  },
+  {
+    "query": "What is the native language of Vincent de Moro-Giafferi?",
+    "answer": " French",
+    "sub": "Vincent de Moro-Giafferi"
+  },
+  {
+    "query": "What is the native language of Pedro de la Rosa?",
+    "answer": " Spanish",
+    "sub": "Pedro de la Rosa"
+  },
+  {
+    "query": "What is the native language of Andries Cornelis Dirk de Graeff?",
+    "answer": " Dutch",
+    "sub": "Andries Cornelis Dirk de Graeff"
+  },
+  {
+    "query": "What is the native language of Grigore Moisil?",
+    "answer": " Romanian",
+    "sub": "Grigore Moisil"
+  },
+  {
+    "query": "What is the native language of Brian May?",
+    "answer": " English",
+    "sub": "Brian May"
+  },
+  {
+    "query": "What is the native language of Georges Gorse?",
+    "answer": " French",
+    "sub": "Georges Gorse"
+  },
+  {
+    "query": "What is the native language of Charles Maurras?",
+    "answer": " French",
+    "sub": "Charles Maurras"
+  },
+  {
+    "query": "What is the native language of Georges-Louis Leclerc, Comte de Buffon?",
+    "answer": " French",
+    "sub": "Georges-Louis Leclerc, Comte de Buffon"
+  },
+  {
+    "query": "What is the native language of Stieg Larsson?",
+    "answer": " Swedish",
+    "sub": "Stieg Larsson"
+  },
+  {
+    "query": "What is the native language of Jean-Claude Izzo?",
+    "answer": " French",
+    "sub": "Jean-Claude Izzo"
+  },
+  {
+    "query": "What is the native language of Herman Gorter?",
+    "answer": " Dutch",
+    "sub": "Herman Gorter"
+  },
+  {
+    "query": "What is the native language of Casimir Delavigne?",
+    "answer": " French",
+    "sub": "Casimir Delavigne"
+  },
+  {
+    "query": "What is the native language of Rafael Alberti Merollo?",
+    "answer": " Spanish",
+    "sub": "Rafael Alberti Merollo"
+  },
+  {
+    "query": "What is the native language of Alain Cuny?",
+    "answer": " French",
+    "sub": "Alain Cuny"
+  },
+  {
+    "query": "What is the native language of Paul Le Person?",
+    "answer": " French",
+    "sub": "Paul Le Person"
+  },
+  {
+    "query": "What is the native language of Pascal Quignard?",
+    "answer": " French",
+    "sub": "Pascal Quignard"
+  },
+  {
+    "query": "What is the native language of Brigitte Fontaine?",
+    "answer": " French",
+    "sub": "Brigitte Fontaine"
+  },
+  {
+    "query": "What is the native language of Bhuvanachandra?",
+    "answer": " Telugu",
+    "sub": "Bhuvanachandra"
+  },
+  {
+    "query": "What is the native language of Yves Bonnefoy?",
+    "answer": " French",
+    "sub": "Yves Bonnefoy"
+  },
+  {
+    "query": "What is the native language of Hafsia Herzi?",
+    "answer": " French",
+    "sub": "Hafsia Herzi"
+  },
+  {
+    "query": "What is the native language of Wang Shu?",
+    "answer": " Chinese",
+    "sub": "Wang Shu"
+  },
+  {
+    "query": "What is the native language of Jacques Sadoul?",
+    "answer": " French",
+    "sub": "Jacques Sadoul"
+  },
+  {
+    "query": "What is the native language of Ilya Nikolaevich Ulyanov?",
+    "answer": " Russian",
+    "sub": "Ilya Nikolaevich Ulyanov"
+  },
+  {
+    "query": "What is the native language of Nikolay Nekrasov?",
+    "answer": " Russian",
+    "sub": "Nikolay Nekrasov"
+  },
+  {
+    "query": "What is the native language of Eva Rivas?",
+    "answer": " Armenian",
+    "sub": "Eva Rivas"
+  },
+  {
+    "query": "What is the native language of Dominique Cabrera?",
+    "answer": " French",
+    "sub": "Dominique Cabrera"
+  },
+  {
+    "query": "What is the native language of Patrick Rambaud?",
+    "answer": " French",
+    "sub": "Patrick Rambaud"
+  },
+  {
+    "query": "What is the native language of Raja Ravi Varma?",
+    "answer": " Malayalam",
+    "sub": "Raja Ravi Varma"
+  },
+  {
+    "query": "What is the native language of Paul Biegel?",
+    "answer": " Dutch",
+    "sub": "Paul Biegel"
+  },
+  {
+    "query": "What is the native language of Jean-Baptiste Alphonse Karr?",
+    "answer": " French",
+    "sub": "Jean-Baptiste Alphonse Karr"
+  },
+  {
+    "query": "What is the native language of Laurent Stocker?",
+    "answer": " French",
+    "sub": "Laurent Stocker"
+  },
+  {
+    "query": "What is the native language of Sergey Platonov?",
+    "answer": " Russian",
+    "sub": "Sergey Platonov"
+  },
+  {
+    "query": "What is the native language of Dominique Zardi?",
+    "answer": " French",
+    "sub": "Dominique Zardi"
+  },
+  {
+    "query": "What is the native language of Delphine de Girardin?",
+    "answer": " French",
+    "sub": "Delphine de Girardin"
+  },
+  {
+    "query": "What is the native language of Zachary Taylor?",
+    "answer": " English",
+    "sub": "Zachary Taylor"
+  },
+  {
+    "query": "What is the native language of Margot Anand?",
+    "answer": " French",
+    "sub": "Margot Anand"
+  },
+  {
+    "query": "What is the native language of John Webster?",
+    "answer": " English",
+    "sub": "John Webster"
+  },
+  {
+    "query": "What is the native language of Jean-Claude Brialy?",
+    "answer": " French",
+    "sub": "Jean-Claude Brialy"
+  },
+  {
+    "query": "What is the native language of Adam Sandler?",
+    "answer": " English",
+    "sub": "Adam Sandler"
+  },
+  {
+    "query": "What is the native language of Denis Robert?",
+    "answer": " French",
+    "sub": "Denis Robert"
+  },
+  {
+    "query": "What is the native language of Michel Zevaco?",
+    "answer": " French",
+    "sub": "Michel Zevaco"
+  },
+  {
+    "query": "What is the native language of Vera Lynn?",
+    "answer": " English",
+    "sub": "Vera Lynn"
+  },
+  {
+    "query": "What is the native language of Mimie Mathy?",
+    "answer": " French",
+    "sub": "Mimie Mathy"
+  },
+  {
+    "query": "What is the native language of Jean-Baptiste Philibert Willaumez?",
+    "answer": " French",
+    "sub": "Jean-Baptiste Philibert Willaumez"
+  },
+  {
+    "query": "What is the native language of Alexey Miller?",
+    "answer": " Russian",
+    "sub": "Alexey Miller"
+  },
+  {
+    "query": "What is the native language of Mathieu Demy?",
+    "answer": " French",
+    "sub": "Mathieu Demy"
+  },
+  {
+    "query": "What is the native language of Benjamin Constant?",
+    "answer": " French",
+    "sub": "Benjamin Constant"
+  },
+  {
+    "query": "What is the native language of Clio Goldsmith?",
+    "answer": " French",
+    "sub": "Clio Goldsmith"
+  },
+  {
+    "query": "What is the native language of Learco Guerra?",
+    "answer": " Italian",
+    "sub": "Learco Guerra"
+  },
+  {
+    "query": "What is the native language of James A. Garfield?",
+    "answer": " English",
+    "sub": "James A. Garfield"
+  },
+  {
+    "query": "What is the native language of Olga Georges-Picot?",
+    "answer": " French",
+    "sub": "Olga Georges-Picot"
+  },
+  {
+    "query": "What is the native language of Jacques Dupin?",
+    "answer": " French",
+    "sub": "Jacques Dupin"
+  },
+  {
+    "query": "What is the native language of Charles Vanel?",
+    "answer": " French",
+    "sub": "Charles Vanel"
+  },
+  {
+    "query": "What is the native language of Jan van Krimpen?",
+    "answer": " Dutch",
+    "sub": "Jan van Krimpen"
+  },
+  {
+    "query": "What is the native language of Vasily Kamensky?",
+    "answer": " Russian",
+    "sub": "Vasily Kamensky"
+  },
+  {
+    "query": "What is the native language of Jules Barbier?",
+    "answer": " French",
+    "sub": "Jules Barbier"
+  },
+  {
+    "query": "What is the native language of Irina Arkhipova?",
+    "answer": " Russian",
+    "sub": "Irina Arkhipova"
+  },
+  {
+    "query": "What is the native language of Paul Verhoeven?",
+    "answer": " Dutch",
+    "sub": "Paul Verhoeven"
+  },
+  {
+    "query": "What is the native language of Claude Bartolone?",
+    "answer": " French",
+    "sub": "Claude Bartolone"
+  },
+  {
+    "query": "What is the native language of Joseph Paul-Boncour?",
+    "answer": " French",
+    "sub": "Joseph Paul-Boncour"
+  },
+  {
+    "query": "What is the native language of Jean Anouilh?",
+    "answer": " French",
+    "sub": "Jean Anouilh"
+  },
+  {
+    "query": "What is the native language of Armand Lunel?",
+    "answer": " French",
+    "sub": "Armand Lunel"
+  },
+  {
+    "query": "What is the native language of Brigitte Bardot?",
+    "answer": " French",
+    "sub": "Brigitte Bardot"
+  },
+  {
+    "query": "What is the native language of Posani Krishna Murali?",
+    "answer": " Telugu",
+    "sub": "Posani Krishna Murali"
+  },
+  {
+    "query": "What is the native language of Tatiana Sorokko?",
+    "answer": " Russian",
+    "sub": "Tatiana Sorokko"
+  },
+  {
+    "query": "What is the native language of Edmond Gondinet?",
+    "answer": " French",
+    "sub": "Edmond Gondinet"
+  },
+  {
+    "query": "What is the native language of Michel Ciment?",
+    "answer": " French",
+    "sub": "Michel Ciment"
+  },
+  {
+    "query": "What is the native language of Jean-Marie Pardessus?",
+    "answer": " French",
+    "sub": "Jean-Marie Pardessus"
+  },
+  {
+    "query": "What is the native language of Jacobus Henricus van 't Hoff?",
+    "answer": " Dutch",
+    "sub": "Jacobus Henricus van 't Hoff"
+  },
+  {
+    "query": "What is the native language of Alain Marleix?",
+    "answer": " French",
+    "sub": "Alain Marleix"
+  },
+  {
+    "query": "What is the native language of Christian Jacq?",
+    "answer": " French",
+    "sub": "Christian Jacq"
+  },
+  {
+    "query": "What is the native language of Leslie Caron?",
+    "answer": " French",
+    "sub": "Leslie Caron"
+  },
+  {
+    "query": "What is the native language of Jean-Marie Colombani?",
+    "answer": " French",
+    "sub": "Jean-Marie Colombani"
+  },
+  {
+    "query": "What is the native language of Jan Davidsz. de Heem?",
+    "answer": " Dutch",
+    "sub": "Jan Davidsz. de Heem"
+  },
+  {
+    "query": "What is the native language of Judith Chemla?",
+    "answer": " French",
+    "sub": "Judith Chemla"
+  },
+  {
+    "query": "What is the native language of Pierre Laval?",
+    "answer": " French",
+    "sub": "Pierre Laval"
+  },
+  {
+    "query": "What is the native language of Ernest Monis?",
+    "answer": " French",
+    "sub": "Ernest Monis"
+  },
+  {
+    "query": "What is the native language of Roger Coggio?",
+    "answer": " French",
+    "sub": "Roger Coggio"
+  },
+  {
+    "query": "What is the native language of JoeyStarr?",
+    "answer": " French",
+    "sub": "JoeyStarr"
+  },
+  {
+    "query": "What is the native language of Jean-Michel Dupuis?",
+    "answer": " French",
+    "sub": "Jean-Michel Dupuis"
+  },
+  {
+    "query": "What is the native language of Corinne Calvet?",
+    "answer": " French",
+    "sub": "Corinne Calvet"
+  },
+  {
+    "query": "What is the native language of Giuseppe Saronni?",
+    "answer": " Italian",
+    "sub": "Giuseppe Saronni"
+  },
+  {
+    "query": "What is the native language of Lo Hartog van Banda?",
+    "answer": " Dutch",
+    "sub": "Lo Hartog van Banda"
+  },
+  {
+    "query": "What is the native language of Armand de Kersaint?",
+    "answer": " French",
+    "sub": "Armand de Kersaint"
+  },
+  {
+    "query": "What is the native language of Alain Savary?",
+    "answer": " French",
+    "sub": "Alain Savary"
+  },
+  {
+    "query": "What is the native language of Jan Peter Balkenende?",
+    "answer": " Dutch",
+    "sub": "Jan Peter Balkenende"
+  },
+  {
+    "query": "What is the native language of Giovanni Boccaccio?",
+    "answer": " Italian",
+    "sub": "Giovanni Boccaccio"
+  },
+  {
+    "query": "What is the native language of Sacha Briquet?",
+    "answer": " French",
+    "sub": "Sacha Briquet"
+  },
+  {
+    "query": "What is the native language of Junie Astor?",
+    "answer": " French",
+    "sub": "Junie Astor"
+  },
+  {
+    "query": "What is the native language of Valentin Glushko?",
+    "answer": " Russian",
+    "sub": "Valentin Glushko"
+  },
+  {
+    "query": "What is the native language of Michel Subor?",
+    "answer": " French",
+    "sub": "Michel Subor"
+  },
+  {
+    "query": "What is the native language of Nathalie Baye?",
+    "answer": " French",
+    "sub": "Nathalie Baye"
+  },
+  {
+    "query": "What is the native language of Jeanna Friske?",
+    "answer": " Russian",
+    "sub": "Jeanna Friske"
+  },
+  {
+    "query": "What is the native language of Jean Vautrin?",
+    "answer": " French",
+    "sub": "Jean Vautrin"
+  },
+  {
+    "query": "What is the native language of Vladimir Vinogradov?",
+    "answer": " Russian",
+    "sub": "Vladimir Vinogradov"
+  },
+  {
+    "query": "What is the native language of Maurice Faure?",
+    "answer": " French",
+    "sub": "Maurice Faure"
+  },
+  {
+    "query": "What is the native language of Nicolas Chamfort?",
+    "answer": " French",
+    "sub": "Nicolas Chamfort"
+  },
+  {
+    "query": "What is the native language of Pierre Lescure?",
+    "answer": " French",
+    "sub": "Pierre Lescure"
+  },
+  {
+    "query": "What is the native language of Anton Reinhard Falck?",
+    "answer": " Dutch",
+    "sub": "Anton Reinhard Falck"
+  },
+  {
+    "query": "What is the native language of Sergey Lavrov?",
+    "answer": " Russian",
+    "sub": "Sergey Lavrov"
+  },
+  {
+    "query": "What is the native language of Toon Hermans?",
+    "answer": " Dutch",
+    "sub": "Toon Hermans"
+  },
+  {
+    "query": "What is the native language of Menno ter Braak?",
+    "answer": " Dutch",
+    "sub": "Menno ter Braak"
+  },
+  {
+    "query": "What is the native language of Suzy Prim?",
+    "answer": " French",
+    "sub": "Suzy Prim"
+  },
+  {
+    "query": "What is the native language of Marina Hands?",
+    "answer": " French",
+    "sub": "Marina Hands"
+  },
+  {
+    "query": "What is the native language of John Abraham Heraud?",
+    "answer": " English",
+    "sub": "John Abraham Heraud"
+  },
+  {
+    "query": "What is the native language of Jacobus Revius?",
+    "answer": " Dutch",
+    "sub": "Jacobus Revius"
+  },
+  {
+    "query": "What is the native language of Ginette Garcin?",
+    "answer": " French",
+    "sub": "Ginette Garcin"
+  },
+  {
+    "query": "What is the native language of Olivier Rabourdin?",
+    "answer": " French",
+    "sub": "Olivier Rabourdin"
+  },
+  {
+    "query": "What is the native language of Peter Kropotkin?",
+    "answer": " Russian",
+    "sub": "Peter Kropotkin"
+  },
+  {
+    "query": "What is the native language of Nicholas Marr?",
+    "answer": " Russian",
+    "sub": "Nicholas Marr"
+  },
+  {
+    "query": "What is the native language of Jean de La Fontaine?",
+    "answer": " French",
+    "sub": "Jean de La Fontaine"
+  },
+  {
+    "query": "What is the native language of Pieter Cornelis Boutens?",
+    "answer": " Dutch",
+    "sub": "Pieter Cornelis Boutens"
+  },
+  {
+    "query": "What is the native language of Alfonso V of Aragon?",
+    "answer": " Spanish",
+    "sub": "Alfonso V of Aragon"
+  },
+  {
+    "query": "What is the native language of Zabou Breitman?",
+    "answer": " French",
+    "sub": "Zabou Breitman"
+  },
+  {
+    "query": "What is the native language of Germaine Dieterlen?",
+    "answer": " French",
+    "sub": "Germaine Dieterlen"
+  },
+  {
+    "query": "What is the native language of Herbert Edward Read?",
+    "answer": " English",
+    "sub": "Herbert Edward Read"
+  },
+  {
+    "query": "What is the native language of Jean-Pierre Pernaut?",
+    "answer": " French",
+    "sub": "Jean-Pierre Pernaut"
+  },
+  {
+    "query": "What is the native language of Xavier de Maistre?",
+    "answer": " French",
+    "sub": "Xavier de Maistre"
+  },
+  {
+    "query": "What is the native language of Jean-Jacques Pauvert?",
+    "answer": " French",
+    "sub": "Jean-Jacques Pauvert"
+  },
+  {
+    "query": "What is the native language of Hendrik Marsman?",
+    "answer": " Dutch",
+    "sub": "Hendrik Marsman"
+  },
+  {
+    "query": "What is the native language of Pino Caruso?",
+    "answer": " Italian",
+    "sub": "Pino Caruso"
+  },
+  {
+    "query": "What is the native language of Dino Dvornik?",
+    "answer": " Croatian",
+    "sub": "Dino Dvornik"
+  },
+  {
+    "query": "What is the native language of Aruna Mucherla?",
+    "answer": " Telugu",
+    "sub": "Aruna Mucherla"
+  },
+  {
+    "query": "What is the native language of Jean Galland?",
+    "answer": " French",
+    "sub": "Jean Galland"
+  },
+  {
+    "query": "What is the native language of Patrice Leconte?",
+    "answer": " French",
+    "sub": "Patrice Leconte"
+  },
+  {
+    "query": "What is the native language of Yvonne Monlaur?",
+    "answer": " French",
+    "sub": "Yvonne Monlaur"
+  },
+  {
+    "query": "What is the native language of Gustave Geffroy?",
+    "answer": " French",
+    "sub": "Gustave Geffroy"
+  },
+  {
+    "query": "What is the native language of Roger Holeindre?",
+    "answer": " French",
+    "sub": "Roger Holeindre"
+  },
+  {
+    "query": "What is the native language of Coenraad Jacob Temminck?",
+    "answer": " Dutch",
+    "sub": "Coenraad Jacob Temminck"
+  },
+  {
+    "query": "What is the native language of Min Gyu-dong?",
+    "answer": " Korean",
+    "sub": "Min Gyu-dong"
+  },
+  {
+    "query": "What is the native language of Bernard Alane?",
+    "answer": " French",
+    "sub": "Bernard Alane"
+  },
+  {
+    "query": "What is the native language of Edwy Plenel?",
+    "answer": " French",
+    "sub": "Edwy Plenel"
+  },
+  {
+    "query": "What is the native language of Reinhart Dozy?",
+    "answer": " Dutch",
+    "sub": "Reinhart Dozy"
+  },
+  {
+    "query": "What is the native language of L. V. Prasad?",
+    "answer": " Telugu",
+    "sub": "L. V. Prasad"
+  },
+  {
+    "query": "What is the native language of Dmitry Puchkov?",
+    "answer": " Russian",
+    "sub": "Dmitry Puchkov"
+  },
+  {
+    "query": "What is the native language of Marie-Anne Chazel?",
+    "answer": " French",
+    "sub": "Marie-Anne Chazel"
+  },
+  {
+    "query": "What is the native language of Jean Martinelli?",
+    "answer": " French",
+    "sub": "Jean Martinelli"
+  },
+  {
+    "query": "What is the native language of Bruno Racine?",
+    "answer": " French",
+    "sub": "Bruno Racine"
+  },
+  {
+    "query": "What is the native language of Yuliya Snigir?",
+    "answer": " Russian",
+    "sub": "Yuliya Snigir"
+  },
+  {
+    "query": "What is the native language of Paulette Dubost?",
+    "answer": " French",
+    "sub": "Paulette Dubost"
+  },
+  {
+    "query": "What is the native language of Dmitry Medvedev?",
+    "answer": " Russian",
+    "sub": "Dmitry Medvedev"
+  },
+  {
+    "query": "What is the native language of Michel Boujenah?",
+    "answer": " French",
+    "sub": "Michel Boujenah"
+  },
+  {
+    "query": "What is the native language of Jo Coenen?",
+    "answer": " Dutch",
+    "sub": "Jo Coenen"
+  },
+  {
+    "query": "What is the native language of Go Hyeon-jeong?",
+    "answer": " Korean",
+    "sub": "Go Hyeon-jeong"
+  },
+  {
+    "query": "What is the native language of Lev Kulidzhanov?",
+    "answer": " Russian",
+    "sub": "Lev Kulidzhanov"
+  },
+  {
+    "query": "What is the native language of Eustache-Hyacinthe Langlois?",
+    "answer": " French",
+    "sub": "Eustache-Hyacinthe Langlois"
+  },
+  {
+    "query": "What is the native language of Andrew Lang?",
+    "answer": " English",
+    "sub": "Andrew Lang"
+  },
+  {
+    "query": "What is the native language of Lydia Chukovskaya?",
+    "answer": " Russian",
+    "sub": "Lydia Chukovskaya"
+  },
+  {
+    "query": "What is the native language of Camille Flammarion?",
+    "answer": " French",
+    "sub": "Camille Flammarion"
+  },
+  {
+    "query": "What is the native language of Gautier de Coincy?",
+    "answer": " French",
+    "sub": "Gautier de Coincy"
+  },
+  {
+    "query": "What is the native language of John Banville?",
+    "answer": " English",
+    "sub": "John Banville"
+  },
+  {
+    "query": "What is the native language of Robert de Flers?",
+    "answer": " French",
+    "sub": "Robert de Flers"
+  },
+  {
+    "query": "What is the native language of Louis Carrogis Carmontelle?",
+    "answer": " French",
+    "sub": "Louis Carrogis Carmontelle"
+  },
+  {
+    "query": "What is the native language of Gabriel Hanotaux?",
+    "answer": " French",
+    "sub": "Gabriel Hanotaux"
+  },
+  {
+    "query": "What is the native language of Michel Denisot?",
+    "answer": " French",
+    "sub": "Michel Denisot"
+  },
+  {
+    "query": "What is the native language of Ivan Puni?",
+    "answer": " Russian",
+    "sub": "Ivan Puni"
+  },
+  {
+    "query": "What is the native language of Jean Rouaud?",
+    "answer": " French",
+    "sub": "Jean Rouaud"
+  },
+  {
+    "query": "What is the native language of Marie NDiaye?",
+    "answer": " French",
+    "sub": "Marie NDiaye"
+  },
+  {
+    "query": "What is the native language of Donald Keene?",
+    "answer": " English",
+    "sub": "Donald Keene"
+  },
+  {
+    "query": "What is the native language of Prabhas?",
+    "answer": " Telugu",
+    "sub": "Prabhas"
+  },
+  {
+    "query": "What is the native language of Yevgenia Albats?",
+    "answer": " Russian",
+    "sub": "Yevgenia Albats"
+  },
+  {
+    "query": "What is the native language of Raymond Depardon?",
+    "answer": " French",
+    "sub": "Raymond Depardon"
+  },
+  {
+    "query": "What is the native language of Pierre Brossolette?",
+    "answer": " French",
+    "sub": "Pierre Brossolette"
+  },
+  {
+    "query": "What is the native language of Julien Dray?",
+    "answer": " French",
+    "sub": "Julien Dray"
+  },
+  {
+    "query": "What is the native language of Jean Lacouture?",
+    "answer": " French",
+    "sub": "Jean Lacouture"
+  },
+  {
+    "query": "What is the native language of Hendrik Lorentz?",
+    "answer": " Dutch",
+    "sub": "Hendrik Lorentz"
+  },
+  {
+    "query": "What is the native language of Mikhail Khodorkovsky?",
+    "answer": " Russian",
+    "sub": "Mikhail Khodorkovsky"
+  },
+  {
+    "query": "What is the native language of Nina Companéez?",
+    "answer": " French",
+    "sub": "Nina Companéez"
+  },
+  {
+    "query": "What is the native language of Alexandre Rignault?",
+    "answer": " French",
+    "sub": "Alexandre Rignault"
+  },
+  {
+    "query": "What is the native language of Charles-Joseph Panckoucke?",
+    "answer": " French",
+    "sub": "Charles-Joseph Panckoucke"
+  },
+  {
+    "query": "What is the native language of Lalithambika Antharjanam?",
+    "answer": " Malayalam",
+    "sub": "Lalithambika Antharjanam"
+  },
+  {
+    "query": "What is the native language of Dominique Lapierre?",
+    "answer": " French",
+    "sub": "Dominique Lapierre"
+  },
+  {
+    "query": "What is the native language of Paul Morand?",
+    "answer": " French",
+    "sub": "Paul Morand"
+  },
+  {
+    "query": "What is the native language of Ovid?",
+    "answer": " Latin",
+    "sub": "Ovid"
+  },
+  {
+    "query": "What is the native language of Akkitham Achuthan Namboothiri?",
+    "answer": " Malayalam",
+    "sub": "Akkitham Achuthan Namboothiri"
+  },
+  {
+    "query": "What is the native language of Huguette Duflos?",
+    "answer": " French",
+    "sub": "Huguette Duflos"
+  },
+  {
+    "query": "What is the native language of Jacques Laffitte?",
+    "answer": " French",
+    "sub": "Jacques Laffitte"
+  },
+  {
+    "query": "What is the native language of Christiane Martel?",
+    "answer": " French",
+    "sub": "Christiane Martel"
+  },
+  {
+    "query": "What is the native language of Goswin de Stassart?",
+    "answer": " French",
+    "sub": "Goswin de Stassart"
+  },
+  {
+    "query": "What is the native language of C. N. Annadurai?",
+    "answer": " Tamil",
+    "sub": "C. N. Annadurai"
+  },
+  {
+    "query": "What is the native language of Michel Camdessus?",
+    "answer": " French",
+    "sub": "Michel Camdessus"
+  },
+  {
+    "query": "What is the native language of Leonard Knijff?",
+    "answer": " Dutch",
+    "sub": "Leonard Knijff"
+  },
+  {
+    "query": "What is the native language of Nadine Morano?",
+    "answer": " French",
+    "sub": "Nadine Morano"
+  },
+  {
+    "query": "What is the native language of Martin Lamotte?",
+    "answer": " French",
+    "sub": "Martin Lamotte"
+  },
+  {
+    "query": "What is the native language of Julien Courbet?",
+    "answer": " French",
+    "sub": "Julien Courbet"
+  },
+  {
+    "query": "What is the native language of Florent Chrestien?",
+    "answer": " French",
+    "sub": "Florent Chrestien"
+  },
+  {
+    "query": "What is the native language of Thomas Horsfield?",
+    "answer": " English",
+    "sub": "Thomas Horsfield"
+  },
+  {
+    "query": "What is the native language of Adriaan Roland Holst?",
+    "answer": " Dutch",
+    "sub": "Adriaan Roland Holst"
+  },
+  {
+    "query": "What is the native language of Jacques Jouanneau?",
+    "answer": " French",
+    "sub": "Jacques Jouanneau"
+  },
+  {
+    "query": "What is the native language of Pascal Gentil?",
+    "answer": " French",
+    "sub": "Pascal Gentil"
+  },
+  {
+    "query": "What is the native language of Andrei Soldatov?",
+    "answer": " Russian",
+    "sub": "Andrei Soldatov"
+  },
+  {
+    "query": "What is the native language of Indrajith Sukumaran?",
+    "answer": " Malayalam",
+    "sub": "Indrajith Sukumaran"
+  },
+  {
+    "query": "What is the native language of Adolphe Pinard?",
+    "answer": " French",
+    "sub": "Adolphe Pinard"
+  },
+  {
+    "query": "What is the native language of Vladimir Putin?",
+    "answer": " Russian",
+    "sub": "Vladimir Putin"
+  },
+  {
+    "query": "What is the native language of Roger Vitrac?",
+    "answer": " French",
+    "sub": "Roger Vitrac"
+  },
+  {
+    "query": "What is the native language of Gustave Flaubert?",
+    "answer": " French",
+    "sub": "Gustave Flaubert"
+  },
+  {
+    "query": "What is the native language of Alain Soral?",
+    "answer": " French",
+    "sub": "Alain Soral"
+  },
+  {
+    "query": "What is the native language of Anatoly Kudryavitsky?",
+    "answer": " Russian",
+    "sub": "Anatoly Kudryavitsky"
+  },
+  {
+    "query": "What is the native language of Dany Robin?",
+    "answer": " French",
+    "sub": "Dany Robin"
+  },
+  {
+    "query": "What is the native language of Gleb Kotelnikov?",
+    "answer": " Russian",
+    "sub": "Gleb Kotelnikov"
+  },
+  {
+    "query": "What is the native language of Georgios Rallis?",
+    "answer": " Greek",
+    "sub": "Georgios Rallis"
+  },
+  {
+    "query": "What is the native language of Eduard Khil?",
+    "answer": " Russian",
+    "sub": "Eduard Khil"
+  },
+  {
+    "query": "What is the native language of Jean-Paul Belmondo?",
+    "answer": " French",
+    "sub": "Jean-Paul Belmondo"
+  },
+  {
+    "query": "What is the native language of Hendrik Wagenvoort?",
+    "answer": " Dutch",
+    "sub": "Hendrik Wagenvoort"
+  },
+  {
+    "query": "What is the native language of Norman Rockwell?",
+    "answer": " English",
+    "sub": "Norman Rockwell"
+  },
+  {
+    "query": "What is the native language of Pothana?",
+    "answer": " Telugu",
+    "sub": "Pothana"
+  },
+  {
+    "query": "What is the native language of Jeanne Balibar?",
+    "answer": " French",
+    "sub": "Jeanne Balibar"
+  },
+  {
+    "query": "What is the native language of Victor Margueritte?",
+    "answer": " French",
+    "sub": "Victor Margueritte"
+  },
+  {
+    "query": "What is the native language of Dominique Pinon?",
+    "answer": " French",
+    "sub": "Dominique Pinon"
+  },
+  {
+    "query": "What is the native language of Michel Onfray?",
+    "answer": " French",
+    "sub": "Michel Onfray"
+  },
+  {
+    "query": "What is the native language of Jean-Roger Milo?",
+    "answer": " French",
+    "sub": "Jean-Roger Milo"
+  },
+  {
+    "query": "What is the native language of Bernard Blier?",
+    "answer": " French",
+    "sub": "Bernard Blier"
+  },
+  {
+    "query": "What is the native language of Emmanuel Mouret?",
+    "answer": " French",
+    "sub": "Emmanuel Mouret"
+  },
+  {
+    "query": "What is the native language of Tanikella Bharani?",
+    "answer": " Telugu",
+    "sub": "Tanikella Bharani"
+  },
+  {
+    "query": "What is the native language of Sivaji Raja?",
+    "answer": " Telugu",
+    "sub": "Sivaji Raja"
+  },
+  {
+    "query": "What is the native language of Louis Darquier de Pellepoix?",
+    "answer": " French",
+    "sub": "Louis Darquier de Pellepoix"
+  },
+  {
+    "query": "What is the native language of Marc Chagall?",
+    "answer": " Russian",
+    "sub": "Marc Chagall"
+  },
+  {
+    "query": "What is the native language of Narsing Yadav?",
+    "answer": " Telugu",
+    "sub": "Narsing Yadav"
+  },
+  {
+    "query": "What is the native language of Catherine Picard?",
+    "answer": " French",
+    "sub": "Catherine Picard"
+  },
+  {
+    "query": "What is the native language of Robert Buron?",
+    "answer": " French",
+    "sub": "Robert Buron"
+  },
+  {
+    "query": "What is the native language of Claude Bernard?",
+    "answer": " French",
+    "sub": "Claude Bernard"
+  },
+  {
+    "query": "What is the native language of Denys Corbet?",
+    "answer": " French",
+    "sub": "Denys Corbet"
+  },
+  {
+    "query": "What is the native language of Zakhar Prilepin?",
+    "answer": " Russian",
+    "sub": "Zakhar Prilepin"
+  },
+  {
+    "query": "What is the native language of Alexandre de Laborde?",
+    "answer": " French",
+    "sub": "Alexandre de Laborde"
+  },
+  {
+    "query": "What is the native language of Barend Cornelis Koekkoek?",
+    "answer": " Dutch",
+    "sub": "Barend Cornelis Koekkoek"
+  },
+  {
+    "query": "What is the native language of Michel Braudeau?",
+    "answer": " French",
+    "sub": "Michel Braudeau"
+  },
+  {
+    "query": "What is the native language of Pascale Ogier?",
+    "answer": " French",
+    "sub": "Pascale Ogier"
+  },
+  {
+    "query": "What is the native language of Pierre-Joseph Cambon?",
+    "answer": " French",
+    "sub": "Pierre-Joseph Cambon"
+  },
+  {
+    "query": "What is the native language of Louis Pergaud?",
+    "answer": " French",
+    "sub": "Louis Pergaud"
+  },
+  {
+    "query": "What is the native language of Yves Beneyton?",
+    "answer": " French",
+    "sub": "Yves Beneyton"
+  },
+  {
+    "query": "What is the native language of Virginie Ledoyen?",
+    "answer": " French",
+    "sub": "Virginie Ledoyen"
+  },
+  {
+    "query": "What is the native language of Pierre Emmanuel?",
+    "answer": " French",
+    "sub": "Pierre Emmanuel"
+  },
+  {
+    "query": "What is the native language of Nelly Kaplan?",
+    "answer": " French",
+    "sub": "Nelly Kaplan"
+  },
+  {
+    "query": "What is the native language of Alexandre Auguste Ledru-Rollin?",
+    "answer": " French",
+    "sub": "Alexandre Auguste Ledru-Rollin"
+  },
+  {
+    "query": "What is the native language of Douglas Adams?",
+    "answer": " English",
+    "sub": "Douglas Adams"
+  },
+  {
+    "query": "What is the native language of Giunta Pisano?",
+    "answer": " Italian",
+    "sub": "Giunta Pisano"
+  },
+  {
+    "query": "What is the native language of Kim Philby?",
+    "answer": " English",
+    "sub": "Kim Philby"
+  },
+  {
+    "query": "What is the native language of Cornelis Tiele?",
+    "answer": " Dutch",
+    "sub": "Cornelis Tiele"
+  },
+  {
+    "query": "What is the native language of Polaire?",
+    "answer": " French",
+    "sub": "Polaire"
+  },
+  {
+    "query": "What is the native language of Mehdi Nebbou?",
+    "answer": " French",
+    "sub": "Mehdi Nebbou"
+  },
+  {
+    "query": "What is the native language of Ehud Olmert?",
+    "answer": " Hebrew",
+    "sub": "Ehud Olmert"
+  },
+  {
+    "query": "What is the native language of Charles Perrault?",
+    "answer": " French",
+    "sub": "Charles Perrault"
+  },
+  {
+    "query": "What is the native language of Francis Carco?",
+    "answer": " French",
+    "sub": "Francis Carco"
+  },
+  {
+    "query": "What is the native language of Gustave de Beaumont?",
+    "answer": " French",
+    "sub": "Gustave de Beaumont"
+  },
+  {
+    "query": "What is the native language of Mani Sharma?",
+    "answer": " Telugu",
+    "sub": "Mani Sharma"
+  },
+  {
+    "query": "What is the native language of Marie Dorval?",
+    "answer": " French",
+    "sub": "Marie Dorval"
+  },
+  {
+    "query": "What is the native language of Jean-Claude Grumberg?",
+    "answer": " French",
+    "sub": "Jean-Claude Grumberg"
+  },
+  {
+    "query": "What is the native language of Yuri Vizbor?",
+    "answer": " Russian",
+    "sub": "Yuri Vizbor"
+  },
+  {
+    "query": "What is the native language of Eugene Kaspersky?",
+    "answer": " Russian",
+    "sub": "Eugene Kaspersky"
+  },
+  {
+    "query": "What is the native language of Maurice Viollette?",
+    "answer": " French",
+    "sub": "Maurice Viollette"
+  },
+  {
+    "query": "What is the native language of Georges Bernier?",
+    "answer": " French",
+    "sub": "Georges Bernier"
+  },
+  {
+    "query": "What is the native language of Saluri Koteswara Rao?",
+    "answer": " Telugu",
+    "sub": "Saluri Koteswara Rao"
+  },
+  {
+    "query": "What is the native language of Marcel Marceau?",
+    "answer": " French",
+    "sub": "Marcel Marceau"
+  },
+  {
+    "query": "What is the native language of Marie Glory?",
+    "answer": " French",
+    "sub": "Marie Glory"
+  },
+  {
+    "query": "What is the native language of Virgil?",
+    "answer": " Latin",
+    "sub": "Virgil"
+  },
+  {
+    "query": "What is the native language of Edita Piekha?",
+    "answer": " French",
+    "sub": "Edita Piekha"
+  },
+  {
+    "query": "What is the native language of Paschal Grousset?",
+    "answer": " French",
+    "sub": "Paschal Grousset"
+  },
+  {
+    "query": "What is the native language of Jeanne Moreau?",
+    "answer": " French",
+    "sub": "Jeanne Moreau"
+  },
+  {
+    "query": "What is the native language of Skolts?",
+    "answer": " Russian",
+    "sub": "Skolts"
+  },
+  {
+    "query": "What is the native language of Jean Debucourt?",
+    "answer": " French",
+    "sub": "Jean Debucourt"
+  },
+  {
+    "query": "What is the native language of Jean Dujardin?",
+    "answer": " French",
+    "sub": "Jean Dujardin"
+  },
+  {
+    "query": "What is the native language of Elsa Lunghini?",
+    "answer": " French",
+    "sub": "Elsa Lunghini"
+  },
+  {
+    "query": "What is the native language of Jean Chiappe?",
+    "answer": " French",
+    "sub": "Jean Chiappe"
+  },
+  {
+    "query": "What is the native language of Jacques Leroy de Saint Arnaud?",
+    "answer": " French",
+    "sub": "Jacques Leroy de Saint Arnaud"
+  },
+  {
+    "query": "What is the native language of Relangi Venkata Ramaiah?",
+    "answer": " Telugu",
+    "sub": "Relangi Venkata Ramaiah"
+  },
+  {
+    "query": "What is the native language of Emmanuel Macron?",
+    "answer": " French",
+    "sub": "Emmanuel Macron"
+  },
+  {
+    "query": "What is the native language of Charles Chamberland?",
+    "answer": " French",
+    "sub": "Charles Chamberland"
+  },
+  {
+    "query": "What is the native language of A. P. J. Abdul Kalam?",
+    "answer": " Tamil",
+    "sub": "A. P. J. Abdul Kalam"
+  },
+  {
+    "query": "What is the native language of Henri Diamant-Berger?",
+    "answer": " French",
+    "sub": "Henri Diamant-Berger"
+  },
+  {
+    "query": "What is the native language of Jules Roy?",
+    "answer": " French",
+    "sub": "Jules Roy"
+  },
+  {
+    "query": "What is the native language of Jean Gabriel Marchand?",
+    "answer": " French",
+    "sub": "Jean Gabriel Marchand"
+  },
+  {
+    "query": "What is the native language of Alexander Penn?",
+    "answer": " Russian",
+    "sub": "Alexander Penn"
+  },
+  {
+    "query": "What is the native language of Jean-Louis Barrault?",
+    "answer": " French",
+    "sub": "Jean-Louis Barrault"
+  },
+  {
+    "query": "What is the native language of Rajesh Khanna?",
+    "answer": " Hindi",
+    "sub": "Rajesh Khanna"
+  },
+  {
+    "query": "What is the native language of William Craft Brumfield?",
+    "answer": " Russian",
+    "sub": "William Craft Brumfield"
+  },
+  {
+    "query": "What is the native language of Joseph Luns?",
+    "answer": " Dutch",
+    "sub": "Joseph Luns"
+  },
+  {
+    "query": "What is the native language of Christopher Lambert?",
+    "answer": " French",
+    "sub": "Christopher Lambert"
+  },
+  {
+    "query": "What is the native language of Lucien Bonaparte?",
+    "answer": " French",
+    "sub": "Lucien Bonaparte"
+  },
+  {
+    "query": "What is the native language of Basavaraju Venkata Padmanabha Rao?",
+    "answer": " Telugu",
+    "sub": "Basavaraju Venkata Padmanabha Rao"
+  },
+  {
+    "query": "What is the native language of Brigitte Catillon?",
+    "answer": " French",
+    "sub": "Brigitte Catillon"
+  },
+  {
+    "query": "What is the native language of Jacques Dynam?",
+    "answer": " French",
+    "sub": "Jacques Dynam"
+  },
+  {
+    "query": "What is the native language of Jean-Claude Gaudin?",
+    "answer": " French",
+    "sub": "Jean-Claude Gaudin"
+  },
+  {
+    "query": "What is the native language of Vincent Moscato?",
+    "answer": " French",
+    "sub": "Vincent Moscato"
+  },
+  {
+    "query": "What is the native language of Barack Obama?",
+    "answer": " English",
+    "sub": "Barack Obama"
+  },
+  {
+    "query": "What is the native language of Basshunter?",
+    "answer": " Swedish",
+    "sub": "Basshunter"
+  },
+  {
+    "query": "What is the native language of Albert Sarraut?",
+    "answer": " French",
+    "sub": "Albert Sarraut"
+  },
+  {
+    "query": "What is the native language of Paul Klebnikov?",
+    "answer": " Russian",
+    "sub": "Paul Klebnikov"
+  },
+  {
+    "query": "What is the native language of William Butler Yeats?",
+    "answer": " English",
+    "sub": "William Butler Yeats"
+  },
+  {
+    "query": "What is the native language of Tommy Nilsson?",
+    "answer": " Swedish",
+    "sub": "Tommy Nilsson"
+  },
+  {
+    "query": "What is the native language of Arthur Conan Doyle?",
+    "answer": " English",
+    "sub": "Arthur Conan Doyle"
+  },
+  {
+    "query": "What is the native language of Tanya Lopert?",
+    "answer": " French",
+    "sub": "Tanya Lopert"
+  },
+  {
+    "query": "What is the native language of Olaus Rudbeck?",
+    "answer": " Swedish",
+    "sub": "Olaus Rudbeck"
+  },
+  {
+    "query": "What is the native language of Max Jacob?",
+    "answer": " French",
+    "sub": "Max Jacob"
+  },
+  {
+    "query": "What is the native language of Omar Sy?",
+    "answer": " French",
+    "sub": "Omar Sy"
+  },
+  {
+    "query": "What is the native language of Francis Ponge?",
+    "answer": " French",
+    "sub": "Francis Ponge"
+  }
+]

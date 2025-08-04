@@ -1,0 +1,3482 @@
+[
+  {
+    "query": "What is Alan Turing's domain of work?",
+    "answer": " logic",
+    "sub": "Alan Turing"
+  },
+  {
+    "query": "What is John Vincent Atanasoff's domain of work?",
+    "answer": " mathematics",
+    "sub": "John Vincent Atanasoff"
+  },
+  {
+    "query": "What is Edward Burnett Tylor's domain of work?",
+    "answer": " anthropology",
+    "sub": "Edward Burnett Tylor"
+  },
+  {
+    "query": "What is Anaxagoras's domain of work?",
+    "answer": " philosophy",
+    "sub": "Anaxagoras"
+  },
+  {
+    "query": "What is Robert Bunsen's domain of work?",
+    "answer": " chemistry",
+    "sub": "Robert Bunsen"
+  },
+  {
+    "query": "What is Adam Carolla's domain of work?",
+    "answer": " comedian",
+    "sub": "Adam Carolla"
+  },
+  {
+    "query": "What is Al Capp's domain of work?",
+    "answer": " cartoonist",
+    "sub": "Al Capp"
+  },
+  {
+    "query": "What is Benjamin Lee Whorf's domain of work?",
+    "answer": " linguistics",
+    "sub": "Benjamin Lee Whorf"
+  },
+  {
+    "query": "What is Edward Sapir's domain of work?",
+    "answer": " linguistics",
+    "sub": "Edward Sapir"
+  },
+  {
+    "query": "What is Bruce Perens's domain of work?",
+    "answer": " programmer",
+    "sub": "Bruce Perens"
+  },
+  {
+    "query": "What is Luitzen Egbertus Jan Brouwer's domain of work?",
+    "answer": " topology",
+    "sub": "Luitzen Egbertus Jan Brouwer"
+  },
+  {
+    "query": "What is Charles Kay Ogden's domain of work?",
+    "answer": " linguistics",
+    "sub": "Charles Kay Ogden"
+  },
+  {
+    "query": "What is speleology's domain of work?",
+    "answer": " cave",
+    "sub": "speleology"
+  },
+  {
+    "query": "What is Bill Watterson's domain of work?",
+    "answer": " cartoonist",
+    "sub": "Bill Watterson"
+  },
+  {
+    "query": "What is John Calvin's domain of work?",
+    "answer": " theology",
+    "sub": "John Calvin"
+  },
+  {
+    "query": "What is Charles Proteus Steinmetz's domain of work?",
+    "answer": " mathematician",
+    "sub": "Charles Proteus Steinmetz"
+  },
+  {
+    "query": "What is physical system's domain of work?",
+    "answer": " physics",
+    "sub": "physical system"
+  },
+  {
+    "query": "What is Carl Rogers's domain of work?",
+    "answer": " psychology",
+    "sub": "Carl Rogers"
+  },
+  {
+    "query": "What is Charles F. Hockett's domain of work?",
+    "answer": " linguistics",
+    "sub": "Charles F. Hockett"
+  },
+  {
+    "query": "What is Garry Trudeau's domain of work?",
+    "answer": " cartoonist",
+    "sub": "Garry Trudeau"
+  },
+  {
+    "query": "What is David Hilbert's domain of work?",
+    "answer": " geometry",
+    "sub": "David Hilbert"
+  },
+  {
+    "query": "What is Richard Wagner's domain of work?",
+    "answer": " opera",
+    "sub": "Richard Wagner"
+  },
+  {
+    "query": "What is Euclid's domain of work?",
+    "answer": " geometry",
+    "sub": "Euclid"
+  },
+  {
+    "query": "What is Max Weber's domain of work?",
+    "answer": " sociology",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "What is Hans Eysenck's domain of work?",
+    "answer": " psychology",
+    "sub": "Hans Eysenck"
+  },
+  {
+    "query": "What is Eugene Wigner's domain of work?",
+    "answer": " physics",
+    "sub": "Eugene Wigner"
+  },
+  {
+    "query": "What is Felix Hausdorff's domain of work?",
+    "answer": " topology",
+    "sub": "Felix Hausdorff"
+  },
+  {
+    "query": "What is Fred Hoyle's domain of work?",
+    "answer": " astronomy",
+    "sub": "Fred Hoyle"
+  },
+  {
+    "query": "What is Galen's domain of work?",
+    "answer": " anatomy",
+    "sub": "Galen"
+  },
+  {
+    "query": "What is William Harvey's domain of work?",
+    "answer": " physiology",
+    "sub": "William Harvey"
+  },
+  {
+    "query": "What is Joseph Campbell's domain of work?",
+    "answer": " mythology",
+    "sub": "Joseph Campbell"
+  },
+  {
+    "query": "What is LGBT social movements's domain of work?",
+    "answer": " LGBT",
+    "sub": "LGBT social movements"
+  },
+  {
+    "query": "What is Howard Carter's domain of work?",
+    "answer": " archaeology",
+    "sub": "Howard Carter"
+  },
+  {
+    "query": "What is Heinrich Schliemann's domain of work?",
+    "answer": " archaeology",
+    "sub": "Heinrich Schliemann"
+  },
+  {
+    "query": "What is Claude Bernard's domain of work?",
+    "answer": " physiology",
+    "sub": "Claude Bernard"
+  },
+  {
+    "query": "What is Walter Bradford Cannon's domain of work?",
+    "answer": " physiology",
+    "sub": "Walter Bradford Cannon"
+  },
+  {
+    "query": "What is Isaac Newton's domain of work?",
+    "answer": " mathematics",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "What is Justus von Liebig's domain of work?",
+    "answer": " chemistry",
+    "sub": "Justus von Liebig"
+  },
+  {
+    "query": "What is John James Rickard Macleod's domain of work?",
+    "answer": " physiology",
+    "sub": "John James Rickard Macleod"
+  },
+  {
+    "query": "What is Frederick Banting's domain of work?",
+    "answer": " physiology",
+    "sub": "Frederick Banting"
+  },
+  {
+    "query": "What is Karl Marx's domain of work?",
+    "answer": " sociology",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "What is Kathleen Kenyon's domain of work?",
+    "answer": " archaeology",
+    "sub": "Kathleen Kenyon"
+  },
+  {
+    "query": "What is intelligence agency's domain of work?",
+    "answer": " espionage",
+    "sub": "intelligence agency"
+  },
+  {
+    "query": "What is Hans Bethe's domain of work?",
+    "answer": " physics",
+    "sub": "Hans Bethe"
+  },
+  {
+    "query": "What is Jack Ruby's domain of work?",
+    "answer": " nightclub",
+    "sub": "Jack Ruby"
+  },
+  {
+    "query": "What is Arthur Evans's domain of work?",
+    "answer": " archaeology",
+    "sub": "Arthur Evans"
+  },
+  {
+    "query": "What is Leonard Bloomfield's domain of work?",
+    "answer": " linguistics",
+    "sub": "Leonard Bloomfield"
+  },
+  {
+    "query": "What is International Committee on Taxonomy of Viruses's domain of work?",
+    "answer": " virus",
+    "sub": "International Committee on Taxonomy of Viruses"
+  },
+  {
+    "query": "What is Percy Williams Bridgman's domain of work?",
+    "answer": " physics",
+    "sub": "Percy Williams Bridgman"
+  },
+  {
+    "query": "What is Gerolamo Cardano's domain of work?",
+    "answer": " mathematics",
+    "sub": "Gerolamo Cardano"
+  },
+  {
+    "query": "What is Max Weber's domain of work?",
+    "answer": " economics",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "What is John Chadwick's domain of work?",
+    "answer": " linguistics",
+    "sub": "John Chadwick"
+  },
+  {
+    "query": "What is Michael Faraday's domain of work?",
+    "answer": " chemistry",
+    "sub": "Michael Faraday"
+  },
+  {
+    "query": "What is ornithology's domain of work?",
+    "answer": " bird",
+    "sub": "ornithology"
+  },
+  {
+    "query": "What is Eric Harold Neville's domain of work?",
+    "answer": " mathematics",
+    "sub": "Eric Harold Neville"
+  },
+  {
+    "query": "What is Bonaventura Cavalieri's domain of work?",
+    "answer": " mathematics",
+    "sub": "Bonaventura Cavalieri"
+  },
+  {
+    "query": "What is Galileo Galilei's domain of work?",
+    "answer": " mathematics",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "What is Hypatia's domain of work?",
+    "answer": " mathematics",
+    "sub": "Hypatia"
+  },
+  {
+    "query": "What is Erving Goffman's domain of work?",
+    "answer": " sociology",
+    "sub": "Erving Goffman"
+  },
+  {
+    "query": "What is Amos Tversky's domain of work?",
+    "answer": " psychology",
+    "sub": "Amos Tversky"
+  },
+  {
+    "query": "What is Michael Servetus's domain of work?",
+    "answer": " theology",
+    "sub": "Michael Servetus"
+  },
+  {
+    "query": "What is Sergei Diaghilev's domain of work?",
+    "answer": " ballet",
+    "sub": "Sergei Diaghilev"
+  },
+  {
+    "query": "What is James Mellaart's domain of work?",
+    "answer": " archaeology",
+    "sub": "James Mellaart"
+  },
+  {
+    "query": "What is Reinhold Niebuhr's domain of work?",
+    "answer": " theology",
+    "sub": "Reinhold Niebuhr"
+  },
+  {
+    "query": "What is Lars Roberg's domain of work?",
+    "answer": " medicine",
+    "sub": "Lars Roberg"
+  },
+  {
+    "query": "What is Johan Vilhelm Snellman's domain of work?",
+    "answer": " Finnish",
+    "sub": "Johan Vilhelm Snellman"
+  },
+  {
+    "query": "What is Edwin Hubble's domain of work?",
+    "answer": " astronomy",
+    "sub": "Edwin Hubble"
+  },
+  {
+    "query": "What is Otto Struve's domain of work?",
+    "answer": " astronomy",
+    "sub": "Otto Struve"
+  },
+  {
+    "query": "What is Leonard Peikoff's domain of work?",
+    "answer": " philosophy",
+    "sub": "Leonard Peikoff"
+  },
+  {
+    "query": "What is John Lubbock, 1st Baron Avebury's domain of work?",
+    "answer": " archaeology",
+    "sub": "John Lubbock, 1st Baron Avebury"
+  },
+  {
+    "query": "What is Paul Vixie's domain of work?",
+    "answer": " Unix",
+    "sub": "Paul Vixie"
+  },
+  {
+    "query": "What is Isaac Newton's domain of work?",
+    "answer": " physics",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "What is Ilya Prigogine's domain of work?",
+    "answer": " physics",
+    "sub": "Ilya Prigogine"
+  },
+  {
+    "query": "What is Norman Hackerman's domain of work?",
+    "answer": " chemistry",
+    "sub": "Norman Hackerman"
+  },
+  {
+    "query": "What is Franz Boas's domain of work?",
+    "answer": " anthropology",
+    "sub": "Franz Boas"
+  },
+  {
+    "query": "What is Roman Jakobson's domain of work?",
+    "answer": " linguistics",
+    "sub": "Roman Jakobson"
+  },
+  {
+    "query": "What is Sapir-Whorf hypothesis's domain of work?",
+    "answer": " linguistics",
+    "sub": "Sapir-Whorf hypothesis"
+  },
+  {
+    "query": "What is scientific method's domain of work?",
+    "answer": " science",
+    "sub": "scientific method"
+  },
+  {
+    "query": "What is William Crookes's domain of work?",
+    "answer": " chemistry",
+    "sub": "William Crookes"
+  },
+  {
+    "query": "What is Stephen Jay Gould's domain of work?",
+    "answer": " evolution",
+    "sub": "Stephen Jay Gould"
+  },
+  {
+    "query": "What is Steve Biko's domain of work?",
+    "answer": " apartheid",
+    "sub": "Steve Biko"
+  },
+  {
+    "query": "What is Solomon Schechter's domain of work?",
+    "answer": " Hebrew",
+    "sub": "Solomon Schechter"
+  },
+  {
+    "query": "What is Matt Groening's domain of work?",
+    "answer": " cartoonist",
+    "sub": "Matt Groening"
+  },
+  {
+    "query": "What is Johann Benedict Listing's domain of work?",
+    "answer": " topology",
+    "sub": "Johann Benedict Listing"
+  },
+  {
+    "query": "What is Charles Darwin's domain of work?",
+    "answer": " biology",
+    "sub": "Charles Darwin"
+  },
+  {
+    "query": "What is Tycho Brahe's domain of work?",
+    "answer": " astronomy",
+    "sub": "Tycho Brahe"
+  },
+  {
+    "query": "What is John Stuart Mill's domain of work?",
+    "answer": " philosophy",
+    "sub": "John Stuart Mill"
+  },
+  {
+    "query": "What is Alan Turing's domain of work?",
+    "answer": " mathematics",
+    "sub": "Alan Turing"
+  },
+  {
+    "query": "What is Vilfredo Pareto's domain of work?",
+    "answer": " sociology",
+    "sub": "Vilfredo Pareto"
+  },
+  {
+    "query": "What is William Somerset Maugham's domain of work?",
+    "answer": " playwright",
+    "sub": "William Somerset Maugham"
+  },
+  {
+    "query": "What is William Somerset Maugham's domain of work?",
+    "answer": " novelist",
+    "sub": "William Somerset Maugham"
+  },
+  {
+    "query": "What is Alexandre Darracq's domain of work?",
+    "answer": " motor car",
+    "sub": "Alexandre Darracq"
+  },
+  {
+    "query": "What is Enrico Fermi's domain of work?",
+    "answer": " physics",
+    "sub": "Enrico Fermi"
+  },
+  {
+    "query": "What is gross profit's domain of work?",
+    "answer": " accounting",
+    "sub": "gross profit"
+  },
+  {
+    "query": "What is Giovanni Domenico Cassini's domain of work?",
+    "answer": " astronomy",
+    "sub": "Giovanni Domenico Cassini"
+  },
+  {
+    "query": "What is Roger Penrose's domain of work?",
+    "answer": " physics",
+    "sub": "Roger Penrose"
+  },
+  {
+    "query": "What is Karol Borsuk's domain of work?",
+    "answer": " topology",
+    "sub": "Karol Borsuk"
+  },
+  {
+    "query": "What is Raymond Smullyan's domain of work?",
+    "answer": " logic",
+    "sub": "Raymond Smullyan"
+  },
+  {
+    "query": "What is Deane Montgomery's domain of work?",
+    "answer": " topology",
+    "sub": "Deane Montgomery"
+  },
+  {
+    "query": "What is Wilhelm Krause's domain of work?",
+    "answer": " anatomy",
+    "sub": "Wilhelm Krause"
+  },
+  {
+    "query": "What is Patrick Moore's domain of work?",
+    "answer": " astronomy",
+    "sub": "Patrick Moore"
+  },
+  {
+    "query": "What is British School at Athens's domain of work?",
+    "answer": " archaeology",
+    "sub": "British School at Athens"
+  },
+  {
+    "query": "What is Norman McLaren's domain of work?",
+    "answer": " animation",
+    "sub": "Norman McLaren"
+  },
+  {
+    "query": "What is Mark Mazower's domain of work?",
+    "answer": " Balkans",
+    "sub": "Mark Mazower"
+  },
+  {
+    "query": "What is Joseph Barcroft's domain of work?",
+    "answer": " physiology",
+    "sub": "Joseph Barcroft"
+  },
+  {
+    "query": "What is Paul Radin's domain of work?",
+    "answer": " anthropology",
+    "sub": "Paul Radin"
+  },
+  {
+    "query": "What is Johann Wolfgang von Goethe's domain of work?",
+    "answer": " anatomy",
+    "sub": "Johann Wolfgang von Goethe"
+  },
+  {
+    "query": "What is Paracelsus's domain of work?",
+    "answer": " medicine",
+    "sub": "Paracelsus"
+  },
+  {
+    "query": "What is Georg Ernst Stahl's domain of work?",
+    "answer": " chemistry",
+    "sub": "Georg Ernst Stahl"
+  },
+  {
+    "query": "What is John Coltrane's domain of work?",
+    "answer": " jazz",
+    "sub": "John Coltrane"
+  },
+  {
+    "query": "What is Willem Piso's domain of work?",
+    "answer": " physician",
+    "sub": "Willem Piso"
+  },
+  {
+    "query": "What is Karl Bogislaus Reichert's domain of work?",
+    "answer": " anatomy",
+    "sub": "Karl Bogislaus Reichert"
+  },
+  {
+    "query": "What is Hermann von Helmholtz's domain of work?",
+    "answer": " physics",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "What is air traffic control's domain of work?",
+    "answer": " aviation",
+    "sub": "air traffic control"
+  },
+  {
+    "query": "What is grammatical category's domain of work?",
+    "answer": " linguistics",
+    "sub": "grammatical category"
+  },
+  {
+    "query": "What is Galen's domain of work?",
+    "answer": " medicine",
+    "sub": "Galen"
+  },
+  {
+    "query": "What is Akira Toriyama's domain of work?",
+    "answer": " manga",
+    "sub": "Akira Toriyama"
+  },
+  {
+    "query": "What is Robert Koldewey's domain of work?",
+    "answer": " archaeology",
+    "sub": "Robert Koldewey"
+  },
+  {
+    "query": "What is bariatric surgery's domain of work?",
+    "answer": " stomach",
+    "sub": "bariatric surgery"
+  },
+  {
+    "query": "What is Abraham Maslow's domain of work?",
+    "answer": " psychology",
+    "sub": "Abraham Maslow"
+  },
+  {
+    "query": "What is Ephraim George Squier's domain of work?",
+    "answer": " archaeology",
+    "sub": "Ephraim George Squier"
+  },
+  {
+    "query": "What is Henri Victor Regnault's domain of work?",
+    "answer": " chemistry",
+    "sub": "Henri Victor Regnault"
+  },
+  {
+    "query": "What is Edward Frankland's domain of work?",
+    "answer": " chemistry",
+    "sub": "Edward Frankland"
+  },
+  {
+    "query": "What is Louis Pasteur's domain of work?",
+    "answer": " chemistry",
+    "sub": "Louis Pasteur"
+  },
+  {
+    "query": "What is Max Joseph von Pettenkofer's domain of work?",
+    "answer": " chemistry",
+    "sub": "Max Joseph von Pettenkofer"
+  },
+  {
+    "query": "What is Henry Cavendish's domain of work?",
+    "answer": " physics",
+    "sub": "Henry Cavendish"
+  },
+  {
+    "query": "What is Laurent Schwartz's domain of work?",
+    "answer": " mathematics",
+    "sub": "Laurent Schwartz"
+  },
+  {
+    "query": "What is Edward Thorndike's domain of work?",
+    "answer": " psychology",
+    "sub": "Edward Thorndike"
+  },
+  {
+    "query": "What is art school's domain of work?",
+    "answer": " art",
+    "sub": "art school"
+  },
+  {
+    "query": "What is Peter von Uslar's domain of work?",
+    "answer": " linguistics",
+    "sub": "Peter von Uslar"
+  },
+  {
+    "query": "What is Michel Kervaire's domain of work?",
+    "answer": " topology",
+    "sub": "Michel Kervaire"
+  },
+  {
+    "query": "What is John Milnor's domain of work?",
+    "answer": " topology",
+    "sub": "John Milnor"
+  },
+  {
+    "query": "What is Karl Marx's domain of work?",
+    "answer": " economics",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "What is Robert Neelly Bellah's domain of work?",
+    "answer": " sociology",
+    "sub": "Robert Neelly Bellah"
+  },
+  {
+    "query": "What is Ulf von Euler's domain of work?",
+    "answer": " physiology",
+    "sub": "Ulf von Euler"
+  },
+  {
+    "query": "What is Carl Menger's domain of work?",
+    "answer": " economics",
+    "sub": "Carl Menger"
+  },
+  {
+    "query": "What is Alexander Cunningham's domain of work?",
+    "answer": " archaeology",
+    "sub": "Alexander Cunningham"
+  },
+  {
+    "query": "What is Galileo Galilei's domain of work?",
+    "answer": " astronomy",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "What is Granius Licinianus's domain of work?",
+    "answer": " history",
+    "sub": "Granius Licinianus"
+  },
+  {
+    "query": "What is Pomponius Mela's domain of work?",
+    "answer": " geography",
+    "sub": "Pomponius Mela"
+  },
+  {
+    "query": "What is Nikolai Ivanovich Lobachevsky's domain of work?",
+    "answer": " geometry",
+    "sub": "Nikolai Ivanovich Lobachevsky"
+  },
+  {
+    "query": "What is Leopold Vietoris's domain of work?",
+    "answer": " topology",
+    "sub": "Leopold Vietoris"
+  },
+  {
+    "query": "What is Christiaan Huygens's domain of work?",
+    "answer": " mathematics",
+    "sub": "Christiaan Huygens"
+  },
+  {
+    "query": "What is Johannes de Groot's domain of work?",
+    "answer": " topology",
+    "sub": "Johannes de Groot"
+  },
+  {
+    "query": "What is Abram Ioffe's domain of work?",
+    "answer": " physics",
+    "sub": "Abram Ioffe"
+  },
+  {
+    "query": "What is United States Fish and Wildlife Service's domain of work?",
+    "answer": " habitat",
+    "sub": "United States Fish and Wildlife Service"
+  },
+  {
+    "query": "What is web application's domain of work?",
+    "answer": " website",
+    "sub": "web application"
+  },
+  {
+    "query": "What is Nāgārjuna's domain of work?",
+    "answer": " Buddhism",
+    "sub": "Nāgārjuna"
+  },
+  {
+    "query": "What is Sergey Chaplygin's domain of work?",
+    "answer": " physics",
+    "sub": "Sergey Chaplygin"
+  },
+  {
+    "query": "What is Ludwig von Mises's domain of work?",
+    "answer": " economics",
+    "sub": "Ludwig von Mises"
+  },
+  {
+    "query": "What is Henry Thomas Colebrooke's domain of work?",
+    "answer": " Sanskrit",
+    "sub": "Henry Thomas Colebrooke"
+  },
+  {
+    "query": "What is William Sharpey's domain of work?",
+    "answer": " anatomy",
+    "sub": "William Sharpey"
+  },
+  {
+    "query": "What is Ivan Sechenov's domain of work?",
+    "answer": " physiology",
+    "sub": "Ivan Sechenov"
+  },
+  {
+    "query": "What is William Rowan Hamilton's domain of work?",
+    "answer": " mathematics",
+    "sub": "William Rowan Hamilton"
+  },
+  {
+    "query": "What is Yefim Karskiy's domain of work?",
+    "answer": " linguistics",
+    "sub": "Yefim Karskiy"
+  },
+  {
+    "query": "What is John Newport Langley's domain of work?",
+    "answer": " physiology",
+    "sub": "John Newport Langley"
+  },
+  {
+    "query": "What is Ernest Rutherford's domain of work?",
+    "answer": " physics",
+    "sub": "Ernest Rutherford"
+  },
+  {
+    "query": "What is William Herschel's domain of work?",
+    "answer": " astronomy",
+    "sub": "William Herschel"
+  },
+  {
+    "query": "What is Courant Institute of Mathematical Sciences's domain of work?",
+    "answer": " mathematics",
+    "sub": "Courant Institute of Mathematical Sciences"
+  },
+  {
+    "query": "What is Nikolai Bogolyubov's domain of work?",
+    "answer": " mathematics",
+    "sub": "Nikolai Bogolyubov"
+  },
+  {
+    "query": "What is The Astronomical Journal's domain of work?",
+    "answer": " astronomy",
+    "sub": "The Astronomical Journal"
+  },
+  {
+    "query": "What is Ivan Pavlov's domain of work?",
+    "answer": " physiology",
+    "sub": "Ivan Pavlov"
+  },
+  {
+    "query": "What is Zahi Hawass's domain of work?",
+    "answer": " archaeology",
+    "sub": "Zahi Hawass"
+  },
+  {
+    "query": "What is Ernest Jones's domain of work?",
+    "answer": " psychology",
+    "sub": "Ernest Jones"
+  },
+  {
+    "query": "What is Halford Mackinder's domain of work?",
+    "answer": " geography",
+    "sub": "Halford Mackinder"
+  },
+  {
+    "query": "What is Chen Shou's domain of work?",
+    "answer": " history",
+    "sub": "Chen Shou"
+  },
+  {
+    "query": "What is Hermann Minkowski's domain of work?",
+    "answer": " geometry",
+    "sub": "Hermann Minkowski"
+  },
+  {
+    "query": "What is Johann Weyer's domain of work?",
+    "answer": " physician",
+    "sub": "Johann Weyer"
+  },
+  {
+    "query": "What is Galileo Galilei's domain of work?",
+    "answer": " physics",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "What is Jakob Steiner's domain of work?",
+    "answer": " geometry",
+    "sub": "Jakob Steiner"
+  },
+  {
+    "query": "What is Julian Schwinger's domain of work?",
+    "answer": " physics",
+    "sub": "Julian Schwinger"
+  },
+  {
+    "query": "What is Ulrich Beck's domain of work?",
+    "answer": " sociology",
+    "sub": "Ulrich Beck"
+  },
+  {
+    "query": "What is AKhRR's domain of work?",
+    "answer": " art",
+    "sub": "AKhRR"
+  },
+  {
+    "query": "What is Oswald Veblen's domain of work?",
+    "answer": " geometry",
+    "sub": "Oswald Veblen"
+  },
+  {
+    "query": "What is Frederick Ashton's domain of work?",
+    "answer": " ballet",
+    "sub": "Frederick Ashton"
+  },
+  {
+    "query": "What is Adriaan de Groot's domain of work?",
+    "answer": " psychology",
+    "sub": "Adriaan de Groot"
+  },
+  {
+    "query": "What is Liutprand of Cremona's domain of work?",
+    "answer": " diplomat",
+    "sub": "Liutprand of Cremona"
+  },
+  {
+    "query": "What is Andrew Casson's domain of work?",
+    "answer": " topology",
+    "sub": "Andrew Casson"
+  },
+  {
+    "query": "What is Oswald Veblen's domain of work?",
+    "answer": " topology",
+    "sub": "Oswald Veblen"
+  },
+  {
+    "query": "What is William Thurston's domain of work?",
+    "answer": " topology",
+    "sub": "William Thurston"
+  },
+  {
+    "query": "What is millennialism's domain of work?",
+    "answer": " theology",
+    "sub": "millennialism"
+  },
+  {
+    "query": "What is Johannes Goropius Becanus's domain of work?",
+    "answer": " physician",
+    "sub": "Johannes Goropius Becanus"
+  },
+  {
+    "query": "What is woodburytype's domain of work?",
+    "answer": " photography",
+    "sub": "woodburytype"
+  },
+  {
+    "query": "What is pharmacy school's domain of work?",
+    "answer": " pharmacy",
+    "sub": "pharmacy school"
+  },
+  {
+    "query": "What is suicide attack's domain of work?",
+    "answer": " terrorism",
+    "sub": "suicide attack"
+  },
+  {
+    "query": "What is Abba Arika's domain of work?",
+    "answer": " Talmud",
+    "sub": "Abba Arika"
+  },
+  {
+    "query": "What is Albrecht Kossel's domain of work?",
+    "answer": " physiology",
+    "sub": "Albrecht Kossel"
+  },
+  {
+    "query": "What is overdrafting's domain of work?",
+    "answer": " groundwater",
+    "sub": "overdrafting"
+  },
+  {
+    "query": "What is Georg Ludwig Hartig's domain of work?",
+    "answer": " forestry",
+    "sub": "Georg Ludwig Hartig"
+  },
+  {
+    "query": "What is Michael Langone's domain of work?",
+    "answer": " psychology",
+    "sub": "Michael Langone"
+  },
+  {
+    "query": "What is Lev Vygotsky's domain of work?",
+    "answer": " psychology",
+    "sub": "Lev Vygotsky"
+  },
+  {
+    "query": "What is Karl Marx's domain of work?",
+    "answer": " philosophy",
+    "sub": "Karl Marx"
+  },
+  {
+    "query": "What is Wilhelm Ackermann's domain of work?",
+    "answer": " mathematics",
+    "sub": "Wilhelm Ackermann"
+  },
+  {
+    "query": "What is Friedrich Bessel's domain of work?",
+    "answer": " mathematics",
+    "sub": "Friedrich Bessel"
+  },
+  {
+    "query": "What is Dennis Sullivan's domain of work?",
+    "answer": " topology",
+    "sub": "Dennis Sullivan"
+  },
+  {
+    "query": "What is G. Stanley Hall's domain of work?",
+    "answer": " psychology",
+    "sub": "G. Stanley Hall"
+  },
+  {
+    "query": "What is Herbert A. Hauptman's domain of work?",
+    "answer": " mathematics",
+    "sub": "Herbert A. Hauptman"
+  },
+  {
+    "query": "What is Bernd Sturmfels's domain of work?",
+    "answer": " mathematics",
+    "sub": "Bernd Sturmfels"
+  },
+  {
+    "query": "What is Govert Bidloo's domain of work?",
+    "answer": " physician",
+    "sub": "Govert Bidloo"
+  },
+  {
+    "query": "What is Joseph Schumpeter's domain of work?",
+    "answer": " economics",
+    "sub": "Joseph Schumpeter"
+  },
+  {
+    "query": "What is Ernest Burgess's domain of work?",
+    "answer": " sociology",
+    "sub": "Ernest Burgess"
+  },
+  {
+    "query": "What is Abdullah ibn Salam's domain of work?",
+    "answer": " Judaism",
+    "sub": "Abdullah ibn Salam"
+  },
+  {
+    "query": "What is Max Weber's domain of work?",
+    "answer": " history",
+    "sub": "Max Weber"
+  },
+  {
+    "query": "What is Edward Gibbon's domain of work?",
+    "answer": " history",
+    "sub": "Edward Gibbon"
+  },
+  {
+    "query": "What is Wolfgang Haken's domain of work?",
+    "answer": " topology",
+    "sub": "Wolfgang Haken"
+  },
+  {
+    "query": "What is Alfred Wilhelm Volkmann's domain of work?",
+    "answer": " physiology",
+    "sub": "Alfred Wilhelm Volkmann"
+  },
+  {
+    "query": "What is Joseph Diez Gergonne's domain of work?",
+    "answer": " geometry",
+    "sub": "Joseph Diez Gergonne"
+  },
+  {
+    "query": "What is Hermann Klaatsch's domain of work?",
+    "answer": " anatomy",
+    "sub": "Hermann Klaatsch"
+  },
+  {
+    "query": "What is Rudolf Wagner's domain of work?",
+    "answer": " physiology",
+    "sub": "Rudolf Wagner"
+  },
+  {
+    "query": "What is Mogens Herman Hansen's domain of work?",
+    "answer": " classics",
+    "sub": "Mogens Herman Hansen"
+  },
+  {
+    "query": "What is Derek Lamb's domain of work?",
+    "answer": " animation",
+    "sub": "Derek Lamb"
+  },
+  {
+    "query": "What is National Film Board of Canada's domain of work?",
+    "answer": " animation",
+    "sub": "National Film Board of Canada"
+  },
+  {
+    "query": "What is Yuna Kagesaki's domain of work?",
+    "answer": " manga",
+    "sub": "Yuna Kagesaki"
+  },
+  {
+    "query": "What is Alexander William Williamson's domain of work?",
+    "answer": " chemistry",
+    "sub": "Alexander William Williamson"
+  },
+  {
+    "query": "What is Struga Poetry Evenings's domain of work?",
+    "answer": " poetry",
+    "sub": "Struga Poetry Evenings"
+  },
+  {
+    "query": "What is Johann Georg Gmelin's domain of work?",
+    "answer": " chemistry",
+    "sub": "Johann Georg Gmelin"
+  },
+  {
+    "query": "What is Ernst Herzfeld's domain of work?",
+    "answer": " archaeology",
+    "sub": "Ernst Herzfeld"
+  },
+  {
+    "query": "What is Harold Scott MacDonald Coxeter's domain of work?",
+    "answer": " geometry",
+    "sub": "Harold Scott MacDonald Coxeter"
+  },
+  {
+    "query": "What is Giuseppe Farinelli's domain of work?",
+    "answer": " opera",
+    "sub": "Giuseppe Farinelli"
+  },
+  {
+    "query": "What is John Archibald Wheeler's domain of work?",
+    "answer": " physics",
+    "sub": "John Archibald Wheeler"
+  },
+  {
+    "query": "What is Alfred Weber's domain of work?",
+    "answer": " sociology",
+    "sub": "Alfred Weber"
+  },
+  {
+    "query": "What is Anita Borg's domain of work?",
+    "answer": " mathematics",
+    "sub": "Anita Borg"
+  },
+  {
+    "query": "What is Leonhard Euler's domain of work?",
+    "answer": " physics",
+    "sub": "Leonhard Euler"
+  },
+  {
+    "query": "What is Al-Kindi's domain of work?",
+    "answer": " mathematics",
+    "sub": "Al-Kindi"
+  },
+  {
+    "query": "What is Pierre Gilliard's domain of work?",
+    "answer": " French",
+    "sub": "Pierre Gilliard"
+  },
+  {
+    "query": "What is Joseph von Gerlach's domain of work?",
+    "answer": " anatomy",
+    "sub": "Joseph von Gerlach"
+  },
+  {
+    "query": "What is John Henry Poynting's domain of work?",
+    "answer": " physics",
+    "sub": "John Henry Poynting"
+  },
+  {
+    "query": "What is August Krogh's domain of work?",
+    "answer": " physiology",
+    "sub": "August Krogh"
+  },
+  {
+    "query": "What is Hermann Ebbinghaus's domain of work?",
+    "answer": " psychology",
+    "sub": "Hermann Ebbinghaus"
+  },
+  {
+    "query": "What is James George Frazer's domain of work?",
+    "answer": " folklore",
+    "sub": "James George Frazer"
+  },
+  {
+    "query": "What is Thomas Bartholin's domain of work?",
+    "answer": " medicine",
+    "sub": "Thomas Bartholin"
+  },
+  {
+    "query": "What is Kazimierz Kuratowski's domain of work?",
+    "answer": " topology",
+    "sub": "Kazimierz Kuratowski"
+  },
+  {
+    "query": "What is Manolis Andronikos's domain of work?",
+    "answer": " archaeology",
+    "sub": "Manolis Andronikos"
+  },
+  {
+    "query": "What is Michael D. Coe's domain of work?",
+    "answer": " archaeology",
+    "sub": "Michael D. Coe"
+  },
+  {
+    "query": "What is Raoul Bott's domain of work?",
+    "answer": " geometry",
+    "sub": "Raoul Bott"
+  },
+  {
+    "query": "What is Jon Postel's domain of work?",
+    "answer": " Internet",
+    "sub": "Jon Postel"
+  },
+  {
+    "query": "What is Samuel Linde's domain of work?",
+    "answer": " linguistics",
+    "sub": "Samuel Linde"
+  },
+  {
+    "query": "What is Alfred L. Kroeber's domain of work?",
+    "answer": " anthropology",
+    "sub": "Alfred L. Kroeber"
+  },
+  {
+    "query": "What is Karl Christian Friedrich Krause's domain of work?",
+    "answer": " philosophy",
+    "sub": "Karl Christian Friedrich Krause"
+  },
+  {
+    "query": "What is Felix Bloch's domain of work?",
+    "answer": " physics",
+    "sub": "Felix Bloch"
+  },
+  {
+    "query": "What is Frederic Bartlett's domain of work?",
+    "answer": " psychology",
+    "sub": "Frederic Bartlett"
+  },
+  {
+    "query": "What is Theodor Lipps's domain of work?",
+    "answer": " philosopher",
+    "sub": "Theodor Lipps"
+  },
+  {
+    "query": "What is Hubert von Luschka's domain of work?",
+    "answer": " anatomy",
+    "sub": "Hubert von Luschka"
+  },
+  {
+    "query": "What is Hassler Whitney's domain of work?",
+    "answer": " topology",
+    "sub": "Hassler Whitney"
+  },
+  {
+    "query": "What is Pierre Janet's domain of work?",
+    "answer": " psychology",
+    "sub": "Pierre Janet"
+  },
+  {
+    "query": "What is Ann Dunham's domain of work?",
+    "answer": " anthropology",
+    "sub": "Ann Dunham"
+  },
+  {
+    "query": "What is Harrie Massey's domain of work?",
+    "answer": " physics",
+    "sub": "Harrie Massey"
+  },
+  {
+    "query": "What is Akaki Shanidze's domain of work?",
+    "answer": " linguistics",
+    "sub": "Akaki Shanidze"
+  },
+  {
+    "query": "What is Pictures of the Year International's domain of work?",
+    "answer": " photography",
+    "sub": "Pictures of the Year International"
+  },
+  {
+    "query": "What is Volcher Coiter's domain of work?",
+    "answer": " anatomy",
+    "sub": "Volcher Coiter"
+  },
+  {
+    "query": "What is Frederica de Laguna's domain of work?",
+    "answer": " anthropology",
+    "sub": "Frederica de Laguna"
+  },
+  {
+    "query": "What is R. H. Bing's domain of work?",
+    "answer": " topology",
+    "sub": "R. H. Bing"
+  },
+  {
+    "query": "What is Robert P. Dilworth's domain of work?",
+    "answer": " lattice",
+    "sub": "Robert P. Dilworth"
+  },
+  {
+    "query": "What is James Waddell Alexander II's domain of work?",
+    "answer": " topology",
+    "sub": "James Waddell Alexander II"
+  },
+  {
+    "query": "What is Jean-Pierre Vernant's domain of work?",
+    "answer": " anthropology",
+    "sub": "Jean-Pierre Vernant"
+  },
+  {
+    "query": "What is Anders Celsius's domain of work?",
+    "answer": " astronomy",
+    "sub": "Anders Celsius"
+  },
+  {
+    "query": "What is John Polkinghorne's domain of work?",
+    "answer": " theology",
+    "sub": "John Polkinghorne"
+  },
+  {
+    "query": "What is David Crystal's domain of work?",
+    "answer": " English",
+    "sub": "David Crystal"
+  },
+  {
+    "query": "What is Viktor Zhirmunsky's domain of work?",
+    "answer": " linguistics",
+    "sub": "Viktor Zhirmunsky"
+  },
+  {
+    "query": "What is Bert Sakmann's domain of work?",
+    "answer": " physiology",
+    "sub": "Bert Sakmann"
+  },
+  {
+    "query": "What is Nello Santi's domain of work?",
+    "answer": " opera",
+    "sub": "Nello Santi"
+  },
+  {
+    "query": "What is Marston Morse's domain of work?",
+    "answer": " topology",
+    "sub": "Marston Morse"
+  },
+  {
+    "query": "What is Michio Kaku's domain of work?",
+    "answer": " physics",
+    "sub": "Michio Kaku"
+  },
+  {
+    "query": "What is Willem Einthoven's domain of work?",
+    "answer": " physiology",
+    "sub": "Willem Einthoven"
+  },
+  {
+    "query": "What is Joseph von Fraunhofer's domain of work?",
+    "answer": " physics",
+    "sub": "Joseph von Fraunhofer"
+  },
+  {
+    "query": "What is Sin-Itiro Tomonaga's domain of work?",
+    "answer": " physics",
+    "sub": "Sin-Itiro Tomonaga"
+  },
+  {
+    "query": "What is Jan Baudouin de Courtenay's domain of work?",
+    "answer": " linguistics",
+    "sub": "Jan Baudouin de Courtenay"
+  },
+  {
+    "query": "What is Horace Lamb's domain of work?",
+    "answer": " mathematics",
+    "sub": "Horace Lamb"
+  },
+  {
+    "query": "What is Aeronautical Information Service's domain of work?",
+    "answer": " aviation",
+    "sub": "Aeronautical Information Service"
+  },
+  {
+    "query": "What is Jean-Martin Charcot's domain of work?",
+    "answer": " medicine",
+    "sub": "Jean-Martin Charcot"
+  },
+  {
+    "query": "What is Sydney Brenner's domain of work?",
+    "answer": " biology",
+    "sub": "Sydney Brenner"
+  },
+  {
+    "query": "What is Hermann Schwarz's domain of work?",
+    "answer": " mathematics",
+    "sub": "Hermann Schwarz"
+  },
+  {
+    "query": "What is Karl Wilhelm von Kupffer's domain of work?",
+    "answer": " anatomy",
+    "sub": "Karl Wilhelm von Kupffer"
+  },
+  {
+    "query": "What is Johannes de Sacrobosco's domain of work?",
+    "answer": " mathematics",
+    "sub": "Johannes de Sacrobosco"
+  },
+  {
+    "query": "What is Erasmus Darwin's domain of work?",
+    "answer": " medicine",
+    "sub": "Erasmus Darwin"
+  },
+  {
+    "query": "What is Jean le Rond d'Alembert's domain of work?",
+    "answer": " mathematics",
+    "sub": "Jean le Rond d'Alembert"
+  },
+  {
+    "query": "What is Mick Aston's domain of work?",
+    "answer": " archaeology",
+    "sub": "Mick Aston"
+  },
+  {
+    "query": "What is Franciscus Sylvius's domain of work?",
+    "answer": " medicine",
+    "sub": "Franciscus Sylvius"
+  },
+  {
+    "query": "What is Friedrich Tiedemann's domain of work?",
+    "answer": " physiology",
+    "sub": "Friedrich Tiedemann"
+  },
+  {
+    "query": "What is Luca Pacioli's domain of work?",
+    "answer": " mathematics",
+    "sub": "Luca Pacioli"
+  },
+  {
+    "query": "What is straight photography's domain of work?",
+    "answer": " photography",
+    "sub": "straight photography"
+  },
+  {
+    "query": "What is Stephen Hales's domain of work?",
+    "answer": " physiology",
+    "sub": "Stephen Hales"
+  },
+  {
+    "query": "What is Vitaly Ginzburg's domain of work?",
+    "answer": " physics",
+    "sub": "Vitaly Ginzburg"
+  },
+  {
+    "query": "What is Arthur Leonard Schawlow's domain of work?",
+    "answer": " physicist",
+    "sub": "Arthur Leonard Schawlow"
+  },
+  {
+    "query": "What is Carey Price's domain of work?",
+    "answer": " goaltender",
+    "sub": "Carey Price"
+  },
+  {
+    "query": "What is Sima Qian's domain of work?",
+    "answer": " history",
+    "sub": "Sima Qian"
+  },
+  {
+    "query": "What is hunting dog's domain of work?",
+    "answer": " hunting",
+    "sub": "hunting dog"
+  },
+  {
+    "query": "What is Campegius Vitringa's domain of work?",
+    "answer": " theology",
+    "sub": "Campegius Vitringa"
+  },
+  {
+    "query": "What is Arnold Hermann Ludwig Heeren's domain of work?",
+    "answer": " history",
+    "sub": "Arnold Hermann Ludwig Heeren"
+  },
+  {
+    "query": "What is Paul Ariste's domain of work?",
+    "answer": " linguistics",
+    "sub": "Paul Ariste"
+  },
+  {
+    "query": "What is Paul Broca's domain of work?",
+    "answer": " anatomy",
+    "sub": "Paul Broca"
+  },
+  {
+    "query": "What is Ulisse Dini's domain of work?",
+    "answer": " mathematics",
+    "sub": "Ulisse Dini"
+  },
+  {
+    "query": "What is Marcel Mauss's domain of work?",
+    "answer": " sociology",
+    "sub": "Marcel Mauss"
+  },
+  {
+    "query": "What is Kiiti Morita's domain of work?",
+    "answer": " topology",
+    "sub": "Kiiti Morita"
+  },
+  {
+    "query": "What is Christoph Wilhelm Hufeland's domain of work?",
+    "answer": " medicine",
+    "sub": "Christoph Wilhelm Hufeland"
+  },
+  {
+    "query": "What is Ptolemy's domain of work?",
+    "answer": " mathematician",
+    "sub": "Ptolemy"
+  },
+  {
+    "query": "What is Anselme Payen's domain of work?",
+    "answer": " chemistry",
+    "sub": "Anselme Payen"
+  },
+  {
+    "query": "What is Isaac Barrow's domain of work?",
+    "answer": " mathematics",
+    "sub": "Isaac Barrow"
+  },
+  {
+    "query": "What is Sean M. Carroll's domain of work?",
+    "answer": " physics",
+    "sub": "Sean M. Carroll"
+  },
+  {
+    "query": "What is Jean Piaget's domain of work?",
+    "answer": " psychology",
+    "sub": "Jean Piaget"
+  },
+  {
+    "query": "What is Jacques de Morgan's domain of work?",
+    "answer": " archaeology",
+    "sub": "Jacques de Morgan"
+  },
+  {
+    "query": "What is Charles Bell's domain of work?",
+    "answer": " physiology",
+    "sub": "Charles Bell"
+  },
+  {
+    "query": "What is Shinobu Kaitani's domain of work?",
+    "answer": " manga",
+    "sub": "Shinobu Kaitani"
+  },
+  {
+    "query": "What is European Physical Society's domain of work?",
+    "answer": " physics",
+    "sub": "European Physical Society"
+  },
+  {
+    "query": "What is Stefan Banach's domain of work?",
+    "answer": " mathematics",
+    "sub": "Stefan Banach"
+  },
+  {
+    "query": "What is Marshall Harvey Stone's domain of work?",
+    "answer": " mathematics",
+    "sub": "Marshall Harvey Stone"
+  },
+  {
+    "query": "What is Henry Corbin's domain of work?",
+    "answer": " philosophy",
+    "sub": "Henry Corbin"
+  },
+  {
+    "query": "What is Jernej Kopitar's domain of work?",
+    "answer": " linguistics",
+    "sub": "Jernej Kopitar"
+  },
+  {
+    "query": "What is Thomas J. Watson's domain of work?",
+    "answer": " IBM",
+    "sub": "Thomas J. Watson"
+  },
+  {
+    "query": "What is George Murdock's domain of work?",
+    "answer": " anthropology",
+    "sub": "George Murdock"
+  },
+  {
+    "query": "What is Grammy Award for Best Female Country Vocal Performance's domain of work?",
+    "answer": " singing",
+    "sub": "Grammy Award for Best Female Country Vocal Performance"
+  },
+  {
+    "query": "What is medical association's domain of work?",
+    "answer": " medicine",
+    "sub": "medical association"
+  },
+  {
+    "query": "What is Joseph Priestley's domain of work?",
+    "answer": " philosophy",
+    "sub": "Joseph Priestley"
+  },
+  {
+    "query": "What is Nikolaus Joseph von Jacquin's domain of work?",
+    "answer": " chemistry",
+    "sub": "Nikolaus Joseph von Jacquin"
+  },
+  {
+    "query": "What is Julius Lothar Meyer's domain of work?",
+    "answer": " chemistry",
+    "sub": "Julius Lothar Meyer"
+  },
+  {
+    "query": "What is Kurt Lewin's domain of work?",
+    "answer": " psychology",
+    "sub": "Kurt Lewin"
+  },
+  {
+    "query": "What is Arnold Chikobava's domain of work?",
+    "answer": " linguistics",
+    "sub": "Arnold Chikobava"
+  },
+  {
+    "query": "What is Jane Ellen Harrison's domain of work?",
+    "answer": " classics",
+    "sub": "Jane Ellen Harrison"
+  },
+  {
+    "query": "What is Mathias Lerch's domain of work?",
+    "answer": " mathematics",
+    "sub": "Mathias Lerch"
+  },
+  {
+    "query": "What is James Clerk Maxwell's domain of work?",
+    "answer": " physics",
+    "sub": "James Clerk Maxwell"
+  },
+  {
+    "query": "What is Giorgi Melikishvili's domain of work?",
+    "answer": " history",
+    "sub": "Giorgi Melikishvili"
+  },
+  {
+    "query": "What is Herman Boerhaave's domain of work?",
+    "answer": " medicine",
+    "sub": "Herman Boerhaave"
+  },
+  {
+    "query": "What is Jean-Nicolas Corvisart's domain of work?",
+    "answer": " medicine",
+    "sub": "Jean-Nicolas Corvisart"
+  },
+  {
+    "query": "What is ICTP Ramanujan Prize's domain of work?",
+    "answer": " mathematics",
+    "sub": "ICTP Ramanujan Prize"
+  },
+  {
+    "query": "What is Akimi Yoshida's domain of work?",
+    "answer": " manga",
+    "sub": "Akimi Yoshida"
+  },
+  {
+    "query": "What is Elias James Corey's domain of work?",
+    "answer": " chemistry",
+    "sub": "Elias James Corey"
+  },
+  {
+    "query": "What is Ernest Starling's domain of work?",
+    "answer": " physiology",
+    "sub": "Ernest Starling"
+  },
+  {
+    "query": "What is Alfred Marshall's domain of work?",
+    "answer": " economics",
+    "sub": "Alfred Marshall"
+  },
+  {
+    "query": "What is Brian Bowditch's domain of work?",
+    "answer": " topology",
+    "sub": "Brian Bowditch"
+  },
+  {
+    "query": "What is Nathaniel Bowditch's domain of work?",
+    "answer": " mathematics",
+    "sub": "Nathaniel Bowditch"
+  },
+  {
+    "query": "What is Nicolaus Copernicus's domain of work?",
+    "answer": " astronomy",
+    "sub": "Nicolaus Copernicus"
+  },
+  {
+    "query": "What is Eric Maskin's domain of work?",
+    "answer": " economist",
+    "sub": "Eric Maskin"
+  },
+  {
+    "query": "What is Mikio Sato's domain of work?",
+    "answer": " mathematics",
+    "sub": "Mikio Sato"
+  },
+  {
+    "query": "What is Helen E. Fisher's domain of work?",
+    "answer": " anthropology",
+    "sub": "Helen E. Fisher"
+  },
+  {
+    "query": "What is Jared Diamond's domain of work?",
+    "answer": " ecology",
+    "sub": "Jared Diamond"
+  },
+  {
+    "query": "What is Karl Menger's domain of work?",
+    "answer": " mathematics",
+    "sub": "Karl Menger"
+  },
+  {
+    "query": "What is Jeremiah Horrocks's domain of work?",
+    "answer": " astronomy",
+    "sub": "Jeremiah Horrocks"
+  },
+  {
+    "query": "What is William Crabtree's domain of work?",
+    "answer": " astronomy",
+    "sub": "William Crabtree"
+  },
+  {
+    "query": "What is Heymann Steinthal's domain of work?",
+    "answer": " linguistics",
+    "sub": "Heymann Steinthal"
+  },
+  {
+    "query": "What is Andrey Kolmogorov's domain of work?",
+    "answer": " geometry",
+    "sub": "Andrey Kolmogorov"
+  },
+  {
+    "query": "What is Claude Louis Berthollet's domain of work?",
+    "answer": " chemistry",
+    "sub": "Claude Louis Berthollet"
+  },
+  {
+    "query": "What is Joseph Louis Gay-Lussac's domain of work?",
+    "answer": " chemistry",
+    "sub": "Joseph Louis Gay-Lussac"
+  },
+  {
+    "query": "What is Vilhelm Bjerknes's domain of work?",
+    "answer": " physics",
+    "sub": "Vilhelm Bjerknes"
+  },
+  {
+    "query": "What is Heinrich Roth's domain of work?",
+    "answer": " Sanskrit",
+    "sub": "Heinrich Roth"
+  },
+  {
+    "query": "What is Walther Meissner's domain of work?",
+    "answer": " physics",
+    "sub": "Walther Meissner"
+  },
+  {
+    "query": "What is octane's domain of work?",
+    "answer": " chemistry",
+    "sub": "octane"
+  },
+  {
+    "query": "What is Spacewatch's domain of work?",
+    "answer": " asteroid",
+    "sub": "Spacewatch"
+  },
+  {
+    "query": "What is Henri Brocard's domain of work?",
+    "answer": " geometry",
+    "sub": "Henri Brocard"
+  },
+  {
+    "query": "What is Vorderasiatisches Museum Berlin's domain of work?",
+    "answer": " archaeology",
+    "sub": "Vorderasiatisches Museum Berlin"
+  },
+  {
+    "query": "What is Daniel Bernoulli's domain of work?",
+    "answer": " physics",
+    "sub": "Daniel Bernoulli"
+  },
+  {
+    "query": "What is Clark Kimberling's domain of work?",
+    "answer": " geometry",
+    "sub": "Clark Kimberling"
+  },
+  {
+    "query": "What is Uspekhi Fizicheskikh Nauk's domain of work?",
+    "answer": " physics",
+    "sub": "Uspekhi Fizicheskikh Nauk"
+  },
+  {
+    "query": "What is Ewald Hering's domain of work?",
+    "answer": " physiology",
+    "sub": "Ewald Hering"
+  },
+  {
+    "query": "What is Samuel Cooper's domain of work?",
+    "answer": " portrait miniature",
+    "sub": "Samuel Cooper"
+  },
+  {
+    "query": "What is Julian Huxley's domain of work?",
+    "answer": " biology",
+    "sub": "Julian Huxley"
+  },
+  {
+    "query": "What is Edward B. Titchener's domain of work?",
+    "answer": " psychology",
+    "sub": "Edward B. Titchener"
+  },
+  {
+    "query": "What is Johann Georg Gmelin's domain of work?",
+    "answer": " medicine",
+    "sub": "Johann Georg Gmelin"
+  },
+  {
+    "query": "What is Michael Faraday's domain of work?",
+    "answer": " physics",
+    "sub": "Michael Faraday"
+  },
+  {
+    "query": "What is Werner Sombart's domain of work?",
+    "answer": " sociology",
+    "sub": "Werner Sombart"
+  },
+  {
+    "query": "What is Johannes Fabricius's domain of work?",
+    "answer": " astronomy",
+    "sub": "Johannes Fabricius"
+  },
+  {
+    "query": "What is Otto Neurath's domain of work?",
+    "answer": " sociology",
+    "sub": "Otto Neurath"
+  },
+  {
+    "query": "What is Matthias Jacob Schleiden's domain of work?",
+    "answer": " biology",
+    "sub": "Matthias Jacob Schleiden"
+  },
+  {
+    "query": "What is integument's domain of work?",
+    "answer": " biology",
+    "sub": "integument"
+  },
+  {
+    "query": "What is Stephen Wolfram's domain of work?",
+    "answer": " mathematics",
+    "sub": "Stephen Wolfram"
+  },
+  {
+    "query": "What is Johann Christian Reil's domain of work?",
+    "answer": " medicine",
+    "sub": "Johann Christian Reil"
+  },
+  {
+    "query": "What is William Thierry Preyer's domain of work?",
+    "answer": " physiology",
+    "sub": "William Thierry Preyer"
+  },
+  {
+    "query": "What is Irving Langmuir Award's domain of work?",
+    "answer": " physics",
+    "sub": "Irving Langmuir Award"
+  },
+  {
+    "query": "What is Humphry Davy's domain of work?",
+    "answer": " chemistry",
+    "sub": "Humphry Davy"
+  },
+  {
+    "query": "What is Doro Levi's domain of work?",
+    "answer": " archaeology",
+    "sub": "Doro Levi"
+  },
+  {
+    "query": "What is Al-Masudi's domain of work?",
+    "answer": " history",
+    "sub": "Al-Masudi"
+  },
+  {
+    "query": "What is Henri Moissan's domain of work?",
+    "answer": " chemistry",
+    "sub": "Henri Moissan"
+  },
+  {
+    "query": "What is Heinz Hopf's domain of work?",
+    "answer": " topology",
+    "sub": "Heinz Hopf"
+  },
+  {
+    "query": "What is Heinz Hopf's domain of work?",
+    "answer": " geometry",
+    "sub": "Heinz Hopf"
+  },
+  {
+    "query": "What is Pierre Curie's domain of work?",
+    "answer": " physics",
+    "sub": "Pierre Curie"
+  },
+  {
+    "query": "What is Log Cabin Republicans's domain of work?",
+    "answer": " LGBT",
+    "sub": "Log Cabin Republicans"
+  },
+  {
+    "query": "What is Isaac Barrow's domain of work?",
+    "answer": " theology",
+    "sub": "Isaac Barrow"
+  },
+  {
+    "query": "What is Martin Haspelmath's domain of work?",
+    "answer": " linguistics",
+    "sub": "Martin Haspelmath"
+  },
+  {
+    "query": "What is Geometry Festival's domain of work?",
+    "answer": " mathematics",
+    "sub": "Geometry Festival"
+  },
+  {
+    "query": "What is Gustav Kirchhoff's domain of work?",
+    "answer": " physics",
+    "sub": "Gustav Kirchhoff"
+  },
+  {
+    "query": "What is Jean Pierre Flourens's domain of work?",
+    "answer": " physiology",
+    "sub": "Jean Pierre Flourens"
+  },
+  {
+    "query": "What is The Physiological Society's domain of work?",
+    "answer": " physiology",
+    "sub": "The Physiological Society"
+  },
+  {
+    "query": "What is Norbert Wiener's domain of work?",
+    "answer": " mathematics",
+    "sub": "Norbert Wiener"
+  },
+  {
+    "query": "What is Steven Weinberg's domain of work?",
+    "answer": " physics",
+    "sub": "Steven Weinberg"
+  },
+  {
+    "query": "What is Hrachia Adjarian's domain of work?",
+    "answer": " linguistics",
+    "sub": "Hrachia Adjarian"
+  },
+  {
+    "query": "What is Petrus Camper's domain of work?",
+    "answer": " anatomy",
+    "sub": "Petrus Camper"
+  },
+  {
+    "query": "What is Carl Ritter's domain of work?",
+    "answer": " geography",
+    "sub": "Carl Ritter"
+  },
+  {
+    "query": "What is Urbain Le Verrier's domain of work?",
+    "answer": " astronomy",
+    "sub": "Urbain Le Verrier"
+  },
+  {
+    "query": "What is Frank Morley's domain of work?",
+    "answer": " geometry",
+    "sub": "Frank Morley"
+  },
+  {
+    "query": "What is Ian Hodder's domain of work?",
+    "answer": " archaeology",
+    "sub": "Ian Hodder"
+  },
+  {
+    "query": "What is Johan Huizinga's domain of work?",
+    "answer": " history",
+    "sub": "Johan Huizinga"
+  },
+  {
+    "query": "What is Johannes Eugenius Bülow Warming's domain of work?",
+    "answer": " biology",
+    "sub": "Johannes Eugenius Bülow Warming"
+  },
+  {
+    "query": "What is Alexey Okladnikov's domain of work?",
+    "answer": " archaeology",
+    "sub": "Alexey Okladnikov"
+  },
+  {
+    "query": "What is Flemish Primitives's domain of work?",
+    "answer": " drawing",
+    "sub": "Flemish Primitives"
+  },
+  {
+    "query": "What is Marcos Moshinsky's domain of work?",
+    "answer": " physics",
+    "sub": "Marcos Moshinsky"
+  },
+  {
+    "query": "What is Calyampudi Radhakrishna Rao's domain of work?",
+    "answer": " mathematics",
+    "sub": "Calyampudi Radhakrishna Rao"
+  },
+  {
+    "query": "What is Jens Andreas Friis's domain of work?",
+    "answer": " linguistics",
+    "sub": "Jens Andreas Friis"
+  },
+  {
+    "query": "What is Science's domain of work?",
+    "answer": " science",
+    "sub": "Science"
+  },
+  {
+    "query": "What is anatomical placement's domain of work?",
+    "answer": " anatomy",
+    "sub": "anatomical placement"
+  },
+  {
+    "query": "What is Christoph Gerber's domain of work?",
+    "answer": " physics",
+    "sub": "Christoph Gerber"
+  },
+  {
+    "query": "What is Leo Wiener's domain of work?",
+    "answer": " linguistics",
+    "sub": "Leo Wiener"
+  },
+  {
+    "query": "What is Natalia Shvedova's domain of work?",
+    "answer": " linguistics",
+    "sub": "Natalia Shvedova"
+  },
+  {
+    "query": "What is Nicholas Metropolis's domain of work?",
+    "answer": " physics",
+    "sub": "Nicholas Metropolis"
+  },
+  {
+    "query": "What is Edward Teller's domain of work?",
+    "answer": " physics",
+    "sub": "Edward Teller"
+  },
+  {
+    "query": "What is Armand Trousseau's domain of work?",
+    "answer": " medicine",
+    "sub": "Armand Trousseau"
+  },
+  {
+    "query": "What is Led Zeppelin's domain of work?",
+    "answer": " musician",
+    "sub": "Led Zeppelin"
+  },
+  {
+    "query": "What is Asclepiades of Bithynia's domain of work?",
+    "answer": " medicine",
+    "sub": "Asclepiades of Bithynia"
+  },
+  {
+    "query": "What is John Davies Evans's domain of work?",
+    "answer": " archaeology",
+    "sub": "John Davies Evans"
+  },
+  {
+    "query": "What is Andrey Tikhonov's domain of work?",
+    "answer": " topology",
+    "sub": "Andrey Tikhonov"
+  },
+  {
+    "query": "What is Abraham bar Hiyya's domain of work?",
+    "answer": " astronomy",
+    "sub": "Abraham bar Hiyya"
+  },
+  {
+    "query": "What is Stefan Mazurkiewicz's domain of work?",
+    "answer": " topology",
+    "sub": "Stefan Mazurkiewicz"
+  },
+  {
+    "query": "What is Raymond Smith Dugan's domain of work?",
+    "answer": " astronomy",
+    "sub": "Raymond Smith Dugan"
+  },
+  {
+    "query": "What is Yana Toboso's domain of work?",
+    "answer": " manga",
+    "sub": "Yana Toboso"
+  },
+  {
+    "query": "What is Dyfed Archaeological Trust's domain of work?",
+    "answer": " archaeology",
+    "sub": "Dyfed Archaeological Trust"
+  },
+  {
+    "query": "What is Christian Wilhelm Blomstrand's domain of work?",
+    "answer": " chemistry",
+    "sub": "Christian Wilhelm Blomstrand"
+  },
+  {
+    "query": "What is Nikolai Bernstein's domain of work?",
+    "answer": " physiology",
+    "sub": "Nikolai Bernstein"
+  },
+  {
+    "query": "What is Thomas Gilovich's domain of work?",
+    "answer": " psychology",
+    "sub": "Thomas Gilovich"
+  },
+  {
+    "query": "What is Urania's domain of work?",
+    "answer": " astronomy",
+    "sub": "Urania"
+  },
+  {
+    "query": "What is James George Frazer's domain of work?",
+    "answer": " anthropology",
+    "sub": "James George Frazer"
+  },
+  {
+    "query": "What is Anatoly Fomenko's domain of work?",
+    "answer": " topology",
+    "sub": "Anatoly Fomenko"
+  },
+  {
+    "query": "What is William Cheselden's domain of work?",
+    "answer": " medicine",
+    "sub": "William Cheselden"
+  },
+  {
+    "query": "What is Immanuel Wallerstein's domain of work?",
+    "answer": " sociology",
+    "sub": "Immanuel Wallerstein"
+  },
+  {
+    "query": "What is Regiomontanus's domain of work?",
+    "answer": " mathematics",
+    "sub": "Regiomontanus"
+  },
+  {
+    "query": "What is Eugene Odum's domain of work?",
+    "answer": " ecology",
+    "sub": "Eugene Odum"
+  },
+  {
+    "query": "What is Lisbon Geographic Society's domain of work?",
+    "answer": " geography",
+    "sub": "Lisbon Geographic Society"
+  },
+  {
+    "query": "What is Ernest Lawrence's domain of work?",
+    "answer": " physics",
+    "sub": "Ernest Lawrence"
+  },
+  {
+    "query": "What is Marie Curie's domain of work?",
+    "answer": " chemistry",
+    "sub": "Marie Curie"
+  },
+  {
+    "query": "What is August Heinrich Petermann's domain of work?",
+    "answer": " geography",
+    "sub": "August Heinrich Petermann"
+  },
+  {
+    "query": "What is John Anthony Walker's domain of work?",
+    "answer": " espionage",
+    "sub": "John Anthony Walker"
+  },
+  {
+    "query": "What is John Napier's domain of work?",
+    "answer": " mathematics",
+    "sub": "John Napier"
+  },
+  {
+    "query": "What is Augustus Pitt Rivers's domain of work?",
+    "answer": " anthropology",
+    "sub": "Augustus Pitt Rivers"
+  },
+  {
+    "query": "What is Mark S. Granovetter's domain of work?",
+    "answer": " sociology",
+    "sub": "Mark S. Granovetter"
+  },
+  {
+    "query": "What is Enrico Betti's domain of work?",
+    "answer": " topology",
+    "sub": "Enrico Betti"
+  },
+  {
+    "query": "What is Isaac Newton's domain of work?",
+    "answer": " astronomy",
+    "sub": "Isaac Newton"
+  },
+  {
+    "query": "What is Francesco Maurolico's domain of work?",
+    "answer": " mathematics",
+    "sub": "Francesco Maurolico"
+  },
+  {
+    "query": "What is Willebrord Snellius's domain of work?",
+    "answer": " mathematics",
+    "sub": "Willebrord Snellius"
+  },
+  {
+    "query": "What is Herbert Robbins's domain of work?",
+    "answer": " mathematics",
+    "sub": "Herbert Robbins"
+  },
+  {
+    "query": "What is Olin J. Eggen's domain of work?",
+    "answer": " astronomy",
+    "sub": "Olin J. Eggen"
+  },
+  {
+    "query": "What is Allan Sandage's domain of work?",
+    "answer": " astronomy",
+    "sub": "Allan Sandage"
+  },
+  {
+    "query": "What is Johann Peter Frank's domain of work?",
+    "answer": " medicine",
+    "sub": "Johann Peter Frank"
+  },
+  {
+    "query": "What is European Physical Journal's domain of work?",
+    "answer": " physics",
+    "sub": "European Physical Journal"
+  },
+  {
+    "query": "What is Lille University of Health and Law's domain of work?",
+    "answer": " pharmacy",
+    "sub": "Lille University of Health and Law"
+  },
+  {
+    "query": "What is John Garstang's domain of work?",
+    "answer": " archaeology",
+    "sub": "John Garstang"
+  },
+  {
+    "query": "What is William Oughtred's domain of work?",
+    "answer": " mathematics",
+    "sub": "William Oughtred"
+  },
+  {
+    "query": "What is Georgios Metallinos's domain of work?",
+    "answer": " theology",
+    "sub": "Georgios Metallinos"
+  },
+  {
+    "query": "What is Larry Sanger's domain of work?",
+    "answer": " philosophy",
+    "sub": "Larry Sanger"
+  },
+  {
+    "query": "What is Philipp Lenard's domain of work?",
+    "answer": " physics",
+    "sub": "Philipp Lenard"
+  },
+  {
+    "query": "What is Hermann von Helmholtz's domain of work?",
+    "answer": " physiology",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "What is Robert Bigelow's domain of work?",
+    "answer": " hotel",
+    "sub": "Robert Bigelow"
+  },
+  {
+    "query": "What is Friedrich Bessel's domain of work?",
+    "answer": " astronomy",
+    "sub": "Friedrich Bessel"
+  },
+  {
+    "query": "What is George Kingsley Zipf's domain of work?",
+    "answer": " linguistics",
+    "sub": "George Kingsley Zipf"
+  },
+  {
+    "query": "What is Nikolaj Frederik Severin Grundtvig's domain of work?",
+    "answer": " philosophy",
+    "sub": "Nikolaj Frederik Severin Grundtvig"
+  },
+  {
+    "query": "What is Otto E. Neugebauer's domain of work?",
+    "answer": " mathematics",
+    "sub": "Otto E. Neugebauer"
+  },
+  {
+    "query": "What is Fritjof Capra's domain of work?",
+    "answer": " physics",
+    "sub": "Fritjof Capra"
+  },
+  {
+    "query": "What is PhilPapers's domain of work?",
+    "answer": " philosophy",
+    "sub": "PhilPapers"
+  },
+  {
+    "query": "What is Mikhail Mikhaylovich Gerasimov's domain of work?",
+    "answer": " anthropology",
+    "sub": "Mikhail Mikhaylovich Gerasimov"
+  },
+  {
+    "query": "What is Saskia Sassen's domain of work?",
+    "answer": " sociology",
+    "sub": "Saskia Sassen"
+  },
+  {
+    "query": "What is Frederik Kaiser's domain of work?",
+    "answer": " astronomy",
+    "sub": "Frederik Kaiser"
+  },
+  {
+    "query": "What is Leslie Birgit Vosshall's domain of work?",
+    "answer": " smell",
+    "sub": "Leslie Birgit Vosshall"
+  },
+  {
+    "query": "What is Zhou Youguang's domain of work?",
+    "answer": " linguistics",
+    "sub": "Zhou Youguang"
+  },
+  {
+    "query": "What is Alfred Kinsey's domain of work?",
+    "answer": " biology",
+    "sub": "Alfred Kinsey"
+  },
+  {
+    "query": "What is Mesrop Mashtots's domain of work?",
+    "answer": " linguistics",
+    "sub": "Mesrop Mashtots"
+  },
+  {
+    "query": "What is Kazimierz Ajdukiewicz's domain of work?",
+    "answer": " logic",
+    "sub": "Kazimierz Ajdukiewicz"
+  },
+  {
+    "query": "What is James Franck's domain of work?",
+    "answer": " physics",
+    "sub": "James Franck"
+  },
+  {
+    "query": "What is Walter Isard's domain of work?",
+    "answer": " geography",
+    "sub": "Walter Isard"
+  },
+  {
+    "query": "What is David Harvey's domain of work?",
+    "answer": " geography",
+    "sub": "David Harvey"
+  },
+  {
+    "query": "What is Adolphe Quetelet's domain of work?",
+    "answer": " mathematics",
+    "sub": "Adolphe Quetelet"
+  },
+  {
+    "query": "What is Nagaoka Hantarō's domain of work?",
+    "answer": " physics",
+    "sub": "Nagaoka Hantarō"
+  },
+  {
+    "query": "What is Johann Christian Polycarp Erxleben's domain of work?",
+    "answer": " physics",
+    "sub": "Johann Christian Polycarp Erxleben"
+  },
+  {
+    "query": "What is Giacomo F. Maraldi's domain of work?",
+    "answer": " mathematics",
+    "sub": "Giacomo F. Maraldi"
+  },
+  {
+    "query": "What is Christopher Zeeman's domain of work?",
+    "answer": " topology",
+    "sub": "Christopher Zeeman"
+  },
+  {
+    "query": "What is Barry Commoner's domain of work?",
+    "answer": " biology",
+    "sub": "Barry Commoner"
+  },
+  {
+    "query": "What is SASTRA Ramanujan Prize's domain of work?",
+    "answer": " mathematics",
+    "sub": "SASTRA Ramanujan Prize"
+  },
+  {
+    "query": "What is Ernest Archdeacon's domain of work?",
+    "answer": " aviation",
+    "sub": "Ernest Archdeacon"
+  },
+  {
+    "query": "What is Elinor Ostrom's domain of work?",
+    "answer": " economics",
+    "sub": "Elinor Ostrom"
+  },
+  {
+    "query": "What is SPECTRE's domain of work?",
+    "answer": " terrorism",
+    "sub": "SPECTRE"
+  },
+  {
+    "query": "What is Arthur Moritz Schoenflies's domain of work?",
+    "answer": " mathematics",
+    "sub": "Arthur Moritz Schoenflies"
+  },
+  {
+    "query": "What is Torbern Bergman's domain of work?",
+    "answer": " chemistry",
+    "sub": "Torbern Bergman"
+  },
+  {
+    "query": "What is Australian Mathematical Society's domain of work?",
+    "answer": " mathematics",
+    "sub": "Australian Mathematical Society"
+  },
+  {
+    "query": "What is Josias Simmler's domain of work?",
+    "answer": " theology",
+    "sub": "Josias Simmler"
+  },
+  {
+    "query": "What is Finnish Literature Society's domain of work?",
+    "answer": " Finnish",
+    "sub": "Finnish Literature Society"
+  },
+  {
+    "query": "What is Wallace Carothers's domain of work?",
+    "answer": " chemistry",
+    "sub": "Wallace Carothers"
+  },
+  {
+    "query": "What is Edward Victor Appleton's domain of work?",
+    "answer": " physics",
+    "sub": "Edward Victor Appleton"
+  },
+  {
+    "query": "What is Anton Zeilinger's domain of work?",
+    "answer": " physics",
+    "sub": "Anton Zeilinger"
+  },
+  {
+    "query": "What is Macedonio Melloni's domain of work?",
+    "answer": " physics",
+    "sub": "Macedonio Melloni"
+  },
+  {
+    "query": "What is William Camden's domain of work?",
+    "answer": " archaeology",
+    "sub": "William Camden"
+  },
+  {
+    "query": "What is Anne Caldwell's domain of work?",
+    "answer": " musical",
+    "sub": "Anne Caldwell"
+  },
+  {
+    "query": "What is John Dalton's domain of work?",
+    "answer": " chemistry",
+    "sub": "John Dalton"
+  },
+  {
+    "query": "What is John Dalton's domain of work?",
+    "answer": " physics",
+    "sub": "John Dalton"
+  },
+  {
+    "query": "What is Nicolaus Steno's domain of work?",
+    "answer": " anatomy",
+    "sub": "Nicolaus Steno"
+  },
+  {
+    "query": "What is Archibald Hill's domain of work?",
+    "answer": " physiology",
+    "sub": "Archibald Hill"
+  },
+  {
+    "query": "What is Actaeon's domain of work?",
+    "answer": " hunting",
+    "sub": "Actaeon"
+  },
+  {
+    "query": "What is Alfred Tarski's domain of work?",
+    "answer": " logic",
+    "sub": "Alfred Tarski"
+  },
+  {
+    "query": "What is Lev Shcherba's domain of work?",
+    "answer": " linguistics",
+    "sub": "Lev Shcherba"
+  },
+  {
+    "query": "What is Georges Reeb's domain of work?",
+    "answer": " mathematics",
+    "sub": "Georges Reeb"
+  },
+  {
+    "query": "What is Georgios Babiniotis's domain of work?",
+    "answer": " linguistics",
+    "sub": "Georgios Babiniotis"
+  },
+  {
+    "query": "What is Georgios Babiniotis's domain of work?",
+    "answer": " Greek",
+    "sub": "Georgios Babiniotis"
+  },
+  {
+    "query": "What is Dmitri Mendeleev's domain of work?",
+    "answer": " chemistry",
+    "sub": "Dmitri Mendeleev"
+  },
+  {
+    "query": "What is Dmitri Mendeleev's domain of work?",
+    "answer": " physics",
+    "sub": "Dmitri Mendeleev"
+  },
+  {
+    "query": "What is Herman Auerbach's domain of work?",
+    "answer": " mathematics",
+    "sub": "Herman Auerbach"
+  },
+  {
+    "query": "What is Nur ad-Din al-Bitruji's domain of work?",
+    "answer": " astronomy",
+    "sub": "Nur ad-Din al-Bitruji"
+  },
+  {
+    "query": "What is Charles Sutherland Elton's domain of work?",
+    "answer": " ecology",
+    "sub": "Charles Sutherland Elton"
+  },
+  {
+    "query": "What is Bernard Comrie's domain of work?",
+    "answer": " linguistics",
+    "sub": "Bernard Comrie"
+  },
+  {
+    "query": "What is Giovanni Battista Amici's domain of work?",
+    "answer": " astronomy",
+    "sub": "Giovanni Battista Amici"
+  },
+  {
+    "query": "What is Robert Caldwell's domain of work?",
+    "answer": " linguistics",
+    "sub": "Robert Caldwell"
+  },
+  {
+    "query": "What is George Volkoff's domain of work?",
+    "answer": " physics",
+    "sub": "George Volkoff"
+  },
+  {
+    "query": "What is Paul McCartney's domain of work?",
+    "answer": " musician",
+    "sub": "Paul McCartney"
+  },
+  {
+    "query": "What is Jonathan Haidt's domain of work?",
+    "answer": " psychology",
+    "sub": "Jonathan Haidt"
+  },
+  {
+    "query": "What is James Morris Blaut's domain of work?",
+    "answer": " geography",
+    "sub": "James Morris Blaut"
+  },
+  {
+    "query": "What is Charles Babbage's domain of work?",
+    "answer": " mathematics",
+    "sub": "Charles Babbage"
+  },
+  {
+    "query": "What is Vladimir Voevodsky's domain of work?",
+    "answer": " topology",
+    "sub": "Vladimir Voevodsky"
+  },
+  {
+    "query": "What is Women on Waves's domain of work?",
+    "answer": " abortion",
+    "sub": "Women on Waves"
+  },
+  {
+    "query": "What is James Ivory's domain of work?",
+    "answer": " mathematics",
+    "sub": "James Ivory"
+  },
+  {
+    "query": "What is Nicolaus Copernicus's domain of work?",
+    "answer": " mathematics",
+    "sub": "Nicolaus Copernicus"
+  },
+  {
+    "query": "What is Marian Rejewski's domain of work?",
+    "answer": " mathematics",
+    "sub": "Marian Rejewski"
+  },
+  {
+    "query": "What is Aryabhata's domain of work?",
+    "answer": " astronomy",
+    "sub": "Aryabhata"
+  },
+  {
+    "query": "What is Paul Broca's domain of work?",
+    "answer": " anthropology",
+    "sub": "Paul Broca"
+  },
+  {
+    "query": "What is Khaled Hosseini's domain of work?",
+    "answer": " Afghanistan",
+    "sub": "Khaled Hosseini"
+  },
+  {
+    "query": "What is Clyde Tombaugh's domain of work?",
+    "answer": " astronomer",
+    "sub": "Clyde Tombaugh"
+  },
+  {
+    "query": "What is Boris Rybakov's domain of work?",
+    "answer": " archaeology",
+    "sub": "Boris Rybakov"
+  },
+  {
+    "query": "What is Willis Lamb's domain of work?",
+    "answer": " physics",
+    "sub": "Willis Lamb"
+  },
+  {
+    "query": "What is John Wallis's domain of work?",
+    "answer": " mathematics",
+    "sub": "John Wallis"
+  },
+  {
+    "query": "What is Arcisse de Caumont's domain of work?",
+    "answer": " archaeology",
+    "sub": "Arcisse de Caumont"
+  },
+  {
+    "query": "What is Archimedes's domain of work?",
+    "answer": " geometry",
+    "sub": "Archimedes"
+  },
+  {
+    "query": "What is Lipman Bers's domain of work?",
+    "answer": " mathematics",
+    "sub": "Lipman Bers"
+  },
+  {
+    "query": "What is Anaxagoras's domain of work?",
+    "answer": " astronomy",
+    "sub": "Anaxagoras"
+  },
+  {
+    "query": "What is Ibn Hišām's domain of work?",
+    "answer": " history",
+    "sub": "Ibn Hišām"
+  },
+  {
+    "query": "What is Georgi Kitov's domain of work?",
+    "answer": " archaeology",
+    "sub": "Georgi Kitov"
+  },
+  {
+    "query": "What is Christiaan Huygens's domain of work?",
+    "answer": " physics",
+    "sub": "Christiaan Huygens"
+  },
+  {
+    "query": "What is Julius Pokorny's domain of work?",
+    "answer": " linguistics",
+    "sub": "Julius Pokorny"
+  },
+  {
+    "query": "What is Leo Klejn's domain of work?",
+    "answer": " archaeology",
+    "sub": "Leo Klejn"
+  },
+  {
+    "query": "What is Antoine Augustin Cournot's domain of work?",
+    "answer": " mathematics",
+    "sub": "Antoine Augustin Cournot"
+  },
+  {
+    "query": "What is Clarence Zener's domain of work?",
+    "answer": " physics",
+    "sub": "Clarence Zener"
+  },
+  {
+    "query": "What is Mikhail Gromov's domain of work?",
+    "answer": " geometry",
+    "sub": "Mikhail Gromov"
+  },
+  {
+    "query": "What is Gilbert Blane's domain of work?",
+    "answer": " medicine",
+    "sub": "Gilbert Blane"
+  },
+  {
+    "query": "What is Julian Steward's domain of work?",
+    "answer": " anthropology",
+    "sub": "Julian Steward"
+  },
+  {
+    "query": "What is Q Center's domain of work?",
+    "answer": " LGBT",
+    "sub": "Q Center"
+  },
+  {
+    "query": "What is Franz Reuleaux's domain of work?",
+    "answer": " mechanics",
+    "sub": "Franz Reuleaux"
+  },
+  {
+    "query": "What is Ian Agol's domain of work?",
+    "answer": " topology",
+    "sub": "Ian Agol"
+  },
+  {
+    "query": "What is Jan Baptist Van Helmont's domain of work?",
+    "answer": " chemistry",
+    "sub": "Jan Baptist Van Helmont"
+  },
+  {
+    "query": "What is Theodor Billroth's domain of work?",
+    "answer": " surgery",
+    "sub": "Theodor Billroth"
+  },
+  {
+    "query": "What is Michael Jackson's domain of work?",
+    "answer": " musician",
+    "sub": "Michael Jackson"
+  },
+  {
+    "query": "What is Laurent Lafforgue's domain of work?",
+    "answer": " mathematics",
+    "sub": "Laurent Lafforgue"
+  },
+  {
+    "query": "What is David Bohm's domain of work?",
+    "answer": " physics",
+    "sub": "David Bohm"
+  },
+  {
+    "query": "What is Hertha Ayrton's domain of work?",
+    "answer": " mathematics",
+    "sub": "Hertha Ayrton"
+  },
+  {
+    "query": "What is Homi Jehangir Bhabha's domain of work?",
+    "answer": " physics",
+    "sub": "Homi Jehangir Bhabha"
+  },
+  {
+    "query": "What is David G. Bromley's domain of work?",
+    "answer": " sociology",
+    "sub": "David G. Bromley"
+  },
+  {
+    "query": "What is Palestine Exploration Fund's domain of work?",
+    "answer": " archaeology",
+    "sub": "Palestine Exploration Fund"
+  },
+  {
+    "query": "What is Friedrich Hirzebruch's domain of work?",
+    "answer": " mathematics",
+    "sub": "Friedrich Hirzebruch"
+  },
+  {
+    "query": "What is Arnaud Denjoy's domain of work?",
+    "answer": " mathematics",
+    "sub": "Arnaud Denjoy"
+  },
+  {
+    "query": "What is Friedrich Spanheim's domain of work?",
+    "answer": " theology",
+    "sub": "Friedrich Spanheim"
+  },
+  {
+    "query": "What is Karl Schwarzschild's domain of work?",
+    "answer": " astronomy",
+    "sub": "Karl Schwarzschild"
+  },
+  {
+    "query": "What is Adam Smith's domain of work?",
+    "answer": " economics",
+    "sub": "Adam Smith"
+  },
+  {
+    "query": "What is Wilhelm Roux's domain of work?",
+    "answer": " anatomy",
+    "sub": "Wilhelm Roux"
+  },
+  {
+    "query": "What is Adonis's domain of work?",
+    "answer": " hunting",
+    "sub": "Adonis"
+  },
+  {
+    "query": "What is Robert A. Millikan's domain of work?",
+    "answer": " physics",
+    "sub": "Robert A. Millikan"
+  },
+  {
+    "query": "What is anatomical terminology's domain of work?",
+    "answer": " anatomy",
+    "sub": "anatomical terminology"
+  },
+  {
+    "query": "What is Mildred Dresselhaus's domain of work?",
+    "answer": " physics",
+    "sub": "Mildred Dresselhaus"
+  },
+  {
+    "query": "What is George Bernard Dantzig's domain of work?",
+    "answer": " mathematics",
+    "sub": "George Bernard Dantzig"
+  },
+  {
+    "query": "What is Max Dehn's domain of work?",
+    "answer": " topology",
+    "sub": "Max Dehn"
+  },
+  {
+    "query": "What is Gerardus Mercator's domain of work?",
+    "answer": " geography",
+    "sub": "Gerardus Mercator"
+  },
+  {
+    "query": "What is Jean-Baptiste Boussingault's domain of work?",
+    "answer": " chemistry",
+    "sub": "Jean-Baptiste Boussingault"
+  },
+  {
+    "query": "What is Carl Linnaeus's domain of work?",
+    "answer": " medicine",
+    "sub": "Carl Linnaeus"
+  },
+  {
+    "query": "What is Boris Delaunay's domain of work?",
+    "answer": " geometry",
+    "sub": "Boris Delaunay"
+  },
+  {
+    "query": "What is Ernst Heinrich Weber's domain of work?",
+    "answer": " physiology",
+    "sub": "Ernst Heinrich Weber"
+  },
+  {
+    "query": "What is Francisco Varela's domain of work?",
+    "answer": " biology",
+    "sub": "Francisco Varela"
+  },
+  {
+    "query": "What is Karl Polanyi's domain of work?",
+    "answer": " sociology",
+    "sub": "Karl Polanyi"
+  },
+  {
+    "query": "What is Charles Darwin's domain of work?",
+    "answer": " geology",
+    "sub": "Charles Darwin"
+  },
+  {
+    "query": "What is Tim Ingold's domain of work?",
+    "answer": " anthropology",
+    "sub": "Tim Ingold"
+  },
+  {
+    "query": "What is Frank Wilczek's domain of work?",
+    "answer": " physics",
+    "sub": "Frank Wilczek"
+  },
+  {
+    "query": "What is Guo Moruo's domain of work?",
+    "answer": " history",
+    "sub": "Guo Moruo"
+  },
+  {
+    "query": "What is Herbert Seifert's domain of work?",
+    "answer": " topology",
+    "sub": "Herbert Seifert"
+  },
+  {
+    "query": "What is Jan Mikulicz-Radecki's domain of work?",
+    "answer": " surgery",
+    "sub": "Jan Mikulicz-Radecki"
+  },
+  {
+    "query": "What is Kamil Zvelebil's domain of work?",
+    "answer": " Tamil",
+    "sub": "Kamil Zvelebil"
+  },
+  {
+    "query": "What is Jonas Jablonskis's domain of work?",
+    "answer": " linguistics",
+    "sub": "Jonas Jablonskis"
+  },
+  {
+    "query": "What is Karl Georg Christian von Staudt's domain of work?",
+    "answer": " geometry",
+    "sub": "Karl Georg Christian von Staudt"
+  },
+  {
+    "query": "What is Germaine Greer's domain of work?",
+    "answer": " feminism",
+    "sub": "Germaine Greer"
+  },
+  {
+    "query": "What is Hellmuth Kneser's domain of work?",
+    "answer": " topology",
+    "sub": "Hellmuth Kneser"
+  },
+  {
+    "query": "What is Andrey Kolmogorov's domain of work?",
+    "answer": " topology",
+    "sub": "Andrey Kolmogorov"
+  },
+  {
+    "query": "What is Johann Heinrich Lambert's domain of work?",
+    "answer": " physics",
+    "sub": "Johann Heinrich Lambert"
+  },
+  {
+    "query": "What is William Camden's domain of work?",
+    "answer": " history",
+    "sub": "William Camden"
+  },
+  {
+    "query": "What is Nicole-Reine Lepaute's domain of work?",
+    "answer": " astronomy",
+    "sub": "Nicole-Reine Lepaute"
+  },
+  {
+    "query": "What is Kees Versteegh's domain of work?",
+    "answer": " linguistics",
+    "sub": "Kees Versteegh"
+  },
+  {
+    "query": "What is Alexander Bogdanov's domain of work?",
+    "answer": " medicine",
+    "sub": "Alexander Bogdanov"
+  },
+  {
+    "query": "What is Brahmagupta's domain of work?",
+    "answer": " mathematics",
+    "sub": "Brahmagupta"
+  },
+  {
+    "query": "What is Nicolas Chuquet's domain of work?",
+    "answer": " mathematics",
+    "sub": "Nicolas Chuquet"
+  },
+  {
+    "query": "What is Spacewatch's domain of work?",
+    "answer": " comet",
+    "sub": "Spacewatch"
+  },
+  {
+    "query": "What is Ludwig Klages's domain of work?",
+    "answer": " psychology",
+    "sub": "Ludwig Klages"
+  },
+  {
+    "query": "What is Wilhelm Wien's domain of work?",
+    "answer": " physics",
+    "sub": "Wilhelm Wien"
+  },
+  {
+    "query": "What is August Kundt's domain of work?",
+    "answer": " physics",
+    "sub": "August Kundt"
+  },
+  {
+    "query": "What is Tanya Reinhart's domain of work?",
+    "answer": " linguistics",
+    "sub": "Tanya Reinhart"
+  },
+  {
+    "query": "What is Regnier de Graaf's domain of work?",
+    "answer": " physician",
+    "sub": "Regnier de Graaf"
+  },
+  {
+    "query": "What is Louis Cappel's domain of work?",
+    "answer": " Hebrew",
+    "sub": "Louis Cappel"
+  },
+  {
+    "query": "What is Ali-Akbar Dehkhoda's domain of work?",
+    "answer": " linguistics",
+    "sub": "Ali-Akbar Dehkhoda"
+  },
+  {
+    "query": "What is Edinburgh Mathematical Society's domain of work?",
+    "answer": " mathematics",
+    "sub": "Edinburgh Mathematical Society"
+  },
+  {
+    "query": "What is Religious Tract Society's domain of work?",
+    "answer": " publishing",
+    "sub": "Religious Tract Society"
+  },
+  {
+    "query": "What is Hermann von Helmholtz's domain of work?",
+    "answer": " psychology",
+    "sub": "Hermann von Helmholtz"
+  },
+  {
+    "query": "What is Hjalmar Mellin's domain of work?",
+    "answer": " mathematics",
+    "sub": "Hjalmar Mellin"
+  },
+  {
+    "query": "What is Leonhard Euler's domain of work?",
+    "answer": " astronomy",
+    "sub": "Leonhard Euler"
+  },
+  {
+    "query": "What is Cesare Emiliani's domain of work?",
+    "answer": " geology",
+    "sub": "Cesare Emiliani"
+  },
+  {
+    "query": "What is NOTAM's domain of work?",
+    "answer": " aviation",
+    "sub": "NOTAM"
+  },
+  {
+    "query": "What is Paul Cameron's domain of work?",
+    "answer": " psychology",
+    "sub": "Paul Cameron"
+  },
+  {
+    "query": "What is Theodor von Oppolzer's domain of work?",
+    "answer": " astronomy",
+    "sub": "Theodor von Oppolzer"
+  },
+  {
+    "query": "What is Adrianne Wadewitz's domain of work?",
+    "answer": " Wikipedia",
+    "sub": "Adrianne Wadewitz"
+  },
+  {
+    "query": "What is Nan Hoover's domain of work?",
+    "answer": " photography",
+    "sub": "Nan Hoover"
+  },
+  {
+    "query": "What is Galileo Galilei's domain of work?",
+    "answer": " philosophy",
+    "sub": "Galileo Galilei"
+  },
+  {
+    "query": "What is Joke Smit's domain of work?",
+    "answer": " feminism",
+    "sub": "Joke Smit"
+  },
+  {
+    "query": "What is Georg Mohr's domain of work?",
+    "answer": " mathematics",
+    "sub": "Georg Mohr"
+  },
+  {
+    "query": "What is chemical test's domain of work?",
+    "answer": " chemistry",
+    "sub": "chemical test"
+  },
+  {
+    "query": "What is Gregor Mendel's domain of work?",
+    "answer": " genetics",
+    "sub": "Gregor Mendel"
+  },
+  {
+    "query": "What is Ahmad Kasravi's domain of work?",
+    "answer": " linguistics",
+    "sub": "Ahmad Kasravi"
+  },
+  {
+    "query": "What is Bruce Springsteen's domain of work?",
+    "answer": " musician",
+    "sub": "Bruce Springsteen"
+  },
+  {
+    "query": "What is William Lipscomb's domain of work?",
+    "answer": " chemistry",
+    "sub": "William Lipscomb"
+  },
+  {
+    "query": "What is Sofia Kovalevskaya's domain of work?",
+    "answer": " mathematics",
+    "sub": "Sofia Kovalevskaya"
+  },
+  {
+    "query": "What is Felix Plater's domain of work?",
+    "answer": " medicine",
+    "sub": "Felix Plater"
+  },
+  {
+    "query": "What is Italian Chemical Society's domain of work?",
+    "answer": " chemistry",
+    "sub": "Italian Chemical Society"
+  },
+  {
+    "query": "What is Leon Orbeli's domain of work?",
+    "answer": " physiology",
+    "sub": "Leon Orbeli"
+  },
+  {
+    "query": "What is Giordano Bruno's domain of work?",
+    "answer": " philosophy",
+    "sub": "Giordano Bruno"
+  },
+  {
+    "query": "What is Stanislav Grof's domain of work?",
+    "answer": " psychology",
+    "sub": "Stanislav Grof"
+  },
+  {
+    "query": "What is Polymath project's domain of work?",
+    "answer": " mathematics",
+    "sub": "Polymath project"
+  },
+  {
+    "query": "What is George Huntington's domain of work?",
+    "answer": " medicine",
+    "sub": "George Huntington"
+  },
+  {
+    "query": "What is Callippus of Cyzicus's domain of work?",
+    "answer": " astronomy",
+    "sub": "Callippus of Cyzicus"
+  },
+  {
+    "query": "What is Napoleon Chagnon's domain of work?",
+    "answer": " anthropology",
+    "sub": "Napoleon Chagnon"
+  },
+  {
+    "query": "What is Vilhelm Thomsen's domain of work?",
+    "answer": " linguistics",
+    "sub": "Vilhelm Thomsen"
+  },
+  {
+    "query": "What is Edward Condon's domain of work?",
+    "answer": " physics",
+    "sub": "Edward Condon"
+  },
+  {
+    "query": "What is Robert Hanbury Brown's domain of work?",
+    "answer": " astronomy",
+    "sub": "Robert Hanbury Brown"
+  },
+  {
+    "query": "What is Carl Ludwig's domain of work?",
+    "answer": " physiology",
+    "sub": "Carl Ludwig"
+  },
+  {
+    "query": "What is Menaechmus's domain of work?",
+    "answer": " geometry",
+    "sub": "Menaechmus"
+  },
+  {
+    "query": "What is Henri Becquerel's domain of work?",
+    "answer": " physics",
+    "sub": "Henri Becquerel"
+  },
+  {
+    "query": "What is Onufri's domain of work?",
+    "answer": " icon",
+    "sub": "Onufri"
+  },
+  {
+    "query": "What is A Thousand Plateaus's domain of work?",
+    "answer": " philosophy",
+    "sub": "A Thousand Plateaus"
+  },
+  {
+    "query": "What is Johanna Nichols's domain of work?",
+    "answer": " linguistics",
+    "sub": "Johanna Nichols"
+  },
+  {
+    "query": "What is William Isaac Thomas's domain of work?",
+    "answer": " sociology",
+    "sub": "William Isaac Thomas"
+  },
+  {
+    "query": "What is Kurt Baier's domain of work?",
+    "answer": " ethics",
+    "sub": "Kurt Baier"
+  },
+  {
+    "query": "What is Francis Bitter's domain of work?",
+    "answer": " physics",
+    "sub": "Francis Bitter"
+  },
+  {
+    "query": "What is John Pendlebury's domain of work?",
+    "answer": " archaeology",
+    "sub": "John Pendlebury"
+  },
+  {
+    "query": "What is Piotr Sztompka's domain of work?",
+    "answer": " sociology",
+    "sub": "Piotr Sztompka"
+  },
+  {
+    "query": "What is Andreas Floer's domain of work?",
+    "answer": " topology",
+    "sub": "Andreas Floer"
+  },
+  {
+    "query": "What is G. Evelyn Hutchinson's domain of work?",
+    "answer": " ecology",
+    "sub": "G. Evelyn Hutchinson"
+  },
+  {
+    "query": "What is Lazarus Geiger's domain of work?",
+    "answer": " linguistics",
+    "sub": "Lazarus Geiger"
+  },
+  {
+    "query": "What is Robert Moberly's domain of work?",
+    "answer": " theology",
+    "sub": "Robert Moberly"
+  },
+  {
+    "query": "What is Yi-Fu Tuan's domain of work?",
+    "answer": " geography",
+    "sub": "Yi-Fu Tuan"
+  },
+  {
+    "query": "What is statistical model's domain of work?",
+    "answer": " statistics",
+    "sub": "statistical model"
+  },
+  {
+    "query": "What is Nilakantha Somayaji's domain of work?",
+    "answer": " astronomy",
+    "sub": "Nilakantha Somayaji"
+  },
+  {
+    "query": "What is Mario Pieri's domain of work?",
+    "answer": " geometry",
+    "sub": "Mario Pieri"
+  },
+  {
+    "query": "What is Jean Baptiste Julien d'Omalius d'Halloy's domain of work?",
+    "answer": " geology",
+    "sub": "Jean Baptiste Julien d'Omalius d'Halloy"
+  },
+  {
+    "query": "What is Kip S. Thorne's domain of work?",
+    "answer": " physics",
+    "sub": "Kip S. Thorne"
+  },
+  {
+    "query": "What is John Preskill's domain of work?",
+    "answer": " physics",
+    "sub": "John Preskill"
+  },
+  {
+    "query": "What is Aleksey Krylov's domain of work?",
+    "answer": " mathematics",
+    "sub": "Aleksey Krylov"
+  },
+  {
+    "query": "What is Alexis Bouvard's domain of work?",
+    "answer": " astronomy",
+    "sub": "Alexis Bouvard"
+  },
+  {
+    "query": "What is Franciscus Sylvius's domain of work?",
+    "answer": " anatomy",
+    "sub": "Franciscus Sylvius"
+  },
+  {
+    "query": "What is Petrus Camper's domain of work?",
+    "answer": " physiology",
+    "sub": "Petrus Camper"
+  },
+  {
+    "query": "What is Carl Djerassi's domain of work?",
+    "answer": " chemistry",
+    "sub": "Carl Djerassi"
+  },
+  {
+    "query": "What is stock trader's domain of work?",
+    "answer": " stock",
+    "sub": "stock trader"
+  },
+  {
+    "query": "What is Antonio Vallisneri's domain of work?",
+    "answer": " medicine",
+    "sub": "Antonio Vallisneri"
+  },
+  {
+    "query": "What is Anatoly Maltsev's domain of work?",
+    "answer": " algebra",
+    "sub": "Anatoly Maltsev"
+  },
+  {
+    "query": "What is Lee Alvin DuBridge's domain of work?",
+    "answer": " physics",
+    "sub": "Lee Alvin DuBridge"
+  },
+  {
+    "query": "What is Stuart Parkin's domain of work?",
+    "answer": " physics",
+    "sub": "Stuart Parkin"
+  },
+  {
+    "query": "What is Carl Hovland's domain of work?",
+    "answer": " psychology",
+    "sub": "Carl Hovland"
+  },
+  {
+    "query": "What is Anti-Oedipus's domain of work?",
+    "answer": " philosophy",
+    "sub": "Anti-Oedipus"
+  },
+  {
+    "query": "What is Ibn Abi Usaibia's domain of work?",
+    "answer": " medicine",
+    "sub": "Ibn Abi Usaibia"
+  },
+  {
+    "query": "What is Michel Chasles's domain of work?",
+    "answer": " geometry",
+    "sub": "Michel Chasles"
+  },
+  {
+    "query": "What is Mstislav Keldysh's domain of work?",
+    "answer": " mathematics",
+    "sub": "Mstislav Keldysh"
+  },
+  {
+    "query": "What is Edoardo Amaldi's domain of work?",
+    "answer": " physics",
+    "sub": "Edoardo Amaldi"
+  },
+  {
+    "query": "What is history journal's domain of work?",
+    "answer": " history",
+    "sub": "history journal"
+  },
+  {
+    "query": "What is August Weismann's domain of work?",
+    "answer": " biology",
+    "sub": "August Weismann"
+  },
+  {
+    "query": "What is Cora Diamond's domain of work?",
+    "answer": " ethics",
+    "sub": "Cora Diamond"
+  },
+  {
+    "query": "What is Ranuccio Bianchi Bandinelli's domain of work?",
+    "answer": " archaeology",
+    "sub": "Ranuccio Bianchi Bandinelli"
+  },
+  {
+    "query": "What is Massimo Pallottino's domain of work?",
+    "answer": " archaeology",
+    "sub": "Massimo Pallottino"
+  },
+  {
+    "query": "What is Giovanni Battista Riccioli's domain of work?",
+    "answer": " astronomy",
+    "sub": "Giovanni Battista Riccioli"
+  },
+  {
+    "query": "What is Robert Lee Moore's domain of work?",
+    "answer": " topology",
+    "sub": "Robert Lee Moore"
+  },
+  {
+    "query": "What is Alexander Zinoviev's domain of work?",
+    "answer": " sociology",
+    "sub": "Alexander Zinoviev"
+  },
+  {
+    "query": "What is James Hillman's domain of work?",
+    "answer": " psychology",
+    "sub": "James Hillman"
+  },
+  {
+    "query": "What is Paul Langevin's domain of work?",
+    "answer": " physics",
+    "sub": "Paul Langevin"
+  },
+  {
+    "query": "What is Ekrem Akurgal's domain of work?",
+    "answer": " archaeology",
+    "sub": "Ekrem Akurgal"
+  },
+  {
+    "query": "What is Robert John Braidwood's domain of work?",
+    "answer": " archaeology",
+    "sub": "Robert John Braidwood"
+  },
+  {
+    "query": "What is Shmuel Eisenstadt's domain of work?",
+    "answer": " sociology",
+    "sub": "Shmuel Eisenstadt"
+  },
+  {
+    "query": "What is Henricus Regius's domain of work?",
+    "answer": " physician",
+    "sub": "Henricus Regius"
+  },
+  {
+    "query": "What is Johannes Hevelius's domain of work?",
+    "answer": " astronomy",
+    "sub": "Johannes Hevelius"
+  },
+  {
+    "query": "What is Raymond Louis Wilder's domain of work?",
+    "answer": " topology",
+    "sub": "Raymond Louis Wilder"
+  },
+  {
+    "query": "What is mathematical folklore's domain of work?",
+    "answer": " mathematics",
+    "sub": "mathematical folklore"
+  },
+  {
+    "query": "What is John Cockcroft's domain of work?",
+    "answer": " physics",
+    "sub": "John Cockcroft"
+  },
+  {
+    "query": "What is Brian De Palma's domain of work?",
+    "answer": " film",
+    "sub": "Brian De Palma"
+  },
+  {
+    "query": "What is Moritz Pasch's domain of work?",
+    "answer": " geometry",
+    "sub": "Moritz Pasch"
+  },
+  {
+    "query": "What is Hugo Kronecker's domain of work?",
+    "answer": " physiology",
+    "sub": "Hugo Kronecker"
+  },
+  {
+    "query": "What is Otto Brunfels's domain of work?",
+    "answer": " theology",
+    "sub": "Otto Brunfels"
+  },
+  {
+    "query": "What is Antoine Augustin Cournot's domain of work?",
+    "answer": " economics",
+    "sub": "Antoine Augustin Cournot"
+  },
+  {
+    "query": "What is Domingo de Soto's domain of work?",
+    "answer": " theology",
+    "sub": "Domingo de Soto"
+  },
+  {
+    "query": "What is Tamaz Gamkrelidze's domain of work?",
+    "answer": " linguistics",
+    "sub": "Tamaz Gamkrelidze"
+  },
+  {
+    "query": "What is Louis Lucien Bonaparte's domain of work?",
+    "answer": " linguistics",
+    "sub": "Louis Lucien Bonaparte"
+  },
+  {
+    "query": "What is Pyotr Lebedev's domain of work?",
+    "answer": " physics",
+    "sub": "Pyotr Lebedev"
+  },
+  {
+    "query": "What is Svante August Arrhenius's domain of work?",
+    "answer": " chemistry",
+    "sub": "Svante August Arrhenius"
+  },
+  {
+    "query": "What is Rococo's domain of work?",
+    "answer": " architecture",
+    "sub": "Rococo"
+  },
+  {
+    "query": "What is Werner Fenchel's domain of work?",
+    "answer": " geometry",
+    "sub": "Werner Fenchel"
+  },
+  {
+    "query": "What is Macarius of Corinth's domain of work?",
+    "answer": " priest",
+    "sub": "Macarius of Corinth"
+  },
+  {
+    "query": "What is Eberhard Hopf's domain of work?",
+    "answer": " topology",
+    "sub": "Eberhard Hopf"
+  },
+  {
+    "query": "What is Aleksei N. Leontiev's domain of work?",
+    "answer": " psychology",
+    "sub": "Aleksei N. Leontiev"
+  }
+]

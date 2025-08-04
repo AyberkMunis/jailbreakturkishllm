@@ -1,0 +1,4337 @@
+[
+  {
+    "query": "Azad Keşmir resmi dili nedir?",
+    "answer": " Urduca",
+    "sub": "Azad Keşmir"
+  },
+  {
+    "query": "Padasjoki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Padasjoki"
+  },
+  {
+    "query": "Alta Verapaz İli resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Alta Verapaz İli"
+  },
+  {
+    "query": "Fransız Polinezyası resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Fransız Polinezyası"
+  },
+  {
+    "query": "Virrat resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Virrat"
+  },
+  {
+    "query": "Brunei resmi dili nedir?",
+    "answer": " Malayca",
+    "sub": "Brunei"
+  },
+  {
+    "query": "Uttar Pradeş resmi dili nedir?",
+    "answer": " Urduca",
+    "sub": "Uttar Pradeş"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Valonya resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Valonya"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Slovence",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Haiti resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Haiti"
+  },
+  {
+    "query": "Güney Afrika Birliği resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Güney Afrika Birliği"
+  },
+  {
+    "query": "Val d'Aran resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "Val d'Aran"
+  },
+  {
+    "query": "Bellinzona resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Bellinzona"
+  },
+  {
+    "query": "Kronoby resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Kronoby"
+  },
+  {
+    "query": "Şanghay İşbirliği Örgütü resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Şanghay İşbirliği Örgütü"
+  },
+  {
+    "query": "Stellaland resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Stellaland"
+  },
+  {
+    "query": "Biel/Bienne resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Biel/Bienne"
+  },
+  {
+    "query": "Sotkamo resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Sotkamo"
+  },
+  {
+    "query": "Wyoming resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Wyoming"
+  },
+  {
+    "query": "Vesanto resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Vesanto"
+  },
+  {
+    "query": "Dünya Atletizm Birliği resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Dünya Atletizm Birliği"
+  },
+  {
+    "query": "Odessa Oblastı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Odessa Oblastı"
+  },
+  {
+    "query": "Kutsal Makam resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Kutsal Makam"
+  },
+  {
+    "query": "Parikkala resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Parikkala"
+  },
+  {
+    "query": "Kerava resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kerava"
+  },
+  {
+    "query": "Uruguay resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Uruguay"
+  },
+  {
+    "query": "Cemşidpur resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Cemşidpur"
+  },
+  {
+    "query": "Molina de Segura resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Molina de Segura"
+  },
+  {
+    "query": "Güney Osetya resmi dili nedir?",
+    "answer": " Gürcüce",
+    "sub": "Güney Osetya"
+  },
+  {
+    "query": "Kamboçya resmi dili nedir?",
+    "answer": " Khmerce",
+    "sub": "Kamboçya"
+  },
+  {
+    "query": "Porrentruy resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Porrentruy"
+  },
+  {
+    "query": "Nykarleby resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Nykarleby"
+  },
+  {
+    "query": "Krasnoyarsk Krayı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Krasnoyarsk Krayı"
+  },
+  {
+    "query": "Kongo Cumhuriyeti resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Kongo Cumhuriyeti"
+  },
+  {
+    "query": "Aragon Tacı resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "Aragon Tacı"
+  },
+  {
+    "query": "Aragon Tacı resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Aragon Tacı"
+  },
+  {
+    "query": "Solomon Adaları resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Solomon Adaları"
+  },
+  {
+    "query": "Meghalaya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Meghalaya"
+  },
+  {
+    "query": "Lohja resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Lohja"
+  },
+  {
+    "query": "Tornio resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Tornio"
+  },
+  {
+    "query": "Racasthan resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Racasthan"
+  },
+  {
+    "query": "Şanghay İşbirliği Örgütü resmi dili nedir?",
+    "answer": " Çince",
+    "sub": "Şanghay İşbirliği Örgütü"
+  },
+  {
+    "query": "Paskalya Adası resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Paskalya Adası"
+  },
+  {
+    "query": "Mayorka resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "Mayorka"
+  },
+  {
+    "query": "Brezilya resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "Brezilya"
+  },
+  {
+    "query": "Meksika resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Meksika"
+  },
+  {
+    "query": "Posio resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Posio"
+  },
+  {
+    "query": "Karijoki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Karijoki"
+  },
+  {
+    "query": "Gambiya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Gambiya"
+  },
+  {
+    "query": "Kyoto resmi dili nedir?",
+    "answer": " Japonca",
+    "sub": "Kyoto"
+  },
+  {
+    "query": "Güney Georgia ve Güney Sandwich Adaları resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Güney Georgia ve Güney Sandwich Adaları"
+  },
+  {
+    "query": "Sastamala resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Sastamala"
+  },
+  {
+    "query": "Kudüs Krallığı resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Kudüs Krallığı"
+  },
+  {
+    "query": "Man Adası resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Man Adası"
+  },
+  {
+    "query": "Mississippi resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Mississippi"
+  },
+  {
+    "query": "Makao resmi dili nedir?",
+    "answer": " Çince",
+    "sub": "Makao"
+  },
+  {
+    "query": "Çekoslovakya resmi dili nedir?",
+    "answer": " Slovakça",
+    "sub": "Çekoslovakya"
+  },
+  {
+    "query": "Salla resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Salla"
+  },
+  {
+    "query": "Kiuruvesi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kiuruvesi"
+  },
+  {
+    "query": "Pirkkala resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Pirkkala"
+  },
+  {
+    "query": "Malax resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Malax"
+  },
+  {
+    "query": "Donetsk Oblastı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Donetsk Oblastı"
+  },
+  {
+    "query": "Loimaa resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Loimaa"
+  },
+  {
+    "query": "İsrail resmi dili nedir?",
+    "answer": " İbranice",
+    "sub": "İsrail"
+  },
+  {
+    "query": "Samoa resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Samoa"
+  },
+  {
+    "query": "Tataristan resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Tataristan"
+  },
+  {
+    "query": "Brüksel Başkent Bölgesi resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Brüksel Başkent Bölgesi"
+  },
+  {
+    "query": "Hawaii resmi dili nedir?",
+    "answer": " Hawaii dili",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "İsviçre resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "İsviçre"
+  },
+  {
+    "query": "Kajaani resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kajaani"
+  },
+  {
+    "query": "Belçika resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Belçika"
+  },
+  {
+    "query": "Nauru resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Nauru"
+  },
+  {
+    "query": "Delhi resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Delhi"
+  },
+  {
+    "query": "Navarra resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Navarra"
+  },
+  {
+    "query": "İbiza resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "İbiza"
+  },
+  {
+    "query": "Jomala resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Jomala"
+  },
+  {
+    "query": "Kerala resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kerala"
+  },
+  {
+    "query": "Falkland Adaları resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Falkland Adaları"
+  },
+  {
+    "query": "Mari El resmi dili nedir?",
+    "answer": " mari dili",
+    "sub": "Mari El"
+  },
+  {
+    "query": "Özgür Danzig Şehri resmi dili nedir?",
+    "answer": " Lehçe",
+    "sub": "Özgür Danzig Şehri"
+  },
+  {
+    "query": "UEFA resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "UEFA"
+  },
+  {
+    "query": "Frizya resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Frizya"
+  },
+  {
+    "query": "Gine resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Gine"
+  },
+  {
+    "query": "Udmurtya Özerk Sovyet Sosyalist Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Udmurtya Özerk Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Coimbatore resmi dili nedir?",
+    "answer": " Tamilce",
+    "sub": "Coimbatore"
+  },
+  {
+    "query": "Avustralya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Avustralya"
+  },
+  {
+    "query": "Peru resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Peru"
+  },
+  {
+    "query": "Delhi resmi dili nedir?",
+    "answer": " Pencapça",
+    "sub": "Delhi"
+  },
+  {
+    "query": "İsviçre Federal Anayasası resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "İsviçre Federal Anayasası"
+  },
+  {
+    "query": "Bengkulu resmi dili nedir?",
+    "answer": " Endonezce",
+    "sub": "Bengkulu"
+  },
+  {
+    "query": "Lesotho resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Lesotho"
+  },
+  {
+    "query": "Juankoski resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Juankoski"
+  },
+  {
+    "query": "Hindistan resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Hindistan"
+  },
+  {
+    "query": "Pitcairn Adaları resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Pitcairn Adaları"
+  },
+  {
+    "query": "Hantı-Mansi Özerk Okrugu resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Hantı-Mansi Özerk Okrugu"
+  },
+  {
+    "query": "Zimbabve resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Zimbabve"
+  },
+  {
+    "query": "Luzern resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Luzern"
+  },
+  {
+    "query": "Transdinyester resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Transdinyester"
+  },
+  {
+    "query": "Cibuti resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Cibuti"
+  },
+  {
+    "query": "Vapolar resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Vapolar"
+  },
+  {
+    "query": "Sahra Demokratik Arap Cumhuriyeti resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Sahra Demokratik Arap Cumhuriyeti"
+  },
+  {
+    "query": "Sint Eustatius resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Sint Eustatius"
+  },
+  {
+    "query": "Montana resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Montana"
+  },
+  {
+    "query": "Bahamalar resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Bahamalar"
+  },
+  {
+    "query": "Dağıstan resmi dili nedir?",
+    "answer": " Azerice",
+    "sub": "Dağıstan"
+  },
+  {
+    "query": "Kuzey Makedonya resmi dili nedir?",
+    "answer": " Makedonca",
+    "sub": "Kuzey Makedonya"
+  },
+  {
+    "query": "Ontario resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Ontario"
+  },
+  {
+    "query": "Alberta resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Alberta"
+  },
+  {
+    "query": "Karadağ resmi dili nedir?",
+    "answer": " Sırpça",
+    "sub": "Karadağ"
+  },
+  {
+    "query": "Jovti Vodi resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Jovti Vodi"
+  },
+  {
+    "query": "Kuusamo resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kuusamo"
+  },
+  {
+    "query": "Cemmu ve Keşmir resmi dili nedir?",
+    "answer": " Urduca",
+    "sub": "Cemmu ve Keşmir"
+  },
+  {
+    "query": "Nastola resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Nastola"
+  },
+  {
+    "query": "Esvatini resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Esvatini"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Grenada resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Grenada"
+  },
+  {
+    "query": "Alderney resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Alderney"
+  },
+  {
+    "query": "Aargau resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Aargau"
+  },
+  {
+    "query": "Hakasya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Hakasya"
+  },
+  {
+    "query": "Çeçenistan resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Çeçenistan"
+  },
+  {
+    "query": "Mıkolayiv Oblastı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Mıkolayiv Oblastı"
+  },
+  {
+    "query": "Pencap resmi dili nedir?",
+    "answer": " Pencapça",
+    "sub": "Pencap"
+  },
+  {
+    "query": "Ruanda resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Ruanda"
+  },
+  {
+    "query": "Finlandiya resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Finlandiya"
+  },
+  {
+    "query": "Loviisa resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Loviisa"
+  },
+  {
+    "query": "Nebraska resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Nebraska"
+  },
+  {
+    "query": "Polonya resmi dili nedir?",
+    "answer": " Lehçe",
+    "sub": "Polonya"
+  },
+  {
+    "query": "Ukrayna Sovyet Sosyalist Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Ukrayna Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Nyon resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Nyon"
+  },
+  {
+    "query": "Basel resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Basel"
+  },
+  {
+    "query": "Arkansas resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Arkansas"
+  },
+  {
+    "query": "Romanya resmi dili nedir?",
+    "answer": " Rumence",
+    "sub": "Romanya"
+  },
+  {
+    "query": "Kaskinen resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kaskinen"
+  },
+  {
+    "query": "Lombardlar Krallığı resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Lombardlar Krallığı"
+  },
+  {
+    "query": "Sri Lanka resmi dili nedir?",
+    "answer": " Tamilce",
+    "sub": "Sri Lanka"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Yunanca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Ylitornio resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Ylitornio"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " İrlandaca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Kenya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kenya"
+  },
+  {
+    "query": "Fransız Güney ve Antarktika Toprakları resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Fransız Güney ve Antarktika Toprakları"
+  },
+  {
+    "query": "Gana resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Gana"
+  },
+  {
+    "query": "Kauhajoki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kauhajoki"
+  },
+  {
+    "query": "Raahe resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Raahe"
+  },
+  {
+    "query": "Provence resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Provence"
+  },
+  {
+    "query": "Slovenya resmi dili nedir?",
+    "answer": " Slovence",
+    "sub": "Slovenya"
+  },
+  {
+    "query": "Jakobstad resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Jakobstad"
+  },
+  {
+    "query": "Lehendakari resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Lehendakari"
+  },
+  {
+    "query": "Tervola resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Tervola"
+  },
+  {
+    "query": "Moldova resmi dili nedir?",
+    "answer": " Rumence",
+    "sub": "Moldova"
+  },
+  {
+    "query": "Ruovesi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Ruovesi"
+  },
+  {
+    "query": "ASEAN resmi dili nedir?",
+    "answer": " Filipince",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "A Ver-o-Mar resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "A Ver-o-Mar"
+  },
+  {
+    "query": "Avrupa Güvenlik ve İşbirliği Teşkilatı resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Avrupa Güvenlik ve İşbirliği Teşkilatı"
+  },
+  {
+    "query": "Fransız Guyanası resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Fransız Guyanası"
+  },
+  {
+    "query": "Litvanya resmi dili nedir?",
+    "answer": " Litvanca",
+    "sub": "Litvanya"
+  },
+  {
+    "query": "Kristinestad resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kristinestad"
+  },
+  {
+    "query": "Komi Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Komi Cumhuriyeti"
+  },
+  {
+    "query": "Anguilla resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Anguilla"
+  },
+  {
+    "query": "Belize resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Belize"
+  },
+  {
+    "query": "MERCOSUR resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "MERCOSUR"
+  },
+  {
+    "query": "İspanya resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "İspanya"
+  },
+  {
+    "query": "Pelkosenniemi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Pelkosenniemi"
+  },
+  {
+    "query": "Barbados resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Barbados"
+  },
+  {
+    "query": "Melitopol resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Melitopol"
+  },
+  {
+    "query": "Sigtuna belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Sigtuna belediyesi"
+  },
+  {
+    "query": "Nykarleby resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Nykarleby"
+  },
+  {
+    "query": "Batı Almanya resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Batı Almanya"
+  },
+  {
+    "query": "Nenets Özerk Okrugu resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Nenets Özerk Okrugu"
+  },
+  {
+    "query": "Karayip Hollandası resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Karayip Hollandası"
+  },
+  {
+    "query": "Kolombiya resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Kolombiya"
+  },
+  {
+    "query": "Kauhava resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kauhava"
+  },
+  {
+    "query": "Bahia resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "Bahia"
+  },
+  {
+    "query": "Brunei resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Brunei"
+  },
+  {
+    "query": "Sicilya Krallığı resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Sicilya Krallığı"
+  },
+  {
+    "query": "Donetsk Oblastı resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Donetsk Oblastı"
+  },
+  {
+    "query": "Jambi resmi dili nedir?",
+    "answer": " Malayca",
+    "sub": "Jambi"
+  },
+  {
+    "query": "Patna resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Patna"
+  },
+  {
+    "query": "İsveç ve Norveç Birliği resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "İsveç ve Norveç Birliği"
+  },
+  {
+    "query": "Sivastopol resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Sivastopol"
+  },
+  {
+    "query": "Kraliyet 22e Alayı resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Kraliyet 22e Alayı"
+  },
+  {
+    "query": "Pakistan resmi dili nedir?",
+    "answer": " Urduca",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "Varkaus resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Varkaus"
+  },
+  {
+    "query": "Mariehamn resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Mariehamn"
+  },
+  {
+    "query": "Bern resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Bern"
+  },
+  {
+    "query": "Lugansk Halk Cumhuriyeti resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Lugansk Halk Cumhuriyeti"
+  },
+  {
+    "query": "La Chaux-de-Fonds resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "La Chaux-de-Fonds"
+  },
+  {
+    "query": "Kaarina resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kaarina"
+  },
+  {
+    "query": "Moskova Knezliği resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Moskova Knezliği"
+  },
+  {
+    "query": "Çekoslovakya resmi dili nedir?",
+    "answer": " Çekçe",
+    "sub": "Çekoslovakya"
+  },
+  {
+    "query": "Senegal resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Senegal"
+  },
+  {
+    "query": "Le Locle resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Le Locle"
+  },
+  {
+    "query": "Kirkkonummi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Kirkkonummi"
+  },
+  {
+    "query": "Porvoo resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Porvoo"
+  },
+  {
+    "query": "Malta'nın Egemen Askeri Düzeni resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Malta'nın Egemen Askeri Düzeni"
+  },
+  {
+    "query": "Pargas resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Pargas"
+  },
+  {
+    "query": "Nunavut resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Nunavut"
+  },
+  {
+    "query": "Cenevre resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Cenevre"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Bulgarca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Bern resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Bern"
+  },
+  {
+    "query": "Meyrin resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Meyrin"
+  },
+  {
+    "query": "Dünya Sağlık Örgütü resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Dünya Sağlık Örgütü"
+  },
+  {
+    "query": "Sint Eustatius resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Sint Eustatius"
+  },
+  {
+    "query": "Bosna-Hersek resmi dili nedir?",
+    "answer": " Sırpça",
+    "sub": "Bosna-Hersek"
+  },
+  {
+    "query": "Güney Tirol resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Güney Tirol"
+  },
+  {
+    "query": "Finlandiya resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Finlandiya"
+  },
+  {
+    "query": "Papua Yeni Gine resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Papua Yeni Gine"
+  },
+  {
+    "query": "Ticino resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Ticino"
+  },
+  {
+    "query": "Lieto resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Lieto"
+  },
+  {
+    "query": "Malta resmi dili nedir?",
+    "answer": " Maltaca",
+    "sub": "Malta"
+  },
+  {
+    "query": "Ruanda resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Ruanda"
+  },
+  {
+    "query": "Jokioinen resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Jokioinen"
+  },
+  {
+    "query": "Maaninka resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Maaninka"
+  },
+  {
+    "query": "Nepal resmi dili nedir?",
+    "answer": " nepali",
+    "sub": "Nepal"
+  },
+  {
+    "query": "Botkyrka belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Botkyrka belediyesi"
+  },
+  {
+    "query": "Saltvik resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Saltvik"
+  },
+  {
+    "query": "Venedik Cumhuriyeti resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Venedik Cumhuriyeti"
+  },
+  {
+    "query": "Çad resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Çad"
+  },
+  {
+    "query": "Erivan resmi dili nedir?",
+    "answer": " Ermenice",
+    "sub": "Erivan"
+  },
+  {
+    "query": "Bolivya resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Bolivya"
+  },
+  {
+    "query": "Benelüks resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Benelüks"
+  },
+  {
+    "query": "Malezya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Malezya"
+  },
+  {
+    "query": "Val d'Aran resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Val d'Aran"
+  },
+  {
+    "query": "Rusya İmparatorluğu resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Rusya İmparatorluğu"
+  },
+  {
+    "query": "Güney Sudan resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Güney Sudan"
+  },
+  {
+    "query": "Ekvator Ginesi resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Ekvator Ginesi"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Macarca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Banten resmi dili nedir?",
+    "answer": " Endonezce",
+    "sub": "Banten"
+  },
+  {
+    "query": "Huddinge belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Huddinge belediyesi"
+  },
+  {
+    "query": "Loppi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Loppi"
+  },
+  {
+    "query": "Kırgızistan resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Kırgızistan"
+  },
+  {
+    "query": "Porvoo resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Porvoo"
+  },
+  {
+    "query": "Vihti resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Vihti"
+  },
+  {
+    "query": "Basel-Stadt resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Basel-Stadt"
+  },
+  {
+    "query": "Flaman Bölgesi resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Flaman Bölgesi"
+  },
+  {
+    "query": "Japonya resmi dili nedir?",
+    "answer": " Japonca",
+    "sub": "Japonya"
+  },
+  {
+    "query": "Alavus resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Alavus"
+  },
+  {
+    "query": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Kangasala resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kangasala"
+  },
+  {
+    "query": "İran resmi dili nedir?",
+    "answer": " Farsça",
+    "sub": "İran"
+  },
+  {
+    "query": "Tampere resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Tampere"
+  },
+  {
+    "query": "Oulu resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Oulu"
+  },
+  {
+    "query": "Nazi Almanyası resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Nazi Almanyası"
+  },
+  {
+    "query": "Espoo resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Espoo"
+  },
+  {
+    "query": "Aragon resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Aragon"
+  },
+  {
+    "query": "Panama resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Panama"
+  },
+  {
+    "query": "Québec resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Québec"
+  },
+  {
+    "query": "Roma İmparatorluğu resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Roma İmparatorluğu"
+  },
+  {
+    "query": "Ekvator Ginesi resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Ekvator Ginesi"
+  },
+  {
+    "query": "Yunanistan Kilisesi resmi dili nedir?",
+    "answer": " Yunanca",
+    "sub": "Yunanistan Kilisesi"
+  },
+  {
+    "query": "Newfoundland ve Labrador resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Newfoundland ve Labrador"
+  },
+  {
+    "query": "Kaustinen resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kaustinen"
+  },
+  {
+    "query": "Yamalo-Nenets Özerk Okrugu resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Yamalo-Nenets Özerk Okrugu"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Estonca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Güney Tirol resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Güney Tirol"
+  },
+  {
+    "query": "Venedik Cumhuriyeti resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Venedik Cumhuriyeti"
+  },
+  {
+    "query": "Uluslararası Aydınlatma Komisyonu resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Uluslararası Aydınlatma Komisyonu"
+  },
+  {
+    "query": "Keminmaa resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Keminmaa"
+  },
+  {
+    "query": "Kumlinge resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Kumlinge"
+  },
+  {
+    "query": "Benelüks resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Benelüks"
+  },
+  {
+    "query": "Minorka resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "Minorka"
+  },
+  {
+    "query": "Birleşmiş Milletler resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Birleşmiş Milletler"
+  },
+  {
+    "query": "Saba resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Saba"
+  },
+  {
+    "query": "Qing Hanedanı resmi dili nedir?",
+    "answer": " Tibetçe",
+    "sub": "Qing Hanedanı"
+  },
+  {
+    "query": "Juva resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Juva"
+  },
+  {
+    "query": "Luhansk Oblastı resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Luhansk Oblastı"
+  },
+  {
+    "query": "Vaasa resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Vaasa"
+  },
+  {
+    "query": "Yakutistan resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Yakutistan"
+  },
+  {
+    "query": "Delhi resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Delhi"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Lehçe",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "ABD Virjin Adaları resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "ABD Virjin Adaları"
+  },
+  {
+    "query": "Dominik Cumhuriyeti resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Dominik Cumhuriyeti"
+  },
+  {
+    "query": "Galler resmi dili nedir?",
+    "answer": " Galce",
+    "sub": "Galler"
+  },
+  {
+    "query": "Lucknow resmi dili nedir?",
+    "answer": " Urduca",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "Donetsk resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Donetsk"
+  },
+  {
+    "query": "Flandre resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Flandre"
+  },
+  {
+    "query": "Krokom belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Krokom belediyesi"
+  },
+  {
+    "query": "Huittinen resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Huittinen"
+  },
+  {
+    "query": "Lapua resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Lapua"
+  },
+  {
+    "query": "Yahudi Özerk Oblastı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Yahudi Özerk Oblastı"
+  },
+  {
+    "query": "San Marino Uluslararası Bilimler Akademisi resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "San Marino Uluslararası Bilimler Akademisi"
+  },
+  {
+    "query": "Sundbyberg belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Sundbyberg belediyesi"
+  },
+  {
+    "query": "Britanya Kolumbiyası resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Britanya Kolumbiyası"
+  },
+  {
+    "query": "Kangasniemi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kangasniemi"
+  },
+  {
+    "query": "Belçika resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Belçika"
+  },
+  {
+    "query": "Polonya Kongre Krallığı resmi dili nedir?",
+    "answer": " Lehçe",
+    "sub": "Polonya Kongre Krallığı"
+  },
+  {
+    "query": "Quetzaltenango resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Quetzaltenango"
+  },
+  {
+    "query": "Bizans İmparatorluğu resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Bizans İmparatorluğu"
+  },
+  {
+    "query": "İrlanda resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "İrlanda"
+  },
+  {
+    "query": "Hollanda resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Hollanda"
+  },
+  {
+    "query": "Suonenjoki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Suonenjoki"
+  },
+  {
+    "query": "Kansas resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kansas"
+  },
+  {
+    "query": "Vantaa resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Vantaa"
+  },
+  {
+    "query": "Güney Afrika Cumhuriyeti resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Güney Afrika Cumhuriyeti"
+  },
+  {
+    "query": "Locarno resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Locarno"
+  },
+  {
+    "query": "Vanuatu resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Vanuatu"
+  },
+  {
+    "query": "Siuntio resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Siuntio"
+  },
+  {
+    "query": "Institut d'Estudis Catalans resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "Institut d'Estudis Catalans"
+  },
+  {
+    "query": "Vevey resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Vevey"
+  },
+  {
+    "query": "Cenevre resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Cenevre"
+  },
+  {
+    "query": "Karadağ resmi dili nedir?",
+    "answer": " Hırvatça",
+    "sub": "Karadağ"
+  },
+  {
+    "query": "Surinam resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Surinam"
+  },
+  {
+    "query": "Jharkhand resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Jharkhand"
+  },
+  {
+    "query": "Lugano resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Lugano"
+  },
+  {
+    "query": "Udmurtya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Udmurtya"
+  },
+  {
+    "query": "Loviisa resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Loviisa"
+  },
+  {
+    "query": "Colorado resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Colorado"
+  },
+  {
+    "query": "Siikainen resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Siikainen"
+  },
+  {
+    "query": "Vaasa resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Vaasa"
+  },
+  {
+    "query": "İsviçre Federal Anayasası resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "İsviçre Federal Anayasası"
+  },
+  {
+    "query": "Kabardino-Balkarya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Kabardino-Balkarya"
+  },
+  {
+    "query": "Tonga resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Tonga"
+  },
+  {
+    "query": "Lapinlahti resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Lapinlahti"
+  },
+  {
+    "query": "İngiltere resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "İngiltere"
+  },
+  {
+    "query": "Ekvator Ginesi resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "Ekvator Ginesi"
+  },
+  {
+    "query": "Forssa resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Forssa"
+  },
+  {
+    "query": "Transdinyester resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Transdinyester"
+  },
+  {
+    "query": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti resmi dili nedir?",
+    "answer": " Beyaz Rusça",
+    "sub": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Köstendil ili resmi dili nedir?",
+    "answer": " Bulgarca",
+    "sub": "Köstendil ili"
+  },
+  {
+    "query": "Orimattila resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Orimattila"
+  },
+  {
+    "query": "İrlanda resmi dili nedir?",
+    "answer": " İrlandaca",
+    "sub": "İrlanda"
+  },
+  {
+    "query": "Gine-Bissau resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "Gine-Bissau"
+  },
+  {
+    "query": "Bosna-Hersek resmi dili nedir?",
+    "answer": " Hırvatça",
+    "sub": "Bosna-Hersek"
+  },
+  {
+    "query": "Indiana resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Indiana"
+  },
+  {
+    "query": "Renens resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Renens"
+  },
+  {
+    "query": "Kuzey Kore resmi dili nedir?",
+    "answer": " Korece",
+    "sub": "Kuzey Kore"
+  },
+  {
+    "query": "Donetsk Halk Cumhuriyeti resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Donetsk Halk Cumhuriyeti"
+  },
+  {
+    "query": "Kronoby resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kronoby"
+  },
+  {
+    "query": "Singapur resmi dili nedir?",
+    "answer": " Tamilce",
+    "sub": "Singapur"
+  },
+  {
+    "query": "Rusya resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Rusya"
+  },
+  {
+    "query": "Sicilya Krallığı resmi dili nedir?",
+    "answer": " Sicilyaca",
+    "sub": "Sicilya Krallığı"
+  },
+  {
+    "query": "Kolektif Güvenlik Anlaşması Örgütü resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Kolektif Güvenlik Anlaşması Örgütü"
+  },
+  {
+    "query": "Kuopio resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kuopio"
+  },
+  {
+    "query": "Kauniainen resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kauniainen"
+  },
+  {
+    "query": "Arjantin resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Arjantin"
+  },
+  {
+    "query": "Eura resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Eura"
+  },
+  {
+    "query": "Hollola resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Hollola"
+  },
+  {
+    "query": "Mikkeli resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Mikkeli"
+  },
+  {
+    "query": "Normandiya Dükalığı resmi dili nedir?",
+    "answer": " Normanca",
+    "sub": "Normandiya Dükalığı"
+  },
+  {
+    "query": "Hollanda Antilleri resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Hollanda Antilleri"
+  },
+  {
+    "query": "Kontiolahti resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kontiolahti"
+  },
+  {
+    "query": "Espoo resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Espoo"
+  },
+  {
+    "query": "Aarau resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Aarau"
+  },
+  {
+    "query": "Yalta resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Yalta"
+  },
+  {
+    "query": "Jovti Vodi resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Jovti Vodi"
+  },
+  {
+    "query": "Yeni İskoçya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Yeni İskoçya"
+  },
+  {
+    "query": "OECD resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "OECD"
+  },
+  {
+    "query": "Hawaii resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "Campione d'Italia resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Campione d'Italia"
+  },
+  {
+    "query": "Vantaa resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Vantaa"
+  },
+  {
+    "query": "Rusya Çarlığı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Rusya Çarlığı"
+  },
+  {
+    "query": "Carouge resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Carouge"
+  },
+  {
+    "query": "Tolmezzo resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Tolmezzo"
+  },
+  {
+    "query": "Dünya Sağlık Örgütü resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Dünya Sağlık Örgütü"
+  },
+  {
+    "query": "Palau resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Palau"
+  },
+  {
+    "query": "Cork Kontluğu resmi dili nedir?",
+    "answer": " İrlandaca",
+    "sub": "Cork Kontluğu"
+  },
+  {
+    "query": "Azerbaycan Sovyet Sosyalist Cumhuriyeti resmi dili nedir?",
+    "answer": " Azerice",
+    "sub": "Azerbaycan Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Rovaniemi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Rovaniemi"
+  },
+  {
+    "query": "Vimpeli resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Vimpeli"
+  },
+  {
+    "query": "Niue resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Niue"
+  },
+  {
+    "query": "Eski Krallık resmi dili nedir?",
+    "answer": " Mısırca",
+    "sub": "Eski Krallık"
+  },
+  {
+    "query": "Fildişi Sahili resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Fildişi Sahili"
+  },
+  {
+    "query": "Honduras resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Honduras"
+  },
+  {
+    "query": "New Hampshire resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "New Hampshire"
+  },
+  {
+    "query": "Cayman Adaları resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Cayman Adaları"
+  },
+  {
+    "query": "Burundi resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Burundi"
+  },
+  {
+    "query": "Kirkkonummi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kirkkonummi"
+  },
+  {
+    "query": "Ikaalinen resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Ikaalinen"
+  },
+  {
+    "query": "Kamerun resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kamerun"
+  },
+  {
+    "query": "Alaska resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Alaska"
+  },
+  {
+    "query": "Isojoki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Isojoki"
+  },
+  {
+    "query": "Vatikan resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Vatikan"
+  },
+  {
+    "query": "Donetsk resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Donetsk"
+  },
+  {
+    "query": "Mozambik resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "Mozambik"
+  },
+  {
+    "query": "Doğu Timor resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "Doğu Timor"
+  },
+  {
+    "query": "Ağrotur ve Dikelya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Ağrotur ve Dikelya"
+  },
+  {
+    "query": "Britanya Antarktika Toprakları resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Britanya Antarktika Toprakları"
+  },
+  {
+    "query": "Lieksa resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Lieksa"
+  },
+  {
+    "query": "Rusya İmparatorluğu resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Rusya İmparatorluğu"
+  },
+  {
+    "query": "Nijerya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Nijerya"
+  },
+  {
+    "query": "Hollanda Krallığı resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Hollanda Krallığı"
+  },
+  {
+    "query": "Abhazya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Abhazya"
+  },
+  {
+    "query": "Viitasaari resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Viitasaari"
+  },
+  {
+    "query": "Mayorka resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Mayorka"
+  },
+  {
+    "query": "Portekiz resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "Portekiz"
+  },
+  {
+    "query": "Kalajoki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kalajoki"
+  },
+  {
+    "query": "İsveç ve Norveç Birliği resmi dili nedir?",
+    "answer": " Norveççe",
+    "sub": "İsveç ve Norveç Birliği"
+  },
+  {
+    "query": "Manitoba resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Manitoba"
+  },
+  {
+    "query": "Berg belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Berg belediyesi"
+  },
+  {
+    "query": "Avrupa Uzay Ajansı resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Avrupa Uzay Ajansı"
+  },
+  {
+    "query": "Malabo resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Malabo"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Laukaa resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Laukaa"
+  },
+  {
+    "query": "Kaavi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kaavi"
+  },
+  {
+    "query": "Sipoo resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Sipoo"
+  },
+  {
+    "query": "Mari El resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Mari El"
+  },
+  {
+    "query": "Helsinki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Helsinki"
+  },
+  {
+    "query": "Kuhmo resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kuhmo"
+  },
+  {
+    "query": "Katalonya resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Katalonya"
+  },
+  {
+    "query": "Rusya İmparatorluğu resmi dili nedir?",
+    "answer": " Lehçe",
+    "sub": "Rusya İmparatorluğu"
+  },
+  {
+    "query": "Chhattisgarh resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Chhattisgarh"
+  },
+  {
+    "query": "Heinola resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Heinola"
+  },
+  {
+    "query": "Kırım Özerk Cumhuriyeti resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Kırım Özerk Cumhuriyeti"
+  },
+  {
+    "query": "Seyşeller resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Seyşeller"
+  },
+  {
+    "query": "Navarra resmi dili nedir?",
+    "answer": " Baskça",
+    "sub": "Navarra"
+  },
+  {
+    "query": "İspanyol İmparatorluğu resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "İspanyol İmparatorluğu"
+  },
+  {
+    "query": "Haninge belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Haninge belediyesi"
+  },
+  {
+    "query": "Saskatchewan resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Saskatchewan"
+  },
+  {
+    "query": "Ukrayna Sovyet Sosyalist Cumhuriyeti resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Ukrayna Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Asturies resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Asturies"
+  },
+  {
+    "query": "Doğu Kalimantan resmi dili nedir?",
+    "answer": " Endonezce",
+    "sub": "Doğu Kalimantan"
+  },
+  {
+    "query": "Vietnam resmi dili nedir?",
+    "answer": " Vietnamca",
+    "sub": "Vietnam"
+  },
+  {
+    "query": "Kosova resmi dili nedir?",
+    "answer": " Arnavutça",
+    "sub": "Kosova"
+  },
+  {
+    "query": "Eupen resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Eupen"
+  },
+  {
+    "query": "Valkeakoski resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Valkeakoski"
+  },
+  {
+    "query": "Utsjoki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Utsjoki"
+  },
+  {
+    "query": "Dünya Ticaret Örgütü resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Dünya Ticaret Örgütü"
+  },
+  {
+    "query": "Krayina Sırp Cumhuriyeti resmi dili nedir?",
+    "answer": " Sırpça",
+    "sub": "Krayina Sırp Cumhuriyeti"
+  },
+  {
+    "query": "Fin Ortodoks Kilisesi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Fin Ortodoks Kilisesi"
+  },
+  {
+    "query": "Lappeenranta resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Lappeenranta"
+  },
+  {
+    "query": "Ekvador resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Ekvador"
+  },
+  {
+    "query": "Luhansk Oblastı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Luhansk Oblastı"
+  },
+  {
+    "query": "Haydarabad, Hindistan resmi dili nedir?",
+    "answer": " Teluguca",
+    "sub": "Haydarabad, Hindistan"
+  },
+  {
+    "query": "Birleşmiş Milletler resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Birleşmiş Milletler"
+  },
+  {
+    "query": "Jersey resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Jersey"
+  },
+  {
+    "query": "Qing Hanedanı resmi dili nedir?",
+    "answer": " Moğolca",
+    "sub": "Qing Hanedanı"
+  },
+  {
+    "query": "Guyana resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Guyana"
+  },
+  {
+    "query": "Avusturya resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Avusturya"
+  },
+  {
+    "query": "Singapur resmi dili nedir?",
+    "answer": " Malayca",
+    "sub": "Singapur"
+  },
+  {
+    "query": "Hailuoto resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Hailuoto"
+  },
+  {
+    "query": "Türkiye resmi dili nedir?",
+    "answer": " Türkçe",
+    "sub": "Türkiye"
+  },
+  {
+    "query": "Şili resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Şili"
+  },
+  {
+    "query": "Hyrynsalmi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Hyrynsalmi"
+  },
+  {
+    "query": "Sint Maarten resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Sint Maarten"
+  },
+  {
+    "query": "ISO resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "ISO"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Brüksel Başkent Bölgesi resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Brüksel Başkent Bölgesi"
+  },
+  {
+    "query": "Valais resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Valais"
+  },
+  {
+    "query": "Delhi resmi dili nedir?",
+    "answer": " Urduca",
+    "sub": "Delhi"
+  },
+  {
+    "query": "İsveç İmparatorluğu resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "İsveç İmparatorluğu"
+  },
+  {
+    "query": "Raseborg resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Raseborg"
+  },
+  {
+    "query": "Slovak Sosyalist Cumhuriyeti resmi dili nedir?",
+    "answer": " Slovakça",
+    "sub": "Slovak Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Raseborg resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Raseborg"
+  },
+  {
+    "query": "Güney Dakota resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Güney Dakota"
+  },
+  {
+    "query": "Alabama resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Alabama"
+  },
+  {
+    "query": "Kainat Güzellik Yarışması resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kainat Güzellik Yarışması"
+  },
+  {
+    "query": "Kaliforniya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kaliforniya"
+  },
+  {
+    "query": "Pasifik İttifakı resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Pasifik İttifakı"
+  },
+  {
+    "query": "Laitila resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Laitila"
+  },
+  {
+    "query": "İsviçre resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "İsviçre"
+  },
+  {
+    "query": "Tuva Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Tuva Cumhuriyeti"
+  },
+  {
+    "query": "Rusya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Rusya"
+  },
+  {
+    "query": "Sambir resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Sambir"
+  },
+  {
+    "query": "Yukon resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Yukon"
+  },
+  {
+    "query": "Liperi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Liperi"
+  },
+  {
+    "query": "Burkina Faso resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Burkina Faso"
+  },
+  {
+    "query": "Jersey resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Jersey"
+  },
+  {
+    "query": "Rusya resmi dili nedir?",
+    "answer": " Azerice",
+    "sub": "Rusya"
+  },
+  {
+    "query": "Rusya resmi dili nedir?",
+    "answer": " mari dili",
+    "sub": "Rusya"
+  },
+  {
+    "query": "Nunavut resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Nunavut"
+  },
+  {
+    "query": "Nousiainen resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Nousiainen"
+  },
+  {
+    "query": "Kotka resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kotka"
+  },
+  {
+    "query": "İtalya resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "İtalya"
+  },
+  {
+    "query": "Wetzikon resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Wetzikon"
+  },
+  {
+    "query": "Qing Hanedanı resmi dili nedir?",
+    "answer": " Çince",
+    "sub": "Qing Hanedanı"
+  },
+  {
+    "query": "Kuzey Karolina resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kuzey Karolina"
+  },
+  {
+    "query": "Savukoski resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Savukoski"
+  },
+  {
+    "query": "Karvia resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Karvia"
+  },
+  {
+    "query": "Filipinler resmi dili nedir?",
+    "answer": " Filipince",
+    "sub": "Filipinler"
+  },
+  {
+    "query": "Lohja resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Lohja"
+  },
+  {
+    "query": "Filipinler resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Filipinler"
+  },
+  {
+    "query": "İsveç resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "İsveç"
+  },
+  {
+    "query": "Idaho resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Idaho"
+  },
+  {
+    "query": "Maharaştra resmi dili nedir?",
+    "answer": " marathi",
+    "sub": "Maharaştra"
+  },
+  {
+    "query": "Buryatya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Buryatya"
+  },
+  {
+    "query": "Nijer resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Nijer"
+  },
+  {
+    "query": "Solna Belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Solna Belediyesi"
+  },
+  {
+    "query": "Lucknow resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "Rusya Sovyet Federatif Sosyalist Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Rusya Sovyet Federatif Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Kosova ve Metohiya Özerk Bölgesi resmi dili nedir?",
+    "answer": " Arnavutça",
+    "sub": "Kosova ve Metohiya Özerk Bölgesi"
+  },
+  {
+    "query": "Hammarland resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Hammarland"
+  },
+  {
+    "query": "Vaala resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Vaala"
+  },
+  {
+    "query": "Jakobstad resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Jakobstad"
+  },
+  {
+    "query": "Birleşik Krallık Filistin Mandası resmi dili nedir?",
+    "answer": " İbranice",
+    "sub": "Birleşik Krallık Filistin Mandası"
+  },
+  {
+    "query": "ASEAN resmi dili nedir?",
+    "answer": " Endonezce",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "Sırbistan-Karadağ resmi dili nedir?",
+    "answer": " Sırpça",
+    "sub": "Sırbistan-Karadağ"
+  },
+  {
+    "query": "ISO resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "ISO"
+  },
+  {
+    "query": "Hırvatistan resmi dili nedir?",
+    "answer": " Hırvatça",
+    "sub": "Hırvatistan"
+  },
+  {
+    "query": "Meşhed resmi dili nedir?",
+    "answer": " Farsça",
+    "sub": "Meşhed"
+  },
+  {
+    "query": "Amerikan Samoası resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Amerikan Samoası"
+  },
+  {
+    "query": "Kauniainen resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Kauniainen"
+  },
+  {
+    "query": "Çek Cumhuriyeti resmi dili nedir?",
+    "answer": " Çekçe",
+    "sub": "Çek Cumhuriyeti"
+  },
+  {
+    "query": "Saint Lucia resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Saint Lucia"
+  },
+  {
+    "query": "Kuzey Amerika Ülkeleri Serbest Ticaret Anlaşması resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Kuzey Amerika Ülkeleri Serbest Ticaret Anlaşması"
+  },
+  {
+    "query": "Lihtenştayn resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Lihtenştayn"
+  },
+  {
+    "query": "Virolahti resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Virolahti"
+  },
+  {
+    "query": "Uganda resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Uganda"
+  },
+  {
+    "query": "Adıge Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Adıge Cumhuriyeti"
+  },
+  {
+    "query": "Çuvaşistan resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Çuvaşistan"
+  },
+  {
+    "query": "Seyşeller resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Seyşeller"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Çekçe",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Eritre resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Eritre"
+  },
+  {
+    "query": "Mauritius resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Litvanca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Kuzey Osetya-Alanya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Kuzey Osetya-Alanya"
+  },
+  {
+    "query": "La Gomera resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "La Gomera"
+  },
+  {
+    "query": "Bourbon İspanyası resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Bourbon İspanyası"
+  },
+  {
+    "query": "Fransa resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Fransa"
+  },
+  {
+    "query": "Kerala resmi dili nedir?",
+    "answer": " Malayalam",
+    "sub": "Kerala"
+  },
+  {
+    "query": "Kamerun resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Kamerun"
+  },
+  {
+    "query": "Québec resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Québec"
+  },
+  {
+    "query": "Valensiya resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Valensiya"
+  },
+  {
+    "query": "Tayland resmi dili nedir?",
+    "answer": " Tayca",
+    "sub": "Tayland"
+  },
+  {
+    "query": "Asikkala resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Asikkala"
+  },
+  {
+    "query": "Ravenna Eksarhlığı resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Ravenna Eksarhlığı"
+  },
+  {
+    "query": "Avrupa Güvenlik ve İşbirliği Teşkilatı resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Avrupa Güvenlik ve İşbirliği Teşkilatı"
+  },
+  {
+    "query": "Demokratik Kongo Cumhuriyeti resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Demokratik Kongo Cumhuriyeti"
+  },
+  {
+    "query": "Macaristan resmi dili nedir?",
+    "answer": " Macarca",
+    "sub": "Macaristan"
+  },
+  {
+    "query": "Izabel Departmanı resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Izabel Departmanı"
+  },
+  {
+    "query": "Savonlinna resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Savonlinna"
+  },
+  {
+    "query": "Donetsk Halk Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Donetsk Halk Cumhuriyeti"
+  },
+  {
+    "query": "Vanuatu resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Vanuatu"
+  },
+  {
+    "query": "Estonya resmi dili nedir?",
+    "answer": " Estonca",
+    "sub": "Estonya"
+  },
+  {
+    "query": "Kentucky resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kentucky"
+  },
+  {
+    "query": "Orivesi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Orivesi"
+  },
+  {
+    "query": "Paltamo resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Paltamo"
+  },
+  {
+    "query": "Lucknow resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "Bali resmi dili nedir?",
+    "answer": " Endonezce",
+    "sub": "Bali"
+  },
+  {
+    "query": "Kuzey Dakota resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kuzey Dakota"
+  },
+  {
+    "query": "İspanya resmi dili nedir?",
+    "answer": " Baskça",
+    "sub": "İspanya"
+  },
+  {
+    "query": "Malta resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Malta"
+  },
+  {
+    "query": "Kalmukya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Kalmukya"
+  },
+  {
+    "query": "Teuva resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Teuva"
+  },
+  {
+    "query": "Fribourg Kantonu resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Fribourg Kantonu"
+  },
+  {
+    "query": "Kuzeybatı Toprakları resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kuzeybatı Toprakları"
+  },
+  {
+    "query": "Akaa resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Akaa"
+  },
+  {
+    "query": "New Brunswick resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "New Brunswick"
+  },
+  {
+    "query": "Galler resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Galler"
+  },
+  {
+    "query": "Hamina resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Hamina"
+  },
+  {
+    "query": "Komorlar resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Komorlar"
+  },
+  {
+    "query": "İsveç resmi dili nedir?",
+    "answer": " Romanca",
+    "sub": "İsveç"
+  },
+  {
+    "query": "Sicilya Krallığı resmi dili nedir?",
+    "answer": " Yunanca",
+    "sub": "Sicilya Krallığı"
+  },
+  {
+    "query": "Dünya Sağlık Örgütü resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Dünya Sağlık Örgütü"
+  },
+  {
+    "query": "Fribourg Kantonu resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Fribourg Kantonu"
+  },
+  {
+    "query": "Uluslararası Sivil Havacılık Örgütü resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Uluslararası Sivil Havacılık Örgütü"
+  },
+  {
+    "query": "Kannonkoski resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kannonkoski"
+  },
+  {
+    "query": "Birleşmiş Milletler resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Birleşmiş Milletler"
+  },
+  {
+    "query": "Roma İmparatorluğu resmi dili nedir?",
+    "answer": " Yunanca",
+    "sub": "Roma İmparatorluğu"
+  },
+  {
+    "query": "Indore resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Indore"
+  },
+  {
+    "query": "Cebelitarık resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Cebelitarık"
+  },
+  {
+    "query": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti resmi dili nedir?",
+    "answer": " Lehçe",
+    "sub": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "İspanya resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "İspanya"
+  },
+  {
+    "query": "Torfaen resmi dili nedir?",
+    "answer": " Galce",
+    "sub": "Torfaen"
+  },
+  {
+    "query": "Tamil Nadu resmi dili nedir?",
+    "answer": " Tamilce",
+    "sub": "Tamil Nadu"
+  },
+  {
+    "query": "Altay Krayı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Altay Krayı"
+  },
+  {
+    "query": "Mendrisio resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Mendrisio"
+  },
+  {
+    "query": "Lüksemburg resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Lüksemburg"
+  },
+  {
+    "query": "Açe resmi dili nedir?",
+    "answer": " Endonezce",
+    "sub": "Açe"
+  },
+  {
+    "query": "El Salvador resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "El Salvador"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Birleşik Krallık resmi dili nedir?",
+    "answer": " Galce",
+    "sub": "Birleşik Krallık"
+  },
+  {
+    "query": "Torfaen resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Torfaen"
+  },
+  {
+    "query": "Jambi resmi dili nedir?",
+    "answer": " Endonezce",
+    "sub": "Jambi"
+  },
+  {
+    "query": "Danimarka resmi dili nedir?",
+    "answer": " Danca",
+    "sub": "Danimarka"
+  },
+  {
+    "query": "ISO resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "ISO"
+  },
+  {
+    "query": "Kolari resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kolari"
+  },
+  {
+    "query": "Kanada resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Kanada"
+  },
+  {
+    "query": "Cork Kontluğu resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Cork Kontluğu"
+  },
+  {
+    "query": "San Marino resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "San Marino"
+  },
+  {
+    "query": "Pakistan resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "Azerbaycan Demokratik Cumhuriyeti resmi dili nedir?",
+    "answer": " Azerice",
+    "sub": "Azerbaycan Demokratik Cumhuriyeti"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Guernsey resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Guernsey"
+  },
+  {
+    "query": "Merikarvia resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Merikarvia"
+  },
+  {
+    "query": "Avrupa Güvenlik ve İşbirliği Teşkilatı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Avrupa Güvenlik ve İşbirliği Teşkilatı"
+  },
+  {
+    "query": "Dietikon resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Dietikon"
+  },
+  {
+    "query": "Birinci Çekoslovak Cumhuriyeti resmi dili nedir?",
+    "answer": " Slovakça",
+    "sub": "Birinci Çekoslovak Cumhuriyeti"
+  },
+  {
+    "query": "Venedik Cumhuriyeti resmi dili nedir?",
+    "answer": " Venedikçe",
+    "sub": "Venedik Cumhuriyeti"
+  },
+  {
+    "query": "Dominika resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Dominika"
+  },
+  {
+    "query": "Dünya Atletizm Birliği resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Dünya Atletizm Birliği"
+  },
+  {
+    "query": "Tavolara Krallığı resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Tavolara Krallığı"
+  },
+  {
+    "query": "Uluslararası Atom Enerjisi Kurumu resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Uluslararası Atom Enerjisi Kurumu"
+  },
+  {
+    "query": "Guatemala resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Guatemala"
+  },
+  {
+    "query": "Beyaz Rusya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Beyaz Rusya"
+  },
+  {
+    "query": "Güney Karolina resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Güney Karolina"
+  },
+  {
+    "query": "Saint Vincent ve Grenadinler resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Saint Vincent ve Grenadinler"
+  },
+  {
+    "query": "Aigle resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Aigle"
+  },
+  {
+    "query": "Mauritius resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "Timur İmparatorluğu resmi dili nedir?",
+    "answer": " Farsça",
+    "sub": "Timur İmparatorluğu"
+  },
+  {
+    "query": "Nikaragua resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Nikaragua"
+  },
+  {
+    "query": "Cebu resmi dili nedir?",
+    "answer": " Filipince",
+    "sub": "Cebu"
+  },
+  {
+    "query": "Sırbistan resmi dili nedir?",
+    "answer": " Sırpça",
+    "sub": "Sırbistan"
+  },
+  {
+    "query": "Prusya resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Prusya"
+  },
+  {
+    "query": "Ulvila resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Ulvila"
+  },
+  {
+    "query": "Faroe Adaları resmi dili nedir?",
+    "answer": " Danca",
+    "sub": "Faroe Adaları"
+  },
+  {
+    "query": "İzlanda resmi dili nedir?",
+    "answer": " İzlandaca",
+    "sub": "İzlanda"
+  },
+  {
+    "query": "Karadağ resmi dili nedir?",
+    "answer": " Karadağca",
+    "sub": "Karadağ"
+  },
+  {
+    "query": "Lemland resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Lemland"
+  },
+  {
+    "query": "Stockholm belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Stockholm belediyesi"
+  },
+  {
+    "query": "Korsholm resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Korsholm"
+  },
+  {
+    "query": "Karkkila resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Karkkila"
+  },
+  {
+    "query": "Vichy Fransası resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Vichy Fransası"
+  },
+  {
+    "query": "Somero resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Somero"
+  },
+  {
+    "query": "Melitopol resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Melitopol"
+  },
+  {
+    "query": "Muonio resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Muonio"
+  },
+  {
+    "query": "Hankasalmi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Hankasalmi"
+  },
+  {
+    "query": "Ilmajoki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Ilmajoki"
+  },
+  {
+    "query": "Luzern resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Luzern"
+  },
+  {
+    "query": "Sırp Ortodoks Kilisesi resmi dili nedir?",
+    "answer": " Sırpça",
+    "sub": "Sırp Ortodoks Kilisesi"
+  },
+  {
+    "query": "Hong Kong resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Hong Kong"
+  },
+  {
+    "query": "Lehendakari resmi dili nedir?",
+    "answer": " Baskça",
+    "sub": "Lehendakari"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Rumence",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Liestal resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Liestal"
+  },
+  {
+    "query": "Sui Hanedanı resmi dili nedir?",
+    "answer": " Çince",
+    "sub": "Sui Hanedanı"
+  },
+  {
+    "query": "Haydarabad, Hindistan resmi dili nedir?",
+    "answer": " Urduca",
+    "sub": "Haydarabad, Hindistan"
+  },
+  {
+    "query": "Demokratik Kampuçya resmi dili nedir?",
+    "answer": " Khmerce",
+    "sub": "Demokratik Kampuçya"
+  },
+  {
+    "query": "Güney Osetya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Güney Osetya"
+  },
+  {
+    "query": "Aracena resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Aracena"
+  },
+  {
+    "query": "New Jersey resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "New Jersey"
+  },
+  {
+    "query": "Namibya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Namibya"
+  },
+  {
+    "query": "Hollanda Antilleri resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Hollanda Antilleri"
+  },
+  {
+    "query": "Batı Afrika Ülkeleri Ekonomik Topluluğu resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Batı Afrika Ülkeleri Ekonomik Topluluğu"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Slovakça",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Bangladeş resmi dili nedir?",
+    "answer": " bengalce",
+    "sub": "Bangladeş"
+  },
+  {
+    "query": "Merkez Visayas resmi dili nedir?",
+    "answer": " Filipince",
+    "sub": "Merkez Visayas"
+  },
+  {
+    "query": "Ranua resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Ranua"
+  },
+  {
+    "query": "Andorra resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "Andorra"
+  },
+  {
+    "query": "Trinidad ve Tobago resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Trinidad ve Tobago"
+  },
+  {
+    "query": "Birleşik Krallık resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Birleşik Krallık"
+  },
+  {
+    "query": "Kamçatka Krayı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Kamçatka Krayı"
+  },
+  {
+    "query": "Almanya resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Almanya"
+  },
+  {
+    "query": "Lozan resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Lozan"
+  },
+  {
+    "query": "Botsvana resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Botsvana"
+  },
+  {
+    "query": "Iitti resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Iitti"
+  },
+  {
+    "query": "Sint Maarten resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Sint Maarten"
+  },
+  {
+    "query": "Stavropol Krayı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Stavropol Krayı"
+  },
+  {
+    "query": "Orta Afrika Cumhuriyeti resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Orta Afrika Cumhuriyeti"
+  },
+  {
+    "query": "Asturias Krallığı resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Asturias Krallığı"
+  },
+  {
+    "query": "Gagavuzya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Gagavuzya"
+  },
+  {
+    "query": "NATO resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "NATO"
+  },
+  {
+    "query": "Tolyatti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Tolyatti"
+  },
+  {
+    "query": "Mercia resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Mercia"
+  },
+  {
+    "query": "Utah resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Utah"
+  },
+  {
+    "query": "Transvaal Cumhuriyeti resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Transvaal Cumhuriyeti"
+  },
+  {
+    "query": "Dundee resmi dili nedir?",
+    "answer": " İskoçça",
+    "sub": "Dundee"
+  },
+  {
+    "query": "Kouvola resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kouvola"
+  },
+  {
+    "query": "Birleşik Krallık Filistin Mandası resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Birleşik Krallık Filistin Mandası"
+  },
+  {
+    "query": "Janakkala resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Janakkala"
+  },
+  {
+    "query": "Krasnodar Krayı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Krasnodar Krayı"
+  },
+  {
+    "query": "Şahunya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Şahunya"
+  },
+  {
+    "query": "Togo resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Togo"
+  },
+  {
+    "query": "Basel-Landschaft resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Basel-Landschaft"
+  },
+  {
+    "query": "Zambiya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Zambiya"
+  },
+  {
+    "query": "Liberya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Liberya"
+  },
+  {
+    "query": "Prens Edward Adası resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Prens Edward Adası"
+  },
+  {
+    "query": "Kosova resmi dili nedir?",
+    "answer": " Sırpça",
+    "sub": "Kosova"
+  },
+  {
+    "query": "Mıkolayiv Oblastı resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Mıkolayiv Oblastı"
+  },
+  {
+    "query": "Kudüs Krallığı resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Kudüs Krallığı"
+  },
+  {
+    "query": "Malavi resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Malavi"
+  },
+  {
+    "query": "Filistin toprakları resmi dili nedir?",
+    "answer": " İbranice",
+    "sub": "Filistin toprakları"
+  },
+  {
+    "query": "Haukipudas resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Haukipudas"
+  },
+  {
+    "query": "Turku resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Turku"
+  },
+  {
+    "query": "Uluslararası Olimpiyat Komitesi resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Uluslararası Olimpiyat Komitesi"
+  },
+  {
+    "query": "Arvidsjaur belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Arvidsjaur belediyesi"
+  },
+  {
+    "query": "Angola resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "Angola"
+  },
+  {
+    "query": "Turku resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Turku"
+  },
+  {
+    "query": "Cemşidpur resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Cemşidpur"
+  },
+  {
+    "query": "Azad Keşmir resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Azad Keşmir"
+  },
+  {
+    "query": "Bermuda resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Bermuda"
+  },
+  {
+    "query": "Formentera resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "Formentera"
+  },
+  {
+    "query": "Bonaire resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Bonaire"
+  },
+  {
+    "query": "Sudan resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Sudan"
+  },
+  {
+    "query": "Sovyet Sosyalist Cumhuriyetler Birliği resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Sovyet Sosyalist Cumhuriyetler Birliği"
+  },
+  {
+    "query": "Saskatchewan resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Saskatchewan"
+  },
+  {
+    "query": "Aruba resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Aruba"
+  },
+  {
+    "query": "Montserrat resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Montserrat"
+  },
+  {
+    "query": "Somali resmi dili nedir?",
+    "answer": " Somalice",
+    "sub": "Somali"
+  },
+  {
+    "query": "Hirvensalmi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Hirvensalmi"
+  },
+  {
+    "query": "Avrupa Güvenlik ve İşbirliği Teşkilatı resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Avrupa Güvenlik ve İşbirliği Teşkilatı"
+  },
+  {
+    "query": "Oulainen resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Oulainen"
+  },
+  {
+    "query": "Kosova ve Metohiya Özerk Bölgesi resmi dili nedir?",
+    "answer": " Sırpça",
+    "sub": "Kosova ve Metohiya Özerk Bölgesi"
+  },
+  {
+    "query": "Karaçay-Çerkesya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Karaçay-Çerkesya"
+  },
+  {
+    "query": "Helsinki resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Helsinki"
+  },
+  {
+    "query": "Avrupa Uzay Ajansı resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Avrupa Uzay Ajansı"
+  },
+  {
+    "query": "Kokkola resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Kokkola"
+  },
+  {
+    "query": "Morges resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Morges"
+  },
+  {
+    "query": "Arizona resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Arizona"
+  },
+  {
+    "query": "Kazvin Eyaleti resmi dili nedir?",
+    "answer": " Azerice",
+    "sub": "Kazvin Eyaleti"
+  },
+  {
+    "query": "Moğolistan resmi dili nedir?",
+    "answer": " Moğolca",
+    "sub": "Moğolistan"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Letonca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Sierra Leone resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Sierra Leone"
+  },
+  {
+    "query": "İbiza resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "İbiza"
+  },
+  {
+    "query": "Paraguay resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Paraguay"
+  },
+  {
+    "query": "Başkurdistan resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Başkurdistan"
+  },
+  {
+    "query": "Endonezya resmi dili nedir?",
+    "answer": " Endonezce",
+    "sub": "Endonezya"
+  },
+  {
+    "query": "Siuntio resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Siuntio"
+  },
+  {
+    "query": "Cebu resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Cebu"
+  },
+  {
+    "query": "Monako resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Monako"
+  },
+  {
+    "query": "Zabaykalskiy Krayı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Zabaykalskiy Krayı"
+  },
+  {
+    "query": "Kuzey Mariana Adaları resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kuzey Mariana Adaları"
+  },
+  {
+    "query": "Azerbaycan resmi dili nedir?",
+    "answer": " Azerice",
+    "sub": "Azerbaycan"
+  },
+  {
+    "query": "Vaud resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Vaud"
+  },
+  {
+    "query": "Singapur resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Singapur"
+  },
+  {
+    "query": "OECD resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "OECD"
+  },
+  {
+    "query": "Keuruu resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Keuruu"
+  },
+  {
+    "query": "Yverdon-les-Bains resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Yverdon-les-Bains"
+  },
+  {
+    "query": "Bern resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Bern"
+  },
+  {
+    "query": "Chennai resmi dili nedir?",
+    "answer": " Tamilce",
+    "sub": "Chennai"
+  },
+  {
+    "query": "Fiji resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Fiji"
+  },
+  {
+    "query": "Hindistan resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Hindistan"
+  },
+  {
+    "query": "Kanada resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kanada"
+  },
+  {
+    "query": "Moğolistan Halk Cumhuriyeti resmi dili nedir?",
+    "answer": " Moğolca",
+    "sub": "Moğolistan Halk Cumhuriyeti"
+  },
+  {
+    "query": "Birleşmiş Milletler resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Birleşmiş Milletler"
+  },
+  {
+    "query": "Burundi resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Burundi"
+  },
+  {
+    "query": "Thiruvananthapuram resmi dili nedir?",
+    "answer": " Malayalam",
+    "sub": "Thiruvananthapuram"
+  },
+  {
+    "query": "Uluslararası Olimpiyat Komitesi resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Uluslararası Olimpiyat Komitesi"
+  },
+  {
+    "query": "Zaire resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Zaire"
+  },
+  {
+    "query": "Kuzey İrlanda resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Kuzey İrlanda"
+  },
+  {
+    "query": "Mali resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Mali"
+  },
+  {
+    "query": "Saint Kitts ve Nevis resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Saint Kitts ve Nevis"
+  },
+  {
+    "query": "Formentera resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Formentera"
+  },
+  {
+    "query": "Merkez Visayas resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Merkez Visayas"
+  },
+  {
+    "query": "Saba resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Saba"
+  },
+  {
+    "query": "Odessa Oblastı resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Odessa Oblastı"
+  },
+  {
+    "query": "Tuusula resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Tuusula"
+  },
+  {
+    "query": "Lüksemburg resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Lüksemburg"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Danca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Jura resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Jura"
+  },
+  {
+    "query": "Lampung resmi dili nedir?",
+    "answer": " Endonezce",
+    "sub": "Lampung"
+  },
+  {
+    "query": "Arnavutluk resmi dili nedir?",
+    "answer": " Arnavutça",
+    "sub": "Arnavutluk"
+  },
+  {
+    "query": "Ilomantsi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Ilomantsi"
+  },
+  {
+    "query": "Iisalmi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Iisalmi"
+  },
+  {
+    "query": "Nokia resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Nokia"
+  },
+  {
+    "query": "Kristinestad resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Kristinestad"
+  },
+  {
+    "query": "Kıbrıs Cumhuriyeti resmi dili nedir?",
+    "answer": " Türkçe",
+    "sub": "Kıbrıs Cumhuriyeti"
+  },
+  {
+    "query": "Letonya resmi dili nedir?",
+    "answer": " Letonca",
+    "sub": "Letonya"
+  },
+  {
+    "query": "MERCOSUR resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "MERCOSUR"
+  },
+  {
+    "query": "Dağıstan resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Dağıstan"
+  },
+  {
+    "query": "Bağımsız Devletler Topluluğu resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Bağımsız Devletler Topluluğu"
+  },
+  {
+    "query": "NATO resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "NATO"
+  },
+  {
+    "query": "Kudüs Krallığı resmi dili nedir?",
+    "answer": " Yunanca",
+    "sub": "Kudüs Krallığı"
+  },
+  {
+    "query": "Saint Pierre ve Miquelon resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Saint Pierre ve Miquelon"
+  },
+  {
+    "query": "Bhopal resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Bhopal"
+  },
+  {
+    "query": "Ermenistan resmi dili nedir?",
+    "answer": " Ermenice",
+    "sub": "Ermenistan"
+  },
+  {
+    "query": "Batı Kap resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Batı Kap"
+  },
+  {
+    "query": "Bulgaristan Krallığı resmi dili nedir?",
+    "answer": " Bulgarca",
+    "sub": "Bulgaristan Krallığı"
+  },
+  {
+    "query": "Gabon resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Gabon"
+  },
+  {
+    "query": "Porto Riko resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Porto Riko"
+  },
+  {
+    "query": "Porto Riko resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Porto Riko"
+  },
+  {
+    "query": "Thrissur resmi dili nedir?",
+    "answer": " Malayalam",
+    "sub": "Thrissur"
+  },
+  {
+    "query": "Bulgar Ortodoks Kilisesi resmi dili nedir?",
+    "answer": " Bulgarca",
+    "sub": "Bulgar Ortodoks Kilisesi"
+  },
+  {
+    "query": "Tuvalu resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Tuvalu"
+  },
+  {
+    "query": "Iowa resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Iowa"
+  },
+  {
+    "query": "İsveç resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "İsveç"
+  },
+  {
+    "query": "Gürcü Ortodoks ve Elçisel Kilise resmi dili nedir?",
+    "answer": " Gürcüce",
+    "sub": "Gürcü Ortodoks ve Elçisel Kilise"
+  },
+  {
+    "query": "Aragon resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "Aragon"
+  },
+  {
+    "query": "Guam resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Guam"
+  },
+  {
+    "query": "Kırım Özerk Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Kırım Özerk Cumhuriyeti"
+  },
+  {
+    "query": "Benin resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Benin"
+  },
+  {
+    "query": "Florida resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Florida"
+  },
+  {
+    "query": "Virjinya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Virjinya"
+  },
+  {
+    "query": "Joensuu resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Joensuu"
+  },
+  {
+    "query": "Uppsala belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Uppsala belediyesi"
+  },
+  {
+    "query": "Antigua ve Barbuda resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Antigua ve Barbuda"
+  },
+  {
+    "query": "ASEAN resmi dili nedir?",
+    "answer": " Çince",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "Belçika resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Belçika"
+  },
+  {
+    "query": "Suomussalmi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Suomussalmi"
+  },
+  {
+    "query": "Hırvatistan Bağımsız Devleti resmi dili nedir?",
+    "answer": " Hırvatça",
+    "sub": "Hırvatistan Bağımsız Devleti"
+  },
+  {
+    "query": "Katalonya resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "Katalonya"
+  },
+  {
+    "query": "Petrozavodsk resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Petrozavodsk"
+  },
+  {
+    "query": "Hanko resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Hanko"
+  },
+  {
+    "query": "Çukotka Özerk Okrugu resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Çukotka Özerk Okrugu"
+  },
+  {
+    "query": "Pays de la Loire resmi dili nedir?",
+    "answer": " Bretonca",
+    "sub": "Pays de la Loire"
+  },
+  {
+    "query": "Ruokolahti resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Ruokolahti"
+  },
+  {
+    "query": "Dundee resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Dundee"
+  },
+  {
+    "query": "Upplands-Bro belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Upplands-Bro belediyesi"
+  },
+  {
+    "query": "Naantali resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Naantali"
+  },
+  {
+    "query": "Kurikka resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kurikka"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Maltaca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Lemi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Lemi"
+  },
+  {
+    "query": "Azerbaycan Sovyet Sosyalist Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Azerbaycan Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Norfolk Adası resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Norfolk Adası"
+  },
+  {
+    "query": "İskoçya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "İskoçya"
+  },
+  {
+    "query": "Küba resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Küba"
+  },
+  {
+    "query": "Biel/Bienne resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Biel/Bienne"
+  },
+  {
+    "query": "Mikronezya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Mikronezya"
+  },
+  {
+    "query": "Perm Krayı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Perm Krayı"
+  },
+  {
+    "query": "Polonya Kongre Krallığı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Polonya Kongre Krallığı"
+  },
+  {
+    "query": "Pomarkku resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Pomarkku"
+  },
+  {
+    "query": "Bulgaristan resmi dili nedir?",
+    "answer": " Bulgarca",
+    "sub": "Bulgaristan"
+  },
+  {
+    "query": "Amerika Birleşik Devletleri resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Amerika Birleşik Devletleri"
+  },
+  {
+    "query": "Raisio resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Raisio"
+  },
+  {
+    "query": "Payerne resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Payerne"
+  },
+  {
+    "query": "Illinois resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Illinois"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " İtalyanca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Arjeplog belediyesi resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Arjeplog belediyesi"
+  },
+  {
+    "query": "Kuzey Sumatra resmi dili nedir?",
+    "answer": " Endonezce",
+    "sub": "Kuzey Sumatra"
+  },
+  {
+    "query": "Eurajoki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Eurajoki"
+  },
+  {
+    "query": "Liminka resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Liminka"
+  },
+  {
+    "query": "ASEAN resmi dili nedir?",
+    "answer": " Tayca",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "Britanya Hong Kongu resmi dili nedir?",
+    "answer": " Çince",
+    "sub": "Britanya Hong Kongu"
+  },
+  {
+    "query": "Floransa Cumhuriyeti resmi dili nedir?",
+    "answer": " Latince",
+    "sub": "Floransa Cumhuriyeti"
+  },
+  {
+    "query": "Tennessee resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Tennessee"
+  },
+  {
+    "query": "Uusikaupunki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Uusikaupunki"
+  },
+  {
+    "query": "Rusya İmparatorluğu resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Rusya İmparatorluğu"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Andhra Pradeş resmi dili nedir?",
+    "answer": " Teluguca",
+    "sub": "Andhra Pradeş"
+  },
+  {
+    "query": "Özgür Orange Devleti resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Özgür Orange Devleti"
+  },
+  {
+    "query": "Kaskinen resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Kaskinen"
+  },
+  {
+    "query": "Guernsey resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Guernsey"
+  },
+  {
+    "query": "Imatra resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Imatra"
+  },
+  {
+    "query": "Nakkila resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Nakkila"
+  },
+  {
+    "query": "Kanarya Adaları resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Kanarya Adaları"
+  },
+  {
+    "query": "Mordovya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Mordovya"
+  },
+  {
+    "query": "Makao resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "Makao"
+  },
+  {
+    "query": "Altay Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Altay Cumhuriyeti"
+  },
+  {
+    "query": "Kosta Rika resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Kosta Rika"
+  },
+  {
+    "query": "Saint Vincent ve Grenadinler resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Saint Vincent ve Grenadinler"
+  },
+  {
+    "query": "Paimio resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Paimio"
+  },
+  {
+    "query": "Kitee resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kitee"
+  },
+  {
+    "query": "Avrupa Birliği resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Uluslararası Ceza Mahkemesi resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Uluslararası Ceza Mahkemesi"
+  },
+  {
+    "query": "Pori resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Pori"
+  },
+  {
+    "query": "Minorka resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Minorka"
+  },
+  {
+    "query": "Karadağ resmi dili nedir?",
+    "answer": " Arnavutça",
+    "sub": "Karadağ"
+  },
+  {
+    "query": "Paris Komünü resmi dili nedir?",
+    "answer": " Fransızca",
+    "sub": "Paris Komünü"
+  },
+  {
+    "query": "Venezuela resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Venezuela"
+  },
+  {
+    "query": "Siikajoki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Siikajoki"
+  },
+  {
+    "query": "Marshall Adaları resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Marshall Adaları"
+  },
+  {
+    "query": "Karelya Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Karelya Cumhuriyeti"
+  },
+  {
+    "query": "Kiiminki resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kiiminki"
+  },
+  {
+    "query": "Hanko resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Hanko"
+  },
+  {
+    "query": "Snejinsk resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Snejinsk"
+  },
+  {
+    "query": "Valensiya resmi dili nedir?",
+    "answer": " Katalanca",
+    "sub": "Valensiya"
+  },
+  {
+    "query": "Slovakya resmi dili nedir?",
+    "answer": " Slovakça",
+    "sub": "Slovakya"
+  },
+  {
+    "query": "Haryana resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Haryana"
+  },
+  {
+    "query": "Humppila resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Humppila"
+  },
+  {
+    "query": "Güney Kore resmi dili nedir?",
+    "answer": " Korece",
+    "sub": "Güney Kore"
+  },
+  {
+    "query": "Yeşil Burun Adaları resmi dili nedir?",
+    "answer": " Portekizce",
+    "sub": "Yeşil Burun Adaları"
+  },
+  {
+    "query": "Shimla resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Shimla"
+  },
+  {
+    "query": "Outokumpu resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Outokumpu"
+  },
+  {
+    "query": "Horasan Bölgesi resmi dili nedir?",
+    "answer": " Farsça",
+    "sub": "Horasan Bölgesi"
+  },
+  {
+    "query": "Birinci Çekoslovak Cumhuriyeti resmi dili nedir?",
+    "answer": " Çekçe",
+    "sub": "Birinci Çekoslovak Cumhuriyeti"
+  },
+  {
+    "query": "Karayip Hollandası resmi dili nedir?",
+    "answer": " Felemenkçe",
+    "sub": "Karayip Hollandası"
+  },
+  {
+    "query": "Kemi resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kemi"
+  },
+  {
+    "query": "Oklahoma resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Oklahoma"
+  },
+  {
+    "query": "Ukrayna resmi dili nedir?",
+    "answer": " Ukraynaca",
+    "sub": "Ukrayna"
+  },
+  {
+    "query": "Cook Adaları resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Cook Adaları"
+  },
+  {
+    "query": "UEFA resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "UEFA"
+  },
+  {
+    "query": "Kokkola resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kokkola"
+  },
+  {
+    "query": "Tanzanya resmi dili nedir?",
+    "answer": " İngilizce",
+    "sub": "Tanzanya"
+  },
+  {
+    "query": "Türkmenistan resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Türkmenistan"
+  },
+  {
+    "query": "Somaliland resmi dili nedir?",
+    "answer": " Somalice",
+    "sub": "Somaliland"
+  },
+  {
+    "query": "Sipoo resmi dili nedir?",
+    "answer": " İsveççe",
+    "sub": "Sipoo"
+  },
+  {
+    "query": "İsviçre resmi dili nedir?",
+    "answer": " Almanca",
+    "sub": "İsviçre"
+  },
+  {
+    "query": "Habarovsk Krayı resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Habarovsk Krayı"
+  },
+  {
+    "query": "Lahti resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Lahti"
+  },
+  {
+    "query": "Alicante resmi dili nedir?",
+    "answer": " İspanyolca",
+    "sub": "Alicante"
+  },
+  {
+    "query": "Parkano resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Parkano"
+  },
+  {
+    "query": "Kuhmoinen resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Kuhmoinen"
+  },
+  {
+    "query": "Beyaz Rusya resmi dili nedir?",
+    "answer": " Beyaz Rusça",
+    "sub": "Beyaz Rusya"
+  },
+  {
+    "query": "Uttar Pradeş resmi dili nedir?",
+    "answer": " Hintçe",
+    "sub": "Uttar Pradeş"
+  },
+  {
+    "query": "Korsholm resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Korsholm"
+  },
+  {
+    "query": "Lugansk Halk Cumhuriyeti resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "Lugansk Halk Cumhuriyeti"
+  },
+  {
+    "query": "Laos resmi dili nedir?",
+    "answer": " Laoca",
+    "sub": "Laos"
+  },
+  {
+    "query": "Masku resmi dili nedir?",
+    "answer": " Fince",
+    "sub": "Masku"
+  },
+  {
+    "query": "İnguşetya resmi dili nedir?",
+    "answer": " Rusça",
+    "sub": "İnguşetya"
+  }
+]

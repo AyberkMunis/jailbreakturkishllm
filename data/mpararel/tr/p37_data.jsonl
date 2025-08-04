@@ -1,0 +1,4337 @@
+[
+  {
+    "query": "Azad Keşmir 'un resmi dili ",
+    "answer": "Urduca",
+    "sub": "Azad Keşmir"
+  },
+  {
+    "query": "Padasjoki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Padasjoki"
+  },
+  {
+    "query": "Alta Verapaz İli 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Alta Verapaz İli"
+  },
+  {
+    "query": "Fransız Polinezyası 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Fransız Polinezyası"
+  },
+  {
+    "query": "Virrat 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Virrat"
+  },
+  {
+    "query": "Brunei 'un resmi dili ",
+    "answer": "Malayca",
+    "sub": "Brunei"
+  },
+  {
+    "query": "Uttar Pradeş 'un resmi dili ",
+    "answer": "Urduca",
+    "sub": "Uttar Pradeş"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Valonya 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Valonya"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Slovence",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Haiti 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Haiti"
+  },
+  {
+    "query": "Güney Afrika Birliği 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Güney Afrika Birliği"
+  },
+  {
+    "query": "Val d'Aran 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "Val d'Aran"
+  },
+  {
+    "query": "Bellinzona 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Bellinzona"
+  },
+  {
+    "query": "Kronoby 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Kronoby"
+  },
+  {
+    "query": "Şanghay İşbirliği Örgütü 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Şanghay İşbirliği Örgütü"
+  },
+  {
+    "query": "Stellaland 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Stellaland"
+  },
+  {
+    "query": "Biel/Bienne 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Biel/Bienne"
+  },
+  {
+    "query": "Sotkamo 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Sotkamo"
+  },
+  {
+    "query": "Wyoming 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Wyoming"
+  },
+  {
+    "query": "Vesanto 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Vesanto"
+  },
+  {
+    "query": "Dünya Atletizm Birliği 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Dünya Atletizm Birliği"
+  },
+  {
+    "query": "Odessa Oblastı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Odessa Oblastı"
+  },
+  {
+    "query": "Kutsal Makam 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Kutsal Makam"
+  },
+  {
+    "query": "Parikkala 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Parikkala"
+  },
+  {
+    "query": "Kerava 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kerava"
+  },
+  {
+    "query": "Uruguay 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Uruguay"
+  },
+  {
+    "query": "Cemşidpur 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Cemşidpur"
+  },
+  {
+    "query": "Molina de Segura 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Molina de Segura"
+  },
+  {
+    "query": "Güney Osetya 'un resmi dili ",
+    "answer": "Gürcüce",
+    "sub": "Güney Osetya"
+  },
+  {
+    "query": "Kamboçya 'un resmi dili ",
+    "answer": "Khmerce",
+    "sub": "Kamboçya"
+  },
+  {
+    "query": "Porrentruy 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Porrentruy"
+  },
+  {
+    "query": "Nykarleby 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Nykarleby"
+  },
+  {
+    "query": "Krasnoyarsk Krayı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Krasnoyarsk Krayı"
+  },
+  {
+    "query": "Kongo Cumhuriyeti 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Kongo Cumhuriyeti"
+  },
+  {
+    "query": "Aragon Tacı 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "Aragon Tacı"
+  },
+  {
+    "query": "Aragon Tacı 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Aragon Tacı"
+  },
+  {
+    "query": "Solomon Adaları 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Solomon Adaları"
+  },
+  {
+    "query": "Meghalaya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Meghalaya"
+  },
+  {
+    "query": "Lohja 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Lohja"
+  },
+  {
+    "query": "Tornio 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Tornio"
+  },
+  {
+    "query": "Racasthan 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Racasthan"
+  },
+  {
+    "query": "Şanghay İşbirliği Örgütü 'un resmi dili ",
+    "answer": "Çince",
+    "sub": "Şanghay İşbirliği Örgütü"
+  },
+  {
+    "query": "Paskalya Adası 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Paskalya Adası"
+  },
+  {
+    "query": "Mayorka 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "Mayorka"
+  },
+  {
+    "query": "Brezilya 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "Brezilya"
+  },
+  {
+    "query": "Meksika 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Meksika"
+  },
+  {
+    "query": "Posio 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Posio"
+  },
+  {
+    "query": "Karijoki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Karijoki"
+  },
+  {
+    "query": "Gambiya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Gambiya"
+  },
+  {
+    "query": "Kyoto 'un resmi dili ",
+    "answer": "Japonca",
+    "sub": "Kyoto"
+  },
+  {
+    "query": "Güney Georgia ve Güney Sandwich Adaları 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Güney Georgia ve Güney Sandwich Adaları"
+  },
+  {
+    "query": "Sastamala 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Sastamala"
+  },
+  {
+    "query": "Kudüs Krallığı 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Kudüs Krallığı"
+  },
+  {
+    "query": "Man Adası 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Man Adası"
+  },
+  {
+    "query": "Mississippi 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Mississippi"
+  },
+  {
+    "query": "Makao 'un resmi dili ",
+    "answer": "Çince",
+    "sub": "Makao"
+  },
+  {
+    "query": "Çekoslovakya 'un resmi dili ",
+    "answer": "Slovakça",
+    "sub": "Çekoslovakya"
+  },
+  {
+    "query": "Salla 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Salla"
+  },
+  {
+    "query": "Kiuruvesi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kiuruvesi"
+  },
+  {
+    "query": "Pirkkala 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Pirkkala"
+  },
+  {
+    "query": "Malax 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Malax"
+  },
+  {
+    "query": "Donetsk Oblastı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Donetsk Oblastı"
+  },
+  {
+    "query": "Loimaa 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Loimaa"
+  },
+  {
+    "query": "İsrail 'un resmi dili ",
+    "answer": "İbranice",
+    "sub": "İsrail"
+  },
+  {
+    "query": "Samoa 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Samoa"
+  },
+  {
+    "query": "Tataristan 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Tataristan"
+  },
+  {
+    "query": "Brüksel Başkent Bölgesi 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Brüksel Başkent Bölgesi"
+  },
+  {
+    "query": "Hawaii 'un resmi dili ",
+    "answer": "Hawaii dili",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "İsviçre 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "İsviçre"
+  },
+  {
+    "query": "Kajaani 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kajaani"
+  },
+  {
+    "query": "Belçika 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Belçika"
+  },
+  {
+    "query": "Nauru 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Nauru"
+  },
+  {
+    "query": "Delhi 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Delhi"
+  },
+  {
+    "query": "Navarra 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Navarra"
+  },
+  {
+    "query": "İbiza 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "İbiza"
+  },
+  {
+    "query": "Jomala 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Jomala"
+  },
+  {
+    "query": "Kerala 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kerala"
+  },
+  {
+    "query": "Falkland Adaları 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Falkland Adaları"
+  },
+  {
+    "query": "Mari El 'un resmi dili ",
+    "answer": "mari dili",
+    "sub": "Mari El"
+  },
+  {
+    "query": "Özgür Danzig Şehri 'un resmi dili ",
+    "answer": "Lehçe",
+    "sub": "Özgür Danzig Şehri"
+  },
+  {
+    "query": "UEFA 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "UEFA"
+  },
+  {
+    "query": "Frizya 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Frizya"
+  },
+  {
+    "query": "Gine 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Gine"
+  },
+  {
+    "query": "Udmurtya Özerk Sovyet Sosyalist Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Udmurtya Özerk Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Coimbatore 'un resmi dili ",
+    "answer": "Tamilce",
+    "sub": "Coimbatore"
+  },
+  {
+    "query": "Avustralya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Avustralya"
+  },
+  {
+    "query": "Peru 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Peru"
+  },
+  {
+    "query": "Delhi 'un resmi dili ",
+    "answer": "Pencapça",
+    "sub": "Delhi"
+  },
+  {
+    "query": "İsviçre Federal Anayasası 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "İsviçre Federal Anayasası"
+  },
+  {
+    "query": "Bengkulu 'un resmi dili ",
+    "answer": "Endonezce",
+    "sub": "Bengkulu"
+  },
+  {
+    "query": "Lesotho 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Lesotho"
+  },
+  {
+    "query": "Juankoski 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Juankoski"
+  },
+  {
+    "query": "Hindistan 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Hindistan"
+  },
+  {
+    "query": "Pitcairn Adaları 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Pitcairn Adaları"
+  },
+  {
+    "query": "Hantı-Mansi Özerk Okrugu 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Hantı-Mansi Özerk Okrugu"
+  },
+  {
+    "query": "Zimbabve 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Zimbabve"
+  },
+  {
+    "query": "Luzern 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Luzern"
+  },
+  {
+    "query": "Transdinyester 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Transdinyester"
+  },
+  {
+    "query": "Cibuti 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Cibuti"
+  },
+  {
+    "query": "Vapolar 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Vapolar"
+  },
+  {
+    "query": "Sahra Demokratik Arap Cumhuriyeti 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Sahra Demokratik Arap Cumhuriyeti"
+  },
+  {
+    "query": "Sint Eustatius 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Sint Eustatius"
+  },
+  {
+    "query": "Montana 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Montana"
+  },
+  {
+    "query": "Bahamalar 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Bahamalar"
+  },
+  {
+    "query": "Dağıstan 'un resmi dili ",
+    "answer": "Azerice",
+    "sub": "Dağıstan"
+  },
+  {
+    "query": "Kuzey Makedonya 'un resmi dili ",
+    "answer": "Makedonca",
+    "sub": "Kuzey Makedonya"
+  },
+  {
+    "query": "Ontario 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Ontario"
+  },
+  {
+    "query": "Alberta 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Alberta"
+  },
+  {
+    "query": "Karadağ 'un resmi dili ",
+    "answer": "Sırpça",
+    "sub": "Karadağ"
+  },
+  {
+    "query": "Jovti Vodi 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Jovti Vodi"
+  },
+  {
+    "query": "Kuusamo 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kuusamo"
+  },
+  {
+    "query": "Cemmu ve Keşmir 'un resmi dili ",
+    "answer": "Urduca",
+    "sub": "Cemmu ve Keşmir"
+  },
+  {
+    "query": "Nastola 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Nastola"
+  },
+  {
+    "query": "Esvatini 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Esvatini"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Grenada 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Grenada"
+  },
+  {
+    "query": "Alderney 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Alderney"
+  },
+  {
+    "query": "Aargau 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Aargau"
+  },
+  {
+    "query": "Hakasya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Hakasya"
+  },
+  {
+    "query": "Çeçenistan 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Çeçenistan"
+  },
+  {
+    "query": "Mıkolayiv Oblastı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Mıkolayiv Oblastı"
+  },
+  {
+    "query": "Pencap 'un resmi dili ",
+    "answer": "Pencapça",
+    "sub": "Pencap"
+  },
+  {
+    "query": "Ruanda 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Ruanda"
+  },
+  {
+    "query": "Finlandiya 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Finlandiya"
+  },
+  {
+    "query": "Loviisa 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Loviisa"
+  },
+  {
+    "query": "Nebraska 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Nebraska"
+  },
+  {
+    "query": "Polonya 'un resmi dili ",
+    "answer": "Lehçe",
+    "sub": "Polonya"
+  },
+  {
+    "query": "Ukrayna Sovyet Sosyalist Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Ukrayna Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Nyon 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Nyon"
+  },
+  {
+    "query": "Basel 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Basel"
+  },
+  {
+    "query": "Arkansas 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Arkansas"
+  },
+  {
+    "query": "Romanya 'un resmi dili ",
+    "answer": "Rumence",
+    "sub": "Romanya"
+  },
+  {
+    "query": "Kaskinen 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kaskinen"
+  },
+  {
+    "query": "Lombardlar Krallığı 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Lombardlar Krallığı"
+  },
+  {
+    "query": "Sri Lanka 'un resmi dili ",
+    "answer": "Tamilce",
+    "sub": "Sri Lanka"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Yunanca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Ylitornio 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Ylitornio"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "İrlandaca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Kenya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kenya"
+  },
+  {
+    "query": "Fransız Güney ve Antarktika Toprakları 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Fransız Güney ve Antarktika Toprakları"
+  },
+  {
+    "query": "Gana 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Gana"
+  },
+  {
+    "query": "Kauhajoki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kauhajoki"
+  },
+  {
+    "query": "Raahe 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Raahe"
+  },
+  {
+    "query": "Provence 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Provence"
+  },
+  {
+    "query": "Slovenya 'un resmi dili ",
+    "answer": "Slovence",
+    "sub": "Slovenya"
+  },
+  {
+    "query": "Jakobstad 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Jakobstad"
+  },
+  {
+    "query": "Lehendakari 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Lehendakari"
+  },
+  {
+    "query": "Tervola 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Tervola"
+  },
+  {
+    "query": "Moldova 'un resmi dili ",
+    "answer": "Rumence",
+    "sub": "Moldova"
+  },
+  {
+    "query": "Ruovesi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Ruovesi"
+  },
+  {
+    "query": "ASEAN 'un resmi dili ",
+    "answer": "Filipince",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "A Ver-o-Mar 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "A Ver-o-Mar"
+  },
+  {
+    "query": "Avrupa Güvenlik ve İşbirliği Teşkilatı 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Avrupa Güvenlik ve İşbirliği Teşkilatı"
+  },
+  {
+    "query": "Fransız Guyanası 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Fransız Guyanası"
+  },
+  {
+    "query": "Litvanya 'un resmi dili ",
+    "answer": "Litvanca",
+    "sub": "Litvanya"
+  },
+  {
+    "query": "Kristinestad 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kristinestad"
+  },
+  {
+    "query": "Komi Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Komi Cumhuriyeti"
+  },
+  {
+    "query": "Anguilla 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Anguilla"
+  },
+  {
+    "query": "Belize 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Belize"
+  },
+  {
+    "query": "MERCOSUR 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "MERCOSUR"
+  },
+  {
+    "query": "İspanya 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "İspanya"
+  },
+  {
+    "query": "Pelkosenniemi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Pelkosenniemi"
+  },
+  {
+    "query": "Barbados 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Barbados"
+  },
+  {
+    "query": "Melitopol 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Melitopol"
+  },
+  {
+    "query": "Sigtuna belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Sigtuna belediyesi"
+  },
+  {
+    "query": "Nykarleby 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Nykarleby"
+  },
+  {
+    "query": "Batı Almanya 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Batı Almanya"
+  },
+  {
+    "query": "Nenets Özerk Okrugu 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Nenets Özerk Okrugu"
+  },
+  {
+    "query": "Karayip Hollandası 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Karayip Hollandası"
+  },
+  {
+    "query": "Kolombiya 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Kolombiya"
+  },
+  {
+    "query": "Kauhava 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kauhava"
+  },
+  {
+    "query": "Bahia 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "Bahia"
+  },
+  {
+    "query": "Brunei 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Brunei"
+  },
+  {
+    "query": "Sicilya Krallığı 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Sicilya Krallığı"
+  },
+  {
+    "query": "Donetsk Oblastı 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Donetsk Oblastı"
+  },
+  {
+    "query": "Jambi 'un resmi dili ",
+    "answer": "Malayca",
+    "sub": "Jambi"
+  },
+  {
+    "query": "Patna 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Patna"
+  },
+  {
+    "query": "İsveç ve Norveç Birliği 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "İsveç ve Norveç Birliği"
+  },
+  {
+    "query": "Sivastopol 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Sivastopol"
+  },
+  {
+    "query": "Kraliyet 22e Alayı 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Kraliyet 22e Alayı"
+  },
+  {
+    "query": "Pakistan 'un resmi dili ",
+    "answer": "Urduca",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "Varkaus 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Varkaus"
+  },
+  {
+    "query": "Mariehamn 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Mariehamn"
+  },
+  {
+    "query": "Bern 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Bern"
+  },
+  {
+    "query": "Lugansk Halk Cumhuriyeti 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Lugansk Halk Cumhuriyeti"
+  },
+  {
+    "query": "La Chaux-de-Fonds 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "La Chaux-de-Fonds"
+  },
+  {
+    "query": "Kaarina 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kaarina"
+  },
+  {
+    "query": "Moskova Knezliği 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Moskova Knezliği"
+  },
+  {
+    "query": "Çekoslovakya 'un resmi dili ",
+    "answer": "Çekçe",
+    "sub": "Çekoslovakya"
+  },
+  {
+    "query": "Senegal 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Senegal"
+  },
+  {
+    "query": "Le Locle 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Le Locle"
+  },
+  {
+    "query": "Kirkkonummi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Kirkkonummi"
+  },
+  {
+    "query": "Porvoo 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Porvoo"
+  },
+  {
+    "query": "Malta'nın Egemen Askeri Düzeni 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Malta'nın Egemen Askeri Düzeni"
+  },
+  {
+    "query": "Pargas 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Pargas"
+  },
+  {
+    "query": "Nunavut 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Nunavut"
+  },
+  {
+    "query": "Cenevre 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Cenevre"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Bulgarca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Bern 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Bern"
+  },
+  {
+    "query": "Meyrin 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Meyrin"
+  },
+  {
+    "query": "Dünya Sağlık Örgütü 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Dünya Sağlık Örgütü"
+  },
+  {
+    "query": "Sint Eustatius 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Sint Eustatius"
+  },
+  {
+    "query": "Bosna-Hersek 'un resmi dili ",
+    "answer": "Sırpça",
+    "sub": "Bosna-Hersek"
+  },
+  {
+    "query": "Güney Tirol 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Güney Tirol"
+  },
+  {
+    "query": "Finlandiya 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Finlandiya"
+  },
+  {
+    "query": "Papua Yeni Gine 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Papua Yeni Gine"
+  },
+  {
+    "query": "Ticino 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Ticino"
+  },
+  {
+    "query": "Lieto 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Lieto"
+  },
+  {
+    "query": "Malta 'un resmi dili ",
+    "answer": "Maltaca",
+    "sub": "Malta"
+  },
+  {
+    "query": "Ruanda 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Ruanda"
+  },
+  {
+    "query": "Jokioinen 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Jokioinen"
+  },
+  {
+    "query": "Maaninka 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Maaninka"
+  },
+  {
+    "query": "Nepal 'un resmi dili ",
+    "answer": "nepali",
+    "sub": "Nepal"
+  },
+  {
+    "query": "Botkyrka belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Botkyrka belediyesi"
+  },
+  {
+    "query": "Saltvik 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Saltvik"
+  },
+  {
+    "query": "Venedik Cumhuriyeti 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Venedik Cumhuriyeti"
+  },
+  {
+    "query": "Çad 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Çad"
+  },
+  {
+    "query": "Erivan 'un resmi dili ",
+    "answer": "Ermenice",
+    "sub": "Erivan"
+  },
+  {
+    "query": "Bolivya 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Bolivya"
+  },
+  {
+    "query": "Benelüks 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Benelüks"
+  },
+  {
+    "query": "Malezya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Malezya"
+  },
+  {
+    "query": "Val d'Aran 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Val d'Aran"
+  },
+  {
+    "query": "Rusya İmparatorluğu 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Rusya İmparatorluğu"
+  },
+  {
+    "query": "Güney Sudan 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Güney Sudan"
+  },
+  {
+    "query": "Ekvator Ginesi 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Ekvator Ginesi"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Macarca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Banten 'un resmi dili ",
+    "answer": "Endonezce",
+    "sub": "Banten"
+  },
+  {
+    "query": "Huddinge belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Huddinge belediyesi"
+  },
+  {
+    "query": "Loppi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Loppi"
+  },
+  {
+    "query": "Kırgızistan 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Kırgızistan"
+  },
+  {
+    "query": "Porvoo 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Porvoo"
+  },
+  {
+    "query": "Vihti 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Vihti"
+  },
+  {
+    "query": "Basel-Stadt 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Basel-Stadt"
+  },
+  {
+    "query": "Flaman Bölgesi 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Flaman Bölgesi"
+  },
+  {
+    "query": "Japonya 'un resmi dili ",
+    "answer": "Japonca",
+    "sub": "Japonya"
+  },
+  {
+    "query": "Alavus 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Alavus"
+  },
+  {
+    "query": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Kangasala 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kangasala"
+  },
+  {
+    "query": "İran 'un resmi dili ",
+    "answer": "Farsça",
+    "sub": "İran"
+  },
+  {
+    "query": "Tampere 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Tampere"
+  },
+  {
+    "query": "Oulu 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Oulu"
+  },
+  {
+    "query": "Nazi Almanyası 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Nazi Almanyası"
+  },
+  {
+    "query": "Espoo 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Espoo"
+  },
+  {
+    "query": "Aragon 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Aragon"
+  },
+  {
+    "query": "Panama 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Panama"
+  },
+  {
+    "query": "Québec 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Québec"
+  },
+  {
+    "query": "Roma İmparatorluğu 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Roma İmparatorluğu"
+  },
+  {
+    "query": "Ekvator Ginesi 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Ekvator Ginesi"
+  },
+  {
+    "query": "Yunanistan Kilisesi 'un resmi dili ",
+    "answer": "Yunanca",
+    "sub": "Yunanistan Kilisesi"
+  },
+  {
+    "query": "Newfoundland ve Labrador 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Newfoundland ve Labrador"
+  },
+  {
+    "query": "Kaustinen 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kaustinen"
+  },
+  {
+    "query": "Yamalo-Nenets Özerk Okrugu 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Yamalo-Nenets Özerk Okrugu"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Estonca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Güney Tirol 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Güney Tirol"
+  },
+  {
+    "query": "Venedik Cumhuriyeti 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Venedik Cumhuriyeti"
+  },
+  {
+    "query": "Uluslararası Aydınlatma Komisyonu 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Uluslararası Aydınlatma Komisyonu"
+  },
+  {
+    "query": "Keminmaa 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Keminmaa"
+  },
+  {
+    "query": "Kumlinge 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Kumlinge"
+  },
+  {
+    "query": "Benelüks 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Benelüks"
+  },
+  {
+    "query": "Minorka 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "Minorka"
+  },
+  {
+    "query": "Birleşmiş Milletler 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Birleşmiş Milletler"
+  },
+  {
+    "query": "Saba 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Saba"
+  },
+  {
+    "query": "Qing Hanedanı 'un resmi dili ",
+    "answer": "Tibetçe",
+    "sub": "Qing Hanedanı"
+  },
+  {
+    "query": "Juva 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Juva"
+  },
+  {
+    "query": "Luhansk Oblastı 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Luhansk Oblastı"
+  },
+  {
+    "query": "Vaasa 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Vaasa"
+  },
+  {
+    "query": "Yakutistan 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Yakutistan"
+  },
+  {
+    "query": "Delhi 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Delhi"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Lehçe",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "ABD Virjin Adaları 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "ABD Virjin Adaları"
+  },
+  {
+    "query": "Dominik Cumhuriyeti 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Dominik Cumhuriyeti"
+  },
+  {
+    "query": "Galler 'un resmi dili ",
+    "answer": "Galce",
+    "sub": "Galler"
+  },
+  {
+    "query": "Lucknow 'un resmi dili ",
+    "answer": "Urduca",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "Donetsk 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Donetsk"
+  },
+  {
+    "query": "Flandre 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Flandre"
+  },
+  {
+    "query": "Krokom belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Krokom belediyesi"
+  },
+  {
+    "query": "Huittinen 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Huittinen"
+  },
+  {
+    "query": "Lapua 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Lapua"
+  },
+  {
+    "query": "Yahudi Özerk Oblastı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Yahudi Özerk Oblastı"
+  },
+  {
+    "query": "San Marino Uluslararası Bilimler Akademisi 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "San Marino Uluslararası Bilimler Akademisi"
+  },
+  {
+    "query": "Sundbyberg belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Sundbyberg belediyesi"
+  },
+  {
+    "query": "Britanya Kolumbiyası 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Britanya Kolumbiyası"
+  },
+  {
+    "query": "Kangasniemi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kangasniemi"
+  },
+  {
+    "query": "Belçika 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Belçika"
+  },
+  {
+    "query": "Polonya Kongre Krallığı 'un resmi dili ",
+    "answer": "Lehçe",
+    "sub": "Polonya Kongre Krallığı"
+  },
+  {
+    "query": "Quetzaltenango 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Quetzaltenango"
+  },
+  {
+    "query": "Bizans İmparatorluğu 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Bizans İmparatorluğu"
+  },
+  {
+    "query": "İrlanda 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "İrlanda"
+  },
+  {
+    "query": "Hollanda 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Hollanda"
+  },
+  {
+    "query": "Suonenjoki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Suonenjoki"
+  },
+  {
+    "query": "Kansas 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kansas"
+  },
+  {
+    "query": "Vantaa 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Vantaa"
+  },
+  {
+    "query": "Güney Afrika Cumhuriyeti 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Güney Afrika Cumhuriyeti"
+  },
+  {
+    "query": "Locarno 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Locarno"
+  },
+  {
+    "query": "Vanuatu 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Vanuatu"
+  },
+  {
+    "query": "Siuntio 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Siuntio"
+  },
+  {
+    "query": "Institut d'Estudis Catalans 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "Institut d'Estudis Catalans"
+  },
+  {
+    "query": "Vevey 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Vevey"
+  },
+  {
+    "query": "Cenevre 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Cenevre"
+  },
+  {
+    "query": "Karadağ 'un resmi dili ",
+    "answer": "Hırvatça",
+    "sub": "Karadağ"
+  },
+  {
+    "query": "Surinam 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Surinam"
+  },
+  {
+    "query": "Jharkhand 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Jharkhand"
+  },
+  {
+    "query": "Lugano 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Lugano"
+  },
+  {
+    "query": "Udmurtya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Udmurtya"
+  },
+  {
+    "query": "Loviisa 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Loviisa"
+  },
+  {
+    "query": "Colorado 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Colorado"
+  },
+  {
+    "query": "Siikainen 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Siikainen"
+  },
+  {
+    "query": "Vaasa 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Vaasa"
+  },
+  {
+    "query": "İsviçre Federal Anayasası 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "İsviçre Federal Anayasası"
+  },
+  {
+    "query": "Kabardino-Balkarya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Kabardino-Balkarya"
+  },
+  {
+    "query": "Tonga 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Tonga"
+  },
+  {
+    "query": "Lapinlahti 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Lapinlahti"
+  },
+  {
+    "query": "İngiltere 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "İngiltere"
+  },
+  {
+    "query": "Ekvator Ginesi 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "Ekvator Ginesi"
+  },
+  {
+    "query": "Forssa 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Forssa"
+  },
+  {
+    "query": "Transdinyester 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Transdinyester"
+  },
+  {
+    "query": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti 'un resmi dili ",
+    "answer": "Beyaz Rusça",
+    "sub": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Köstendil ili 'un resmi dili ",
+    "answer": "Bulgarca",
+    "sub": "Köstendil ili"
+  },
+  {
+    "query": "Orimattila 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Orimattila"
+  },
+  {
+    "query": "İrlanda 'un resmi dili ",
+    "answer": "İrlandaca",
+    "sub": "İrlanda"
+  },
+  {
+    "query": "Gine-Bissau 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "Gine-Bissau"
+  },
+  {
+    "query": "Bosna-Hersek 'un resmi dili ",
+    "answer": "Hırvatça",
+    "sub": "Bosna-Hersek"
+  },
+  {
+    "query": "Indiana 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Indiana"
+  },
+  {
+    "query": "Renens 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Renens"
+  },
+  {
+    "query": "Kuzey Kore 'un resmi dili ",
+    "answer": "Korece",
+    "sub": "Kuzey Kore"
+  },
+  {
+    "query": "Donetsk Halk Cumhuriyeti 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Donetsk Halk Cumhuriyeti"
+  },
+  {
+    "query": "Kronoby 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kronoby"
+  },
+  {
+    "query": "Singapur 'un resmi dili ",
+    "answer": "Tamilce",
+    "sub": "Singapur"
+  },
+  {
+    "query": "Rusya 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Rusya"
+  },
+  {
+    "query": "Sicilya Krallığı 'un resmi dili ",
+    "answer": "Sicilyaca",
+    "sub": "Sicilya Krallığı"
+  },
+  {
+    "query": "Kolektif Güvenlik Anlaşması Örgütü 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Kolektif Güvenlik Anlaşması Örgütü"
+  },
+  {
+    "query": "Kuopio 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kuopio"
+  },
+  {
+    "query": "Kauniainen 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kauniainen"
+  },
+  {
+    "query": "Arjantin 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Arjantin"
+  },
+  {
+    "query": "Eura 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Eura"
+  },
+  {
+    "query": "Hollola 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Hollola"
+  },
+  {
+    "query": "Mikkeli 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Mikkeli"
+  },
+  {
+    "query": "Normandiya Dükalığı 'un resmi dili ",
+    "answer": "Normanca",
+    "sub": "Normandiya Dükalığı"
+  },
+  {
+    "query": "Hollanda Antilleri 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Hollanda Antilleri"
+  },
+  {
+    "query": "Kontiolahti 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kontiolahti"
+  },
+  {
+    "query": "Espoo 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Espoo"
+  },
+  {
+    "query": "Aarau 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Aarau"
+  },
+  {
+    "query": "Yalta 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Yalta"
+  },
+  {
+    "query": "Jovti Vodi 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Jovti Vodi"
+  },
+  {
+    "query": "Yeni İskoçya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Yeni İskoçya"
+  },
+  {
+    "query": "OECD 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "OECD"
+  },
+  {
+    "query": "Hawaii 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "Campione d'Italia 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Campione d'Italia"
+  },
+  {
+    "query": "Vantaa 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Vantaa"
+  },
+  {
+    "query": "Rusya Çarlığı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Rusya Çarlığı"
+  },
+  {
+    "query": "Carouge 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Carouge"
+  },
+  {
+    "query": "Tolmezzo 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Tolmezzo"
+  },
+  {
+    "query": "Dünya Sağlık Örgütü 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Dünya Sağlık Örgütü"
+  },
+  {
+    "query": "Palau 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Palau"
+  },
+  {
+    "query": "Cork Kontluğu 'un resmi dili ",
+    "answer": "İrlandaca",
+    "sub": "Cork Kontluğu"
+  },
+  {
+    "query": "Azerbaycan Sovyet Sosyalist Cumhuriyeti 'un resmi dili ",
+    "answer": "Azerice",
+    "sub": "Azerbaycan Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Rovaniemi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Rovaniemi"
+  },
+  {
+    "query": "Vimpeli 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Vimpeli"
+  },
+  {
+    "query": "Niue 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Niue"
+  },
+  {
+    "query": "Eski Krallık 'un resmi dili ",
+    "answer": "Mısırca",
+    "sub": "Eski Krallık"
+  },
+  {
+    "query": "Fildişi Sahili 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Fildişi Sahili"
+  },
+  {
+    "query": "Honduras 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Honduras"
+  },
+  {
+    "query": "New Hampshire 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "New Hampshire"
+  },
+  {
+    "query": "Cayman Adaları 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Cayman Adaları"
+  },
+  {
+    "query": "Burundi 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Burundi"
+  },
+  {
+    "query": "Kirkkonummi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kirkkonummi"
+  },
+  {
+    "query": "Ikaalinen 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Ikaalinen"
+  },
+  {
+    "query": "Kamerun 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kamerun"
+  },
+  {
+    "query": "Alaska 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Alaska"
+  },
+  {
+    "query": "Isojoki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Isojoki"
+  },
+  {
+    "query": "Vatikan 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Vatikan"
+  },
+  {
+    "query": "Donetsk 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Donetsk"
+  },
+  {
+    "query": "Mozambik 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "Mozambik"
+  },
+  {
+    "query": "Doğu Timor 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "Doğu Timor"
+  },
+  {
+    "query": "Ağrotur ve Dikelya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Ağrotur ve Dikelya"
+  },
+  {
+    "query": "Britanya Antarktika Toprakları 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Britanya Antarktika Toprakları"
+  },
+  {
+    "query": "Lieksa 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Lieksa"
+  },
+  {
+    "query": "Rusya İmparatorluğu 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Rusya İmparatorluğu"
+  },
+  {
+    "query": "Nijerya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Nijerya"
+  },
+  {
+    "query": "Hollanda Krallığı 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Hollanda Krallığı"
+  },
+  {
+    "query": "Abhazya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Abhazya"
+  },
+  {
+    "query": "Viitasaari 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Viitasaari"
+  },
+  {
+    "query": "Mayorka 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Mayorka"
+  },
+  {
+    "query": "Portekiz 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "Portekiz"
+  },
+  {
+    "query": "Kalajoki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kalajoki"
+  },
+  {
+    "query": "İsveç ve Norveç Birliği 'un resmi dili ",
+    "answer": "Norveççe",
+    "sub": "İsveç ve Norveç Birliği"
+  },
+  {
+    "query": "Manitoba 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Manitoba"
+  },
+  {
+    "query": "Berg belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Berg belediyesi"
+  },
+  {
+    "query": "Avrupa Uzay Ajansı 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Avrupa Uzay Ajansı"
+  },
+  {
+    "query": "Malabo 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Malabo"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Laukaa 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Laukaa"
+  },
+  {
+    "query": "Kaavi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kaavi"
+  },
+  {
+    "query": "Sipoo 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Sipoo"
+  },
+  {
+    "query": "Mari El 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Mari El"
+  },
+  {
+    "query": "Helsinki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Helsinki"
+  },
+  {
+    "query": "Kuhmo 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kuhmo"
+  },
+  {
+    "query": "Katalonya 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Katalonya"
+  },
+  {
+    "query": "Rusya İmparatorluğu 'un resmi dili ",
+    "answer": "Lehçe",
+    "sub": "Rusya İmparatorluğu"
+  },
+  {
+    "query": "Chhattisgarh 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Chhattisgarh"
+  },
+  {
+    "query": "Heinola 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Heinola"
+  },
+  {
+    "query": "Kırım Özerk Cumhuriyeti 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Kırım Özerk Cumhuriyeti"
+  },
+  {
+    "query": "Seyşeller 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Seyşeller"
+  },
+  {
+    "query": "Navarra 'un resmi dili ",
+    "answer": "Baskça",
+    "sub": "Navarra"
+  },
+  {
+    "query": "İspanyol İmparatorluğu 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "İspanyol İmparatorluğu"
+  },
+  {
+    "query": "Haninge belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Haninge belediyesi"
+  },
+  {
+    "query": "Saskatchewan 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Saskatchewan"
+  },
+  {
+    "query": "Ukrayna Sovyet Sosyalist Cumhuriyeti 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Ukrayna Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Asturies 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Asturies"
+  },
+  {
+    "query": "Doğu Kalimantan 'un resmi dili ",
+    "answer": "Endonezce",
+    "sub": "Doğu Kalimantan"
+  },
+  {
+    "query": "Vietnam 'un resmi dili ",
+    "answer": "Vietnamca",
+    "sub": "Vietnam"
+  },
+  {
+    "query": "Kosova 'un resmi dili ",
+    "answer": "Arnavutça",
+    "sub": "Kosova"
+  },
+  {
+    "query": "Eupen 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Eupen"
+  },
+  {
+    "query": "Valkeakoski 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Valkeakoski"
+  },
+  {
+    "query": "Utsjoki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Utsjoki"
+  },
+  {
+    "query": "Dünya Ticaret Örgütü 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Dünya Ticaret Örgütü"
+  },
+  {
+    "query": "Krayina Sırp Cumhuriyeti 'un resmi dili ",
+    "answer": "Sırpça",
+    "sub": "Krayina Sırp Cumhuriyeti"
+  },
+  {
+    "query": "Fin Ortodoks Kilisesi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Fin Ortodoks Kilisesi"
+  },
+  {
+    "query": "Lappeenranta 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Lappeenranta"
+  },
+  {
+    "query": "Ekvador 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Ekvador"
+  },
+  {
+    "query": "Luhansk Oblastı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Luhansk Oblastı"
+  },
+  {
+    "query": "Haydarabad, Hindistan 'un resmi dili ",
+    "answer": "Teluguca",
+    "sub": "Haydarabad, Hindistan"
+  },
+  {
+    "query": "Birleşmiş Milletler 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Birleşmiş Milletler"
+  },
+  {
+    "query": "Jersey 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Jersey"
+  },
+  {
+    "query": "Qing Hanedanı 'un resmi dili ",
+    "answer": "Moğolca",
+    "sub": "Qing Hanedanı"
+  },
+  {
+    "query": "Guyana 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Guyana"
+  },
+  {
+    "query": "Avusturya 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Avusturya"
+  },
+  {
+    "query": "Singapur 'un resmi dili ",
+    "answer": "Malayca",
+    "sub": "Singapur"
+  },
+  {
+    "query": "Hailuoto 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Hailuoto"
+  },
+  {
+    "query": "Türkiye 'un resmi dili ",
+    "answer": "Türkçe",
+    "sub": "Türkiye"
+  },
+  {
+    "query": "Şili 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Şili"
+  },
+  {
+    "query": "Hyrynsalmi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Hyrynsalmi"
+  },
+  {
+    "query": "Sint Maarten 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Sint Maarten"
+  },
+  {
+    "query": "ISO 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "ISO"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Brüksel Başkent Bölgesi 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Brüksel Başkent Bölgesi"
+  },
+  {
+    "query": "Valais 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Valais"
+  },
+  {
+    "query": "Delhi 'un resmi dili ",
+    "answer": "Urduca",
+    "sub": "Delhi"
+  },
+  {
+    "query": "İsveç İmparatorluğu 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "İsveç İmparatorluğu"
+  },
+  {
+    "query": "Raseborg 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Raseborg"
+  },
+  {
+    "query": "Slovak Sosyalist Cumhuriyeti 'un resmi dili ",
+    "answer": "Slovakça",
+    "sub": "Slovak Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Raseborg 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Raseborg"
+  },
+  {
+    "query": "Güney Dakota 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Güney Dakota"
+  },
+  {
+    "query": "Alabama 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Alabama"
+  },
+  {
+    "query": "Kainat Güzellik Yarışması 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kainat Güzellik Yarışması"
+  },
+  {
+    "query": "Kaliforniya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kaliforniya"
+  },
+  {
+    "query": "Pasifik İttifakı 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Pasifik İttifakı"
+  },
+  {
+    "query": "Laitila 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Laitila"
+  },
+  {
+    "query": "İsviçre 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "İsviçre"
+  },
+  {
+    "query": "Tuva Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Tuva Cumhuriyeti"
+  },
+  {
+    "query": "Rusya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Rusya"
+  },
+  {
+    "query": "Sambir 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Sambir"
+  },
+  {
+    "query": "Yukon 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Yukon"
+  },
+  {
+    "query": "Liperi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Liperi"
+  },
+  {
+    "query": "Burkina Faso 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Burkina Faso"
+  },
+  {
+    "query": "Jersey 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Jersey"
+  },
+  {
+    "query": "Rusya 'un resmi dili ",
+    "answer": "Azerice",
+    "sub": "Rusya"
+  },
+  {
+    "query": "Rusya 'un resmi dili ",
+    "answer": "mari dili",
+    "sub": "Rusya"
+  },
+  {
+    "query": "Nunavut 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Nunavut"
+  },
+  {
+    "query": "Nousiainen 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Nousiainen"
+  },
+  {
+    "query": "Kotka 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kotka"
+  },
+  {
+    "query": "İtalya 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "İtalya"
+  },
+  {
+    "query": "Wetzikon 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Wetzikon"
+  },
+  {
+    "query": "Qing Hanedanı 'un resmi dili ",
+    "answer": "Çince",
+    "sub": "Qing Hanedanı"
+  },
+  {
+    "query": "Kuzey Karolina 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kuzey Karolina"
+  },
+  {
+    "query": "Savukoski 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Savukoski"
+  },
+  {
+    "query": "Karvia 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Karvia"
+  },
+  {
+    "query": "Filipinler 'un resmi dili ",
+    "answer": "Filipince",
+    "sub": "Filipinler"
+  },
+  {
+    "query": "Lohja 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Lohja"
+  },
+  {
+    "query": "Filipinler 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Filipinler"
+  },
+  {
+    "query": "İsveç 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "İsveç"
+  },
+  {
+    "query": "Idaho 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Idaho"
+  },
+  {
+    "query": "Maharaştra 'un resmi dili ",
+    "answer": "marathi",
+    "sub": "Maharaştra"
+  },
+  {
+    "query": "Buryatya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Buryatya"
+  },
+  {
+    "query": "Nijer 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Nijer"
+  },
+  {
+    "query": "Solna Belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Solna Belediyesi"
+  },
+  {
+    "query": "Lucknow 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "Rusya Sovyet Federatif Sosyalist Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Rusya Sovyet Federatif Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Kosova ve Metohiya Özerk Bölgesi 'un resmi dili ",
+    "answer": "Arnavutça",
+    "sub": "Kosova ve Metohiya Özerk Bölgesi"
+  },
+  {
+    "query": "Hammarland 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Hammarland"
+  },
+  {
+    "query": "Vaala 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Vaala"
+  },
+  {
+    "query": "Jakobstad 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Jakobstad"
+  },
+  {
+    "query": "Birleşik Krallık Filistin Mandası 'un resmi dili ",
+    "answer": "İbranice",
+    "sub": "Birleşik Krallık Filistin Mandası"
+  },
+  {
+    "query": "ASEAN 'un resmi dili ",
+    "answer": "Endonezce",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "Sırbistan-Karadağ 'un resmi dili ",
+    "answer": "Sırpça",
+    "sub": "Sırbistan-Karadağ"
+  },
+  {
+    "query": "ISO 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "ISO"
+  },
+  {
+    "query": "Hırvatistan 'un resmi dili ",
+    "answer": "Hırvatça",
+    "sub": "Hırvatistan"
+  },
+  {
+    "query": "Meşhed 'un resmi dili ",
+    "answer": "Farsça",
+    "sub": "Meşhed"
+  },
+  {
+    "query": "Amerikan Samoası 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Amerikan Samoası"
+  },
+  {
+    "query": "Kauniainen 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Kauniainen"
+  },
+  {
+    "query": "Çek Cumhuriyeti 'un resmi dili ",
+    "answer": "Çekçe",
+    "sub": "Çek Cumhuriyeti"
+  },
+  {
+    "query": "Saint Lucia 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Saint Lucia"
+  },
+  {
+    "query": "Kuzey Amerika Ülkeleri Serbest Ticaret Anlaşması 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Kuzey Amerika Ülkeleri Serbest Ticaret Anlaşması"
+  },
+  {
+    "query": "Lihtenştayn 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Lihtenştayn"
+  },
+  {
+    "query": "Virolahti 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Virolahti"
+  },
+  {
+    "query": "Uganda 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Uganda"
+  },
+  {
+    "query": "Adıge Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Adıge Cumhuriyeti"
+  },
+  {
+    "query": "Çuvaşistan 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Çuvaşistan"
+  },
+  {
+    "query": "Seyşeller 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Seyşeller"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Çekçe",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Eritre 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Eritre"
+  },
+  {
+    "query": "Mauritius 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Litvanca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Kuzey Osetya-Alanya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Kuzey Osetya-Alanya"
+  },
+  {
+    "query": "La Gomera 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "La Gomera"
+  },
+  {
+    "query": "Bourbon İspanyası 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Bourbon İspanyası"
+  },
+  {
+    "query": "Fransa 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Fransa"
+  },
+  {
+    "query": "Kerala 'un resmi dili ",
+    "answer": "Malayalam",
+    "sub": "Kerala"
+  },
+  {
+    "query": "Kamerun 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Kamerun"
+  },
+  {
+    "query": "Québec 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Québec"
+  },
+  {
+    "query": "Valensiya 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Valensiya"
+  },
+  {
+    "query": "Tayland 'un resmi dili ",
+    "answer": "Tayca",
+    "sub": "Tayland"
+  },
+  {
+    "query": "Asikkala 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Asikkala"
+  },
+  {
+    "query": "Ravenna Eksarhlığı 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Ravenna Eksarhlığı"
+  },
+  {
+    "query": "Avrupa Güvenlik ve İşbirliği Teşkilatı 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Avrupa Güvenlik ve İşbirliği Teşkilatı"
+  },
+  {
+    "query": "Demokratik Kongo Cumhuriyeti 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Demokratik Kongo Cumhuriyeti"
+  },
+  {
+    "query": "Macaristan 'un resmi dili ",
+    "answer": "Macarca",
+    "sub": "Macaristan"
+  },
+  {
+    "query": "Izabel Departmanı 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Izabel Departmanı"
+  },
+  {
+    "query": "Savonlinna 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Savonlinna"
+  },
+  {
+    "query": "Donetsk Halk Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Donetsk Halk Cumhuriyeti"
+  },
+  {
+    "query": "Vanuatu 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Vanuatu"
+  },
+  {
+    "query": "Estonya 'un resmi dili ",
+    "answer": "Estonca",
+    "sub": "Estonya"
+  },
+  {
+    "query": "Kentucky 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kentucky"
+  },
+  {
+    "query": "Orivesi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Orivesi"
+  },
+  {
+    "query": "Paltamo 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Paltamo"
+  },
+  {
+    "query": "Lucknow 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Lucknow"
+  },
+  {
+    "query": "Bali 'un resmi dili ",
+    "answer": "Endonezce",
+    "sub": "Bali"
+  },
+  {
+    "query": "Kuzey Dakota 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kuzey Dakota"
+  },
+  {
+    "query": "İspanya 'un resmi dili ",
+    "answer": "Baskça",
+    "sub": "İspanya"
+  },
+  {
+    "query": "Malta 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Malta"
+  },
+  {
+    "query": "Kalmukya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Kalmukya"
+  },
+  {
+    "query": "Teuva 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Teuva"
+  },
+  {
+    "query": "Fribourg Kantonu 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Fribourg Kantonu"
+  },
+  {
+    "query": "Kuzeybatı Toprakları 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kuzeybatı Toprakları"
+  },
+  {
+    "query": "Akaa 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Akaa"
+  },
+  {
+    "query": "New Brunswick 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "New Brunswick"
+  },
+  {
+    "query": "Galler 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Galler"
+  },
+  {
+    "query": "Hamina 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Hamina"
+  },
+  {
+    "query": "Komorlar 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Komorlar"
+  },
+  {
+    "query": "İsveç 'un resmi dili ",
+    "answer": "Romanca",
+    "sub": "İsveç"
+  },
+  {
+    "query": "Sicilya Krallığı 'un resmi dili ",
+    "answer": "Yunanca",
+    "sub": "Sicilya Krallığı"
+  },
+  {
+    "query": "Dünya Sağlık Örgütü 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Dünya Sağlık Örgütü"
+  },
+  {
+    "query": "Fribourg Kantonu 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Fribourg Kantonu"
+  },
+  {
+    "query": "Uluslararası Sivil Havacılık Örgütü 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Uluslararası Sivil Havacılık Örgütü"
+  },
+  {
+    "query": "Kannonkoski 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kannonkoski"
+  },
+  {
+    "query": "Birleşmiş Milletler 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Birleşmiş Milletler"
+  },
+  {
+    "query": "Roma İmparatorluğu 'un resmi dili ",
+    "answer": "Yunanca",
+    "sub": "Roma İmparatorluğu"
+  },
+  {
+    "query": "Indore 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Indore"
+  },
+  {
+    "query": "Cebelitarık 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Cebelitarık"
+  },
+  {
+    "query": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti 'un resmi dili ",
+    "answer": "Lehçe",
+    "sub": "Beyaz Rusya Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "İspanya 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "İspanya"
+  },
+  {
+    "query": "Torfaen 'un resmi dili ",
+    "answer": "Galce",
+    "sub": "Torfaen"
+  },
+  {
+    "query": "Tamil Nadu 'un resmi dili ",
+    "answer": "Tamilce",
+    "sub": "Tamil Nadu"
+  },
+  {
+    "query": "Altay Krayı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Altay Krayı"
+  },
+  {
+    "query": "Mendrisio 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Mendrisio"
+  },
+  {
+    "query": "Lüksemburg 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Lüksemburg"
+  },
+  {
+    "query": "Açe 'un resmi dili ",
+    "answer": "Endonezce",
+    "sub": "Açe"
+  },
+  {
+    "query": "El Salvador 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "El Salvador"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Birleşik Krallık 'un resmi dili ",
+    "answer": "Galce",
+    "sub": "Birleşik Krallık"
+  },
+  {
+    "query": "Torfaen 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Torfaen"
+  },
+  {
+    "query": "Jambi 'un resmi dili ",
+    "answer": "Endonezce",
+    "sub": "Jambi"
+  },
+  {
+    "query": "Danimarka 'un resmi dili ",
+    "answer": "Danca",
+    "sub": "Danimarka"
+  },
+  {
+    "query": "ISO 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "ISO"
+  },
+  {
+    "query": "Kolari 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kolari"
+  },
+  {
+    "query": "Kanada 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Kanada"
+  },
+  {
+    "query": "Cork Kontluğu 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Cork Kontluğu"
+  },
+  {
+    "query": "San Marino 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "San Marino"
+  },
+  {
+    "query": "Pakistan 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "Azerbaycan Demokratik Cumhuriyeti 'un resmi dili ",
+    "answer": "Azerice",
+    "sub": "Azerbaycan Demokratik Cumhuriyeti"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Guernsey 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Guernsey"
+  },
+  {
+    "query": "Merikarvia 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Merikarvia"
+  },
+  {
+    "query": "Avrupa Güvenlik ve İşbirliği Teşkilatı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Avrupa Güvenlik ve İşbirliği Teşkilatı"
+  },
+  {
+    "query": "Dietikon 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Dietikon"
+  },
+  {
+    "query": "Birinci Çekoslovak Cumhuriyeti 'un resmi dili ",
+    "answer": "Slovakça",
+    "sub": "Birinci Çekoslovak Cumhuriyeti"
+  },
+  {
+    "query": "Venedik Cumhuriyeti 'un resmi dili ",
+    "answer": "Venedikçe",
+    "sub": "Venedik Cumhuriyeti"
+  },
+  {
+    "query": "Dominika 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Dominika"
+  },
+  {
+    "query": "Dünya Atletizm Birliği 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Dünya Atletizm Birliği"
+  },
+  {
+    "query": "Tavolara Krallığı 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Tavolara Krallığı"
+  },
+  {
+    "query": "Uluslararası Atom Enerjisi Kurumu 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Uluslararası Atom Enerjisi Kurumu"
+  },
+  {
+    "query": "Guatemala 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Guatemala"
+  },
+  {
+    "query": "Beyaz Rusya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Beyaz Rusya"
+  },
+  {
+    "query": "Güney Karolina 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Güney Karolina"
+  },
+  {
+    "query": "Saint Vincent ve Grenadinler 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Saint Vincent ve Grenadinler"
+  },
+  {
+    "query": "Aigle 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Aigle"
+  },
+  {
+    "query": "Mauritius 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "Timur İmparatorluğu 'un resmi dili ",
+    "answer": "Farsça",
+    "sub": "Timur İmparatorluğu"
+  },
+  {
+    "query": "Nikaragua 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Nikaragua"
+  },
+  {
+    "query": "Cebu 'un resmi dili ",
+    "answer": "Filipince",
+    "sub": "Cebu"
+  },
+  {
+    "query": "Sırbistan 'un resmi dili ",
+    "answer": "Sırpça",
+    "sub": "Sırbistan"
+  },
+  {
+    "query": "Prusya 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Prusya"
+  },
+  {
+    "query": "Ulvila 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Ulvila"
+  },
+  {
+    "query": "Faroe Adaları 'un resmi dili ",
+    "answer": "Danca",
+    "sub": "Faroe Adaları"
+  },
+  {
+    "query": "İzlanda 'un resmi dili ",
+    "answer": "İzlandaca",
+    "sub": "İzlanda"
+  },
+  {
+    "query": "Karadağ 'un resmi dili ",
+    "answer": "Karadağca",
+    "sub": "Karadağ"
+  },
+  {
+    "query": "Lemland 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Lemland"
+  },
+  {
+    "query": "Stockholm belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Stockholm belediyesi"
+  },
+  {
+    "query": "Korsholm 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Korsholm"
+  },
+  {
+    "query": "Karkkila 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Karkkila"
+  },
+  {
+    "query": "Vichy Fransası 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Vichy Fransası"
+  },
+  {
+    "query": "Somero 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Somero"
+  },
+  {
+    "query": "Melitopol 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Melitopol"
+  },
+  {
+    "query": "Muonio 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Muonio"
+  },
+  {
+    "query": "Hankasalmi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Hankasalmi"
+  },
+  {
+    "query": "Ilmajoki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Ilmajoki"
+  },
+  {
+    "query": "Luzern 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Luzern"
+  },
+  {
+    "query": "Sırp Ortodoks Kilisesi 'un resmi dili ",
+    "answer": "Sırpça",
+    "sub": "Sırp Ortodoks Kilisesi"
+  },
+  {
+    "query": "Hong Kong 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Hong Kong"
+  },
+  {
+    "query": "Lehendakari 'un resmi dili ",
+    "answer": "Baskça",
+    "sub": "Lehendakari"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Rumence",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Liestal 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Liestal"
+  },
+  {
+    "query": "Sui Hanedanı 'un resmi dili ",
+    "answer": "Çince",
+    "sub": "Sui Hanedanı"
+  },
+  {
+    "query": "Haydarabad, Hindistan 'un resmi dili ",
+    "answer": "Urduca",
+    "sub": "Haydarabad, Hindistan"
+  },
+  {
+    "query": "Demokratik Kampuçya 'un resmi dili ",
+    "answer": "Khmerce",
+    "sub": "Demokratik Kampuçya"
+  },
+  {
+    "query": "Güney Osetya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Güney Osetya"
+  },
+  {
+    "query": "Aracena 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Aracena"
+  },
+  {
+    "query": "New Jersey 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "New Jersey"
+  },
+  {
+    "query": "Namibya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Namibya"
+  },
+  {
+    "query": "Hollanda Antilleri 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Hollanda Antilleri"
+  },
+  {
+    "query": "Batı Afrika Ülkeleri Ekonomik Topluluğu 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Batı Afrika Ülkeleri Ekonomik Topluluğu"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Slovakça",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Bangladeş 'un resmi dili ",
+    "answer": "bengalce",
+    "sub": "Bangladeş"
+  },
+  {
+    "query": "Merkez Visayas 'un resmi dili ",
+    "answer": "Filipince",
+    "sub": "Merkez Visayas"
+  },
+  {
+    "query": "Ranua 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Ranua"
+  },
+  {
+    "query": "Andorra 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "Andorra"
+  },
+  {
+    "query": "Trinidad ve Tobago 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Trinidad ve Tobago"
+  },
+  {
+    "query": "Birleşik Krallık 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Birleşik Krallık"
+  },
+  {
+    "query": "Kamçatka Krayı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Kamçatka Krayı"
+  },
+  {
+    "query": "Almanya 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Almanya"
+  },
+  {
+    "query": "Lozan 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Lozan"
+  },
+  {
+    "query": "Botsvana 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Botsvana"
+  },
+  {
+    "query": "Iitti 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Iitti"
+  },
+  {
+    "query": "Sint Maarten 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Sint Maarten"
+  },
+  {
+    "query": "Stavropol Krayı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Stavropol Krayı"
+  },
+  {
+    "query": "Orta Afrika Cumhuriyeti 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Orta Afrika Cumhuriyeti"
+  },
+  {
+    "query": "Asturias Krallığı 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Asturias Krallığı"
+  },
+  {
+    "query": "Gagavuzya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Gagavuzya"
+  },
+  {
+    "query": "NATO 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "NATO"
+  },
+  {
+    "query": "Tolyatti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Tolyatti"
+  },
+  {
+    "query": "Mercia 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Mercia"
+  },
+  {
+    "query": "Utah 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Utah"
+  },
+  {
+    "query": "Transvaal Cumhuriyeti 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Transvaal Cumhuriyeti"
+  },
+  {
+    "query": "Dundee 'un resmi dili ",
+    "answer": "İskoçça",
+    "sub": "Dundee"
+  },
+  {
+    "query": "Kouvola 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kouvola"
+  },
+  {
+    "query": "Birleşik Krallık Filistin Mandası 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Birleşik Krallık Filistin Mandası"
+  },
+  {
+    "query": "Janakkala 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Janakkala"
+  },
+  {
+    "query": "Krasnodar Krayı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Krasnodar Krayı"
+  },
+  {
+    "query": "Şahunya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Şahunya"
+  },
+  {
+    "query": "Togo 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Togo"
+  },
+  {
+    "query": "Basel-Landschaft 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Basel-Landschaft"
+  },
+  {
+    "query": "Zambiya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Zambiya"
+  },
+  {
+    "query": "Liberya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Liberya"
+  },
+  {
+    "query": "Prens Edward Adası 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Prens Edward Adası"
+  },
+  {
+    "query": "Kosova 'un resmi dili ",
+    "answer": "Sırpça",
+    "sub": "Kosova"
+  },
+  {
+    "query": "Mıkolayiv Oblastı 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Mıkolayiv Oblastı"
+  },
+  {
+    "query": "Kudüs Krallığı 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Kudüs Krallığı"
+  },
+  {
+    "query": "Malavi 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Malavi"
+  },
+  {
+    "query": "Filistin toprakları 'un resmi dili ",
+    "answer": "İbranice",
+    "sub": "Filistin toprakları"
+  },
+  {
+    "query": "Haukipudas 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Haukipudas"
+  },
+  {
+    "query": "Turku 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Turku"
+  },
+  {
+    "query": "Uluslararası Olimpiyat Komitesi 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Uluslararası Olimpiyat Komitesi"
+  },
+  {
+    "query": "Arvidsjaur belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Arvidsjaur belediyesi"
+  },
+  {
+    "query": "Angola 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "Angola"
+  },
+  {
+    "query": "Turku 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Turku"
+  },
+  {
+    "query": "Cemşidpur 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Cemşidpur"
+  },
+  {
+    "query": "Azad Keşmir 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Azad Keşmir"
+  },
+  {
+    "query": "Bermuda 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Bermuda"
+  },
+  {
+    "query": "Formentera 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "Formentera"
+  },
+  {
+    "query": "Bonaire 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Bonaire"
+  },
+  {
+    "query": "Sudan 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Sudan"
+  },
+  {
+    "query": "Sovyet Sosyalist Cumhuriyetler Birliği 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Sovyet Sosyalist Cumhuriyetler Birliği"
+  },
+  {
+    "query": "Saskatchewan 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Saskatchewan"
+  },
+  {
+    "query": "Aruba 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Aruba"
+  },
+  {
+    "query": "Montserrat 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Montserrat"
+  },
+  {
+    "query": "Somali 'un resmi dili ",
+    "answer": "Somalice",
+    "sub": "Somali"
+  },
+  {
+    "query": "Hirvensalmi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Hirvensalmi"
+  },
+  {
+    "query": "Avrupa Güvenlik ve İşbirliği Teşkilatı 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Avrupa Güvenlik ve İşbirliği Teşkilatı"
+  },
+  {
+    "query": "Oulainen 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Oulainen"
+  },
+  {
+    "query": "Kosova ve Metohiya Özerk Bölgesi 'un resmi dili ",
+    "answer": "Sırpça",
+    "sub": "Kosova ve Metohiya Özerk Bölgesi"
+  },
+  {
+    "query": "Karaçay-Çerkesya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Karaçay-Çerkesya"
+  },
+  {
+    "query": "Helsinki 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Helsinki"
+  },
+  {
+    "query": "Avrupa Uzay Ajansı 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Avrupa Uzay Ajansı"
+  },
+  {
+    "query": "Kokkola 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Kokkola"
+  },
+  {
+    "query": "Morges 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Morges"
+  },
+  {
+    "query": "Arizona 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Arizona"
+  },
+  {
+    "query": "Kazvin Eyaleti 'un resmi dili ",
+    "answer": "Azerice",
+    "sub": "Kazvin Eyaleti"
+  },
+  {
+    "query": "Moğolistan 'un resmi dili ",
+    "answer": "Moğolca",
+    "sub": "Moğolistan"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Letonca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Sierra Leone 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Sierra Leone"
+  },
+  {
+    "query": "İbiza 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "İbiza"
+  },
+  {
+    "query": "Paraguay 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Paraguay"
+  },
+  {
+    "query": "Başkurdistan 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Başkurdistan"
+  },
+  {
+    "query": "Endonezya 'un resmi dili ",
+    "answer": "Endonezce",
+    "sub": "Endonezya"
+  },
+  {
+    "query": "Siuntio 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Siuntio"
+  },
+  {
+    "query": "Cebu 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Cebu"
+  },
+  {
+    "query": "Monako 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Monako"
+  },
+  {
+    "query": "Zabaykalskiy Krayı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Zabaykalskiy Krayı"
+  },
+  {
+    "query": "Kuzey Mariana Adaları 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kuzey Mariana Adaları"
+  },
+  {
+    "query": "Azerbaycan 'un resmi dili ",
+    "answer": "Azerice",
+    "sub": "Azerbaycan"
+  },
+  {
+    "query": "Vaud 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Vaud"
+  },
+  {
+    "query": "Singapur 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Singapur"
+  },
+  {
+    "query": "OECD 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "OECD"
+  },
+  {
+    "query": "Keuruu 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Keuruu"
+  },
+  {
+    "query": "Yverdon-les-Bains 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Yverdon-les-Bains"
+  },
+  {
+    "query": "Bern 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Bern"
+  },
+  {
+    "query": "Chennai 'un resmi dili ",
+    "answer": "Tamilce",
+    "sub": "Chennai"
+  },
+  {
+    "query": "Fiji 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Fiji"
+  },
+  {
+    "query": "Hindistan 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Hindistan"
+  },
+  {
+    "query": "Kanada 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kanada"
+  },
+  {
+    "query": "Moğolistan Halk Cumhuriyeti 'un resmi dili ",
+    "answer": "Moğolca",
+    "sub": "Moğolistan Halk Cumhuriyeti"
+  },
+  {
+    "query": "Birleşmiş Milletler 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Birleşmiş Milletler"
+  },
+  {
+    "query": "Burundi 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Burundi"
+  },
+  {
+    "query": "Thiruvananthapuram 'un resmi dili ",
+    "answer": "Malayalam",
+    "sub": "Thiruvananthapuram"
+  },
+  {
+    "query": "Uluslararası Olimpiyat Komitesi 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Uluslararası Olimpiyat Komitesi"
+  },
+  {
+    "query": "Zaire 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Zaire"
+  },
+  {
+    "query": "Kuzey İrlanda 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Kuzey İrlanda"
+  },
+  {
+    "query": "Mali 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Mali"
+  },
+  {
+    "query": "Saint Kitts ve Nevis 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Saint Kitts ve Nevis"
+  },
+  {
+    "query": "Formentera 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Formentera"
+  },
+  {
+    "query": "Merkez Visayas 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Merkez Visayas"
+  },
+  {
+    "query": "Saba 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Saba"
+  },
+  {
+    "query": "Odessa Oblastı 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Odessa Oblastı"
+  },
+  {
+    "query": "Tuusula 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Tuusula"
+  },
+  {
+    "query": "Lüksemburg 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Lüksemburg"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Danca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Jura 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Jura"
+  },
+  {
+    "query": "Lampung 'un resmi dili ",
+    "answer": "Endonezce",
+    "sub": "Lampung"
+  },
+  {
+    "query": "Arnavutluk 'un resmi dili ",
+    "answer": "Arnavutça",
+    "sub": "Arnavutluk"
+  },
+  {
+    "query": "Ilomantsi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Ilomantsi"
+  },
+  {
+    "query": "Iisalmi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Iisalmi"
+  },
+  {
+    "query": "Nokia 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Nokia"
+  },
+  {
+    "query": "Kristinestad 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Kristinestad"
+  },
+  {
+    "query": "Kıbrıs Cumhuriyeti 'un resmi dili ",
+    "answer": "Türkçe",
+    "sub": "Kıbrıs Cumhuriyeti"
+  },
+  {
+    "query": "Letonya 'un resmi dili ",
+    "answer": "Letonca",
+    "sub": "Letonya"
+  },
+  {
+    "query": "MERCOSUR 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "MERCOSUR"
+  },
+  {
+    "query": "Dağıstan 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Dağıstan"
+  },
+  {
+    "query": "Bağımsız Devletler Topluluğu 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Bağımsız Devletler Topluluğu"
+  },
+  {
+    "query": "NATO 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "NATO"
+  },
+  {
+    "query": "Kudüs Krallığı 'un resmi dili ",
+    "answer": "Yunanca",
+    "sub": "Kudüs Krallığı"
+  },
+  {
+    "query": "Saint Pierre ve Miquelon 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Saint Pierre ve Miquelon"
+  },
+  {
+    "query": "Bhopal 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Bhopal"
+  },
+  {
+    "query": "Ermenistan 'un resmi dili ",
+    "answer": "Ermenice",
+    "sub": "Ermenistan"
+  },
+  {
+    "query": "Batı Kap 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Batı Kap"
+  },
+  {
+    "query": "Bulgaristan Krallığı 'un resmi dili ",
+    "answer": "Bulgarca",
+    "sub": "Bulgaristan Krallığı"
+  },
+  {
+    "query": "Gabon 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Gabon"
+  },
+  {
+    "query": "Porto Riko 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Porto Riko"
+  },
+  {
+    "query": "Porto Riko 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Porto Riko"
+  },
+  {
+    "query": "Thrissur 'un resmi dili ",
+    "answer": "Malayalam",
+    "sub": "Thrissur"
+  },
+  {
+    "query": "Bulgar Ortodoks Kilisesi 'un resmi dili ",
+    "answer": "Bulgarca",
+    "sub": "Bulgar Ortodoks Kilisesi"
+  },
+  {
+    "query": "Tuvalu 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Tuvalu"
+  },
+  {
+    "query": "Iowa 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Iowa"
+  },
+  {
+    "query": "İsveç 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "İsveç"
+  },
+  {
+    "query": "Gürcü Ortodoks ve Elçisel Kilise 'un resmi dili ",
+    "answer": "Gürcüce",
+    "sub": "Gürcü Ortodoks ve Elçisel Kilise"
+  },
+  {
+    "query": "Aragon 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "Aragon"
+  },
+  {
+    "query": "Guam 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Guam"
+  },
+  {
+    "query": "Kırım Özerk Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Kırım Özerk Cumhuriyeti"
+  },
+  {
+    "query": "Benin 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Benin"
+  },
+  {
+    "query": "Florida 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Florida"
+  },
+  {
+    "query": "Virjinya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Virjinya"
+  },
+  {
+    "query": "Joensuu 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Joensuu"
+  },
+  {
+    "query": "Uppsala belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Uppsala belediyesi"
+  },
+  {
+    "query": "Antigua ve Barbuda 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Antigua ve Barbuda"
+  },
+  {
+    "query": "ASEAN 'un resmi dili ",
+    "answer": "Çince",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "Belçika 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Belçika"
+  },
+  {
+    "query": "Suomussalmi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Suomussalmi"
+  },
+  {
+    "query": "Hırvatistan Bağımsız Devleti 'un resmi dili ",
+    "answer": "Hırvatça",
+    "sub": "Hırvatistan Bağımsız Devleti"
+  },
+  {
+    "query": "Katalonya 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "Katalonya"
+  },
+  {
+    "query": "Petrozavodsk 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Petrozavodsk"
+  },
+  {
+    "query": "Hanko 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Hanko"
+  },
+  {
+    "query": "Çukotka Özerk Okrugu 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Çukotka Özerk Okrugu"
+  },
+  {
+    "query": "Pays de la Loire 'un resmi dili ",
+    "answer": "Bretonca",
+    "sub": "Pays de la Loire"
+  },
+  {
+    "query": "Ruokolahti 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Ruokolahti"
+  },
+  {
+    "query": "Dundee 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Dundee"
+  },
+  {
+    "query": "Upplands-Bro belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Upplands-Bro belediyesi"
+  },
+  {
+    "query": "Naantali 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Naantali"
+  },
+  {
+    "query": "Kurikka 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kurikka"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Maltaca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Lemi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Lemi"
+  },
+  {
+    "query": "Azerbaycan Sovyet Sosyalist Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Azerbaycan Sovyet Sosyalist Cumhuriyeti"
+  },
+  {
+    "query": "Norfolk Adası 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Norfolk Adası"
+  },
+  {
+    "query": "İskoçya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "İskoçya"
+  },
+  {
+    "query": "Küba 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Küba"
+  },
+  {
+    "query": "Biel/Bienne 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Biel/Bienne"
+  },
+  {
+    "query": "Mikronezya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Mikronezya"
+  },
+  {
+    "query": "Perm Krayı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Perm Krayı"
+  },
+  {
+    "query": "Polonya Kongre Krallığı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Polonya Kongre Krallığı"
+  },
+  {
+    "query": "Pomarkku 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Pomarkku"
+  },
+  {
+    "query": "Bulgaristan 'un resmi dili ",
+    "answer": "Bulgarca",
+    "sub": "Bulgaristan"
+  },
+  {
+    "query": "Amerika Birleşik Devletleri 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Amerika Birleşik Devletleri"
+  },
+  {
+    "query": "Raisio 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Raisio"
+  },
+  {
+    "query": "Payerne 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Payerne"
+  },
+  {
+    "query": "Illinois 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Illinois"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "İtalyanca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Arjeplog belediyesi 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Arjeplog belediyesi"
+  },
+  {
+    "query": "Kuzey Sumatra 'un resmi dili ",
+    "answer": "Endonezce",
+    "sub": "Kuzey Sumatra"
+  },
+  {
+    "query": "Eurajoki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Eurajoki"
+  },
+  {
+    "query": "Liminka 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Liminka"
+  },
+  {
+    "query": "ASEAN 'un resmi dili ",
+    "answer": "Tayca",
+    "sub": "ASEAN"
+  },
+  {
+    "query": "Britanya Hong Kongu 'un resmi dili ",
+    "answer": "Çince",
+    "sub": "Britanya Hong Kongu"
+  },
+  {
+    "query": "Floransa Cumhuriyeti 'un resmi dili ",
+    "answer": "Latince",
+    "sub": "Floransa Cumhuriyeti"
+  },
+  {
+    "query": "Tennessee 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Tennessee"
+  },
+  {
+    "query": "Uusikaupunki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Uusikaupunki"
+  },
+  {
+    "query": "Rusya İmparatorluğu 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Rusya İmparatorluğu"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Andhra Pradeş 'un resmi dili ",
+    "answer": "Teluguca",
+    "sub": "Andhra Pradeş"
+  },
+  {
+    "query": "Özgür Orange Devleti 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Özgür Orange Devleti"
+  },
+  {
+    "query": "Kaskinen 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Kaskinen"
+  },
+  {
+    "query": "Guernsey 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Guernsey"
+  },
+  {
+    "query": "Imatra 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Imatra"
+  },
+  {
+    "query": "Nakkila 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Nakkila"
+  },
+  {
+    "query": "Kanarya Adaları 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Kanarya Adaları"
+  },
+  {
+    "query": "Mordovya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Mordovya"
+  },
+  {
+    "query": "Makao 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "Makao"
+  },
+  {
+    "query": "Altay Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Altay Cumhuriyeti"
+  },
+  {
+    "query": "Kosta Rika 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Kosta Rika"
+  },
+  {
+    "query": "Saint Vincent ve Grenadinler 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Saint Vincent ve Grenadinler"
+  },
+  {
+    "query": "Paimio 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Paimio"
+  },
+  {
+    "query": "Kitee 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kitee"
+  },
+  {
+    "query": "Avrupa Birliği 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "Avrupa Birliği"
+  },
+  {
+    "query": "Uluslararası Ceza Mahkemesi 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Uluslararası Ceza Mahkemesi"
+  },
+  {
+    "query": "Pori 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Pori"
+  },
+  {
+    "query": "Minorka 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Minorka"
+  },
+  {
+    "query": "Karadağ 'un resmi dili ",
+    "answer": "Arnavutça",
+    "sub": "Karadağ"
+  },
+  {
+    "query": "Paris Komünü 'un resmi dili ",
+    "answer": "Fransızca",
+    "sub": "Paris Komünü"
+  },
+  {
+    "query": "Venezuela 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Venezuela"
+  },
+  {
+    "query": "Siikajoki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Siikajoki"
+  },
+  {
+    "query": "Marshall Adaları 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Marshall Adaları"
+  },
+  {
+    "query": "Karelya Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Karelya Cumhuriyeti"
+  },
+  {
+    "query": "Kiiminki 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kiiminki"
+  },
+  {
+    "query": "Hanko 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Hanko"
+  },
+  {
+    "query": "Snejinsk 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Snejinsk"
+  },
+  {
+    "query": "Valensiya 'un resmi dili ",
+    "answer": "Katalanca",
+    "sub": "Valensiya"
+  },
+  {
+    "query": "Slovakya 'un resmi dili ",
+    "answer": "Slovakça",
+    "sub": "Slovakya"
+  },
+  {
+    "query": "Haryana 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Haryana"
+  },
+  {
+    "query": "Humppila 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Humppila"
+  },
+  {
+    "query": "Güney Kore 'un resmi dili ",
+    "answer": "Korece",
+    "sub": "Güney Kore"
+  },
+  {
+    "query": "Yeşil Burun Adaları 'un resmi dili ",
+    "answer": "Portekizce",
+    "sub": "Yeşil Burun Adaları"
+  },
+  {
+    "query": "Shimla 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Shimla"
+  },
+  {
+    "query": "Outokumpu 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Outokumpu"
+  },
+  {
+    "query": "Horasan Bölgesi 'un resmi dili ",
+    "answer": "Farsça",
+    "sub": "Horasan Bölgesi"
+  },
+  {
+    "query": "Birinci Çekoslovak Cumhuriyeti 'un resmi dili ",
+    "answer": "Çekçe",
+    "sub": "Birinci Çekoslovak Cumhuriyeti"
+  },
+  {
+    "query": "Karayip Hollandası 'un resmi dili ",
+    "answer": "Felemenkçe",
+    "sub": "Karayip Hollandası"
+  },
+  {
+    "query": "Kemi 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kemi"
+  },
+  {
+    "query": "Oklahoma 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Oklahoma"
+  },
+  {
+    "query": "Ukrayna 'un resmi dili ",
+    "answer": "Ukraynaca",
+    "sub": "Ukrayna"
+  },
+  {
+    "query": "Cook Adaları 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Cook Adaları"
+  },
+  {
+    "query": "UEFA 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "UEFA"
+  },
+  {
+    "query": "Kokkola 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kokkola"
+  },
+  {
+    "query": "Tanzanya 'un resmi dili ",
+    "answer": "İngilizce",
+    "sub": "Tanzanya"
+  },
+  {
+    "query": "Türkmenistan 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Türkmenistan"
+  },
+  {
+    "query": "Somaliland 'un resmi dili ",
+    "answer": "Somalice",
+    "sub": "Somaliland"
+  },
+  {
+    "query": "Sipoo 'un resmi dili ",
+    "answer": "İsveççe",
+    "sub": "Sipoo"
+  },
+  {
+    "query": "İsviçre 'un resmi dili ",
+    "answer": "Almanca",
+    "sub": "İsviçre"
+  },
+  {
+    "query": "Habarovsk Krayı 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Habarovsk Krayı"
+  },
+  {
+    "query": "Lahti 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Lahti"
+  },
+  {
+    "query": "Alicante 'un resmi dili ",
+    "answer": "İspanyolca",
+    "sub": "Alicante"
+  },
+  {
+    "query": "Parkano 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Parkano"
+  },
+  {
+    "query": "Kuhmoinen 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Kuhmoinen"
+  },
+  {
+    "query": "Beyaz Rusya 'un resmi dili ",
+    "answer": "Beyaz Rusça",
+    "sub": "Beyaz Rusya"
+  },
+  {
+    "query": "Uttar Pradeş 'un resmi dili ",
+    "answer": "Hintçe",
+    "sub": "Uttar Pradeş"
+  },
+  {
+    "query": "Korsholm 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Korsholm"
+  },
+  {
+    "query": "Lugansk Halk Cumhuriyeti 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "Lugansk Halk Cumhuriyeti"
+  },
+  {
+    "query": "Laos 'un resmi dili ",
+    "answer": "Laoca",
+    "sub": "Laos"
+  },
+  {
+    "query": "Masku 'un resmi dili ",
+    "answer": "Fince",
+    "sub": "Masku"
+  },
+  {
+    "query": "İnguşetya 'un resmi dili ",
+    "answer": "Rusça",
+    "sub": "İnguşetya"
+  }
+]

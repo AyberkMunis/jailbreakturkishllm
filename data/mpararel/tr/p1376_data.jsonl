@@ -1,0 +1,1142 @@
+[
+  {
+    "query": "Alberta'in başkenti ",
+    "answer": "Edmonton",
+    "sub": "Alberta"
+  },
+  {
+    "query": "Türkiye'in başkenti ",
+    "answer": "Ankara",
+    "sub": "Türkiye"
+  },
+  {
+    "query": "Hollanda'in başkenti ",
+    "answer": "Amsterdam",
+    "sub": "Hollanda"
+  },
+  {
+    "query": "Azerbaycan'in başkenti ",
+    "answer": "Bakü",
+    "sub": "Azerbaycan"
+  },
+  {
+    "query": "Mısır'in başkenti ",
+    "answer": "Kahire",
+    "sub": "Mısır"
+  },
+  {
+    "query": "Danimarka'in başkenti ",
+    "answer": "Kopenhag",
+    "sub": "Danimarka"
+  },
+  {
+    "query": "Katalonya'in başkenti ",
+    "answer": "Barselona",
+    "sub": "Katalonya"
+  },
+  {
+    "query": "Arjantin'in başkenti ",
+    "answer": "Buenos Aires",
+    "sub": "Arjantin"
+  },
+  {
+    "query": "Bavyera'in başkenti ",
+    "answer": "Münih",
+    "sub": "Bavyera"
+  },
+  {
+    "query": "Toskana'in başkenti ",
+    "answer": "Floransa",
+    "sub": "Toskana"
+  },
+  {
+    "query": "İtalya'in başkenti ",
+    "answer": "Roma",
+    "sub": "İtalya"
+  },
+  {
+    "query": "",
+    "answer": "Cezayir",
+    "sub": "Cezayir"
+  },
+  {
+    "query": "Libya'in başkenti ",
+    "answer": "Trablus",
+    "sub": "Libya"
+  },
+  {
+    "query": "",
+    "answer": "Anvers",
+    "sub": "Anvers"
+  },
+  {
+    "query": "Avustralya'in başkenti ",
+    "answer": "Canberra",
+    "sub": "Avustralya"
+  },
+  {
+    "query": "Namibya'in başkenti ",
+    "answer": "Windhoek",
+    "sub": "Namibya"
+  },
+  {
+    "query": "Girit'in başkenti ",
+    "answer": "Kandiye",
+    "sub": "Girit"
+  },
+  {
+    "query": "Irak'in başkenti ",
+    "answer": "Bağdat",
+    "sub": "Irak"
+  },
+  {
+    "query": "İskoçya'in başkenti ",
+    "answer": "Edinburgh",
+    "sub": "İskoçya"
+  },
+  {
+    "query": "Afganistan'in başkenti ",
+    "answer": "Kâbil",
+    "sub": "Afganistan"
+  },
+  {
+    "query": "Almanya'in başkenti ",
+    "answer": "Bonn",
+    "sub": "Almanya"
+  },
+  {
+    "query": "Almanya'in başkenti ",
+    "answer": "Berlin",
+    "sub": "Almanya"
+  },
+  {
+    "query": "Benin'in başkenti ",
+    "answer": "Porto-Novo",
+    "sub": "Benin"
+  },
+  {
+    "query": "Botsvana'in başkenti ",
+    "answer": "Gaborone",
+    "sub": "Botsvana"
+  },
+  {
+    "query": "Fransa'in başkenti ",
+    "answer": "Paris",
+    "sub": "Fransa"
+  },
+  {
+    "query": "Maharaştra'in başkenti ",
+    "answer": "Mumbai",
+    "sub": "Maharaştra"
+  },
+  {
+    "query": "Norveç'in başkenti ",
+    "answer": "Oslo",
+    "sub": "Norveç"
+  },
+  {
+    "query": "Yehuda Krallığı'in başkenti ",
+    "answer": "Kudüs",
+    "sub": "Yehuda Krallığı"
+  },
+  {
+    "query": "Kırgızistan'in başkenti ",
+    "answer": "Bişkek",
+    "sub": "Kırgızistan"
+  },
+  {
+    "query": "Romanya'in başkenti ",
+    "answer": "Bükreș",
+    "sub": "Romanya"
+  },
+  {
+    "query": "Victoria'in başkenti ",
+    "answer": "Melbourne",
+    "sub": "Victoria"
+  },
+  {
+    "query": "Çin Cumhuriyeti'in başkenti ",
+    "answer": "Pekin",
+    "sub": "Çin Cumhuriyeti"
+  },
+  {
+    "query": "Çin Cumhuriyeti'in başkenti ",
+    "answer": "Çongçing",
+    "sub": "Çin Cumhuriyeti"
+  },
+  {
+    "query": "Küba'in başkenti ",
+    "answer": "Havana",
+    "sub": "Küba"
+  },
+  {
+    "query": "Colorado'in başkenti ",
+    "answer": "Denver",
+    "sub": "Colorado"
+  },
+  {
+    "query": "Somali'in başkenti ",
+    "answer": "Mogadişu",
+    "sub": "Somali"
+  },
+  {
+    "query": "Galler'in başkenti ",
+    "answer": "Cardiff",
+    "sub": "Galler"
+  },
+  {
+    "query": "İrlanda'in başkenti ",
+    "answer": "Dublin",
+    "sub": "İrlanda"
+  },
+  {
+    "query": "",
+    "answer": "Tunus",
+    "sub": "Tunus"
+  },
+  {
+    "query": "Brezilya'in başkenti ",
+    "answer": "Rio de Janeiro",
+    "sub": "Brezilya"
+  },
+  {
+    "query": "Malta'in başkenti ",
+    "answer": "Valletta",
+    "sub": "Malta"
+  },
+  {
+    "query": "İngiltere'in başkenti ",
+    "answer": "Londra",
+    "sub": "İngiltere"
+  },
+  {
+    "query": "Fas'in başkenti ",
+    "answer": "Rabat",
+    "sub": "Fas"
+  },
+  {
+    "query": "Letonya'in başkenti ",
+    "answer": "Riga",
+    "sub": "Letonya"
+  },
+  {
+    "query": "Suriye'in başkenti ",
+    "answer": "Şam",
+    "sub": "Suriye"
+  },
+  {
+    "query": "Tanzanya'in başkenti ",
+    "answer": "Darüsselam",
+    "sub": "Tanzanya"
+  },
+  {
+    "query": "İngiltere Krallığı'in başkenti ",
+    "answer": "Londra",
+    "sub": "İngiltere Krallığı"
+  },
+  {
+    "query": "İsveç'in başkenti ",
+    "answer": "Stockholm",
+    "sub": "İsveç"
+  },
+  {
+    "query": "Finlandiya'in başkenti ",
+    "answer": "Helsinki",
+    "sub": "Finlandiya"
+  },
+  {
+    "query": "Bohemya'in başkenti ",
+    "answer": "Prag",
+    "sub": "Bohemya"
+  },
+  {
+    "query": "Indiana'in başkenti ",
+    "answer": "Indianapolis",
+    "sub": "Indiana"
+  },
+  {
+    "query": "İspanya'in başkenti ",
+    "answer": "Madrid",
+    "sub": "İspanya"
+  },
+  {
+    "query": "",
+    "answer": "Guatemala",
+    "sub": "Guatemala"
+  },
+  {
+    "query": "Polonya'in başkenti ",
+    "answer": "Varşova",
+    "sub": "Polonya"
+  },
+  {
+    "query": "Guangdong'in başkenti ",
+    "answer": "Guangzhou",
+    "sub": "Guangdong"
+  },
+  {
+    "query": "Saksonya'in başkenti ",
+    "answer": "Dresden",
+    "sub": "Saksonya"
+  },
+  {
+    "query": "Haiti'in başkenti ",
+    "answer": "Port-au-Prince",
+    "sub": "Haiti"
+  },
+  {
+    "query": "Yunanistan'in başkenti ",
+    "answer": "Atina",
+    "sub": "Yunanistan"
+  },
+  {
+    "query": "Tasmanya'in başkenti ",
+    "answer": "Hobart",
+    "sub": "Tasmanya"
+  },
+  {
+    "query": "Estonya'in başkenti ",
+    "answer": "Tallinn",
+    "sub": "Estonya"
+  },
+  {
+    "query": "Japonya'in başkenti ",
+    "answer": "Tokyo",
+    "sub": "Japonya"
+  },
+  {
+    "query": "Avusturya'in başkenti ",
+    "answer": "Viyana",
+    "sub": "Avusturya"
+  },
+  {
+    "query": "Slovenya'in başkenti ",
+    "answer": "Ljubljana",
+    "sub": "Slovenya"
+  },
+  {
+    "query": "İsrail'in başkenti ",
+    "answer": "Kudüs",
+    "sub": "İsrail"
+  },
+  {
+    "query": "Endonezya'in başkenti ",
+    "answer": "Cakarta",
+    "sub": "Endonezya"
+  },
+  {
+    "query": "Piyemonte'in başkenti ",
+    "answer": "Torino",
+    "sub": "Piyemonte"
+  },
+  {
+    "query": "Kenya'in başkenti ",
+    "answer": "Nairobi",
+    "sub": "Kenya"
+  },
+  {
+    "query": "Malezya'in başkenti ",
+    "answer": "Kuala Lumpur",
+    "sub": "Malezya"
+  },
+  {
+    "query": "Pakistan'in başkenti ",
+    "answer": "İslamabad",
+    "sub": "Pakistan"
+  },
+  {
+    "query": "Nepal'in başkenti ",
+    "answer": "Katmandu",
+    "sub": "Nepal"
+  },
+  {
+    "query": "Sudan'in başkenti ",
+    "answer": "Hartum",
+    "sub": "Sudan"
+  },
+  {
+    "query": "Litvanya'in başkenti ",
+    "answer": "Vilnius",
+    "sub": "Litvanya"
+  },
+  {
+    "query": "Lübnan'in başkenti ",
+    "answer": "Beyrut",
+    "sub": "Lübnan"
+  },
+  {
+    "query": "Portekiz'in başkenti ",
+    "answer": "Lizbon",
+    "sub": "Portekiz"
+  },
+  {
+    "query": "Angola'in başkenti ",
+    "answer": "Luanda",
+    "sub": "Angola"
+  },
+  {
+    "query": "Rusya'in başkenti ",
+    "answer": "Moskova",
+    "sub": "Rusya"
+  },
+  {
+    "query": "Manitoba'in başkenti ",
+    "answer": "Winnipeg",
+    "sub": "Manitoba"
+  },
+  {
+    "query": "Malavi'in başkenti ",
+    "answer": "Lilongwe",
+    "sub": "Malavi"
+  },
+  {
+    "query": "Meksika'in başkenti ",
+    "answer": "Meksiko",
+    "sub": "Meksika"
+  },
+  {
+    "query": "Mozambik'in başkenti ",
+    "answer": "Maputo",
+    "sub": "Mozambik"
+  },
+  {
+    "query": "Massachusetts'in başkenti ",
+    "answer": "Boston",
+    "sub": "Massachusetts"
+  },
+  {
+    "query": "Kanada'in başkenti ",
+    "answer": "Ottawa",
+    "sub": "Kanada"
+  },
+  {
+    "query": "Uruguay'in başkenti ",
+    "answer": "Montevideo",
+    "sub": "Uruguay"
+  },
+  {
+    "query": "Bahreyn'in başkenti ",
+    "answer": "Manama",
+    "sub": "Bahreyn"
+  },
+  {
+    "query": "Karnataka'in başkenti ",
+    "answer": "Bangalore",
+    "sub": "Karnataka"
+  },
+  {
+    "query": "Macaristan'in başkenti ",
+    "answer": "Budapeşte",
+    "sub": "Macaristan"
+  },
+  {
+    "query": "Honduras'in başkenti ",
+    "answer": "Tegucigalpa",
+    "sub": "Honduras"
+  },
+  {
+    "query": "Gucerat'in başkenti ",
+    "answer": "Gandhinagar",
+    "sub": "Gucerat"
+  },
+  {
+    "query": "Karadağ'in başkenti ",
+    "answer": "Podgorica",
+    "sub": "Karadağ"
+  },
+  {
+    "query": "Ontario'in başkenti ",
+    "answer": "Toronto",
+    "sub": "Ontario"
+  },
+  {
+    "query": "",
+    "answer": "Panama",
+    "sub": "Panama"
+  },
+  {
+    "query": "Senegal'in başkenti ",
+    "answer": "Dakar",
+    "sub": "Senegal"
+  },
+  {
+    "query": "Nijerya'in başkenti ",
+    "answer": "Lagos",
+    "sub": "Nijerya"
+  },
+  {
+    "query": "Tayland'in başkenti ",
+    "answer": "Bangkok",
+    "sub": "Tayland"
+  },
+  {
+    "query": "Şili'in başkenti ",
+    "answer": "Santiago",
+    "sub": "Şili"
+  },
+  {
+    "query": "Hindistan'in başkenti ",
+    "answer": "Yeni Delhi",
+    "sub": "Hindistan"
+  },
+  {
+    "query": "Sırbistan'in başkenti ",
+    "answer": "Belgrad",
+    "sub": "Sırbistan"
+  },
+  {
+    "query": "Sardinya'in başkenti ",
+    "answer": "Cagliari",
+    "sub": "Sardinya"
+  },
+  {
+    "query": "Venezuela'in başkenti ",
+    "answer": "Caracas",
+    "sub": "Venezuela"
+  },
+  {
+    "query": "Kıbrıs Cumhuriyeti'in başkenti ",
+    "answer": "Lefkoşa",
+    "sub": "Kıbrıs Cumhuriyeti"
+  },
+  {
+    "query": "Ukrayna'in başkenti ",
+    "answer": "Kiev",
+    "sub": "Ukrayna"
+  },
+  {
+    "query": "Çin Cumhuriyeti'in başkenti ",
+    "answer": "Taipei",
+    "sub": "Çin Cumhuriyeti"
+  },
+  {
+    "query": "Nijerya'in başkenti ",
+    "answer": "Abuja",
+    "sub": "Nijerya"
+  },
+  {
+    "query": "Bulgaristan'in başkenti ",
+    "answer": "Sofya",
+    "sub": "Bulgaristan"
+  },
+  {
+    "query": "Utah'in başkenti ",
+    "answer": "Salt Lake City",
+    "sub": "Utah"
+  },
+  {
+    "query": "Sicilya'in başkenti ",
+    "answer": "Palermo",
+    "sub": "Sicilya"
+  },
+  {
+    "query": "İran'in başkenti ",
+    "answer": "Tahran",
+    "sub": "İran"
+  },
+  {
+    "query": "",
+    "answer": "Québec",
+    "sub": "Québec"
+  },
+  {
+    "query": "Çekoslovakya'in başkenti ",
+    "answer": "Prag",
+    "sub": "Çekoslovakya"
+  },
+  {
+    "query": "Bangladeş'in başkenti ",
+    "answer": "Dakka",
+    "sub": "Bangladeş"
+  },
+  {
+    "query": "Queensland'in başkenti ",
+    "answer": "Brisbane",
+    "sub": "Queensland"
+  },
+  {
+    "query": "Zimbabve'in başkenti ",
+    "answer": "Harare",
+    "sub": "Zimbabve"
+  },
+  {
+    "query": "Provence'in başkenti ",
+    "answer": "Aix-en-Provence",
+    "sub": "Provence"
+  },
+  {
+    "query": "Liberya'in başkenti ",
+    "answer": "Monrovia",
+    "sub": "Liberya"
+  },
+  {
+    "query": "İsviçre'in başkenti ",
+    "answer": "Bern",
+    "sub": "İsviçre"
+  },
+  {
+    "query": "Etiyopya'in başkenti ",
+    "answer": "Addis Ababa",
+    "sub": "Etiyopya"
+  },
+  {
+    "query": "Hırvatistan'in başkenti ",
+    "answer": "Zagreb",
+    "sub": "Hırvatistan"
+  },
+  {
+    "query": "Kamboçya'in başkenti ",
+    "answer": "Phnom Penh",
+    "sub": "Kamboçya"
+  },
+  {
+    "query": "Tacikistan'in başkenti ",
+    "answer": "Duşanbe",
+    "sub": "Tacikistan"
+  },
+  {
+    "query": "Michigan'in başkenti ",
+    "answer": "Lansing",
+    "sub": "Michigan"
+  },
+  {
+    "query": "Saravak'in başkenti ",
+    "answer": "Kuching",
+    "sub": "Saravak"
+  },
+  {
+    "query": "Filipinler'in başkenti ",
+    "answer": "Manila",
+    "sub": "Filipinler"
+  },
+  {
+    "query": "İngiltere Krallığı'in başkenti ",
+    "answer": "Westminster",
+    "sub": "İngiltere Krallığı"
+  },
+  {
+    "query": "Ekvador'in başkenti ",
+    "answer": "Quito",
+    "sub": "Ekvador"
+  },
+  {
+    "query": "",
+    "answer": "Leicester",
+    "sub": "Leicestershire"
+  },
+  {
+    "query": "Yünnan'in başkenti ",
+    "answer": "Kunming",
+    "sub": "Yünnan"
+  },
+  {
+    "query": "Nikaragua'in başkenti ",
+    "answer": "Managua",
+    "sub": "Nikaragua"
+  },
+  {
+    "query": "Bolivya'in başkenti ",
+    "answer": "Sucre",
+    "sub": "Bolivya"
+  },
+  {
+    "query": "Hawaii'in başkenti ",
+    "answer": "Honolulu",
+    "sub": "Hawaii"
+  },
+  {
+    "query": "Laos'in başkenti ",
+    "answer": "Vientiane",
+    "sub": "Laos"
+  },
+  {
+    "query": "Siçuan'in başkenti ",
+    "answer": "Çengdu",
+    "sub": "Siçuan"
+  },
+  {
+    "query": "Aragon'in başkenti ",
+    "answer": "Zaragoza",
+    "sub": "Aragon"
+  },
+  {
+    "query": "Buckinghamshire'in başkenti ",
+    "answer": "Aylesbury",
+    "sub": "Buckinghamshire"
+  },
+  {
+    "query": "",
+    "answer": "Oxford",
+    "sub": "Oxfordshire"
+  },
+  {
+    "query": "Haryana'in başkenti ",
+    "answer": "Çhandigarh",
+    "sub": "Haryana"
+  },
+  {
+    "query": "Nijer'in başkenti ",
+    "answer": "Niamey",
+    "sub": "Nijer"
+  },
+  {
+    "query": "Çin Cumhuriyeti'in başkenti ",
+    "answer": "Nankin",
+    "sub": "Çin Cumhuriyeti"
+  },
+  {
+    "query": "Katar'in başkenti ",
+    "answer": "Doha",
+    "sub": "Katar"
+  },
+  {
+    "query": "Rodezya'in başkenti ",
+    "answer": "Harare",
+    "sub": "Rodezya"
+  },
+  {
+    "query": "Samoa'in başkenti ",
+    "answer": "Apia",
+    "sub": "Samoa"
+  },
+  {
+    "query": "Slovakya'in başkenti ",
+    "answer": "Bratislava",
+    "sub": "Slovakya"
+  },
+  {
+    "query": "Sabah'in başkenti ",
+    "answer": "Kota Kinabalu",
+    "sub": "Sabah"
+  },
+  {
+    "query": "Özbekistan'in başkenti ",
+    "answer": "Taşkent",
+    "sub": "Özbekistan"
+  },
+  {
+    "query": "Tanzanya'in başkenti ",
+    "answer": "Dodoma",
+    "sub": "Tanzanya"
+  },
+  {
+    "query": "Arnavutluk'in başkenti ",
+    "answer": "Tiran",
+    "sub": "Arnavutluk"
+  },
+  {
+    "query": "Uganda'in başkenti ",
+    "answer": "Kampala",
+    "sub": "Uganda"
+  },
+  {
+    "query": "Vietnam'in başkenti ",
+    "answer": "Hanoi",
+    "sub": "Vietnam"
+  },
+  {
+    "query": "Yemen'in başkenti ",
+    "answer": "Aden",
+    "sub": "Yemen"
+  },
+  {
+    "query": "Zambiya'in başkenti ",
+    "answer": "Lusaka",
+    "sub": "Zambiya"
+  },
+  {
+    "query": "Ermenistan'in başkenti ",
+    "answer": "Erivan",
+    "sub": "Ermenistan"
+  },
+  {
+    "query": "",
+    "answer": "Kuveyt",
+    "sub": "Kuveyt"
+  },
+  {
+    "query": "Mauritius'in başkenti ",
+    "answer": "Port Louis",
+    "sub": "Mauritius"
+  },
+  {
+    "query": "Gana'in başkenti ",
+    "answer": "Akra",
+    "sub": "Gana"
+  },
+  {
+    "query": "Racasthan'in başkenti ",
+    "answer": "Jaipur",
+    "sub": "Racasthan"
+  },
+  {
+    "query": "Beyaz Rusya'in başkenti ",
+    "answer": "Minsk",
+    "sub": "Beyaz Rusya"
+  },
+  {
+    "query": "Iowa'in başkenti ",
+    "answer": "Des Moines",
+    "sub": "Iowa"
+  },
+  {
+    "query": "Bihar'in başkenti ",
+    "answer": "Patna",
+    "sub": "Bihar"
+  },
+  {
+    "query": "Louisiana'in başkenti ",
+    "answer": "Baton Rouge",
+    "sub": "Louisiana"
+  },
+  {
+    "query": "Endonezya'in başkenti ",
+    "answer": "Yogyakarta",
+    "sub": "Endonezya"
+  },
+  {
+    "query": "Kazakistan'in başkenti ",
+    "answer": "Nursultan",
+    "sub": "Kazakistan"
+  },
+  {
+    "query": "Hessen'in başkenti ",
+    "answer": "Wiesbaden",
+    "sub": "Hessen"
+  },
+  {
+    "query": "Burgonya'in başkenti ",
+    "answer": "Dijon",
+    "sub": "Burgonya"
+  },
+  {
+    "query": "Normandiya'in başkenti ",
+    "answer": "Rouen",
+    "sub": "Normandiya"
+  },
+  {
+    "query": "Oklahoma'in başkenti ",
+    "answer": "Oklahoma City",
+    "sub": "Oklahoma"
+  },
+  {
+    "query": "Arkansas'in başkenti ",
+    "answer": "Little Rock, Arkansas",
+    "sub": "Arkansas"
+  },
+  {
+    "query": "Çad'in başkenti ",
+    "answer": "N'Djamena",
+    "sub": "Çad"
+  },
+  {
+    "query": "Ürdün'in başkenti ",
+    "answer": "Amman",
+    "sub": "Ürdün"
+  },
+  {
+    "query": "Kerala'in başkenti ",
+    "answer": "Thiruvananthapuram",
+    "sub": "Kerala"
+  },
+  {
+    "query": "Barbados'in başkenti ",
+    "answer": "Bridgetown",
+    "sub": "Barbados"
+  },
+  {
+    "query": "",
+    "answer": "Dubai",
+    "sub": "Dubai Emirliği"
+  },
+  {
+    "query": "Brandenburg'in başkenti ",
+    "answer": "Potsdam",
+    "sub": "Brandenburg"
+  },
+  {
+    "query": "Madagaskar'in başkenti ",
+    "answer": "Antananarivo",
+    "sub": "Madagaskar"
+  },
+  {
+    "query": "Mali'in başkenti ",
+    "answer": "Bamako",
+    "sub": "Mali"
+  },
+  {
+    "query": "Maryland'in başkenti ",
+    "answer": "Annapolis",
+    "sub": "Maryland"
+  },
+  {
+    "query": "Telangana'in başkenti ",
+    "answer": "Haydarabad, Hindistan",
+    "sub": "Telangana"
+  },
+  {
+    "query": "Pencap'in başkenti ",
+    "answer": "Çhandigarh",
+    "sub": "Pencap"
+  },
+  {
+    "query": "Ain'in başkenti ",
+    "answer": "Bourg-en-Bresse",
+    "sub": "Ain"
+  },
+  {
+    "query": "Fiji'in başkenti ",
+    "answer": "Suva",
+    "sub": "Fiji"
+  },
+  {
+    "query": "Pensilvanya'in başkenti ",
+    "answer": "Harrisburg, Pensilvanya",
+    "sub": "Pensilvanya"
+  },
+  {
+    "query": "Yemen'in başkenti ",
+    "answer": "San'a",
+    "sub": "Yemen"
+  },
+  {
+    "query": "Goa'in başkenti ",
+    "answer": "Panaji",
+    "sub": "Goa"
+  },
+  {
+    "query": "Brunei'in başkenti ",
+    "answer": "Bandar Seri Begavan",
+    "sub": "Brunei"
+  },
+  {
+    "query": "Wyoming'in başkenti ",
+    "answer": "Cheyenne",
+    "sub": "Wyoming"
+  },
+  {
+    "query": "Navarra'in başkenti ",
+    "answer": "Pamplona",
+    "sub": "Navarra"
+  },
+  {
+    "query": "Gabon'in başkenti ",
+    "answer": "Libreville",
+    "sub": "Gabon"
+  },
+  {
+    "query": "Kosova'in başkenti ",
+    "answer": "Priştine",
+    "sub": "Kosova"
+  },
+  {
+    "query": "Grönland'in başkenti ",
+    "answer": "Nuuk",
+    "sub": "Grönland"
+  },
+  {
+    "query": "Cebu'in başkenti ",
+    "answer": "Cebu City",
+    "sub": "Cebu"
+  },
+  {
+    "query": "İngiltere Krallığı'in başkenti ",
+    "answer": "Winchester",
+    "sub": "İngiltere Krallığı"
+  },
+  {
+    "query": "Yugoslavya'in başkenti ",
+    "answer": "Belgrad",
+    "sub": "Yugoslavya"
+  },
+  {
+    "query": "Connecticut'in başkenti ",
+    "answer": "Hartford, Connecticut",
+    "sub": "Connecticut"
+  },
+  {
+    "query": "Peru'in başkenti ",
+    "answer": "Lima",
+    "sub": "Peru"
+  },
+  {
+    "query": "Gine'in başkenti ",
+    "answer": "Konakri",
+    "sub": "Gine"
+  },
+  {
+    "query": "Alaska'in başkenti ",
+    "answer": "Juneau, Alaska",
+    "sub": "Alaska"
+  },
+  {
+    "query": "Belize'in başkenti ",
+    "answer": "Belmopán",
+    "sub": "Belize"
+  },
+  {
+    "query": "Kaliforniya'in başkenti ",
+    "answer": "Sacramento",
+    "sub": "Kaliforniya"
+  },
+  {
+    "query": "İngiltere Krallığı'in başkenti ",
+    "answer": "Londra Şehri",
+    "sub": "İngiltere Krallığı"
+  },
+  {
+    "query": "Ruanda'in başkenti ",
+    "answer": "Kigali",
+    "sub": "Ruanda"
+  },
+  {
+    "query": "Belçika'in başkenti ",
+    "answer": "Brüksel",
+    "sub": "Belçika"
+  },
+  {
+    "query": "Bhutan'in başkenti ",
+    "answer": "Thimphu",
+    "sub": "Bhutan"
+  },
+  {
+    "query": "Endonezya'in başkenti ",
+    "answer": "Bukittinggi",
+    "sub": "Endonezya"
+  },
+  {
+    "query": "",
+    "answer": "Kâbil",
+    "sub": "Kâbil Vilayeti"
+  },
+  {
+    "query": "Yunanistan'in başkenti ",
+    "answer": "Nafplion",
+    "sub": "Yunanistan"
+  },
+  {
+    "query": "Centre'in başkenti ",
+    "answer": "Hinche",
+    "sub": "Centre"
+  },
+  {
+    "query": "Alba ili'in başkenti ",
+    "answer": "Alba Iulia",
+    "sub": "Alba ili"
+  },
+  {
+    "query": "Idaho'in başkenti ",
+    "answer": "Boise",
+    "sub": "Idaho"
+  },
+  {
+    "query": "Güneybatı Bölgesi'in başkenti ",
+    "answer": "Buea",
+    "sub": "Güneybatı Bölgesi"
+  },
+  {
+    "query": "Tennessee'in başkenti ",
+    "answer": "Nashville",
+    "sub": "Tennessee"
+  },
+  {
+    "query": "Lüksemburg, Belçika'in başkenti ",
+    "answer": "Arlon",
+    "sub": "Lüksemburg, Belçika"
+  },
+  {
+    "query": "",
+    "answer": "Salzburg",
+    "sub": "Salzburg"
+  },
+  {
+    "query": "Papua'in başkenti ",
+    "answer": "Jayapura",
+    "sub": "Papua"
+  },
+  {
+    "query": "Teksas'in başkenti ",
+    "answer": "Austin",
+    "sub": "Teksas"
+  },
+  {
+    "query": "Minnesota'in başkenti ",
+    "answer": "St. Paul",
+    "sub": "Minnesota"
+  },
+  {
+    "query": "Umman'in başkenti ",
+    "answer": "Maskat",
+    "sub": "Umman"
+  },
+  {
+    "query": "Doğu Bölgesi'in başkenti ",
+    "answer": "Bertoua",
+    "sub": "Doğu Bölgesi"
+  },
+  {
+    "query": "Batı Bölgesi'in başkenti ",
+    "answer": "Bafoussam",
+    "sub": "Batı Bölgesi"
+  },
+  {
+    "query": "Florida'in başkenti ",
+    "answer": "Tallahassee",
+    "sub": "Florida"
+  },
+  {
+    "query": "Gürcistan'in başkenti ",
+    "answer": "Tiflis",
+    "sub": "Gürcistan"
+  },
+  {
+    "query": "Makedonya'in başkenti ",
+    "answer": "Vergina",
+    "sub": "Makedonya"
+  },
+  {
+    "query": "Flandre'in başkenti ",
+    "answer": "Brüksel",
+    "sub": "Flandre"
+  },
+  {
+    "query": "Malavi'in başkenti ",
+    "answer": "Zomba",
+    "sub": "Malavi"
+  },
+  {
+    "query": "Unity'in başkenti ",
+    "answer": "Bentiu",
+    "sub": "Unity"
+  },
+  {
+    "query": "Yehuda Krallığı'in başkenti ",
+    "answer": "El Halil",
+    "sub": "Yehuda Krallığı"
+  },
+  {
+    "query": "Nord'in başkenti ",
+    "answer": "Lille",
+    "sub": "Nord"
+  },
+  {
+    "query": "Kansas'in başkenti ",
+    "answer": "Topeka",
+    "sub": "Kansas"
+  },
+  {
+    "query": "Lakes'in başkenti ",
+    "answer": "Rumbek",
+    "sub": "Lakes"
+  },
+  {
+    "query": "Bari'in başkenti ",
+    "answer": "Bosaso",
+    "sub": "Bari"
+  },
+  {
+    "query": "Galiçya'in başkenti ",
+    "answer": "Santiago de Compostela",
+    "sub": "Galiçya"
+  }
+]
